@@ -1,14 +1,36 @@
 
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",-- AL | Albania --
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/3873
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania - AL",RTK 1 HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8360
+#EXTINF:0 tvg-id="ext" group-title="Albania - AL",RTK 2 HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8358
+#EXTINF:0 tvg-id="ext" group-title="Albania - AL",RTK 3 HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8357
+#EXTINF:0 tvg-id="ext" group-title="Albania - AL",RTK 4 HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20559
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania - AL",KLAN KOSOVA HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2776
+#EXTINF:0 tvg-id="ext" group-title="Albania - AL",Dukagjini HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33417
+#EXTINF:0 tvg-id="ext" group-title="Albania - AL",T7 HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33380
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania - AL",KTV HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2217
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania - AL",Vizion Plus HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20573
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania - AL",TOP Channel HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20575
+#EXTINF:0 tvg-id="ext" group-title="Albania - AL",KLAN PLUS HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20576
+#EXTINF:0 tvg-id="ext" group-title="Albania - AL",ALB Music HD AL
+http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8392
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",Music BOX HD  AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/32945
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",Tring 3 Plus HD  AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8349
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",TRING TRING HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2767
-#EXTINF:0 tvg-id="KTV.al" group-title="Albania - AL",KTV HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2217
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",Film Thriller HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2218
 #EXTINF:0 tvg-id="FilmNjeHD.al" group-title="Albania - AL",Film Një HD AL
@@ -61,12 +83,6 @@ http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8348
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",SuperSport 1 HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8350
-#EXTINF:0 tvg-id="ext" group-title="Albania - AL",RTK 3 HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8357
-#EXTINF:0 tvg-id="ext" group-title="Albania - AL",RTK 2 HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8358
-#EXTINF:0 tvg-id="RTK.al" group-title="Albania - AL",RTK 1 HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8360
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",My Music HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8361
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",Elrodi HD AL
@@ -85,7 +101,7 @@ http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8386
 #EXTINF:0 tvg-id="musicAL.al" group-title="Albania - AL",ALB Music HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8387
-#EXTINF:0 tvg-id="ext" group-title="Albania - AL",ALB Humor HD AL
+#EXTINF:0 tvg-id="ext" group-title="Albania - AL",ALB Music HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8392
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",ALB Folk plus HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/8393
@@ -95,8 +111,6 @@ http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20555
 #EXTINF:0 tvg-id="ABCNews.al" group-title="Albania - AL",ABC News HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20556
-#EXTINF:0 tvg-id="ext" group-title="Albania - AL",RTK 4 HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20559
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",Syri Vision HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20560
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",RROKUM TV HD AL
@@ -117,12 +131,6 @@ http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20571
 #EXTINF:0 tvg-id="21Popullore.al" group-title="Albania - AL",RTV 21 POPULLORE HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20572
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania - AL",Vizion Plus HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20573
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania - AL",TOP Channel HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20575
-#EXTINF:0 tvg-id="ext" group-title="Albania - AL",KLAN PLUS HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20576
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",SS Kosova 1 HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20579
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",SS Kosova 2 HD AL
@@ -145,8 +153,6 @@ http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33370
 #EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania - AL",KLAN TV HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33373
-#EXTINF:0 tvg-id="ext" group-title="Albania - AL",T7 HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33380
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",Film Hits HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33382
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",Tring Action HD AL
@@ -181,8 +187,6 @@ http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33414
 #EXTINF:0 tvg-id="Living.al" group-title="Albania - AL",Living HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33415
-#EXTINF:0 tvg-id="ext" group-title="Albania - AL",Dukagjini HD AL
-http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33417
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",First Channel HD AL
 http://play.iptivihd.org:80/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33418
 #EXTINF:0 tvg-id="ext" group-title="Albania - AL",Besa HD AL
