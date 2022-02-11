@@ -1,148 +1,135 @@
-#EXTINF:-1,▬ Albania [AL] ▬
-http://clientportal.link:80/bOm3Dru13/D5sdZL6890/16544
-#EXTINF:-1,RTK1 (Backup) AL
-http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9458
-#EXTINF:-1,RTK 1 FHD AL
+#EXTM3U
+#EXTINF:-1 tvg-id="RTK " tvg-name="RTK 1 FHD AL" group-title="🇦🇱",RTK 1 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22814
-#EXTINF:-1,RTK 2 AL
+#EXTINF:-1 tvg-id="RTK 2 " tvg-name="RTK 2 AL " group-title="🇦🇱",RTK 2 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/7061
-#EXTINF:-1,RTK 3 AL
+#EXTINF:-1 tvg-id="RTK 3 " tvg-name="RTK 3 AL" group-title="🇦🇱",RTK 3 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/7036
-#EXTINF:-1,RTK 4 AL
+#EXTINF:-1 tvg-id="RTK 4" tvg-name="RTK 4 AL" group-title="🇦🇱",RTK 4 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/7037
-#EXTINF:-1,RTV 21 (Backup) AL
+#EXTINF:-1 tvg-id="RTV 21 (Backup) AL " tvg-name="RTV 21 (Backup) AL" group-title="🇦🇱",RTV 21 (Backup) AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9451
-#EXTINF:-1,RTV 21 FHD AL
+#EXTINF:-1 tvg-id="RTV 21 FHD AL " tvg-name="RTV 21 FHD AL" group-title="🇦🇱",RTV 21 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/3832
-#EXTINF:-1,RTV 21 Maqedonia AL
-http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9453
-#EXTINF:-1,RTV 21 Mix AL
-http://clientportal.link:80/bOm3Dru13/D5sdZL6890/16616
-#EXTINF:-1,KTV Kohavision AL
+#EXTINF:-1 tvg-id="KTV " tvg-name="KTV" group-title="🇦🇱",KTV Kohavision AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/7065
-#EXTINF:-1,Klan Kosova HD AL
+#EXTINF:-1 tvg-id="Klan Kosova  " tvg-name="Klan Kosova" group-title="🇦🇱",Klan Kosova HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/4189
-#EXTINF:-1,Klan Kosova FHD AL
+#EXTINF:-1 tvg-id="Klan Kosova FHD " tvg-name="Klan Kosova FHD" group-title="🇦🇱",Klan Kosova FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9455
-#EXTINF:-1,T7 AL
+#EXTINF:-1 tvg-id="T7 " tvg-name="T7 " group-title="🇦🇱",T7 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/20167
-#EXTINF:-1,T7 FHD AL
+#EXTINF:-1 tvg-id="T7 FHD " tvg-name="T7 FHD" group-title="🇦🇱",T7 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/23108
-#EXTINF:-1,Dukagjini HD AL
+#EXTINF:-1 tvg-id="Dukagjini " tvg-name="Dukagjini" group-title="🇦🇱",Dukagjini HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/96435
-#EXTINF:-1,Dukagjini FHD AL
+#EXTINF:-1 tvg-id="Dukagjini FHD " tvg-name="Dukagjini FHD" group-title="🇦🇱",Dukagjini FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/4236
-#EXTINF:-1,Kanal 10 AL
+#EXTINF:-1 tvg-id="Kanal 10 " tvg-name="Kanal 10" group-title="🇦🇱",Kanal 10 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/53152
-#EXTINF:-1,Klan HD AL
+#EXTINF:-1 tvg-id="Klan HD " tvg-name="Klan HD" group-title="🇦🇱",Klan HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9454
-#EXTINF:-1,Klan FHD AL
+#EXTINF:-1 tvg-id="Klan FHD " tvg-name="Klan FHD" group-title="🇦🇱",Klan FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/3800
-#EXTINF:-1,Klan Plus HD AL
+#EXTINF:-1 tvg-id="Klan plus " tvg-name="Klan Plus" group-title="🇦🇱",Klan Plus HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/7074
-#EXTINF:-1,Top Channel (Backup) AL
+#EXTINF:-1 tvg-id="Top Channel backup " tvg-name="Top Chnanel Backup" group-title="🇦🇱",Top Channel (Backup) AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9457
-#EXTINF:-1,Top Channel FHD AL
+#EXTINF:-1 tvg-id="Top channel  " tvg-name="Top channel" group-title="🇦🇱",Top Channel FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/4178
-#EXTINF:-1,Alsat M AL
+#EXTINF:-1 tvg-id="Alsat M  " tvg-name="Alsat M" group-title="🇦🇱",Alsat M AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/6259
-#EXTINF:-1,Alsat M (Backup) AL
-http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9450
-#EXTINF:-1,Alsat M FHD AL
+#EXTINF:-1 tvg-id="Alsat M FHD" tvg-name="Alsat M FHD" group-title="🇦🇱",Alsat M FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22783
-#EXTINF:-1,Vizion Plus HD AL
+#EXTINF:-1 tvg-id="Vizion Plus HD" tvg-name="Vizion Plus HD" group-title="🇦🇱",Vizion Plus HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/4214
-#EXTINF:-1,Vizion Plus (Backup) AL
-http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9463
-#EXTINF:-1,First Channel Kosova AL
+#EXTINF:-1,F tvg-id="First Channel " tvg-name="First Channel" group-title="🇦🇱"irst Channel Kosova AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/12044
-#EXTINF:-1,arta TV HD AL
+#EXTINF:-1 tvg-id="Arta TV " tvg-name="Arta TV" group-title="🇦🇱",Arta TV HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/21901
-#EXTINF:-1,Koha TV HD AL
+#EXTINF:-1 tvg-id="Koha TV " tvg-name="Koha TV" group-title="🇦🇱",Koha TV HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/19145
-#EXTINF:-1,RTSH Shqip AL
+#EXTINF:-1 tvg-id="RTSH Shqip AL" tvg-name="RTSH Shqip AL" group-title="🇦🇱",RTSH Shqip AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/19478
-#EXTINF:-1,RTSH 1 HD AL
+#EXTINF:-1  tvg-id="RTSH 1 Shqip AL" tvg-name="RTSH Shqip AL" group-title="🇦🇱",RTSH 1 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/15632
-#EXTINF:-1,RTSH 2 AL
+#EXTINF:-1  tvg-id="RTSH 2 Shqip AL" tvg-name="RTSH Shqip AL" group-title="🇦🇱",RTSH 2 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/19480
-#EXTINF:-1,RTSH 3 AL
+#EXTINF:-1  tvg-id="RTSH 3 Shqip AL" tvg-name="RTSH Shqip AL" group-title="🇦🇱",RTSH 3 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/20168
-#EXTINF:-1,TV Mitrovica AL
+#EXTINF:-1  tvg-id="TV Mitrovica" tvg-name="TV Mitrovica" group-title="🇦🇱",TV Mitrovica AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/12037
-#EXTINF:-1,TV Prizreni AL
+#EXTINF:-1  tvg-id="TV Prizreni" tvg-name="Tv Prizreni " group-title="🇦🇱",TV Prizreni AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/43387
-#EXTINF:-1,RTV 21 Plus FHD AL
+#EXTINF:-1  tvg-id="RTV 21 Plus" tvg-name="RTV 21 plus" group-title="🇦🇱",RTV 21 Plus FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/8455
-#EXTINF:-1,RTV 21 Popullore AL
+#EXTINF:-1  tvg-id="Rtv 21 Popullore" tvg-name="RTV 21 Popullore" group-title="🇦🇱",RTV 21 Popullore AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/6257
-#EXTINF:-1,RTV 21 Popullore FHD AL
-http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9452
-#EXTINF:-1,RTV Zeri Kosoves HD AL
+#EXTINF:-1  tvg-id="RTV Zeri Kosoves" tvg-name="RTV Zeri Kosoves" group-title="🇦🇱",RTV Zeri Kosoves HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/17183
-#EXTINF:-1,RTV Fontana FHD AL
+#EXTINF:-1  tvg-id="RTV Fontana" tvg-name="RTV Fontana" group-title="🇦🇱",RTV Fontana FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/24860
-#EXTINF:-1,X Çifteli HD AL
+#EXTINF:-1  tvg-id="X Cifteli" tvg-name="X Cifteli" group-title="🇦🇱",X Çifteli HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22802
-#EXTINF:-1,X music hits HD AL
+#EXTINF:-1  tvg-id="X Music Hits" tvg-name="X Music Hits" group-title="🇦🇱",X Music Hits HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22800
-#EXTINF:-1,X popullore HD AL
+#EXTINF:-1  tvg-id="X populllore" tvg-name="X popullore" group-title="🇦🇱",X popullore HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22801
-#EXTINF:-1,TV Opoja AL
+#EXTINF:-1  tvg-id="Opoja" tvg-name="Opoja" group-title="🇦🇱",TV Opoja AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/16475
-#EXTINF:-1,Dasma TV AL
+#EXTINF:-1  tvg-id="Dasma TV" tvg-name="Dasma TV" group-title="🇦🇱",Dasma TV AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/7076
-#EXTINF:-1,My Music AL
+#EXTINF:-1  tvg-id="My Music" tvg-name="My Music" group-title="🇦🇱",My Music AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/7070
-#EXTINF:-1,Folk + AL
+#EXTINF:-1  tvg-id="Folk +" tvg-name="Folk +" group-title="🇦🇱",Folk + AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/6260
-#EXTINF:-1,BBF Music AL
+#EXTINF:-1  tvg-id="BBF Music" tvg-name="BBF Music" group-title="🇦🇱",BBF Music AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/6261
-#EXTINF:-1,Zjarr TV AL
+#EXTINF:-1  tvg-id="Zjarr TV" tvg-name="Zjarr TV" group-title="🇦🇱",Zjarr TV AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9372
-#EXTINF:-1,Besa TV AL
+#EXTINF:-1  tvg-id="Besa TV" tvg-name="Besa TV" group-title="🇦🇱",Besa TV AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9395
-#EXTINF:-1,TV Sharri AL
+#EXTINF:-1  tvg-id="TV Sharri" tvg-name="TV Sharri" group-title="🇦🇱",TV Sharri AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9368
-#EXTINF:-1,Top Estrada AL
+#EXTINF:-1  tvg-id="Top Estrada" tvg-name="Top Estrada" group-title="🇦🇱",Top Estrada AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/12046
-#EXTINF:-1,Zico TV AL
+#EXTINF:-1  tvg-id="Zico TV" tvg-name="Zico TV" group-title="🇦🇱",Zico TV AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/23854
-#EXTINF:-1,RTSH Muzike AL
+#EXTINF:-1  tvg-id="RTSH Music" tvg-name="RTSH Music" group-title="🇦🇱",RTSH Muzike AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/20172
-#EXTINF:-1,Elrodi Music AL
+#EXTINF:-1  tvg-id="Elrodi Music" tvg-name="Elrodi Music" group-title="🇦🇱",Elrodi Music AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/4235
-#EXTINF:-1,MTV Kosova AL
+#EXTINF:-1  tvg-id="MTV Kosova" tvg-name="MTV Kosova" group-title="🇦🇱",MTV Kosova AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/12051
-#EXTINF:-1,E Stupcat AL
+#EXTINF:-1  tvg-id="E Stupcat" tvg-name="E Stupcat" group-title="🇦🇱",E Stupcat AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/19545
-#EXTINF:-1,X humor HD AL
+#EXTINF:-1  tvg-id="X humor" tvg-name="X humor" group-title="🇦🇱",X humor HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22803
-#EXTINF:-1,E Premium 1 HD AL
+#EXTINF:-1  tvg-id="E premium 1" tvg-name="X Cifteli" group-title="🇦🇱",E Premium 1 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/12031
-#EXTINF:-1,E Premium 2 HD AL
+#EXTINF:-1  tvg-id="E premium 2" tvg-name="X Cifteli" group-title="🇦🇱",E Premium 2 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/12030
-#EXTINF:-1,E Premium 3 HD AL
+#EXTINF:-1  tvg-id="E premium 3" tvg-name="X Cifteli" group-title="🇦🇱",E Premium 3 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/12029
-#EXTINF:-1,X premium 1 HD AL
+#EXTINF:-1  tvg-id="X premium 1" tvg-name="X Cifteli" group-title="🇦🇱",X premium 1 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22784
-#EXTINF:-1,X premium 2 HD AL
+#EXTINF:-1  tvg-id="X premium 2" tvg-name="X Cifteli" group-title="🇦🇱",X premium 2 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22785
-#EXTINF:-1,X premium 3 HD AL
+#EXTINF:-1  tvg-id="X premium 3" tvg-name="X Cifteli" group-title="🇦🇱",X premium 3 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22786
-#EXTINF:-1,X premium 4 HD AL
+#EXTINF:-1  tvg-id="X premium" tvg-name="X premium 4 group-title="🇦🇱",X premium 4 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22787
-#EXTINF:-1,Digi Gold 1 HD AL
+#EXTINF:-1  tvg-id="Digi Gold 1" tvg-name="Digi Gold 1" group-title="🇦🇱",Digi Gold 1 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/15778
-#EXTINF:-1,Digi Gold 2 HD AL
+#EXTINF:-1  tvg-id="Digi Gold 2" tvg-name="Digi Gold 2" group-title="🇦🇱",Digi Gold 2 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/15779
-#EXTINF:-1,Digi Gold 3 AL
+#EXTINF:-1  tvg-id="Digi Gold 3" tvg-name="Digi Gold 3" group-title="🇦🇱",Digi Gold 3 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/16814
-#EXTINF:-1,Digi Gold 4 AL
+#EXTINF:-1  tvg-id="Digi Gold 4" tvg-name="Digi Gold 4" group-title="🇦🇱",Digi Gold 4 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/16815
-#EXTINF:-1,Art Kino 1 FHD AL
+#EXTINF:-1  tvg-id="Art Kino 1" tvg-name="Art Kino 1" group-title="🇦🇱",Art Kino 1 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/28175
-#EXTINF:-1,Art Kino 3 FHD AL
+#EXTINF:-1  tvg-id="Art Kino 3" tvg-name="Art Kino 3" group-title="🇦🇱",Art Kino 3 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/28177
 #EXTINF:-1,Film Dy HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/3816
@@ -368,8 +355,6 @@ http://clientportal.link:80/bOm3Dru13/D5sdZL6890/34755
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/3810
 #EXTINF:-1,TDC AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/38606
-#EXTINF:-1,Kanal 10 AL
-http://clientportal.link:80/bOm3Dru13/D5sdZL6890/53152
 #EXTINF:-1,Kanal D Drama FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/56168
 #EXTINF:-1,First Channel Kosova FHD AL
