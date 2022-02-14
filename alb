@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FILM" tvg-name="SpiderMan No Way Home (2021)" group-title="VOD",Spiderman No Way Home
+#EXTINF:-1,Spiderman No Way Home
 #EXTINF:-1 tvg-id="RTK " tvg-name="RTK 1 FHD AL" group-title="🇦🇱",RTK 1 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22814
 #EXTINF:-1 tvg-id="RTK 2 " tvg-name="RTK 2 AL " group-title="🇦🇱",RTK 2 AL
