@@ -305,17 +305,17 @@ http://clientportal.link:80/bOm3Dru13/D5sdZL6890/8079
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/8080
 #EXTINF:-1,Tring Sport 4 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/8081
-#EXTINF:-1,K-Sport 1 AL
+#EXTINF:-1  tvg-id="K-Sport 1" tvg-name="X Music Hits" group-title="🇦🇱",K-Sport 1 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9150
-#EXTINF:-1,K-Sport 2 AL
+#EXTINF:-1  tvg-id="X Music Hits" tvg-name="pipo" group-title="🇦🇱",K-Sport 2 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9151
 #EXTINF:-1,K-Sport 3 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9152
 #EXTINF:-1,K-Sport 4 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9153
-#EXTINF:-1,Art Sport 1 FHD AL
+#EXTINF:-1  tvg-id="Art Sport" tvg-name="Art Sport 1" group-title="🇦🇱",Art Sport 1 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/28182
-#EXTINF:-1,Art Sport 2 FHD AL
+#EXTINF:-1  tvg-id="Art Sport 2" tvg-name=Art Sport 2" group-title="🇦🇱",Art Sport 2 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/28183
 #EXTINF:-1,E Thriller AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9143
