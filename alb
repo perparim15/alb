@@ -3,8 +3,8 @@
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644893141/ei/db8KYpr5CIbv7gOMgbGgCA/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3A80b7%3Acc95%3Add63%3A503c/id/1Sda7Suah4c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIHbVnHsQVH_p09X0e38gl4rMHoTCwMNtRouuH0-VjrACIEckxoFvjdgp5xCcZxzzB0kkNLf-uatFi0z-ZJVCsyYb/file/index.m3u8
 #EXTINF:-1,Spiderman No Way Home
 https://cdn07.cloudvideo.tv/hls/mfqjqemgtto6sr7qw5pu5jif7bw74co7qmyiwdc226h764v5qc7hz7nl6n5q/index-v1-a1.m3u8
-#EXTINF:-1,Muriqan Kamera
-http://213.149.99.67/video/Sukobin/Izlaz/Sukobin_Izlaz_Febh_02m_1645125397s.mp4
+#EXTINF:-1,Pipo
+https://youtu.be/yvciRW_EIac
 #EXTINF:-1 tvg-id="RTK " tvg-name="RTK 1 FHD AL" group-title="🇦🇱",RTK 1 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22814
 #EXTINF:-1 tvg-id="RTK 2 " tvg-name="RTK 2 AL " group-title="🇦🇱",RTK 2 AL
