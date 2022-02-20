@@ -213,7 +213,7 @@ http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22796
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22790
 #EXTINF:-1,X western HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22795
-#EXTINF:-1,X filma24 HD AL
+#EXTINF:-1 tvg-id="Filma24" tvg-name="Filma24" group-title="🇦🇱",X filma24 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22815
 #EXTINF:-1,E Action HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/12047
@@ -269,25 +269,25 @@ http://clientportal.link:80/bOm3Dru13/D5sdZL6890/3793
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/7060
 #EXTINF:-1,Living HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9370
-#EXTINF:-1,SuperSport News FHD AL
+#EXTINF:-1 tvg-id="SS " tvg-name="SS" group-title="🇦🇱",SuperSport News FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22807
-#EXTINF:-1,SuperSport 1 HD AL
+#EXTINF:-1 tvg-id="SS 1 " tvg-name="SS 1" group-title="🇦🇱",SuperSport 1 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/4198
-#EXTINF:-1,SuperSport 2 FHD AL
+#EXTINF:-1 tvg-id="SS 2" tvg-name="SS 2"  group-title="🇦🇱",SuperSport 2 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22808
-#EXTINF:-1,SuperSport 2 HD AL
+#EXTINF:-1 tvg-id="SS2 " tvg-name="SS2" group-title="🇦🇱",SuperSport 2 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/4199
-#EXTINF:-1,SuperSport 3 FHD AL
+#EXTINF:-1 tvg-id="SS 3 " tvg-name="SS 3" group-title="🇦🇱",SuperSport 3 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22809
-#EXTINF:-1,SuperSport 3 HD AL
+#EXTINF:-1 tvg-id="SS3 " tvg-name="SS3" group-title="🇦🇱",SuperSport 3 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/4200
-#EXTINF:-1,SuperSport 4 FHD AL
+#EXTINF:-1 tvg-id="SS 4" tvg-name="SS 4" group-title="🇦🇱",SuperSport 4 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22810
-#EXTINF:-1,SuperSport 4 HD AL
+#EXTINF:-1 tvg-id="SS4 " tvg-name="SS4" group-title="🇦🇱",SuperSport 4 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/4201
-#EXTINF:-1,SuperSport 5 FHD AL
+#EXTINF:-1 tvg-id="SS 5" tvg-name="SS 5" group-title="🇦🇱",SuperSport 5 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/22811
-#EXTINF:-1,SuperSport 5 HD AL
+#EXTINF:-1 tvg-id="SS5 " tvg-name="SS5" group-title="🇦🇱",SuperSport 5 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9373
 #EXTINF:-1,RTSH Sport AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/15635
@@ -305,9 +305,9 @@ http://clientportal.link:80/bOm3Dru13/D5sdZL6890/8081
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9150
 #EXTINF:-1  tvg-id="K-Sport2 " tvg-name="K-Sport 2" group-title="🇦🇱",K-Sport 2 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9151
-#EXTINF:-1 tvg-id="Kujtesa Sport 3" tvg-name="Art Kino 3",K-Sport 3 AL
+#EXTINF:-1 tvg-id="K-Sport 3" tvg-name="K-Sport 3" group-title="🇦🇱"",K-Sport 3 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9152
-#EXTINF:-1 tvg-id="K-Sport 4" tvg-name="K-Sport 4 ",K-Sport 4 AL
+#EXTINF:-1 tvg-id="K-Sport 4 " tvg-name="K-Sport 4" group-title="🇦🇱",K-Sport 4 AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9153
 #EXTINF:-1  tvg-id="Art Sport 1" tvg-name="Art Sport 1" group-title="🇦🇱",Art Sport 1 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/28182
@@ -363,7 +363,7 @@ http://clientportal.link:80/bOm3Dru13/D5sdZL6890/66309
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/73298
 #EXTINF:-1,Art Kino 2 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/28176
-#EXTINF:-1 tvg-id="Art Sport 3" tvg-name="Art Sport 2",Art Sport 3 FHD AL
+#EXTINF:-1 tvg-id="Art Sport 3" tvg-name="Art Sport 3" group-title="🇦🇱",Art Sport 3 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/28184
 #EXTINF:-1,KTV Kohavision FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/9456
@@ -373,15 +373,15 @@ http://clientportal.link:80/bOm3Dru13/D5sdZL6890/28179
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/89640
 #EXTINF:-1 tvg-id="Big Brother 2" tvg-name="Big Brother 2",Big Brother 2 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/89641
-#EXTINF:-1,Art Sport 4 FHD AL
+#EXTINF:-1 tvg-id="K-Sport 1" tvg-name="K-Sport 1" group-title="🇦🇱",Art Sport 4 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/89864
-#EXTINF:-1,Art Sport 5 FHD AL
+#EXTINF:-1 tvg-id="K-Sport 1" tvg-name="K-Sport 1" group-title="🇦🇱",Art Sport 5 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/89865
-#EXTINF:-1,Art Sport 6 FHD AL
+#EXTINF:-1 tvg-id="K-Sport 1" tvg-name="K-Sport 1" group-title="🇦🇱",Art Sport 6 FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/89866
-#EXTINF:-1,E Humor AL
+#EXTINF:-1 tvg-id="K-Sport 1" tvg-name="K-Sport 1" group-title="🇦🇱",E Humor AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/12050
-#EXTINF:-1,Film Gold FHD AL
+#EXTINF:-1 tvg-id="K-Sport 1" tvg-name="K-Sport 1" group-title="🇦🇱",Film Gold FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/91872
 #EXTINF:-1,Film Max FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/91873
@@ -389,15 +389,15 @@ http://clientportal.link:80/bOm3Dru13/D5sdZL6890/91873
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/93094
 #EXTINF:-1,Tring Novelas FHD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/93395
-#EXTINF:-1,Over Sport News HD AL
+#EXTINF:-1 tvg-id="K-Sport 1" tvg-name="K-Sport 1" group-title="🇦🇱",Over Sport News HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/97790
-#EXTINF:-1 tvg-id="Over Sport 1" tvg-name="Over Sport 1",Over Sport 1 HD AL
+#EXTINF:-1 tvg-id="Over Sport 1" tvg-name="Over Sport 1" group-title="🇦🇱",Over Sport 1 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/97791
-#EXTINF:-1 tvg-id="Over Sport 2" tvg-name="Over Sport 2",Over Sport 2 HD AL
+#EXTINF:-1 tvg-id="Over Sport 2" tvg-name="Over Sport 2" group-title="🇦🇱",Over Sport 2 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/97792
-#EXTINF:-1 tvg-id="Over Sport 3" tvg-name="Over Sport 3",Over Sport 3 HD AL
+#EXTINF:-1 tvg-id="Over Sport 3" tvg-name="Over Sport 3" group-title="🇦🇱",Over Sport 3 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/97793
-#EXTINF:-1 tvg-id="Over Sport 4" tvg-name="Over Sport 4",Over Sport 4 HD AL
+#EXTINF:-1 tvg-id="Over Sport 4" tvg-name="Over Sport 4" group-title="🇦🇱", Over Sport 4 HD AL
 http://clientportal.link:80/bOm3Dru13/D5sdZL6890/97794
 #EXTINF:-1,DE:DAZN 1 BAR UHD
 http://portal.germanyservers.de:8000/live/1234/1234/17942.m3u8
