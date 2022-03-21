@@ -32,7 +32,7 @@ http://stream.bestvideostreaming.is/8711/mpegts
 #EXTINF:0 tvg-id="ATV.de" group-title="Channels",ATV
 http://stream.bestvideostreaming.is/8709/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",FIRSTTV
-http://stream.bestvideostreaming.is/8717/mpegts
+http://stream.bestvideostreaming.is/8717/mpegts  
 #EXTINF:0 tvg-id="MTV2.mk" group-title="Channels",MKTV2
 http://stream.bestvideostreaming.is/8728/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTK3
