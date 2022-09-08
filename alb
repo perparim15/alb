@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Live: Albania",▬ Albania [AL] ▬
-https://stream-56.zeno.fm/14m6t9uav0hvv?zs=LqNfcf8tQqaGVsmdiK0UZQ
+https://podcast.zenomedia.com/api/public/podcasts/dff463d2-e607-4c60-8f33-fb7f6d25f23d/rss
 #EXTINF:0 tvg-id="RTK.al" group-title="Live: Albania",RTK1 (Backup) AL
 http://clientportal.link:80/boeni22020/7vHVak680/9458
 #EXTINF:0 tvg-id="RTK.al" group-title="Live: Albania",RTK 1 FHD AL
