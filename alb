@@ -1,276 +1,516 @@
-group,➤ Kombetare•
-ext,Rtk 1 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/2
-ext,Rtk 2 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/3
-ext,Rtk 3 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/388
-ext,Rtk 4 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/389
-ext,RTSH 1 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/6
-ext,Rtsh 2 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/7
-ext,Rtsh 3 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/391
-ext,Rtsh film,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/390
-ext,Rtsh shqip,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/8
-ext,MRT 2 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/9
-ext,AlsatM ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/10
-ext,AlsatM FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/11
-ext,Klan ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/12
-KlanTVHD.al,Klan FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/13
-ext,Top channel ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/14
-TopChannelHD.al,Top channel FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/15
-ext,Syri TV ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/16
-ext,KTV ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/17
-ext,Klan kosova ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/18
-ext,Klan kosova (local),http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/438
-ext,Vision plus ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/19
-ext,Klan plus,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/20
-ext,Kanal 10 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/21
-ext,Kanal 10 (local),http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/437
-ext,T7 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/22
-ext,T7 HD (local),http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/360
-ext,Dukagjini ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/23
-ext,Rtv dukagjini (local),http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/359
-ext,Rtv 21 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/24
-ext,Ora tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/27
-ext,Rtv 21 Maqedonia,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/28
-ext,Mcn tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/29
-ext,ATV ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/30
-ext,Tëvë1 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/140
-ntv,Ntv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/153
-ext,I'ts my Home (live),http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/382
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 1 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/2
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 2 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/3
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 3 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/388
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 4 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/389
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",RTSH 1 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/6
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh 2 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/7
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh 3 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/391
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh film
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/390
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh shqip
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/8
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",MRT 2 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/9
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",AlsatM ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/10
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",AlsatM FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/11
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/12
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="➤ Kombetare•",Klan FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/13
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Top channel ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/14
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="➤ Kombetare•",Top channel FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/15
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Syri TV ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/16
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",KTV ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/17
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan kosova ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/18
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan kosova (local)
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/438
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Vision plus ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/19
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan plus
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/20
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Kanal 10 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/21
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Kanal 10 (local)
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/437
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",T7 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/22
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",T7 HD (local)
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/360
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Dukagjini ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/23
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtv dukagjini (local)
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/359
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtv 21 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/24
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Ora tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/27
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtv 21 Maqedonia
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/28
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Mcn tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/29
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",ATV ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/30
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Tëvë1 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/140
+#EXTINF:0 tvg-id="ntv" group-title="➤ Kombetare•",Ntv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/153
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",I'ts my Home (live)
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/382
 
-group,➤ Lokale •
-ext,Rtv Fontana,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/57
-ext,Rtv 21 mix,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/55
-ext,Tirana tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/53
-ZoneClub.pl,Club tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/52
-ext,Euro channel,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/51
-ext,Adrianet,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/50
-ext,Tv shenja,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/48
-ext,Albuk,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/46
-ext,Syri vision,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/40
-ext,Tv llapi,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/39
-ext,Zjarr tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/37
-ext,Premium channel,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/221
-ext,Tv Lezha,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/222
-ext,Albdrams HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/232
-ext,Rtv arbria HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/234
-ext,Rtv ilirida,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/235
-ext,Tv Teuta,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/237
-ext,Tv Mitrovica,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/288
-ext,Tv Dielli,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/296
-ext,Alpo HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/298
-ext,Tv Ulqini,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/329
-FirstChannel.al,First tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/49
-tv5,TV5,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/396
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Rtv Fontana
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/57
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Rtv 21 mix
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/55
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tirana tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/53
+#EXTINF:0 tvg-id="ZoneClub.pl" group-title="➤ Lokale •",Club tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/52
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Euro channel
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/51
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Adrianet
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/50
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv shenja
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/48
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Albuk
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/46
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Syri vision
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/40
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv llapi
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/39
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Zjarr tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/37
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Premium channel
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/221
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Lezha
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/222
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Albdrams HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/232
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Rtv arbria HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/234
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Rtv ilirida
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/235
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Teuta
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/237
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Mitrovica
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/288
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Dielli
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/296
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Alpo HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/298
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Ulqini
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/329
+#EXTINF:0 tvg-id="FirstChannel.al" group-title="➤ Lokale •",First tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/49
+#EXTINF:0 tvg-id="tv5" group-title="➤ Lokale •",TV5
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/396
 
-group,➤Lajme 24/7 •
-FaxNews.al,Fax news,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/319
-Kanali7.al,Kanali 7,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/320
-ext,Info 24,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/322
-TopNews.al,Top news,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/323
-news24,News 24,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/25
-ext,Euronews albania,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/26
-ext,Report tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/31
-ABCNews.al,Abc news,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/254
-ext,Klan news,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/324
-AlJazeeraBalkans.rs,Al Jazeera Balkans,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/333
+#EXTINF:0 tvg-id="FaxNews.al" group-title="➤Lajme 24/7 •",Fax news
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/319
+#EXTINF:0 tvg-id="Kanali7.al" group-title="➤Lajme 24/7 •",Kanali 7
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/320
+#EXTINF:0 tvg-id="ext" group-title="➤Lajme 24/7 •",Info 24
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/322
+#EXTINF:0 tvg-id="TopNews.al" group-title="➤Lajme 24/7 •",Top news
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/323
+#EXTINF:0 tvg-id="news24" group-title="➤Lajme 24/7 •",News 24
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/25
+#EXTINF:0 tvg-id="ext" group-title="➤Lajme 24/7 •",Euronews albania
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/26
+#EXTINF:0 tvg-id="ext" group-title="➤Lajme 24/7 •",Report tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/31
+#EXTINF:0 tvg-id="ABCNews.al" group-title="➤Lajme 24/7 •",Abc news
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/254
+#EXTINF:0 tvg-id="ext" group-title="➤Lajme 24/7 •",Klan news
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/324
+#EXTINF:0 tvg-id="AlJazeeraBalkans.rs" group-title="➤Lajme 24/7 •",Al Jazeera Balkans
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/333
 
-group,➤ Kinema shqip•
-ext,PipoTV Aksion ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/203
-ext,PipoTV Film ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/217
-ext,PipoTV Gold ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/175
-ext,PipoTV Max ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/200
-ext,PipoTV cinema ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/211
-ext,PipoTV Luftë ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/411
-ext,PipoTV Epic ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/332
-ext,PipoTV Horror ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/218
-ext,PipoTV Comedy ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/238
-ext,PipoTV Shqip ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/210
-ext,Film Aksion HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/68
-ext,Film Hits HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/436
-ext,Film Max HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/69
-ext,Film Gold HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/70
-FilmKomedi.al,Film Komedi,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/72
-FilmDrame.al,Film Drame,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/73
-FilmAutor.al,Film autor,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/74
-FilmThriller.al,Film Thriller,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/75
-ext,Euro Film,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/77
-T.al,T FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/78
-TRINGSHQIPI.al,Tring Shqip,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/79
-ext,Tring action HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/80
-TringComedy.al,Tring comedy,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/81
-TringLife.al,Tring life,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/82
-ext,Tring super HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/408
-TringFantazi.al,Tring fantasy,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/83
-ext,Tring collection HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/256
-TRINGFAMILY.al,Tring Family,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/405
-ext,Tring clasic,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/406
-ext,Tring original,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/397
-Smile.al,Smile,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/90
-ext,Art kino 1 HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/97
-ext,Art kino 2 HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/98
-ext,Tëvë aksion,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/257
-ext,Tëvë drame,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/259
-ext,Tëvë comedy,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/260
-ext,Tëvë fantasy,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/261
-ext,Tëvë shqip,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/440
-ext,Sky Max HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/143
-FilmAksion.al,SKY AKSION,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/162
-ext,Netflix Aksion,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/414
-ext,Netflix Komedi,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/415
-ext,Netflix Aventure,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/416
-ext,Netflix Epik,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/417
-ext,Netflix Jackie Chan,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/418
-ext,Netflix Arnold Schwarzenegger,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/419
-ext,Netflix Bud Spencer & Terence Hill,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/420
-ext,Netflix Dwayne Johnson,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/421
-ext,Netflix Sylvester Stallone,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/422
-ext,Netflix Van Damme,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/423
-ext,TELEONE 1,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/137
-ext,TELEONE 2,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/138
-ext,TELEONE 3,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/139
-ext,TELEONE AKSION,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/163
-ext,TELEONE EPIK,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/164
-ext,TELEONE CRIME,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/191
-ext,TELEONE GOLD COLLECTION,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/192
-ext,TELEONE FANTASY,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/193
-ext,TELEONE THRILER,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/194
-ext,Dark Aksion FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/165
-ext,Dark Deluxe FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/166
-ext,Dark Special FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/167
-ext,Dark Komedi FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/168
-ext,Dark Horror FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/169
-ext,Dark Thriller FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/170
-ext,Dark Western FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/171
-ext,Dark Hindi FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/172
-ext,DARK Netflix 1 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/195
-ext,DARK Netflix 2 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/196
-ext,DARK Netflix 3 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/197
-ext,DARK Netflix 4 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/198
-ext,KINEMA+ GOLD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/315
-ext,KINEMA+ AKSION,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/316
-ext,KINEMA+ milenium 1,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/312
-ext,KINEMA+ milenium 2,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/313
-ext,KINEMA+ milenium 3,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/314
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Aksion ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/203
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Film ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/217
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Gold ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/175
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Max ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/200
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV cinema ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/211
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Luftë ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/411
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Epic ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/332
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Horror ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/218
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Comedy ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/238
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Shqip ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/210
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Film Aksion HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/68
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Film Hits HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/436
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Film Max HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/69
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Film Gold HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/70
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="➤ Kinema shqip•",Film Komedi
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/72
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="➤ Kinema shqip•",Film Drame
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/73
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="➤ Kinema shqip•",Film autor
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/74
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="➤ Kinema shqip•",Film Thriller
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/75
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Euro Film
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/77
+#EXTINF:0 tvg-id="T.al" group-title="➤ Kinema shqip•",T FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/78
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="➤ Kinema shqip•",Tring Shqip
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/79
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring action HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/80
+#EXTINF:0 tvg-id="TringComedy.al" group-title="➤ Kinema shqip•",Tring comedy
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/81
+#EXTINF:0 tvg-id="TringLife.al" group-title="➤ Kinema shqip•",Tring life
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/82
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring super HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/408
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="➤ Kinema shqip•",Tring fantasy
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/83
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring collection HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/256
+#EXTINF:0 tvg-id="TRINGFAMILY.al" group-title="➤ Kinema shqip•",Tring Family
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/405
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring clasic
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/406
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring original
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/397
+#EXTINF:0 tvg-id="Smile.al" group-title="➤ Kinema shqip•",Smile
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/90
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Art kino 1 HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/97
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Art kino 2 HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/98
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë aksion
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/257
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë drame
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/259
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë comedy
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/260
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë fantasy
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/261
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë shqip
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/440
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Sky Max HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/143
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="➤ Kinema shqip•",SKY AKSION
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/162
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Aksion
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/414
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Komedi
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/415
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Aventure
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/416
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Epik
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/417
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Jackie Chan
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/418
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Arnold Schwarzenegger
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/419
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Bud Spencer & Terence Hill
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/420
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Dwayne Johnson
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/421
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Sylvester Stallone
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/422
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Van Damme
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/423
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE 1
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/137
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE 2
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/138
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE 3
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/139
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE AKSION
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/163
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE EPIK
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/164
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE CRIME
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/191
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE GOLD COLLECTION
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/192
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE FANTASY
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/193
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE THRILER
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/194
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Aksion FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/165
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Deluxe FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/166
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Special FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/167
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Komedi FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/168
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Horror FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/169
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Thriller FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/170
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Western FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/171
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Hindi FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/172
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",DARK Netflix 1 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/195
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",DARK Netflix 2 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/196
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",DARK Netflix 3 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/197
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",DARK Netflix 4 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/198
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ GOLD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/315
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ AKSION
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/316
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ milenium 1
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/312
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ milenium 2
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/313
+#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ milenium 3
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/314
 
-group,➤ Seriale•
-ext,Film Stinet,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/76
-3plus.ch,3 plus,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/89
-JollyHD.al,Jolly HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/88
-ext,TDC seriale,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/334
-ext,Tring novelas,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/407
-ext,Kanal D drama,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/136
-ext,EPISODE TV,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/432
-ext,tëvë novela,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/435
+#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",Film Stinet
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/76
+#EXTINF:0 tvg-id="3plus.ch" group-title="➤ Seriale•",3 plus
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/89
+#EXTINF:0 tvg-id="JollyHD.al" group-title="➤ Seriale•",Jolly HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/88
+#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",TDC seriale
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/334
+#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",Tring novelas
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/407
+#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",Kanal D drama
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/136
+#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",EPISODE TV
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/432
+#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",tëvë novela
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/435
 
-group,➤ Muzik •
-ext,PipoTV Music ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/214
-ext,PipoTV Folk ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/212
-ext,PipoTV Tallava ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/239
-ext,PipoTV Çifteli ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/216
-ext,My music HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/387
-ext,Top Estrada TV HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/337
-ext,GJOLLI MUZIKE,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/246
-ext,Shota tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/245
-ext,Rtv ilirida music,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/230
-21Popullore.al,Rtv 21 popullore,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/219
-ext,Kopliku,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/56
-FolkPlus.al,Folk plus,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/45
-BBF.al,bbf,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/42
-ext,Rtv Sharri HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/386
-ext,Turbo Channel HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/424
-ext,Klan Music HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/425
-ext,AMOL HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/426
-ext,DARK Popullore HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/427
-ext,DARK Hits HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/428
-Balkanika.svn,Balkanika HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/379
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",PipoTV Music ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/214
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",PipoTV Folk ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/212
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",PipoTV Tallava ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/239
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",PipoTV Çifteli ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/216
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",My music HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/387
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Top Estrada TV HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/337
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",GJOLLI MUZIKE
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/246
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Shota tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/245
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Rtv ilirida music
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/230
+#EXTINF:0 tvg-id="21Popullore.al" group-title="➤ Muzik •",Rtv 21 popullore
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/219
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Kopliku
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/56
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="➤ Muzik •",Folk plus
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/45
+#EXTINF:0 tvg-id="BBF.al" group-title="➤ Muzik •",bbf
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/42
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Rtv Sharri HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/386
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Turbo Channel HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/424
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Klan Music HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/425
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",AMOL HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/426
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",DARK Popullore HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/427
+#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",DARK Hits HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/428
+#EXTINF:0 tvg-id="Balkanika.svn" group-title="➤ Muzik •",Balkanika HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/379
 
-group,➤ Humor & argetim•
-ext,PipoTV çka ka shpija 24/7 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/204
-ext,PipoTV Humor ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/240
-ext,PipoTV Portokalli 24/7 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/326
-ext,PipoTV Al pazar 24/7 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/327
-ext,PipoTV Hetuesia 24/7 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/344
-ext,B Rexhepovit dhe Mamutovit HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/336
-ext,B Tregim Popullor HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/338
-ext,Alb Humor HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/377
+#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV çka ka shpija 24/7 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/204
+#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV Humor ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/240
+#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV Portokalli 24/7 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/326
+#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV Al pazar 24/7 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/327
+#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV Hetuesia 24/7 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/344
+#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",B Rexhepovit dhe Mamutovit HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/336
+#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",B Tregim Popullor HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/338
+#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",Alb Humor HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/377
 
-group,➤ Fetare •
-ext,Elvis Naci ( histori motivuse ) 24/7,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/339
-ext,PipoTV  Ilahi ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/358
-ext,Rtv pendimi,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/43
-PeaceTV.uk,Peace tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/44
-ext,Rtv islam,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/158
-ext,JETIMAT E BALLKANIT,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/341
-ext,B  Ilahi HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/342
-ext,B Ligjerata Islame HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/343
-opoja.tv,TV Opoja,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/434
+#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",Elvis Naci ( histori motivuse ) 24/7
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/339
+#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",MetiTV  Ilahi ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/358
+#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",Rtv pendimi
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/43
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="➤ Fetare •",Peace tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/44
+#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",Rtv islam
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/158
+#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",JETIMAT E BALLKANIT
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/341
+#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",B  Ilahi HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/342
+#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",B Ligjerata Islame HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/343
+#EXTINF:0 tvg-id="opoja.tv" group-title="➤ Fetare •",TV Opoja
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/434
 
-group,➤ Dokumentar•
-EXPShkence.al,Explorer Shkence,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/101
-EXPHistori.al,Explorer Histori,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/102
-EXPNatyra.al,Explorer Natyra,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/103
-TringPlanet.al,Tring planet,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/104
-TringWorld.al,Tring World,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/105
-T-Hist.al,Tring history,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/106
-ext,Rtv ilirida dokuementar,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/236
-ext,ART DOKU 1 HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/356
-ext,ART DOKU 2 HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/357
-Living.al,Living HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/376
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="➤ Dokumentar•",Explorer Shkence
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/101
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="➤ Dokumentar•",Explorer Histori
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/102
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="➤ Dokumentar•",Explorer Natyra
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/103
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="➤ Dokumentar•",Tring planet
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/104
+#EXTINF:0 tvg-id="TringWorld.al" group-title="➤ Dokumentar•",Tring World
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/105
+#EXTINF:0 tvg-id="T-Hist.al" group-title="➤ Dokumentar•",Tring history
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/106
+#EXTINF:0 tvg-id="ext" group-title="➤ Dokumentar•",Rtv ilirida dokuementar
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/236
+#EXTINF:0 tvg-id="ext" group-title="➤ Dokumentar•",ART DOKU 1 HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/356
+#EXTINF:0 tvg-id="ext" group-title="➤ Dokumentar•",ART DOKU 2 HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/357
+#EXTINF:0 tvg-id="Living.al" group-title="➤ Dokumentar•",Living HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/376
 
-group,➤ Fëmije•
-ext,PipoTV Fëmije ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/335
-ext,PipoTV kids ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/208
-TipTv.al,Tip TV,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/116
-TringTring.al,Tring Tring,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/115
-CufoTV.al,Cufo,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/113
-BangBang.al,Bang bang,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/112
-ext,Netflix fëmije,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/110
-ext,Rtv ilirida fëmij,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/231
-ext,Rtv arbria femije,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/233
-ext,Tom & jerry,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/242
-ext,B fëmije HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/292
-ext,Price Kids,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/301
-ext,Sofia TV,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/302
-ext,Bubble tv,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/303
-baby-tv,BabyTV,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/305
-ext,Rtv 21 junior,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/380
-ext,Peppa pig (italiano) 24/7,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/402
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",PipoTV Fëmije ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/335
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",PipoTV kids ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/208
+#EXTINF:0 tvg-id="TipTv.al" group-title="➤ Fëmije•",Tip TV
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/116
+#EXTINF:0 tvg-id="TringTring.al" group-title="➤ Fëmije•",Tring Tring
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/115
+#EXTINF:0 tvg-id="CufoTV.al" group-title="➤ Fëmije•",Cufo
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/113
+#EXTINF:0 tvg-id="BangBang.al" group-title="➤ Fëmije•",Bang bang
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/112
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Netflix fëmije
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/110
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Rtv ilirida fëmij
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/231
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Rtv arbria femije
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/233
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Tom & jerry
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/242
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",B fëmije HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/292
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Price Kids
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/301
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Sofia TV
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/302
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Bubble tv
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/303
+#EXTINF:0 tvg-id="baby-tv" group-title="➤ Fëmije•",BabyTV
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/305
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Rtv 21 junior
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/380
+#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Peppa pig (italiano) 24/7
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/402
 
-group,➤ Sport •
-ext,Super sport 1 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/119
-ext,Super sport 2 Fᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/120
-ext,Super sport 2 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/299
-ext,Super sport 3 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/121
-ext,Super Sport 4 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/122
-ext,Super Sport 5 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/310
-ext,Tring sport news ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/123
-ext,Tring sport 1 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/124
-ext,Tring sport 2 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/125
-ext,Tring sport 3 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/126
-ext,Tring Sport 4 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/311
-ext,Oversport 1 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/47
-ext,Oversport 2 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/151
-ext,Oversport 3 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/229
-ext,Oversport 4 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/317
-ext,Art Sport 1 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/127
-ext,Art Sport 2 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/128
-ext,Art Sport 3 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/228
-ext,Art sport 4 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/318
-ext,SS kosova 1 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/429
-ext,K sport 1 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/133
-ext,K sport  2 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/134
-ext,K sport  3 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/135
-ext,Arena Premium 1 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/130
-ext,Arena Premium 2 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/131
-ext,Arena Premium 3 ᴴᴰ,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/132
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super sport 1 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/119
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super sport 2 Fᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/120
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super sport 2 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/299
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super sport 3 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/121
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super Sport 4 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/122
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super Sport 5 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/310
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring sport news ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/123
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring sport 1 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/124
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring sport 2 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/125
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring sport 3 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/126
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring Sport 4 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/311
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Oversport 1 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/47
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Oversport 2 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/151
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Oversport 3 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/229
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Oversport 4 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/317
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Art Sport 1 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/127
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Art Sport 2 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/128
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Art Sport 3 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/228
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Art sport 4 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/318
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",SS kosova 1 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/429
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",K sport 1 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/133
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",K sport  2 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/134
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",K sport  3 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/135
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Arena Premium 1 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/130
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Arena Premium 2 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/131
+#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Arena Premium 3 ᴴᴰ
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/132
 
-group,➤World cup 2022 •
-ext,KS: RTK 1 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/445
-ext,AL: RTSH 1 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/446
-ext,AL: RTSH SPORT,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/439
-ext,BIH: BHT 1 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/447
-ext,MKD: MRT 1 HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/448
-ext,SRB: RTS 1 HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/449
-ext,AR: Bein Sport live cup 2022 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/441
-ext,FR : Bein sport 1 FHD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/442
-ext,AR : Bein sport max 1 HD,http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/444
-
+#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",KS: RTK 1 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/445
+#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",AL: RTSH 1 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/446
+#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",AL: RTSH SPORT
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/439
+#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",BIH: BHT 1 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/447
+#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",MKD: MRT 1 HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/448
+#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",SRB: RTS 1 HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/449
+#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",AR: Bein Sport live cup 2022 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/441
+#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",FR : Bein sport 1 FHD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/442
+#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",AR : Bein sport max 1 HD
+http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/444
