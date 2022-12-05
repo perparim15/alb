@@ -2624,14 +2624,18 @@ http://live.radio-vhr.de/radiovhr.mp3
 http://listen.radionomy.com:80/Club70
 #EXTINF:0 tvg-logo="http://radio.pervii.com/im/1/1555242181.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Radio Ma3ak - 64 kbit/s
 http://radioma3ak.com:8000
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537543609.jpg" group-title="DEUTSCH Radio - radio.pervii.com", wunschradio.fm 90er - 320 kbit/s
+#EXTINF:0 tvg-logo="http://radio.pervii.com/im/9/1537543609.jpg" group-title="DEUTSCH Radio - radio.pervii.com", wunschradio.fm 90er - 320 kbit/s
 http://mp3.wunschradio.de/wunschradio-90er.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/9895.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Antenne AC mp3 - 128 kbit/s
+#EXTINF:0 tvg-logo="http://radio.pervii.com/logo/9895.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Antenne AC mp3 - 128 kbit/s
 http://mp3.antenneac.c.nmdn.net/ps-antenneac/livestream.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537589799.jpg" group-title="DEUTSCH Radio - radio.pervii.com", WDR 2 Bergisches Land aktuell, Westdeutscher Rundfunk Koeln - 128 kbit/s
+#EXTINF:0 tvg-logo="http://radio.pervii.com/im/9/1537589799.jpg" group-title="DEUTSCH Radio - radio.pervii.com", WDR 2 Bergisches Land aktuell, Westdeutscher Rundfunk Koeln - 128 kbit/s
 http://wdr-wdr2-bergischesland.icecast.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1563697547.jpg" group-title="DEUTSCH Radio - radio.pervii.com", 181.FM Classical - 128 kbit/s
+#EXTINF:0 tvg-logo="http://radio.pervii.com/im/7/1563697547.jpg" group-title="DEUTSCH Radio - radio.pervii.com", 181.FM Classical - 128 kbit/s
 https://streamingv2.shoutcast.com/japanimradio-radio-japonaise?=2
+#EXTINF:0 tvg-id="ext" group-title="VOD",Goal of the Dead (2014)
+https://ipfs.io/ipfs/bafybeig7i4gyj4uhlqscrxjbxgb4aywzboh3j4obz66xcmyh46esb3yo5m
+#EXTINF:0 tvg-id="ext" group-title="VOD",Troll (2022)
+https://ipfs.io/ipfs/bafybeihu3d367e7cspgj4qo6yiseucq3umjkl52udo3mzz6bl65vskl76q
 
 #EXTINF:0 tvg-id="ext" group-title="ADULT",===== ADULT =====
 http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1973.ts
