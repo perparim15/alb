@@ -1,516 +1,2063 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 1 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/2
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 2 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/3
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 3 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/388
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 4 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/389
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",RTSH 1 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/6
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh 2 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/7
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh 3 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/391
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh film
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/390
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh shqip
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/8
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",MRT 2 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/9
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",AlsatM ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/10
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",AlsatM FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/11
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/12
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="➤ Kombetare•",Klan FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/13
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Top channel ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/14
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="➤ Kombetare•",Top channel FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/15
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Syri TV ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/16
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",KTV ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/17
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan kosova ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/18
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan kosova (local)
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/438
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Vision plus ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/19
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan plus
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/20
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Kanal 10 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/21
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Kanal 10 (local)
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/437
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",T7 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/22
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",T7 HD (local)
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/360
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Dukagjini ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/23
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtv dukagjini (local)
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/359
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtv 21 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/24
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Ora tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/27
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtv 21 Maqedonia
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/28
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Mcn tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/29
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",ATV ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/30
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Tëvë1 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/140
-#EXTINF:0 tvg-id="ntv" group-title="➤ Kombetare•",Ntv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/153
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",I'ts my Home (live)
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/382
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",========= ITALIA =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Rai 1 H265
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/80.ts
+#EXTINF:0 tvg-id="Rai1.it" group-title="ITALIA",IT: Rai 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/3.ts
+#EXTINF:0 tvg-id="Rai1.it" group-title="ITALIA",IT: Rai 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/4.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Rai 2 H265
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/81.ts
+#EXTINF:0 tvg-id="Rai2.it" group-title="ITALIA",IT: Rai 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/5.ts
+#EXTINF:0 tvg-id="Rai2.it" group-title="ITALIA",IT: Rai 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/6.ts
+#EXTINF:0 tvg-id="Rai2.it" group-title="ITALIA",IT: Rai 2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/7.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Rai 3 H265
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/82.ts
+#EXTINF:0 tvg-id="Rai3.it" group-title="ITALIA",IT: Rai 3 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/8.ts
+#EXTINF:0 tvg-id="Rai3.it" group-title="ITALIA",IT: Rai 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/9.ts
+#EXTINF:0 tvg-id="Rai3.it" group-title="ITALIA",IT: Rai 3
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/10.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Canale 5 H265
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/78.ts
+#EXTINF:0 tvg-id="Canale5.it" group-title="ITALIA",IT: Canale 5 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/11.ts
+#EXTINF:0 tvg-id="Canale5.it" group-title="ITALIA",IT: Canale 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/12.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Italia 1 h265
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/77.ts
+#EXTINF:0 tvg-id="Italia1.it" group-title="ITALIA",IT: Italia 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/13.ts
+#EXTINF:0 tvg-id="Italia1.it" group-title="ITALIA",IT: Italia 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/14.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Rete 4 H265
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/79.ts
+#EXTINF:0 tvg-id="Rete4.it" group-title="ITALIA",IT: Rete 4 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/16.ts
+#EXTINF:0 tvg-id="Rete4.it" group-title="ITALIA",IT: Rete 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/17.ts
+#EXTINF:0 tvg-id="Rai4.it" group-title="ITALIA",IT: Rai 4 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/18.ts
+#EXTINF:0 tvg-id="Rai4.it" group-title="ITALIA",IT: Rai 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/19.ts
+#EXTINF:0 tvg-id="Rai5.it" group-title="ITALIA",IT: Rai 5 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/20.ts
+#EXTINF:0 tvg-id="Rai5.it" group-title="ITALIA",IT: Rai 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/21.ts
+#EXTINF:0 tvg-id="LA5.it" group-title="ITALIA",IT: La 5
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/22.ts
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="ITALIA",IT: Rai Movie FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/23.ts
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="ITALIA",IT: Rai Movie HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/24.ts
+#EXTINF:0 tvg-id="RaiPremium.it" group-title="ITALIA",IT: Rai Premium FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/25.ts
+#EXTINF:0 tvg-id="RaiPremium.it" group-title="ITALIA",IT: Rai Premium HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/26.ts
+#EXTINF:0 tvg-id="RaiScuola.it" group-title="ITALIA",IT: Rai Scuola FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/28.ts
+#EXTINF:0 tvg-id="RaiScuola.it" group-title="ITALIA",IT: Rai Scuola HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/29.ts
+#EXTINF:0 tvg-id="RaiStoria.it" group-title="ITALIA",IT: Rai Storia FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/31.ts
+#EXTINF:0 tvg-id="RaiStoria.it" group-title="ITALIA",IT: Rai Storia HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/32.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Nove FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/33.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Nove HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/34.ts
+#EXTINF:0 tvg-id="DMAX.it" group-title="ITALIA",IT: DMAX FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/35.ts
+#EXTINF:0 tvg-id="RealTime.it" group-title="ITALIA",IT: Real Time FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/36.ts
+#EXTINF:0 tvg-id="RealTime.it" group-title="ITALIA",IT: Real Time HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/37.ts
+#EXTINF:0 tvg-id="Giallo.it" group-title="ITALIA",IT: Giallo FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/38.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Cine34
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/39.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: TV2000 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/40.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: 20 Mediaset FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/41.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: 20 Mediaset HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/42.ts
+#EXTINF:0 tvg-id="Italia2.it" group-title="ITALIA",IT: Mediaset ITALIA DUE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/43.ts
+#EXTINF:0 tvg-id="MediasetExtra.it" group-title="ITALIA",IT: Mediaset Extra
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/44.ts
+#EXTINF:0 tvg-id="Iris.it" group-title="ITALIA",IT: Iris
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/45.ts
+#EXTINF:0 tvg-id="TopCrime.it" group-title="ITALIA",IT: Top Crime
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/46.ts
+#EXTINF:0 tvg-id="Focus.it" group-title="ITALIA",IT: Focus
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/47.ts
+#EXTINF:0 tvg-id="La7.it" group-title="ITALIA",IT: LA7 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/48.ts
+#EXTINF:0 tvg-id="La7d.it" group-title="ITALIA",IT: La 7d HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/49.ts
+#EXTINF:0 tvg-id="Tv8.it" group-title="ITALIA",IT: TV8 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/50.ts
+#EXTINF:0 tvg-id="Cielo.it" group-title="ITALIA",IT: Cielo HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/51.ts
+#EXTINF:0 tvg-id="RSILa1.ch" group-title="ITALIA",IT: RSI LA 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/52.ts
+#EXTINF:0 tvg-id="RSILa2.ch" group-title="ITALIA",IT: RSI LA 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/53.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Padre Pio Tv
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/55.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: 27 Twentyseven FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/69.ts
+#EXTINF:0 tvg-id="Cielo.it" group-title="ITALIA",IT: Cielo FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/70.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Food Network FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/72.ts
+#EXTINF:0 tvg-id="Tv8.it" group-title="ITALIA",IT: TV8 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/73.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: HGTV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/74.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: VH1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/76.ts
+#EXTINF:0 tvg-id="RaiNews.it" group-title="ITALIA",IT: Rai News 24 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/67.ts
+#EXTINF:0 tvg-id="Tgcom24.it" group-title="ITALIA",IT: Tgcom 24
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/68.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",====== BAMBINI ======
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/85.ts
+#EXTINF:0 tvg-id="RaiGulp.it" group-title="ITALIA",IT: Rai Gulp FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/57.ts
+#EXTINF:0 tvg-id="RaiYoyo.it" group-title="ITALIA",IT: Rai YoYo FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/59.ts
+#EXTINF:0 tvg-id="Cartoonito.it" group-title="ITALIA",IT: Cartoonito
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/60.ts
+#EXTINF:0 tvg-id="Boing.it" group-title="ITALIA",IT: Boing
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/61.ts
+#EXTINF:0 tvg-id="Frisbee.it" group-title="ITALIA",IT: frisbee
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/62.ts
+#EXTINF:0 tvg-id="Super!.it" group-title="ITALIA",IT: Super!
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/63.ts
+#EXTINF:0 tvg-id="K2.it" group-title="ITALIA",IT: K2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/64.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",====== SKY CALCIO + SPORT ======
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/96.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Horse Tv
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2628.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: EQU TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/54.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Bianconera Juventus TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/92.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Rai Sport + FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/65.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Rai Sport + HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/66.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: MotorTrend FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/71.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Motor Trend HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/56.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: SI Plus FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/111.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: BIKE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2714.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",====== DOCUMENTARI ======
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/84.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Explorer FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/128.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT: Italian Fishing TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/129.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",Si Live 24 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2897.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",Primocanale FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2931.ts
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",Testrai 1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2932.ts
 
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Rtv Fontana
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/57
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Rtv 21 mix
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/55
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tirana tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/53
-#EXTINF:0 tvg-id="ZoneClub.pl" group-title="➤ Lokale •",Club tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/52
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Euro channel
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/51
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Adrianet
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/50
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv shenja
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/48
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Albuk
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/46
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Syri vision
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/40
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv llapi
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/39
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Zjarr tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/37
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Premium channel
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/221
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Lezha
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/222
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Albdrams HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/232
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Rtv arbria HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/234
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Rtv ilirida
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/235
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Teuta
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/237
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Mitrovica
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/288
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Dielli
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/296
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Alpo HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/298
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale •",Tv Ulqini
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/329
-#EXTINF:0 tvg-id="FirstChannel.al" group-title="➤ Lokale •",First tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/49
-#EXTINF:0 tvg-id="tv5" group-title="➤ Lokale •",TV5
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/396
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",========= DEUTSCHLAND =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/132.ts
+#EXTINF:0 tvg-id="DasErste.de" group-title="GERMANY",DE: Das Erste HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/133.ts
+#EXTINF:0 tvg-id="ZDF.de" group-title="GERMANY",DE: ZDF HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/134.ts
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="GERMANY",DE: ZDF info HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/216.ts
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="GERMANY",DE: ZDF neo HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/217.ts
+#EXTINF:0 tvg-id="Kabel.de" group-title="GERMANY",DE: kabel eins HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/135.ts
+#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="GERMANY",DE: Kabel 1 Classics HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/263.ts
+#EXTINF:0 tvg-id="Pro7.de" group-title="GERMANY",DE: ProSieben HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/136.ts
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="GERMANY",DE: ProSieben Fun HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/137.ts
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="GERMANY",DE: Pro7 Maxx HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/138.ts
+#EXTINF:0 tvg-id="RTL.de" group-title="GERMANY",DE: RTL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/139.ts
+#EXTINF:0 tvg-id="RTL2.de" group-title="GERMANY",DE: RTL II HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/140.ts
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="GERMANY",DE: RTL Crime HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/141.ts
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="GERMANY",DE: RTL Living HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/142.ts
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="GERMANY",DE: RTL Passion HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/271.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: RTL UP
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/272.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Nitro HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/143.ts
+#EXTINF:0 tvg-id="Sat1.de" group-title="GERMANY",DE: SAT 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/144.ts
+#EXTINF:0 tvg-id="Sat1Comedy.de" group-title="GERMANY",DE: SAT 1 Emotions
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/145.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: SAT 1 Gold HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/146.ts
+#EXTINF:0 tvg-id="Sixx.de" group-title="GERMANY",DE: SIXX HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/147.ts
+#EXTINF:0 tvg-id="Vox.de" group-title="GERMANY",DE: VOX HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/148.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: VOXup
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/284.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",========= 3 SENDER =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/206.ts
+#EXTINF:0 tvg-id="3sat.de" group-title="GERMANY",DE: 3sat HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/207.ts
+#EXTINF:0 tvg-id="ARTE.de" group-title="GERMANY",DE: Arte HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/208.ts
+#EXTINF:0 tvg-id="Jukebox.de" group-title="GERMANY",DE: Jukebox
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/210.ts
+#EXTINF:0 tvg-id="ntv.de" group-title="GERMANY",DE: n-tv HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/211.ts
+#EXTINF:0 tvg-id="ndr.de" group-title="GERMANY",DE: NDR HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/212.ts
+#EXTINF:0 tvg-id="One.de" group-title="GERMANY",DE: ONE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/213.ts
+#EXTINF:0 tvg-id="WDR.de" group-title="GERMANY",DE: WDR  HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/215.ts
+#EXTINF:0 tvg-id="BR.de" group-title="GERMANY",DE: BR HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/258.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Bild TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/259.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: MDR HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/264.ts
+#EXTINF:0 tvg-id="MTVGermany.de" group-title="GERMANY",DE: MTV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/265.ts
+#EXTINF:0 tvg-id="N24Doku.de" group-title="GERMANY",DE: N24 Doku
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/266.ts
+#EXTINF:0 tvg-id="phoenix.de" group-title="GERMANY",DE: Phoenix HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/269.ts
+#EXTINF:0 tvg-id="Puls8.ch" group-title="GERMANY",DE: Puls 8 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/270.ts
+#EXTINF:0 tvg-id="ServusTV.at" group-title="GERMANY",DE: Servus HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/273.ts
+#EXTINF:0 tvg-id="HR.de" group-title="GERMANY",DE: hr HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/287.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",========= SKY CINEMA =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/149.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Cinema Premieren HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/155.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Cinema Premieren +24 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/156.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Cinema Best Of HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/152.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Cinema Thriller HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/158.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Cinema Action HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/150.ts
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="GERMANY",DE: Sky Cinema Family HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/153.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Cinema Special HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/157.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: WB TV FILM HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/175.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Cinema Fun
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/154.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Cinema Classic
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/274.ts
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="GERMANY",DE: Sky Atlantic HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/151.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Replay HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/277.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",========= UNTERHALTUNG =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/159.ts
+#EXTINF:0 tvg-id="Sky1.de" group-title="GERMANY",DE: Sky 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/170.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Cinema  Comedy HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/167.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Crime HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/168.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Krimi HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/169.ts
+#EXTINF:0 tvg-id="13thStreet.de" group-title="GERMANY",DE: 13th Street HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/160.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: WB TV Serie HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/176.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Comedy Central HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/162.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: E! HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/163.ts
+#EXTINF:0 tvg-id="Heimatkanal.de" group-title="GERMANY",DE: Heimatkanal
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/164.ts
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="GERMANY",DE: Kinowelt HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/165.ts
+#EXTINF:0 tvg-id="Romance.de" group-title="GERMANY",DE: Romance TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/166.ts
+#EXTINF:0 tvg-id="SciFi.de" group-title="GERMANY",DE: SYFY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/172.ts
+#EXTINF:0 tvg-id="TLC.de" group-title="GERMANY",DE: TLC HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/173.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE:  Sony Channel HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/161.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: WB TV Comedy HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/174.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Universal TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/177.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",========= PAY PER VIEW =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/178.ts
+#EXTINF:0 tvg-id="SkySelect1.de" group-title="GERMANY",DE: Sky Select 1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/179.ts
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="GERMANY",DE: Sky Select 2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/180.ts
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="GERMANY",DE: Sky Select 3
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/181.ts
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="GERMANY",DE: Sky Select 4
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/182.ts
+#EXTINF:0 tvg-id="SkySelect5.de" group-title="GERMANY",DE: Sky Select 5
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/183.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",========= KINDER =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/184.ts
+#EXTINF:0 tvg-id="Boomerang.de" group-title="GERMANY",DE: Boomerang
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/185.ts
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="GERMANY",DE: Cartoon Network HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/186.ts
+#EXTINF:0 tvg-id="disneychannel.de" group-title="GERMANY",DE: Disney Channel HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/187.ts
+#EXTINF:0 tvg-id="Junior.de" group-title="GERMANY",DE: Junior
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/189.ts
+#EXTINF:0 tvg-id="Kika.de" group-title="GERMANY",DE: KiKa HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/190.ts
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="GERMANY",DE: Super RTL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/191.ts
+#EXTINF:0 tvg-id="Nickelodeon.de" group-title="GERMANY",DE: Nick HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/192.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Nick Jr
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/267.ts
+#EXTINF:0 tvg-id="Nicktoons.de" group-title="GERMANY",DE: Nicktoons
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/268.ts
+#EXTINF:0 tvg-id="TOGGOplus.de" group-title="GERMANY",DE: Toggo Plus
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/283.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",========= KULTUR UND DOKU =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/193.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Documentaries HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/275.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Nature HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/276.ts
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="GERMANY",DE: Animal Planet
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/194.ts
+#EXTINF:0 tvg-id="AnixeHD.de" group-title="GERMANY",DE: Anixe HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/195.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Crime + Investigation HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/196.ts
+#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="GERMANY",DE: Discovery HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/197.ts
+#EXTINF:0 tvg-id="DMax.de" group-title="GERMANY",DE: DMAX HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/198.ts
+#EXTINF:0 tvg-id="HistoryHD.de" group-title="GERMANY",DE: History HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/199.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Kabel Eins Doku HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/200.ts
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="GERMANY",DE: National Geographic HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/201.ts
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="GERMANY",DE: Nat Geo Wild HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/202.ts
+#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="GERMANY",DE: Spiegel Geschichte HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/203.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Spiegel TV Wissen
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/204.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Welt HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/205.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Waidwerk HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/285.ts
+#EXTINF:0 tvg-id="WeltDerWunder.de" group-title="GERMANY",DE: Welt der Wunder
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/286.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",========= BUNDELIGA =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/218.ts
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="GERMANY",DE: Sky Sport Bundesliga 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/219.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Bundesliga 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/220.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Bundesliga 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/221.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Bundesliga 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/222.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Bundesliga 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/223.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Bundesliga 6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/224.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Bundesliga 7 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/225.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Bundesliga 8 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/226.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Bundesliga 9 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/227.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Bundesliga 10 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/228.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",========= SPORT =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/229.ts
+#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="GERMANY",DE: Sky Sport News HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/232.ts
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="GERMANY",DE: Sport1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/280.ts
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="GERMANY",DE: Sport1+ HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/281.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sportdigital Fussball HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/282.ts
+#EXTINF:0 tvg-id="Eurosport1.de" group-title="GERMANY",DE: Eurosport 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/252.ts
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="GERMANY",DE: Eurosport 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/253.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Eurosport 2 Xtra HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/254.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Motorvision HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/255.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Auto Motorm Sport HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/257.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Dazn 1 Bar FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/261.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Dazn 2 Bar FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/262.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: DAZN 1 Bar HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/230.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: DAZN 2 Bar HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/231.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport F1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/233.ts
+#EXTINF:0 tvg-id="SkySport1.de" group-title="GERMANY",DE: Sky Sport 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/234.ts
+#EXTINF:0 tvg-id="SkySport2.de" group-title="GERMANY",DE: Sky Sport 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/235.ts
+#EXTINF:0 tvg-id="SkySport3.de" group-title="GERMANY",DE: Sky Sport 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/236.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/237.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/238.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport 6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/239.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport 7 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/240.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport 8 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/241.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport 9 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/242.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport 10 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/243.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport 11 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/244.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Austria 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/248.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Austria 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/249.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Austria 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/250.ts
+#EXTINF:0 tvg-id="ext" group-title="GERMANY",DE: Sky Sport Austria 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/251.ts
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="GERMANY",Sky Sport Premier League FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2818.ts
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="GERMANY",Sky Sport Premier League HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2819.ts
+#EXTINF:0 tvg-id="SkySportAustria5.at" group-title="GERMANY",Sky Sport Austria 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2898.ts
+#EXTINF:0 tvg-id="SkySportAustria6.at" group-title="GERMANY",Sky Sport Austria 6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2899.ts
+#EXTINF:0 tvg-id="SkySportAustria7.at" group-title="GERMANY",Sky Sport Austria 7 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2900.ts
 
-#EXTINF:0 tvg-id="FaxNews.al" group-title="➤Lajme 24/7 •",Fax news
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/319
-#EXTINF:0 tvg-id="Kanali7.al" group-title="➤Lajme 24/7 •",Kanali 7
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/320
-#EXTINF:0 tvg-id="ext" group-title="➤Lajme 24/7 •",Info 24
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/322
-#EXTINF:0 tvg-id="TopNews.al" group-title="➤Lajme 24/7 •",Top news
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/323
-#EXTINF:0 tvg-id="news24" group-title="➤Lajme 24/7 •",News 24
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/25
-#EXTINF:0 tvg-id="ext" group-title="➤Lajme 24/7 •",Euronews albania
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/26
-#EXTINF:0 tvg-id="ext" group-title="➤Lajme 24/7 •",Report tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/31
-#EXTINF:0 tvg-id="ABCNews.al" group-title="➤Lajme 24/7 •",Abc news
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/254
-#EXTINF:0 tvg-id="ext" group-title="➤Lajme 24/7 •",Klan news
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/324
-#EXTINF:0 tvg-id="AlJazeeraBalkans.rs" group-title="➤Lajme 24/7 •",Al Jazeera Balkans
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/333
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",========= SPAIN =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/712.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="SPANIA",ES: LA 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/713.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: LA 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/715.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="SPANIA",ES: ANTENA 3 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/716.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="SPANIA",ES: CUATRO FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/717.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="SPANIA",ES: TELECINCO FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/718.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="SPANIA",ES: AXN FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/719.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="SPANIA",ES: CALLE 13 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/722.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: CANAL SUR HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/725.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: CLAN TVE FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/726.ts
+#EXTINF:0 tvg-id="Divinity.es" group-title="SPANIA",ES: DIVINITY
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/727.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="SPANIA",ES: HOLLYWOOD FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/728.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="SPANIA",ES:  La Sexta FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/729.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="SPANIA",ES: MOVISTAR ESTRENOS FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/733.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="SPANIA",ES: SYFY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/735.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="SPANIA",ES: TCM
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/736.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES:TV3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2806.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPANIA",ES: TELEDEPORTE FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/737.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="SPANIA",ES: TNT FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/738.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="SPANIA",ES: NOVA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/739.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="SPANIA",ES: CANAL ODISEA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/740.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="SPANIA",ES: CAZA Y PESCA HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/741.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="SPANIA",ES: COMEDY CENTRAL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/742.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="SPANIA",ES: COSMO HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/743.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="SPANIA",ES: FOX FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/744.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="SPANIA",ES: MOVISTAR SERIES FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/747.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: 24 Horas FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/749.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="SPANIA",ES: AMC HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/752.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: Canal Sur Andalucía HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/753.ts
+#EXTINF:0 tvg-id="AragonTVsat.es" group-title="SPANIA",ES: Aragón TV Int
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/754.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="SPANIA",ES: AXN WHITE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/755.ts
+#EXTINF:0 tvg-id="Boing.es" group-title="SPANIA",ES: BOING
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/756.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: TV GALICIA HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/758.ts
+#EXTINF:0 tvg-id="BEMAD.es" group-title="SPANIA",ES: BE MAD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/759.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: BLAZE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/760.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: Canal Cocina FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/762.ts
+#EXTINF:0 tvg-id="Energy.es" group-title="SPANIA",ES: ENERGY
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/767.ts
+#EXTINF:0 tvg-id="FDF.es" group-title="SPANIA",ES: FDF
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/768.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="SPANIA",ES: IBERALIA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/772.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: SUNDANCE FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/774.ts
+#EXTINF:0 tvg-id="Paramount.es" group-title="SPANIA",ES: PARAMOUNT CHANNEL
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/777.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="SPANIA",ES: MEGA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/780.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: MOVISTAR 0# HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/782.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: M+ Acción  FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/784.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: M+ Deportes FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/785.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES:  M+ Comedia FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/790.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: M+ Drama  FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/794.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: MOVISTAR SERIES 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/798.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: El Toro TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/800.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: MOVISTAR VAMOS HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/801.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: M + La Resistencia
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2807.ts
+#EXTINF:0 tvg-id="FDF.es" group-title="SPANIA",ES: Factoría de Ficción
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2808.ts
+#EXTINF:0 tvg-id="Multideporte1.es" group-title="SPANIA",ES: MULTIDEPORTE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/804.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="SPANIA",ES: NEOX HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/805.ts
+#EXTINF:0 tvg-id="Panda.es" group-title="SPANIA",ES: Canal Panda
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/807.ts
+#EXTINF:0 tvg-id="Somos.es" group-title="SPANIA",ES: SOMOS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/808.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: TELEMADRID HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/810.ts
+#EXTINF:0 tvg-id="Ten.es" group-title="SPANIA",ES: TEN
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/811.ts
+#EXTINF:0 tvg-id="BabyTV.es" group-title="SPANIA",ES: BABY TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/815.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="SPANIA",ES: DISNEY CHANNEL FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/817.ts
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="SPANIA",ES: Disney Junior
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/819.ts
+#EXTINF:0 tvg-id="DisneyXD.es" group-title="SPANIA",ES: DISNEY XD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/820.ts
+#EXTINF:0 tvg-id="NickJunior.es" group-title="SPANIA",ES: NICK JR
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/821.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="SPANIA",ES: Nickelodeon FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/823.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="SPANIA",ES: MEZZO LIVE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/826.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: HIT TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/827.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="SPANIA",ES: DISCOVERY CHANNEL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/834.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="SPANIA",ES: DISCOVERY CHANNEL FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/835.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="SPANIA",ES: HISTORIA FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/836.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="SPANIA",ES:  National Geographic FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/838.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="SPANIA",ES: Nat Geo Wild FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/840.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: BARCA TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/842.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPANIA",ES: REAL MADRID TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/843.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: DAZN FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/845.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="SPANIA",ES: EUROSPORT 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/847.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="SPANIA",ES: EUROSPORT 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/848.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: M+ LaLiga FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/850.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: LALIGA 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/852.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: M+ Liga de Campeones FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/859.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="SPANIA",ES: GOL FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/860.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES:  DAZN F1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/861.ts
+#EXTINF:0 tvg-id="MovistarMotoGP.es" group-title="SPANIA",ES: MOVISTAR MOTO GP HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/862.ts
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="SPANIA",ES: MOVISTAR DCINE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/863.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES:  M+ Golf FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/866.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: LIGA DE CAMPEONES 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/872.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: LIGA TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/873.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="SPANIA",ES: M. DEPORTES 1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/874.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: MULTIFUTBOL 8
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/875.ts
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="SPANIA",ES: EXTREMADURA TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/876.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: MOVISTAR ESTRENOS 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2809.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES:  M+ Clásicos FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2810.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: M+ Cine Español FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2811.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES:  M+ Fest FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2812.ts
+#EXTINF:0 tvg-id="Dark.es" group-title="SPANIA",ES:  DARK
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2813.ts
+#EXTINF:0 tvg-id="sport1_hd" group-title="SPANIA",HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2814.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: Nautical Channel
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2815.ts
+#EXTINF:0 tvg-id="ext" group-title="SPANIA",ES: Dreamworks
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2816.ts
 
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Aksion ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/203
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Film ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/217
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Gold ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/175
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Max ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/200
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV cinema ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/211
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Luftë ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/411
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Epic ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/332
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Horror ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/218
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Comedy ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/238
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",PipoTV Shqip ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/210
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Film Aksion HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/68
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Film Hits HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/436
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Film Max HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/69
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Film Gold HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/70
-#EXTINF:0 tvg-id="FilmKomedi.al" group-title="➤ Kinema shqip•",Film Komedi
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/72
-#EXTINF:0 tvg-id="FilmDrame.al" group-title="➤ Kinema shqip•",Film Drame
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/73
-#EXTINF:0 tvg-id="FilmAutor.al" group-title="➤ Kinema shqip•",Film autor
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/74
-#EXTINF:0 tvg-id="FilmThriller.al" group-title="➤ Kinema shqip•",Film Thriller
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/75
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Euro Film
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/77
-#EXTINF:0 tvg-id="T.al" group-title="➤ Kinema shqip•",T FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/78
-#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="➤ Kinema shqip•",Tring Shqip
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/79
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring action HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/80
-#EXTINF:0 tvg-id="TringComedy.al" group-title="➤ Kinema shqip•",Tring comedy
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/81
-#EXTINF:0 tvg-id="TringLife.al" group-title="➤ Kinema shqip•",Tring life
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/82
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring super HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/408
-#EXTINF:0 tvg-id="TringFantazi.al" group-title="➤ Kinema shqip•",Tring fantasy
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/83
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring collection HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/256
-#EXTINF:0 tvg-id="TRINGFAMILY.al" group-title="➤ Kinema shqip•",Tring Family
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/405
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring clasic
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/406
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tring original
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/397
-#EXTINF:0 tvg-id="Smile.al" group-title="➤ Kinema shqip•",Smile
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/90
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Art kino 1 HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/97
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Art kino 2 HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/98
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë aksion
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/257
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë drame
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/259
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë comedy
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/260
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë fantasy
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/261
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Tëvë shqip
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/440
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Sky Max HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/143
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="➤ Kinema shqip•",SKY AKSION
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/162
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Aksion
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/414
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Komedi
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/415
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Aventure
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/416
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Epik
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/417
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Jackie Chan
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/418
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Arnold Schwarzenegger
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/419
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Bud Spencer & Terence Hill
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/420
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Dwayne Johnson
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/421
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Sylvester Stallone
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/422
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Netflix Van Damme
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/423
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE 1
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/137
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE 2
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/138
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE 3
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/139
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE AKSION
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/163
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE EPIK
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/164
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE CRIME
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/191
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE GOLD COLLECTION
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/192
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE FANTASY
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/193
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",TELEONE THRILER
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/194
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Aksion FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/165
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Deluxe FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/166
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Special FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/167
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Komedi FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/168
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Horror FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/169
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Thriller FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/170
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Western FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/171
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",Dark Hindi FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/172
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",DARK Netflix 1 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/195
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",DARK Netflix 2 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/196
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",DARK Netflix 3 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/197
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",DARK Netflix 4 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/198
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ GOLD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/315
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ AKSION
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/316
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ milenium 1
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/312
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ milenium 2
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/313
-#EXTINF:0 tvg-id="ext" group-title="➤ Kinema shqip•",KINEMA+ milenium 3
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/314
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",========= FRANCE =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1818.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE",FR: TF1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1819.ts
+#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE",FR: FRANCE 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1820.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: FRANCE 2 HD (B)
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2613.ts
+#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE",FR: FRANCE 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1821.ts
+#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE",FR: FRANCE 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1822.ts
+#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE",FR: FRANCE 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1823.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: TF1 SERIES FILMS HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1824.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: TFX HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1825.ts
+#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE",FR: M6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1826.ts
+#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE",FR: W9 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1827.ts
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE",FR: NRJ12 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1828.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: CSTAR HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1829.ts
+#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE",FR: SYFY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1830.ts
+#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE",FR: C8 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1831.ts
+#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE",FR: TMC HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1832.ts
+#EXTINF:0 tvg-id="13RUE.fr" group-title="FRANCE",FR: 13EME RUE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1833.ts
+#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE",FR: 6TER HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1834.ts
+#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE",FR: TEVA HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1835.ts
+#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE",FR: RTL9 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1836.ts
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE",FR: PARIS PREMIERE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1837.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: E! ENTERTAINMENT HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1838.ts
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="FRANCE",FR: TV BREIZH HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1839.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: NOLLYWOOD HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1840.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: ========= Divertissement =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1841.ts
+#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE",FR: ARTE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1842.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: ALTICE STUDIO HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1844.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC STORY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1845.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: VICELAND TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1846.ts
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE",FR: CHERIE 25 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1847.ts
+#EXTINF:0 tvg-id="TV5MondeFBS.fr" group-title="FRANCE",FR: TV5 MONDE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1848.ts
+#EXTINF:0 tvg-id="Seasons.fr" group-title="FRANCE",FR: SEASONS HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1849.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: NOVELAS TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1850.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: ========= DECOUVERTE =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1851.ts
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="FRANCE",FR: PLANETE+ HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1852.ts
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="FRANCE",FR: PLANETE+ A&E HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1853.ts
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="FRANCE",FR: PLANETE+ CI HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1854.ts
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="FRANCE",FR: NAT GEO HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1855.ts
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="FRANCE",FR: NAT GEO WILD HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1856.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: DISCOVERY CHANEL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1857.ts
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE",FR: DISCOVERY SCIENCE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1858.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: DISCOVERY INVESTIGATION HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1859.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: DISCOVERY FAMILY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1860.ts
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE",FR: RMC DECOUVERTE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1861.ts
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE",FR: CRIME DISTRICT HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1862.ts
+#EXTINF:0 tvg-id="Histoire.fr" group-title="FRANCE",FR: HISTOIRE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1863.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: TOUTE L'HISTOIRE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1864.ts
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="FRANCE",FR: SCIENCES & VIE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1865.ts
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE",FR: USHUAIA HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1866.ts
+#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE",FR: ANIMAUX HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1867.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: CHASSE & PHE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1868.ts
+#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE",FR: TREK HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1869.ts
+#EXTINF:0 tvg-id="France24fr.fr" group-title="FRANCE",FR: France 24 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1870.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: DJAZZ HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1871.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: CLIQUE TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1872.ts
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="FRANCE",FR: CANAL+ HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1873.ts
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE",FR: CANAL+ CINEMA HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1874.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: CANAL+DECALE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1875.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: CANAL+ KIDS HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1876.ts
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE",FR: CANAL+ SERIE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1877.ts
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FRANCE",FR: CINE+ EMOTION HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1878.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRANCE",FR: CINE+ PREMIER HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1879.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FRANCE",FR: CINE+ FRISSON HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1880.ts
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE",FR: CINE+ FAMIZ HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1881.ts
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE",FR: CINE+ CLASSIC HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1882.ts
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FRANCE",FR: CINE+ CLUB HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1883.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: CINE POLAR + HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1884.ts
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="FRANCE",FR: OCS MAX HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1885.ts
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FRANCE",FR: OCS CITY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1886.ts
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="FRANCE",FR: OCS GEANTS HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1887.ts
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FRANCE",FR: OCS CHOC HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1888.ts
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="FRANCE",FR: SERIE CLUB HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1889.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: COMEDY CENTRAL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1891.ts
+#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE",FR: COMEDIE+ HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1892.ts
+#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE",FR: Action HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1893.ts
+#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE",FR: TCM CINEMA HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1894.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: WARNER TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1895.ts
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE",FR: PARAMOUNT HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1896.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: CANAL PLAY 03
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1899.ts
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FRANCE",FR: DISNEY CHANNEL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1907.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: DISNEY CHANNEL+1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1908.ts
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FRANCE",FR: DISNEY JUNIOR HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1909.ts
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FRANCE",FR: CARTOON NETWORK  HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1910.ts
+#EXTINF:0 tvg-id="NickJr.fr" group-title="FRANCE",FR: NICKELODEON JUNIOR HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1911.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: NICKELODEON 4 TEEN HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1912.ts
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE",FR: NICKELODEON HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1913.ts
+#EXTINF:0 tvg-id="BabyTV.fr" group-title="FRANCE",FR: BABY TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1914.ts
+#EXTINF:0 tvg-id="PIWI.fr" group-title="FRANCE",FR: Piwi HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1915.ts
+#EXTINF:0 tvg-id="Tiji.fr" group-title="FRANCE",FR: TIJI HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1916.ts
+#EXTINF:0 tvg-id="Gulli.fr" group-title="FRANCE",FR: GULLI HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1917.ts
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE",FR: CANAL J HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1918.ts
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="FRANCE",FR: BOOMERANG HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1919.ts
+#EXTINF:0 tvg-id="Boing.fr" group-title="FRANCE",FR: BOING HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1920.ts
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="FRANCE",FR: TELETOON+ HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1921.ts
+#EXTINF:0 tvg-id="JOne.fr" group-title="FRANCE",FR: J-ONE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1922.ts
+#EXTINF:0 tvg-id="GameOne.fr" group-title="FRANCE",FR: GAME ONE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1923.ts
+#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE",FR: MANGAS HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1924.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: ========= AMAZON PRIME =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1925.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: PRIME VIDEO LIGUE 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1926.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: PRIME VIDEO LIGUE 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1927.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: PRIME VIDEO LIGUE 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1928.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: PRIME VIDEO LIGUE 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1929.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: PRIME VIDEO LIGUE 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1930.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: PRIME VIDEO LIGUE 6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1931.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: PRIME VIDEO LIGUE 7 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1932.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: PRIME VIDEO LIGUE 8 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1933.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: ========= RMC SPORTS =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1934.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE",FR: RMC SPORT 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1935.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE",FR: RMC SPORT 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1936.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="FRANCE",FR: RMC SPORT 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1937.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1938.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1939.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1940.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 7 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1941.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 8 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1942.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 9 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1943.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 10 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1944.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 11 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1945.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 12 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1946.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 13 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1947.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: RMC SPORT LIVE 14 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1948.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: ========= BEIN SPORTS =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1949.ts
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="FRANCE",FR: BEIN SPORT 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1950.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="FRANCE",FR: BEIN SPORT 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1951.ts
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="FRANCE",FR: BEIN SPORT 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1952.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: BEIN SPORT MAX 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1953.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: BEIN SPORT MAX 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1954.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: BEIN SPORT MAX 6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1955.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: BEIN SPORT MAX 7 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1956.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: BEIN SPORT MAX 8 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1957.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: BEIN SPORT MAX 9 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1958.ts
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="FRANCE",FR: BEIN SPORT MAX 10 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1959.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: ========= FRANCE SPORT =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1960.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FRANCE",FR: CANAL+ SPORT HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1961.ts
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="FRANCE",FR: EUROSPORT 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1962.ts
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FRANCE",FR: EUROSPORT 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1963.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: L'EQUIPE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1964.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: FOOT+ 24  HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1965.ts
+#EXTINF:0 tvg-id="Infosport.fr" group-title="FRANCE",FR: INFOSPORT+ HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1966.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: AUTOMOTO HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1967.ts
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE",FR: EQUIDIA LIVE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1968.ts
+#EXTINF:0 tvg-id="Golf.fr" group-title="FRANCE",FR: GOLF CHANNEL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1970.ts
+#EXTINF:0 tvg-id="Golf.fr" group-title="FRANCE",FR: GOLF + HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1971.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: ES1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1972.ts
 
-#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",Film Stinet
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/76
-#EXTINF:0 tvg-id="3plus.ch" group-title="➤ Seriale•",3 plus
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/89
-#EXTINF:0 tvg-id="JollyHD.al" group-title="➤ Seriale•",Jolly HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/88
-#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",TDC seriale
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/334
-#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",Tring novelas
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/407
-#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",Kanal D drama
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/136
-#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",EPISODE TV
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/432
-#EXTINF:0 tvg-id="ext" group-title="➤ Seriale•",tëvë novela
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/435
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",========= NETHERLANDS =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1298.ts
+#EXTINF:0 tvg-id="NPO1.nl" group-title="NIDERLANDE",NL: NPO 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1299.ts
+#EXTINF:0 tvg-id="NPO2.nl" group-title="NIDERLANDE",NL: NPO 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1300.ts
+#EXTINF:0 tvg-id="NPO3.nl" group-title="NIDERLANDE",NL: NPO 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1301.ts
+#EXTINF:0 tvg-id="RTL4.nl" group-title="NIDERLANDE",NL: RTL 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1302.ts
+#EXTINF:0 tvg-id="RTL5.nl" group-title="NIDERLANDE",NL: RTL 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1303.ts
+#EXTINF:0 tvg-id="SBS6.nl" group-title="NIDERLANDE",NL: SBS 6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1304.ts
+#EXTINF:0 tvg-id="RTL7.nl" group-title="NIDERLANDE",NL: RTL 7 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1305.ts
+#EXTINF:0 tvg-id="RTL8.nl" group-title="NIDERLANDE",NL: RTL 8 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1306.ts
+#EXTINF:0 tvg-id="SBS9.nl" group-title="NIDERLANDE",NL: SBS 9 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1307.ts
+#EXTINF:0 tvg-id="NET5.nl" group-title="NIDERLANDE",NL: NET 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1308.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: VERONICA DISNEY XD HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1309.ts
+#EXTINF:0 tvg-id="FOX.nl" group-title="NIDERLANDE",NL: FOX HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1310.ts
+#EXTINF:0 tvg-id="RTLZ.nl" group-title="NIDERLANDE",NL: RTL Z HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1311.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: COMEDY CENTRAL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1312.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: COMEDY CENTRAL EXTRA SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1313.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: NPO 1 EXTRA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1314.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: RTL LOUNGE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1316.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: RTL CRIME HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1317.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: AT 5 SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1323.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: OMROEP BRABANT TELEVISIE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1325.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: OMROP FRYSLAN HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1326.ts
+#EXTINF:0 tvg-id="Spike.nl" group-title="NIDERLANDE",NL: SPIKE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1329.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: XITE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1330.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: E! HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1331.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: ONS SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1332.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: TV NOORD SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1333.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: TV GELDERLAND SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1334.ts
+#EXTINF:0 tvg-id="538.nl" group-title="NIDERLANDE",NL: TV 538
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1338.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: L1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1339.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",========= SPORT =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1343.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: EUROSPORT 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1344.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: EUROSPORT 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1345.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: ESPN 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1346.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: ESPN 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1347.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: ESPN 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1348.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: ESPN 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1349.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: ZIGGO SPORTS HD+
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1350.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: ZIGGO SPORT VOETBOL HD+
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1351.ts
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="NIDERLANDE",NL: ZIGGO SPORT SELECT HD+
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1352.ts
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="NIDERLANDE",NL: ZIGGO SPORT GOLF HD+
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1355.ts
+#EXTINF:0 tvg-id="ZiggoSportRacing.nl" group-title="NIDERLANDE",NL: ZIGGO SPORT RACING HD+
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1356.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",========= FILM =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1360.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: FILM 1 PREMIERE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1361.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: FILM 1 ACTION HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1362.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: FILM 1 FAMILY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1363.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: FILM 1 DRAMA HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1364.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",========= DOCUMENTARY =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1365.ts
+#EXTINF:0 tvg-id="TLC.nl" group-title="NIDERLANDE",NL: TLC HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1366.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: NAT GEOGRAPHIC HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1367.ts
+#EXTINF:0 tvg-id="NGCWild.be" group-title="NIDERLANDE",NL: NAT GEO WILD HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1368.ts
+#EXTINF:0 tvg-id="AnimalPlanet.nl" group-title="NIDERLANDE",NL: ANIMAL PLANET HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1369.ts
+#EXTINF:0 tvg-id="DiscoveryHD.be" group-title="NIDERLANDE",NL: DISCOVERY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1370.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: DISCOVERY ID HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1371.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: DISCOVERY SCIENCE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1373.ts
+#EXTINF:0 tvg-id="HistoryHD.be" group-title="NIDERLANDE",NL: HISTORY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1374.ts
+#EXTINF:0 tvg-id="CrimeAndInvestigation.nl" group-title="NIDERLANDE",NL: CRIME INVESTIGATION SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1377.ts
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="NIDERLANDE",NL: 24 KITCHEN HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1380.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",========= MUSIC =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1381.ts
+#EXTINF:0 tvg-id="mtv.nl" group-title="NIDERLANDE",NL: MTV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1382.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: MTV 80
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1383.ts
+#EXTINF:0 tvg-id="MTVMusic24.nl" group-title="NIDERLANDE",NL: MTV MUSIC 24 SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1384.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: MTV 90
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1385.ts
+#EXTINF:0 tvg-id="SLAM!TV.nl" group-title="NIDERLANDE",NL: SLAM TV SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1386.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: 100 NL SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1388.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: 192 TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1389.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: TV ORANJE HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1390.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: MEZZO
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1391.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",========= KIDS =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1394.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: RTL TELEKIDS HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1395.ts
+#EXTINF:0 tvg-id="DisneyChannel.nl" group-title="NIDERLANDE",NL: DISNEY CHANNEL HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1396.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: CARTOON NETWORK HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1397.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: NICKELODEON HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1398.ts
+#EXTINF:0 tvg-id="NickJr.nl" group-title="NIDERLANDE",NL: NICK JR SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1399.ts
+#EXTINF:0 tvg-id="NickToons.nl" group-title="NIDERLANDE",NL: NICKTOONS SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1400.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: BOOMERANG HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1402.ts
+#EXTINF:0 tvg-id="BabyTV.nl" group-title="NIDERLANDE",NL: BABY TV SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1406.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",========= NIEUWS =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1407.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: NPO NIEUWS SD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1408.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: HBO 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2642.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: HBO 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2643.ts
+#EXTINF:0 tvg-id="ext" group-title="NIDERLANDE",NL: HBO 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2644.ts
 
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",PipoTV Music ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/214
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",PipoTV Folk ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/212
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",PipoTV Tallava ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/239
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",PipoTV Çifteli ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/216
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",My music HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/387
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Top Estrada TV HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/337
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",GJOLLI MUZIKE
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/246
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Shota tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/245
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Rtv ilirida music
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/230
-#EXTINF:0 tvg-id="21Popullore.al" group-title="➤ Muzik •",Rtv 21 popullore
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/219
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Kopliku
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/56
-#EXTINF:0 tvg-id="FolkPlus.al" group-title="➤ Muzik •",Folk plus
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/45
-#EXTINF:0 tvg-id="BBF.al" group-title="➤ Muzik •",bbf
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/42
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Rtv Sharri HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/386
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Turbo Channel HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/424
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",Klan Music HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/425
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",AMOL HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/426
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",DARK Popullore HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/427
-#EXTINF:0 tvg-id="ext" group-title="➤ Muzik •",DARK Hits HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/428
-#EXTINF:0 tvg-id="Balkanika.svn" group-title="➤ Muzik •",Balkanika HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/379
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",========= BELGIUM =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1410.ts
+#EXTINF:0 tvg-id="een.be" group-title="BELGIE",BE: een HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1411.ts
+#EXTINF:0 tvg-id="Canvas.be" group-title="BELGIE",BE: Canvas HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1412.ts
+#EXTINF:0 tvg-id="Vtm.be" group-title="BELGIE",BE: VTM HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1413.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: VTM 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1414.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: VTM 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1415.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: VTM 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1416.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Vier HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1417.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Vijf HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1418.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Zes HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1419.ts
+#EXTINF:0 tvg-id="AB3.be" group-title="BELGIE",BE: AB3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1420.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Ketnet HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1422.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: TVO HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1423.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Eleven Sports 1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1424.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Eleven Sports 2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1425.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Voo Sport 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1426.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Voo Sport 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1427.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Voo Sport World 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1428.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: Voo Sport World 2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1429.ts
+#EXTINF:0 tvg-id="ext" group-title="BELGIE",BE: VTM Kids / Kanal Z
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1430.ts
 
-#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV çka ka shpija 24/7 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/204
-#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV Humor ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/240
-#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV Portokalli 24/7 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/326
-#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV Al pazar 24/7 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/327
-#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",PipoTV Hetuesia 24/7 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/344
-#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",B Rexhepovit dhe Mamutovit HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/336
-#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",B Tregim Popullor HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/338
-#EXTINF:0 tvg-id="ext" group-title="➤ Humor & argetim•",Alb Humor HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/377
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",========= PORTUGAL =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/500.ts
+#EXTINF:0 tvg-id="rtp1.pt" group-title="PORTUGAL",PT: RTP 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/288.ts
+#EXTINF:0 tvg-id="rtp1.pt" group-title="PORTUGAL",PT: RTP 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/289.ts
+#EXTINF:0 tvg-id="rtp2.pt" group-title="PORTUGAL",PT: RTP 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/291.ts
+#EXTINF:0 tvg-id="rtp2.pt" group-title="PORTUGAL",PT: RTP 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/292.ts
+#EXTINF:0 tvg-id="sic.pt" group-title="PORTUGAL",PT: SIC FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/294.ts
+#EXTINF:0 tvg-id="sic.pt" group-title="PORTUGAL",PT: SIC HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/295.ts
+#EXTINF:0 tvg-id="TVI.pt" group-title="PORTUGAL",PT: TVI FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/297.ts
+#EXTINF:0 tvg-id="TVI.pt" group-title="PORTUGAL",PT: TVI HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/298.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",========= INFORMACAO =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/300.ts
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="PORTUGAL",PT: SIC NOTICIAS FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/301.ts
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="PORTUGAL",PT: SIC NOTICIAS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/302.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CNN PORTUGAL FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/303.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CNN PORTUGAL
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/304.ts
+#EXTINF:0 tvg-id="CMTV.pt" group-title="PORTUGAL",PT: CMTV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/305.ts
+#EXTINF:0 tvg-id="CMTV.pt" group-title="PORTUGAL",PT: CMTV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/306.ts
+#EXTINF:0 tvg-id="RTP3.pt" group-title="PORTUGAL",PT: RTP 3 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/308.ts
+#EXTINF:0 tvg-id="RTP3.pt" group-title="PORTUGAL",PT: RTP 3
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/309.ts
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="PORTUGAL",PT: RTP MEMORIA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/310.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CNN
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/311.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: SKY NEWS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/312.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: EURONEWS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/313.ts
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="PORTUGAL",PT: RECORD NEWS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/314.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CNBC EUROPE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/315.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: BBC WORLD NEWS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/316.ts
+#EXTINF:0 tvg-id="ARTV.pt" group-title="PORTUGAL",PT: ARTV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/317.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",========= ENTRETENIMENTO =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/318.ts
+#EXTINF:0 tvg-id="sicradical.pt" group-title="PORTUGAL",PT: SIC RADICAL FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/320.ts
+#EXTINF:0 tvg-id="sicradical.pt" group-title="PORTUGAL",PT: SIC RADICAL
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/321.ts
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="PORTUGAL",PT: SIC MULHER FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/322.ts
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="PORTUGAL",PT: SIC MULHER
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/323.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: SIC CARAS FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/324.ts
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="PORTUGAL",PT: SIC CARAS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/325.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVI FICCAO FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/326.ts
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="PORTUGAL",PT: TVI FICCAO
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/327.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVI REALITY FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/328.ts
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="PORTUGAL",PT: TVI REALITY
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/329.ts
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="PORTUGAL",PT: TVI REALITY MOSAICO
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/330.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVI REALITY CAMARA 1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/331.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVI REALITY CAMARA 2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/332.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVI REALITY CAMARA 3
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/333.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVI REALITY CAMARA 4
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/334.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CASA E COZINHA FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/335.ts
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="PORTUGAL",PT: 24 KITCHEN FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/336.ts
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="PORTUGAL",PT: CANAL Q
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/337.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",========= DESPORTO =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/338.ts
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="PORTUGAL",PT: SPORT TV + FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/339.ts
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="PORTUGAL",PT: SPORT TV + HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/340.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",PT: SPORT TV 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/342.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",PT: SPORT TV 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/343.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",PT: SPORT TV 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/345.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",PT: SPORT TV 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/346.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",PT: SPORT TV 3 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/348.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",PT: SPORT TV 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/349.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",PT: SPORT TV 4 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/351.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",PT: SPORT TV 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/352.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="PORTUGAL",PT: SPORT TV 5 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/354.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="PORTUGAL",PT: SPORT TV 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/355.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: SPORT TV 6  FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/357.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: SPORT TV NBA FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/358.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/359.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/360.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/362.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/363.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/365.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/366.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/368.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/369.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/371.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/372.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/374.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/375.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CANAL 11 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/377.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: A BOLA TV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/379.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: A BOLA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/380.ts
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="PORTUGAL",PT: BTV 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/381.ts
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="PORTUGAL",PT: BTV 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/382.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: PORTO CANAL FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/384.ts
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="PORTUGAL",PT: PORTO CANAL
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/385.ts
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",PT: SPORTING TV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/386.ts
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",PT: SPORTING TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/387.ts
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="PORTUGAL",PT: EUROSPORT 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/388.ts
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="PORTUGAL",PT: EUROSPORT 1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/389.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Eurosport 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/390.ts
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="PORTUGAL",PT: EUROSPORT 2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/391.ts
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="PORTUGAL",PT: CACAVISION
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/392.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CAZA y PESCA FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/393.ts
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="PORTUGAL",PT: TOROS TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/394.ts
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="PORTUGAL",PT: MOTORVISION FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/396.ts
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="PORTUGAL",PT: MOTORVISION
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/397.ts
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="PORTUGAL",PT: FUEL TV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/398.ts
+#EXTINF:0 tvg-id="pfc.pt" group-title="PORTUGAL",PT: PFC
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/399.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",========= TV FILMES =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/400.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: NOS STUDIOS FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/401.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCINE TOP FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/402.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCINE TOP
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/403.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCINE EDITION FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/404.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCINE EDITION
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/405.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCINE EMOTION FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/406.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCINE EMOTION
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/407.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCINE ACTION FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/408.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCINE ACTION
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/409.ts
+#EXTINF:0 tvg-id="hollywood.pt" group-title="PORTUGAL",PT: HOLLYWOOD FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/410.ts
+#EXTINF:0 tvg-id="hollywood.pt" group-title="PORTUGAL",PT: HOLLYWOOD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/411.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: AXN MOVIES FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/412.ts
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="PORTUGAL",PT: FOX MOVIES FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/413.ts
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="PORTUGAL",PT: FOX MOVIES
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/414.ts
+#EXTINF:0 tvg-id="AMC.pt" group-title="PORTUGAL",PT: AMC FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/415.ts
+#EXTINF:0 tvg-id="AMC.pt" group-title="PORTUGAL",PT: AMC
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/416.ts
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="PORTUGAL",PT: CINEMUNDO FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/417.ts
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="PORTUGAL",PT: CINEMUNDO
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/418.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",========= TV SERIES =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/419.ts
+#EXTINF:0 tvg-id="axn.pt" group-title="PORTUGAL",PT: AXN FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/420.ts
+#EXTINF:0 tvg-id="axn.pt" group-title="PORTUGAL",PT: AXN
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/421.ts
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="PORTUGAL",PT: AXN WHITE FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/422.ts
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="PORTUGAL",PT: AXN WHITE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/423.ts
+#EXTINF:0 tvg-id="fox.pt" group-title="PORTUGAL",PT: FOX FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/424.ts
+#EXTINF:0 tvg-id="fox.pt" group-title="PORTUGAL",PT: FOX
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/425.ts
+#EXTINF:0 tvg-id="foxlife.pt" group-title="PORTUGAL",PT: FOX LIFE FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/426.ts
+#EXTINF:0 tvg-id="foxlife.pt" group-title="PORTUGAL",PT: FOX LIFE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/427.ts
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="PORTUGAL",PT: FOX CRIME FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/428.ts
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="PORTUGAL",PT: FOX CRIME
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/429.ts
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="PORTUGAL",PT: FOX COMEDY FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/430.ts
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="PORTUGAL",PT: FOX COMEDY
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/431.ts
+#EXTINF:0 tvg-id="SyFy.pt" group-title="PORTUGAL",PT: SYFY FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/432.ts
+#EXTINF:0 tvg-id="SyFy.pt" group-title="PORTUGAL",PT: SYFY
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/433.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",========= INFANTIL =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/434.ts
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="PORTUGAL",PT: DISNEY CHANNEL
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/435.ts
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="PORTUGAL",PT: DISNEY JUNIOR
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/436.ts
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PT: BIGGS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/437.ts
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="PORTUGAL",PT: CANAL PANDA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/438.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: SIC K HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/439.ts
+#EXTINF:0 tvg-id="SicK.pt" group-title="PORTUGAL",PT: SIC K
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/440.ts
+#EXTINF:0 tvg-id="JimJam.pt" group-title="PORTUGAL",PT: JIM JAM
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/441.ts
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="PORTUGAL",PT: NICKELODEON
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/442.ts
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="PORTUGAL",NICK JR.
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/443.ts
+#EXTINF:0 tvg-id="cartoon.pt" group-title="PORTUGAL",PT: CARTOON NETWORK
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/444.ts
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="PORTUGAL",BABY TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/445.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",========= MUSICA =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/446.ts
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="PORTUGAL",MTV PORTUGAL FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/447.ts
+#EXTINF:0 tvg-id="mcmtop.pt" group-title="PORTUGAL",PT: MCM TOP
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/448.ts
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="PORTUGAL",PT: MCM POP
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/449.ts
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="PORTUGAL",PT: AFRO MUSIC
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/450.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TRACE TOCA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/451.ts
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="PORTUGAL",PT: TRACE URBAN
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/452.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: MEZZO HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/454.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",========= DOCUMENTARIOS =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/456.ts
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="PORTUGAL",PT: TRAVEL CHANNEL FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/457.ts
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/458.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/459.ts
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="PORTUGAL",PT: National Geographic FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/460.ts
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="PORTUGAL",PT: National Geographic
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/461.ts
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="PORTUGAL",PT: National Geographic WILD FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/462.ts
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="PORTUGAL",PT: Nat Geo Wild
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/463.ts
+#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="PORTUGAL",PT: DISCOVERY CHANNEL FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/464.ts
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/465.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ODISSEIA FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/466.ts
+#EXTINF:0 tvg-id="odisseia.pt" group-title="PORTUGAL",PT: ODISSEIA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/467.ts
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="PORTUGAL",PT: HISTORIA FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/468.ts
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="PORTUGAL",PT: HISTORIA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/469.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: FTV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/470.ts
+#EXTINF:0 tvg-id="TLC.pt" group-title="PORTUGAL",PT: TLC
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/471.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: BLAZE FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/472.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: BLAZE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/473.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CANAL 180
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/474.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: KURIAKOS TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/476.ts
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="PORTUGAL",PT: CBS REALITY
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/477.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CRIME INVESTIGATION FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/478.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CRIME INVESTIGATION
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/479.ts
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="PORTUGAL",PT: BBC ENTERTAINMENT
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/480.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: BLOOMBERG
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/481.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",------========= INTERNACIONAL =========----
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/482.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: GLOBO FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/483.ts
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="PORTUGAL",PT: GLOBO
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/484.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: GLOBO NOW FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/485.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: GLOBO NOW
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/486.ts
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="PORTUGAL",PT: TV RECORD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/487.ts
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="PORTUGAL",PT: RTP MADEIRA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/488.ts
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="PORTUGAL",PT: RTP ACORES
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/489.ts
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="PORTUGAL",PT: RTP AFRICA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/490.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: FRANCE 24 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/491.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: M6 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/492.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TV5 MONDE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/493.ts
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="PORTUGAL",PT: TVE INTERNACIONAL
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/494.ts
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="PORTUGAL",PT: TVE 24H
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/495.ts
+#EXTINF:0 tvg-id="TVGalicia.pt" group-title="PORTUGAL",PT: TV GALICIA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/496.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVC NEWS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/497.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ZAP VIVA
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/498.ts
+#EXTINF:0 tvg-id="TPAInt.pt" group-title="PORTUGAL",PT: TPA INTERNACIONAL
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/499.ts
 
-#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",Elvis Naci ( histori motivuse ) 24/7
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/339
-#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",MetiTV  Ilahi ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/358
-#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",Rtv pendimi
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/43
-#EXTINF:0 tvg-id="PeaceTV.uk" group-title="➤ Fetare •",Peace tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/44
-#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",Rtv islam
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/158
-#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",JETIMAT E BALLKANIT
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/341
-#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",B  Ilahi HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/342
-#EXTINF:0 tvg-id="ext" group-title="➤ Fetare •",B Ligjerata Islame HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/343
-#EXTINF:0 tvg-id="opoja.tv" group-title="➤ Fetare •",TV Opoja
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/434
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",========= POLONIA =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/877.ts
+#EXTINF:0 tvg-id="13Ulica.pl" group-title="POLONIA",PL: 13 Ulica FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/878.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: 4Fun Dance
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/879.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: 4Fun Gold Hits
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/880.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: 4Fun.TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/881.ts
+#EXTINF:0 tvg-id="FamilySport.pl" group-title="POLONIA",PL: Active Family
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/882.ts
+#EXTINF:0 tvg-id="Adventure.pl" group-title="POLONIA",PL: Adventure FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/883.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Ale kino+ FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/884.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: AMC FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/885.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Animal Planet FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/886.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: AXN
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/887.ts
+#EXTINF:0 tvg-id="AXNBlack.pl" group-title="POLONIA",PL: AXN Black
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/888.ts
+#EXTINF:0 tvg-id="AXN.pl" group-title="POLONIA",PL: AXN FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/889.ts
+#EXTINF:0 tvg-id="AXNSpinHD.pl" group-title="POLONIA",PL: AXN SPIN FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/890.ts
+#EXTINF:0 tvg-id="AXNWhite.pl" group-title="POLONIA",PL: AXN White
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/891.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: BBC Brit FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/892.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: BBC Cbeebies
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/893.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: BBC Earth FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/894.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: BBC FIRST FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/895.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Boomerang FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/896.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+ DOKUMENT FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/897.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+ FAMILY HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/898.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+ FILM FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/899.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+ NOW FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/900.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+ PREMIUM FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/901.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+ SERIALE FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/902.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+ SPORT 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/904.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+ SPORT 3 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/905.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+ SPORT 4 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/906.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CANAL+1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/907.ts
+#EXTINF:0 tvg-id="CartoonNetwork.pl" group-title="POLONIA",PL: Cartoon Network FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/908.ts
+#EXTINF:0 tvg-id="CBSEuropa.pl" group-title="POLONIA",PL: CBS Europa FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/909.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: CBS Reality FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/910.ts
+#EXTINF:0 tvg-id="Cinemax2.pl" group-title="POLONIA",PL: Cinemax 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/912.ts
+#EXTINF:0 tvg-id="CinemaxHD.pl" group-title="POLONIA",PL: Cinemax FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/913.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Comedy Central FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/914.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Da Vinci
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/915.ts
+#EXTINF:0 tvg-id="DiscoPoloMusic.pl" group-title="POLONIA",PL: Disco Polo Music
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/916.ts
+#EXTINF:0 tvg-id="Discovery.pl" group-title="POLONIA",PL: Discovery FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/917.ts
+#EXTINF:0 tvg-id="DiscoveryHistoria.pl" group-title="POLONIA",PL: Discovery Historia
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/918.ts
+#EXTINF:0 tvg-id="DiscoveryLife.pl" group-title="POLONIA",PL: Discovery Life FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/919.ts
+#EXTINF:0 tvg-id="DiscoveryScience.pl" group-title="POLONIA",PL: Discovery Science FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/920.ts
+#EXTINF:0 tvg-id="DisneyChannel.pl" group-title="POLONIA",PL: Disney Channel FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/921.ts
+#EXTINF:0 tvg-id="DisneyJr.pl" group-title="POLONIA",PL: Disney Junior
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/922.ts
+#EXTINF:0 tvg-id="DisneyXD.pl" group-title="POLONIA",PL: Disney XD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/923.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: DOMO+ FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/924.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: DTX FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/925.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: E! Entertainment FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/926.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Eleven Sports 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/928.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Eleven Sports 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/931.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: ELEVEN SPORTS 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/933.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Epic Drama FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/934.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Eska Rock
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/935.ts
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="POLONIA",PL: Eska TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/936.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Eska TV Extra
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/937.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Eleven Sports 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/938.ts
+#EXTINF:0 tvg-id="Eurosport.pl" group-title="POLONIA",PL: Eurosport 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/939.ts
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="POLONIA",PL: Eurosport 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/941.ts
+#EXTINF:0 tvg-id="ExtremeSports.pl" group-title="POLONIA",PL: Extreme Sports HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/943.ts
+#EXTINF:0 tvg-id="FightBox.pl" group-title="POLONIA",PL: Fightbox FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/944.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Fightklub FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/945.ts
+#EXTINF:0 tvg-id="FilmboxAction.pl" group-title="POLONIA",PL: FilmBox Action
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/946.ts
+#EXTINF:0 tvg-id="FilmboxArthouse.pl" group-title="POLONIA",PL: Filmbox Arthouse
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/947.ts
+#EXTINF:0 tvg-id="FilmboxExtra.pl" group-title="POLONIA",PL: FilmBox Extra FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/948.ts
+#EXTINF:0 tvg-id="FilmboxFamily.pl" group-title="POLONIA",PL: FilmBox Family
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/949.ts
+#EXTINF:0 tvg-id="FilmboxPremium.pl" group-title="POLONIA",PL: Filmbox Premium FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/950.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Fokus TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/951.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Food Network FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/952.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: FOX
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/953.ts
+#EXTINF:0 tvg-id="FoxComedy.pl" group-title="POLONIA",PL: Fox Comedy
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/954.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Fox Comedy FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/955.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: FOX FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/956.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Golf Channel
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/957.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: HBO1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/958.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: HBO2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/959.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: HBO3 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/960.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: HGTV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/961.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: History 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/962.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: History FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/963.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: ID FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/964.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: KINO POLSKA FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/965.ts
+#EXTINF:0 tvg-id="KinoPolskaMuzyka.pl" group-title="POLONIA",PL: Kino Polska Muzyka
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/966.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Kino TV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/967.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: KSW PPV FHD [Live During Events Only]
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/968.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Kuchnia+ FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/969.ts
+#EXTINF:0 tvg-id="Metro.pl" group-title="POLONIA",PL: Metro
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/971.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: MiniMini+ FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/972.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: MTV Rocks
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/977.ts
+#EXTINF:0 tvg-id="NatGeoPeople.pl" group-title="POLONIA",PL: Nat Geo People FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/978.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: NATIONAL GEO FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/979.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: National Geographic Wild
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/980.ts
+#EXTINF:0 tvg-id="NickJr.pl" group-title="POLONIA",PL: Nick Jr
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/981.ts
+#EXTINF:0 tvg-id="NickPolska.pl" group-title="POLONIA",PL: Nickelodeon
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/982.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Nicktoons FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/983.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: NOVELA TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/984.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Nowa TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/986.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: nSport+
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/987.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Nuta. TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/988.ts
+#EXTINF:0 tvg-id="Paramount.pl" group-title="POLONIA",PL: Paramount Channel FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/989.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Planete+ FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/990.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polo TV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/991.ts
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="POLONIA",PL: Polsat 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/992.ts
+#EXTINF:0 tvg-id="PolsatCafe.pl" group-title="POLONIA",PL: Polsat Cafe FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/993.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Comedy Central Extra
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/994.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Doku FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/995.ts
+#EXTINF:0 tvg-id="Polsat.pl" group-title="POLONIA",PL: Polsat FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/996.ts
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="POLONIA",PL: Polsat Film FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/997.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Jim Jam
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/999.ts
+#EXTINF:0 tvg-id="PolsatNews2.pl" group-title="POLONIA",PL: Polsat News 2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1001.ts
+#EXTINF:0 tvg-id="PolsatNews.pl" group-title="POLONIA",PL: Polsat News FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1002.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Play FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1003.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Rodzina
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1005.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Seriale HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1007.ts
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="POLONIA",PL: Polsat Sport FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1010.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Sport Fight FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1011.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Sport Fight HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1012.ts
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="POLONIA",PL: Polsat Sport HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1013.ts
+#EXTINF:0 tvg-id="PolsatSportNews.pl" group-title="POLONIA",PL: Polsat Sport News HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1015.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Sport Premium 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1016.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Sport Premium 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1017.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Sport Premium PPV 3
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1018.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Sport Premium PPV 4
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1019.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Sport Premium PPV 5
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1020.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Sport Premium PPV 6
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1021.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Viasat Explore FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1022.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Viasat History FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1023.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Polsat Viasat Nature FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1024.ts
+#EXTINF:0 tvg-id="TVPuls2.pl" group-title="POLONIA",PL: Puls 2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1025.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Red Carpet TV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1026.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Romance TV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1027.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: SciFi FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1028.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Sportklub FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1029.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: STARS.TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1030.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Stopklatka
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1031.ts
+#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="POLONIA",PL: Sundance FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1032.ts
+#EXTINF:0 tvg-id="SuperPolsat.pl" group-title="POLONIA",PL: Super Polsat
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1033.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: TELE 5
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1035.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: teleTOON+ FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1036.ts
+#EXTINF:0 tvg-id="TLC.pl" group-title="POLONIA",PL: TLC FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1037.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: WB TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1038.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Travel Channel FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1039.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: TTV FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1040.ts
+#EXTINF:0 tvg-id="TVPuls.pl" group-title="POLONIA",PL: TV PULS FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1042.ts
+#EXTINF:0 tvg-id="TVrepublika.pl" group-title="POLONIA",PL: TV Republika
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1043.ts
+#EXTINF:0 tvg-id="TV4.pl" group-title="POLONIA",PL: TV4 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1044.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: TV6 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1045.ts
+#EXTINF:0 tvg-id="TVN24.pl" group-title="POLONIA",PL: TVN 24 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1046.ts
+#EXTINF:0 tvg-id="TVN7.pl" group-title="POLONIA",PL: TVN 7 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1047.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: TVN Fabula
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1048.ts
+#EXTINF:0 tvg-id="TVN.pl" group-title="POLONIA",PL: TVN FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1049.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: TVN Style FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1050.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: TVN Turbo FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1051.ts
+#EXTINF:0 tvg-id="TVP1.pl" group-title="POLONIA",PL: TVP 1 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1053.ts
+#EXTINF:0 tvg-id="TVP2.pl" group-title="POLONIA",PL: TVP 2 FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1054.ts
+#EXTINF:0 tvg-id="TVP3.pl" group-title="POLONIA",PL: TVP 3
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1055.ts
+#EXTINF:0 tvg-id="TVPABC.pl" group-title="POLONIA",PL: TVP ABC
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1056.ts
+#EXTINF:0 tvg-id="TVPHistoria.pl" group-title="POLONIA",PL: TVP Historia
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1058.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: TVP INFO FHD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1059.ts
+#EXTINF:0 tvg-id="TVPKultura.pl" group-title="POLONIA",PL: TVP Kultura
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1060.ts
+#EXTINF:0 tvg-id="TVPRozrywka.pl" group-title="POLONIA",PL: TVP Rozrywka
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1061.ts
+#EXTINF:0 tvg-id="TVPSeriale.pl" group-title="POLONIA",PL: TVP SERIALE
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1062.ts
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="POLONIA",PL: TVP Sport HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1064.ts
+#EXTINF:0 tvg-id="TVS.pl" group-title="POLONIA",PL: TVS
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1065.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: VH1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1066.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: VOD 205
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1067.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: VOD 206
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1068.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: VOD 207
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1069.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: VOD 208
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1070.ts
+#EXTINF:0 tvg-id="VoxMusicTV.pl" group-title="POLONIA",PL: VOX Music TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1071.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: WP
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1072.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: wPolsce.pl
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1073.ts
+#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: Zoom TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/1074.ts
 
-#EXTINF:0 tvg-id="EXPShkence.al" group-title="➤ Dokumentar•",Explorer Shkence
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/101
-#EXTINF:0 tvg-id="EXPHistori.al" group-title="➤ Dokumentar•",Explorer Histori
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/102
-#EXTINF:0 tvg-id="EXPNatyra.al" group-title="➤ Dokumentar•",Explorer Natyra
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/103
-#EXTINF:0 tvg-id="TringPlanet.al" group-title="➤ Dokumentar•",Tring planet
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/104
-#EXTINF:0 tvg-id="TringWorld.al" group-title="➤ Dokumentar•",Tring World
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/105
-#EXTINF:0 tvg-id="T-Hist.al" group-title="➤ Dokumentar•",Tring history
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/106
-#EXTINF:0 tvg-id="ext" group-title="➤ Dokumentar•",Rtv ilirida dokuementar
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/236
-#EXTINF:0 tvg-id="ext" group-title="➤ Dokumentar•",ART DOKU 1 HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/356
-#EXTINF:0 tvg-id="ext" group-title="➤ Dokumentar•",ART DOKU 2 HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/357
-#EXTINF:0 tvg-id="Living.al" group-title="➤ Dokumentar•",Living HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/376
-
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",PipoTV Fëmije ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/335
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",PipoTV kids ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/208
-#EXTINF:0 tvg-id="TipTv.al" group-title="➤ Fëmije•",Tip TV
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/116
-#EXTINF:0 tvg-id="TringTring.al" group-title="➤ Fëmije•",Tring Tring
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/115
-#EXTINF:0 tvg-id="CufoTV.al" group-title="➤ Fëmije•",Cufo
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/113
-#EXTINF:0 tvg-id="BangBang.al" group-title="➤ Fëmije•",Bang bang
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/112
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Netflix fëmije
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/110
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Rtv ilirida fëmij
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/231
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Rtv arbria femije
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/233
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Tom & jerry
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/242
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",B fëmije HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/292
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Price Kids
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/301
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Sofia TV
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/302
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Bubble tv
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/303
-#EXTINF:0 tvg-id="baby-tv" group-title="➤ Fëmije•",BabyTV
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/305
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Rtv 21 junior
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/380
-#EXTINF:0 tvg-id="ext" group-title="➤ Fëmije•",Peppa pig (italiano) 24/7
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/402
-
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super sport 1 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/119
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super sport 2 Fᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/120
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super sport 2 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/299
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super sport 3 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/121
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super Sport 4 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/122
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Super Sport 5 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/310
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring sport news ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/123
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring sport 1 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/124
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring sport 2 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/125
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring sport 3 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/126
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Tring Sport 4 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/311
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Oversport 1 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/47
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Oversport 2 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/151
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Oversport 3 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/229
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Oversport 4 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/317
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Art Sport 1 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/127
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Art Sport 2 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/128
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Art Sport 3 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/228
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Art sport 4 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/318
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",SS kosova 1 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/429
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",K sport 1 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/133
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",K sport  2 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/134
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",K sport  3 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/135
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Arena Premium 1 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/130
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Arena Premium 2 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/131
-#EXTINF:0 tvg-id="ext" group-title="➤ Sport •",Arena Premium 3 ᴴᴰ
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/132
-
-#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",KS: RTK 1 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/445
-#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",AL: RTSH 1 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/446
-#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",AL: RTSH SPORT
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/439
-#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",BIH: BHT 1 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/447
-#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",MKD: MRT 1 HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/448
-#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",SRB: RTS 1 HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/449
-#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",AR: Bein Sport live cup 2022 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/441
-#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",FR : Bein sport 1 FHD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/442
-#EXTINF:0 tvg-id="ext" group-title="➤World cup 2022 •",AR : Bein sport max 1 HD
-http://metitv.xyz:8080/Bosus-telegram/6kH13hxraaRJldo/444
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",========= ALBANIA  =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2215.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",========= GJENERALISTE KOSOVARE  =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2216.ts
+#EXTINF:0 tvg-id="AlsatM.al" group-title="ALBANIA",ALB: Alsat M HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2217.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Klan Kosova
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2218.ts
+#EXTINF:0 tvg-id="KTV.al" group-title="ALBANIA",ALB: KTV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2219.ts
+#EXTINF:0 tvg-id="RTK.al" group-title="ALBANIA",ALB: RTK 1
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2220.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTK 2
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2221.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTK 3
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2222.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTK 4
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2223.ts
+#EXTINF:0 tvg-id="RTV21.al" group-title="ALBANIA",ALB: RTV 21 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2224.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTV 21 Mix
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2226.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",========= GJENERALISTE SHQIPTARE =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2227.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Klan Plus HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2228.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Klan TV HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2229.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTSH 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2230.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTSH 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2231.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTSH 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2232.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTSH 24
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2233.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTSH Film
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2234.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTSH Gjirokaster
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2235.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTSH Korca
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2236.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTSH Plus
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2237.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: RTSH Shqip
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2238.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: T7
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2239.ts
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="ALBANIA",ALB: Top Channel HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2240.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Vizion+ HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2241.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",========= LAJME =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2242.ts
+#EXTINF:0 tvg-id="ABCNews.al" group-title="ALBANIA",ALB: ABC News
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2243.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Arta TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2244.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Kanali 7
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2245.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: News 24
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2246.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Ora News
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2247.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Report TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2248.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Top News
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2249.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",========= FILMA =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2250.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Film GOLD HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2252.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Film MAX HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2253.ts
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="ALBANIA",ALB: Film Aksion
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2254.ts
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="ALBANIA",ALB: Film Autor
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2255.ts
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="ALBANIA",ALB: Film Drame
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2256.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Eurofilm
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2257.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Film Family
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2258.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Film Hits HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2259.ts
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="ALBANIA",ALB: Film Komedi
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2260.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Film Stinet
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2261.ts
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="ALBANIA",ALB: Film Thriller
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2262.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Sky Aksion
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2263.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Sky Comedy
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2264.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Sky Max
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2265.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",========= TRING =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2266.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: T HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2267.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Tring 3+
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2268.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Tring Action HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2269.ts
+#EXTINF:0 tvg-id="TringComedy.al" group-title="ALBANIA",ALB: Tring Comedy
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2270.ts
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="ALBANIA",ALB: Tring Fantasy
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2271.ts
+#EXTINF:0 tvg-id="T-Hist.al" group-title="ALBANIA",ALB: Tring History
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2272.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Tring Jolly HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2273.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Tring Kids
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2274.ts
+#EXTINF:0 tvg-id="TringLife.al" group-title="ALBANIA",ALB: Tring Life
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2275.ts
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="ALBANIA",ALB: Tring Planet
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2276.ts
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="ALBANIA",ALB: Tring Shqip
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2277.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Smile
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2278.ts
+#EXTINF:0 tvg-id="TringSuper.al" group-title="ALBANIA",ALB: Tring Super
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2279.ts
+#EXTINF:0 tvg-id="TringTring.al" group-title="ALBANIA",ALB: Tring Tring
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2280.ts
+#EXTINF:0 tvg-id="TringWorld.al" group-title="ALBANIA",ALB: Tring World
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2281.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",========= ART MOTION =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2282.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: ART Kino 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2283.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: ART Kino 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2284.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: ART Kino 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2285.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: ART Doku 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2286.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: ART Doku 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2287.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",========= X GOLD =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2288.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Premium 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2289.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Premium 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2290.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Digi Gold 1 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2387.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Digi Gold 2 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2388.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Digi Gold 3 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2291.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Digi Gold 4 HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2292.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",========= KULTURE =========
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2296.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Animal Planet HD
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2390.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Besa TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2297.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Era TV
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2298.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Explorer Histori
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2299.ts
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",ALB: Explorer Natyra
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2300.ts
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="ALBANIA",ALB: Explorer Shkence
+http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2301
