@@ -5,6 +5,8 @@ http://clientportal.link:80/spoky61/spjFeg367/16544
 https://moscow.blackholecdn.cf/TopChannel/video.m3u8?token=xQpu7neJKLYnu1&id=YXNsbGFuaWRhc2hhbWlyNDdAZ21haWwuY29t&ip=203.28.246.100&time=04:02:2023&21:51:33
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1 FHD AL
 http://clientportal.link:80/spoky61/spjFeg367/22814
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel FHD" tvg-logo="" group-title="Live: Albania",AL: Top Channel FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36121
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother 1 HD AL
 http://clientportal.link:80/spoky61/spjFeg367/89640
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother 2 HD AL
