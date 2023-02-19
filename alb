@@ -1,449 +1,165 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg" group-title="Live: Albania",▬ Albania [AL] ▬
-http://clientportal.link:80/spoky61/spjFeg367/16544
-#EXTINF:-1 tvg-id="" tvg-name="Top channel" group-title="Live: Albania",RTK1 (Backup) AL
-https://moscow.blackholecdn.cf/TopChannel/video.m3u8?token=xQpu7neJKLYnu1&id=YXNsbGFuaWRhc2hhbWlyNDdAZ21haWwuY29t&ip=203.28.246.100&time=04:02:2023&21:51:33
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/22814
-#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel FHD" tvg-logo="" group-title="Live: Albania",AL: Top Channel FHD
+#EXTINF:0 tvg-id="RTK.al" group-title="ALBANIA",AL: RTK 1 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36106
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: RTK 2 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36107
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: RTK 3 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36108
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: RTK 4 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36109
+#EXTINF:0 tvg-id="RTV21HD.al" group-title="ALBANIA",AL: RTV 21 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36110
+#EXTINF:0 tvg-id="KTV.al" group-title="ALBANIA",AL: KTV FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36111
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="ALBANIA",AL: Klan Kosova FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36112
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: TV Dukagjini FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36113
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: A TV
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36115
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: Kanal 10
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36116
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: T7 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36117
+#EXTINF:0 tvg-id="AlsatM.al" group-title="ALBANIA",AL: Alsat M FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36119
+#EXTINF:0 tvg-id="AlsatM.al" group-title="ALBANIA",AL: Alsat M
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36120
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="ALBANIA",AL: Top Channel  FHD
 http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36121
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/89640
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother 2 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/89641
-#EXTINF:-1 tvg-id="" tvg-name="RTK 3 AL" tvg-logo="https://picon-13398.kxcdn.com/rtk3al.jpg" group-title="Live: Albania",RTK 3 AL
-http://clientportal.link:80/spoky61/spjFeg367/7036
-#EXTINF:-1 tvg-id="" tvg-name="RTK 4 AL" tvg-logo="https://picon-13398.kxcdn.com/rtk4al.jpg" group-title="Live: Albania",RTK 4 AL
-http://clientportal.link:80/spoky61/spjFeg367/7037
-#EXTINF:-1 tvg-id="RTV21.al" tvg-name="RTV 21 (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="Live: Albania",RTV 21 (Backup) AL
-http://clientportal.link:80/spoky61/spjFeg367/9451
-#EXTINF:-1 tvg-id="RTV21.al" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="Live: Albania",RTV 21 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/3832
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Maqedonia AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21maqedonia.jpg" group-title="Live: Albania",RTV 21 Maqedonia AL
-http://clientportal.link:80/spoky61/spjFeg367/9453
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21mixal.jpg" group-title="Live: Albania",RTV 21 Mix AL
-http://clientportal.link:80/spoky61/spjFeg367/16616
-#EXTINF:-1 tvg-id="KTV.al" tvg-name="KTV Kohavision AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="Live: Albania",KTV Kohavision AL
-http://clientportal.link:80/spoky61/spjFeg367/7065
-#EXTINF:-1 tvg-id="KlanKosova.al" tvg-name="Klan Kosova HD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="Live: Albania",Klan Kosova HD AL
-http://clientportal.link:80/spoky61/spjFeg367/4189
-#EXTINF:-1 tvg-id="KlanKosova.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="Live: Albania",Klan Kosova FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/9455
-#EXTINF:-1 tvg-id="T7.al" tvg-name="T7 AL" tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg" group-title="Live: Albania",T7 AL
-http://clientportal.link:80/spoky61/spjFeg367/20167
-#EXTINF:-1 tvg-id="T7.al" tvg-name="T7 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg" group-title="Live: Albania",T7 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/23108
-#EXTINF:-1 tvg-id="" tvg-name="Dukagjini HD AL" tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg" group-title="Live: Albania",Dukagjini HD AL
-http://clientportal.link:80/spoky61/spjFeg367/96435
-#EXTINF:-1 tvg-id="" tvg-name="Dukagjini FHD AL" tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg" group-title="Live: Albania",Dukagjini FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/4236
-#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="Live: Albania",Klan HD AL
-http://clientportal.link:80/spoky61/spjFeg367/9454
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="Live: Albania",Klan FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/3800
-#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="Live: Albania",Klan Plus HD AL
-http://clientportal.link:80/spoky61/spjFeg367/7074
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="Live: Albania",Top Channel (Backup) AL
-http://clientportal.link:80/spoky61/spjFeg367/9457
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel FHD AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="Live: Albania",Top Channel FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/4178
-#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="Alsat M AL" tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg" group-title="Live: Albania",Alsat M AL
-http://clientportal.link:80/spoky61/spjFeg367/6259
-#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="Alsat M (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg" group-title="Live: Albania",Alsat M (Backup) AL
-http://clientportal.link:80/spoky61/spjFeg367/9450
-#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="Alsat M FHD AL" tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg" group-title="Live: Albania",Alsat M FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/22783
-#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="Live: Albania",Vizion Plus HD AL
-http://clientportal.link:80/spoky61/spjFeg367/4214
-#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="Live: Albania",Vizion Plus (Backup) AL
-http://clientportal.link:80/spoky61/spjFeg367/9463
-#EXTINF:-1 tvg-id="" tvg-name="First Channel Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg" group-title="Live: Albania",First Channel Kosova AL
-http://clientportal.link:80/spoky61/spjFeg367/12044
-#EXTINF:-1 tvg-id="TVArta.al" tvg-name="arta TV HD AL" tvg-logo="https://picon-13398.kxcdn.com/artatval.jpg" group-title="Live: Albania",arta TV HD AL
-http://clientportal.link:80/spoky61/spjFeg367/21901
-#EXTINF:-1 tvg-id="" tvg-name="Koha TV HD AL" tvg-logo="https://picon-13398.kxcdn.com/kohatval.jpg" group-title="Live: Albania",Koha TV HD AL
-http://clientportal.link:80/spoky61/spjFeg367/19145
-#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="RTSH Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/rtshshqipal.jpg" group-title="Live: Albania",RTSH Shqip AL
-http://clientportal.link:80/spoky61/spjFeg367/19478
-#EXTINF:-1 tvg-id="RTSH1.al" tvg-name="RTSH 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh1.jpg" group-title="Live: Albania",RTSH 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/15632
-#EXTINF:-1 tvg-id="RTSH2.al" tvg-name="RTSH 2 AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh2al.jpg" group-title="Live: Albania",RTSH 2 AL
-http://clientportal.link:80/spoky61/spjFeg367/19480
-#EXTINF:-1 tvg-id="RTSH3.al" tvg-name="RTSH 3 AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh3al.jpg" group-title="Live: Albania",RTSH 3 AL
-http://clientportal.link:80/spoky61/spjFeg367/20168
-#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica AL" tvg-logo="https://picon-13398.kxcdn.com/tvmitrovica.jpg" group-title="Live: Albania",TV Mitrovica AL
-http://clientportal.link:80/spoky61/spjFeg367/12037
-#EXTINF:-1 tvg-id="" tvg-name="TV Prizreni AL" tvg-logo="https://picon-13398.kxcdn.com/tvprizreni.jpg" group-title="Live: Albania",TV Prizreni AL
-http://clientportal.link:80/spoky61/spjFeg367/43387
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21plus.jpg" group-title="Live: Albania",RTV 21 Plus FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/8455
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Popullore AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21popullore.jpg" group-title="Live: Albania",RTV 21 Popullore AL
-http://clientportal.link:80/spoky61/spjFeg367/6257
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Popullore FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21popullore.jpg" group-title="Live: Albania",RTV 21 Popullore FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/9452
-#EXTINF:-1 tvg-id="" tvg-name="RTV Zeri Kosoves HD AL" tvg-logo="https://picon-13398.kxcdn.com/rtvzerial.jpg" group-title="Live: Albania",RTV Zeri Kosoves HD AL
-http://clientportal.link:80/spoky61/spjFeg367/17183
-#EXTINF:-1 tvg-id="" tvg-name="RTV Fontana FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtvfontanaal.jpg" group-title="Live: Albania",RTV Fontana FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/24860
-#EXTINF:-1 tvg-id="" tvg-name="X Çifteli HD AL" tvg-logo="https://picon-13398.kxcdn.com/ciftelial.jpg" group-title="Live: Albania",X Çifteli HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22802
-#EXTINF:-1 tvg-id="" tvg-name="X music hits HD AL" tvg-logo="https://picon-13398.kxcdn.com/xmusichitsal.jpg" group-title="Live: Albania",X music hits HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22800
-#EXTINF:-1 tvg-id="" tvg-name="X popullore HD AL" tvg-logo="https://picon-13398.kxcdn.com/xpopularal.jpg" group-title="Live: Albania",X popullore HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22801
-#EXTINF:-1 tvg-id="" tvg-name="TV Opoja AL" tvg-logo="https://picon-13398.kxcdn.com/tvopoja.jpg" group-title="Live: Albania",TV Opoja AL
-http://clientportal.link:80/spoky61/spjFeg367/16475
-#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="Live: Albania",Dasma TV AL
-http://clientportal.link:80/spoky61/spjFeg367/7076
-#EXTINF:-1 tvg-id="MyMusic.al" tvg-name="My Music AL" tvg-logo="https://picon-13398.kxcdn.com/mymusical.jpg" group-title="Live: Albania",My Music AL
-http://clientportal.link:80/spoky61/spjFeg367/7070
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://picon-13398.kxcdn.com/folkplus.jpg" group-title="Live: Albania",Folk + AL
-http://clientportal.link:80/spoky61/spjFeg367/6260
-#EXTINF:-1 tvg-id="" tvg-name="BBF Music AL" tvg-logo="https://picon-13398.kxcdn.com/bbfmusic.jpg" group-title="Live: Albania",BBF Music AL
-http://clientportal.link:80/spoky61/spjFeg367/6261
-#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV AL" tvg-logo="https://picon-13398.kxcdn.com/zjarrtv.jpg" group-title="Live: Albania",Zjarr TV AL
-http://clientportal.link:80/spoky61/spjFeg367/9372
-#EXTINF:-1 tvg-id="" tvg-name="Besa TV AL" tvg-logo="https://picon-13398.kxcdn.com/besatv.jpg" group-title="Live: Albania",Besa TV AL
-http://clientportal.link:80/spoky61/spjFeg367/9395
-#EXTINF:-1 tvg-id="" tvg-name="TV Sharri AL" tvg-logo="https://picon-13398.kxcdn.com/tvsharri.jpg" group-title="Live: Albania",TV Sharri AL
-http://clientportal.link:80/spoky61/spjFeg367/9368
-#EXTINF:-1 tvg-id="" tvg-name="Top Estrada AL" tvg-logo="https://picon-13398.kxcdn.com/topestrada.jpg" group-title="Live: Albania",Top Estrada AL
-http://clientportal.link:80/spoky61/spjFeg367/12046
-#EXTINF:-1 tvg-id="" tvg-name="Zico TV FHD AL" tvg-logo="https://picon-13398.kxcdn.com/zicotval.jpg" group-title="Live: Albania",Zico TV FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/23854
-#EXTINF:-1 tvg-id="RTSHMuzike.al" tvg-name="RTSH Muzike AL" tvg-logo="https://picon-13398.kxcdn.com/rtshmusical.jpg" group-title="Live: Albania",RTSH Muzike AL
-http://clientportal.link:80/spoky61/spjFeg367/20172
-#EXTINF:-1 tvg-id="" tvg-name="Elrodi Music AL" tvg-logo="https://picon-13398.kxcdn.com/elrodimusic.jpg" group-title="Live: Albania",Elrodi Music AL
-http://clientportal.link:80/spoky61/spjFeg367/4235
-#EXTINF:-1 tvg-id="MTVLive.al" tvg-name="MTV Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/mtvkosova.jpg" group-title="Live: Albania",MTV Kosova AL
-http://clientportal.link:80/spoky61/spjFeg367/12051
-#EXTINF:-1 tvg-id="" tvg-name="E Stupcat AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Stupcat AL
-http://clientportal.link:80/spoky61/spjFeg367/19545
-#EXTINF:-1 tvg-id="" tvg-name="X humor HD AL" tvg-logo="https://picon-13398.kxcdn.com/xhumoral.jpg" group-title="Live: Albania",X humor HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22803
-#EXTINF:-1 tvg-id="" tvg-name="E Premium 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Premium 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/12031
-#EXTINF:-1 tvg-id="" tvg-name="E Premium 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Premium 2 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/12030
-#EXTINF:-1 tvg-id="" tvg-name="E Premium 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Premium 3 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/12029
-#EXTINF:-1 tvg-id="" tvg-name="E premium 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/xpremium4al.jpg" group-title="Live: Albania",E premium 4 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22787
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg" group-title="Live: Albania",Digi Gold 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/15778
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg" group-title="Live: Albania",Digi Gold 2 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/15779
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 3 AL" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg" group-title="Live: Albania",Digi Gold 3 AL
-http://clientportal.link:80/spoky61/spjFeg367/16814
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 4 AL" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg" group-title="Live: Albania",Digi Gold 4 AL
-http://clientportal.link:80/spoky61/spjFeg367/16815
-#EXTINF:-1 tvg-id="Kino1.al" tvg-name="Art Kino 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino1al.jpg" group-title="Live: Albania",Art Kino 1 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/28175
-#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino3al.jpg" group-title="Live: Albania",Art Kino 3 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/28177
-#EXTINF:-1 tvg-id="" tvg-name="Film Hits AL" tvg-logo="https://picon-13398.kxcdn.com/filmhits.jpg" group-title="Live: Albania",Film Hits AL
-http://clientportal.link:80/spoky61/spjFeg367/3818
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg" group-title="Live: Albania",Film Aksion AL
-http://clientportal.link:80/spoky61/spjFeg367/3820
-#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="Film Komedi AL" tvg-logo="https://picon-13398.kxcdn.com/filmkomedi.jpg" group-title="Live: Albania",Film Komedi AL
-http://clientportal.link:80/spoky61/spjFeg367/3821
-#EXTINF:-1 tvg-id="" tvg-name="Film Autor AL" tvg-logo="https://picon-13398.kxcdn.com/filmautor.jpg" group-title="Live: Albania",Film Autor AL
-http://clientportal.link:80/spoky61/spjFeg367/3803
-#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller AL" tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg" group-title="Live: Albania",Film Thriller AL
-http://clientportal.link:80/spoky61/spjFeg367/4193
-#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Dramë AL" tvg-logo="https://picon-13398.kxcdn.com/filmdrame.jpg" group-title="Live: Albania",Film Dramë AL
-http://clientportal.link:80/spoky61/spjFeg367/4194
-#EXTINF:-1 tvg-id="" tvg-name="Euro Channel AL" tvg-logo="https://picon-13398.kxcdn.com/eurochannelal.jpg" group-title="Live: Albania",Euro Channel AL
-http://clientportal.link:80/spoky61/spjFeg367/20180
-#EXTINF:-1 tvg-id="" tvg-name="Eurofilm AL" tvg-logo="https://picon-13398.kxcdn.com/eurofilmal.jpg" group-title="Live: Albania",Eurofilm AL
-http://clientportal.link:80/spoky61/spjFeg367/20191
-#EXTINF:-1 tvg-id="" tvg-name="Sky Komedy AL" tvg-logo="https://picon-13398.kxcdn.com/albcomedy.jpg" group-title="Live: Albania",Sky Komedy AL
-http://clientportal.link:80/spoky61/spjFeg367/9878
-#EXTINF:-1 tvg-id="" tvg-name="Sky Drame AL" tvg-logo="https://picon-13398.kxcdn.com/skydrame.jpg" group-title="Live: Albania",Sky Drame AL
-http://clientportal.link:80/spoky61/spjFeg367/8772
-#EXTINF:-1 tvg-id="" tvg-name="Sky Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/skyaksion.jpg" group-title="Live: Albania",Sky Aksion AL
-http://clientportal.link:80/spoky61/spjFeg367/9134
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus AL" tvg-logo="https://picon-13398.kxcdn.com/starplusal.jpg" group-title="Live: Albania",Star Plus AL
-http://clientportal.link:80/spoky61/spjFeg367/8774
-#EXTINF:-1 tvg-id="RTSHFilm.al" tvg-name="RTSH film AL" tvg-logo="https://picon-13398.kxcdn.com/rtshfilmal.jpg" group-title="Live: Albania",RTSH film AL
-http://clientportal.link:80/spoky61/spjFeg367/17168
-#EXTINF:-1 tvg-id="" tvg-name="Stinët AL" tvg-logo="https://picon-13398.kxcdn.com/stinetal.jpg" group-title="Live: Albania",Stinët AL
-http://clientportal.link:80/spoky61/spjFeg367/17171
-#EXTINF:-1 tvg-id="TChannel.al" tvg-name="T HD AL" tvg-logo="https://picon-13398.kxcdn.com/tal.jpg" group-title="Live: Albania",T HD AL
-http://clientportal.link:80/spoky61/spjFeg367/7055
-#EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg" group-title="Live: Albania",Tring 3+ AL
-http://clientportal.link:80/spoky61/spjFeg367/4237
-#EXTINF:-1 tvg-id="TringTring.al" tvg-name="Tring Tring AL" tvg-logo="https://picon-13398.kxcdn.com/tringtring.jpg" group-title="Live: Albania",Tring Tring AL
-http://clientportal.link:80/spoky61/spjFeg367/4215
-#EXTINF:-1 tvg-id="TringLife.al" tvg-name="Tring Life HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringlife.jpg" group-title="Live: Albania",Tring Life HD AL
-http://clientportal.link:80/spoky61/spjFeg367/4224
-#EXTINF:-1 tvg-id="" tvg-name="Tring Jolly HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringjully.jpg" group-title="Live: Albania",Tring Jolly HD AL
-http://clientportal.link:80/spoky61/spjFeg367/4227
-#EXTINF:-1 tvg-id="" tvg-name="Tring Smile AL" tvg-logo="https://picon-13398.kxcdn.com/tringsmile.jpg" group-title="Live: Albania",Tring Smile AL
-http://clientportal.link:80/spoky61/spjFeg367/6258
-#EXTINF:-1 tvg-id="TringSuper.al" tvg-name="Tring Super AL" tvg-logo="https://picon-13398.kxcdn.com/tringsuper.jpg" group-title="Live: Albania",Tring Super AL
-http://clientportal.link:80/spoky61/spjFeg367/4218
-#EXTINF:-1 tvg-id="TringShqip.al" tvg-name="Tring Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/tringshqip.jpg" group-title="Live: Albania",Tring Shqip AL
-http://clientportal.link:80/spoky61/spjFeg367/4219
-#EXTINF:-1 tvg-id="TringAction.al" tvg-name="Tring Action AL" tvg-logo="https://picon-13398.kxcdn.com/tringactional.jpg" group-title="Live: Albania",Tring Action AL
-http://clientportal.link:80/spoky61/spjFeg367/4223
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Tring Comedy AL" tvg-logo="https://picon-13398.kxcdn.com/tringcomedy.jpg" group-title="Live: Albania",Tring Comedy AL
-http://clientportal.link:80/spoky61/spjFeg367/2054
-#EXTINF:-1 tvg-id="TringPlanet.al" tvg-name="Tring Planet AL" tvg-logo="https://picon-13398.kxcdn.com/tringplanet.jpg" group-title="Live: Albania",Tring Planet AL
-http://clientportal.link:80/spoky61/spjFeg367/6088
-#EXTINF:-1 tvg-id="TringWorld.al" tvg-name="Tring World AL" tvg-logo="https://picon-13398.kxcdn.com/tringworld.jpg" group-title="Live: Albania",Tring World AL
-http://clientportal.link:80/spoky61/spjFeg367/4213
-#EXTINF:-1 tvg-id="T-Hist.al" tvg-name="Tring History AL" tvg-logo="https://picon-13398.kxcdn.com/tringhistory.jpg" group-title="Live: Albania",Tring History AL
-http://clientportal.link:80/spoky61/spjFeg367/4228
-#EXTINF:-1 tvg-id="TringFantazi.al" tvg-name="Tring Fantasy AL" tvg-logo="https://picon-13398.kxcdn.com/tringfantasy.jpg" group-title="Live: Albania",Tring Fantasy AL
-http://clientportal.link:80/spoky61/spjFeg367/4230
-#EXTINF:-1 tvg-id="" tvg-name="X action HD AL" tvg-logo="https://picon-13398.kxcdn.com/xactional.jpg" group-title="Live: Albania",X action HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22788
-#EXTINF:-1 tvg-id="" tvg-name="X comedy HD AL" tvg-logo="https://picon-13398.kxcdn.com/xcomedyal.jpg" group-title="Live: Albania",X comedy HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22789
-#EXTINF:-1 tvg-id="" tvg-name="X dark HD AL" tvg-logo="https://picon-13398.kxcdn.com/xdarkal.jpg" group-title="Live: Albania",X dark HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22792
-#EXTINF:-1 tvg-id="" tvg-name="X histori HD AL" tvg-logo="https://picon-13398.kxcdn.com/xhistorial.jpg" group-title="Live: Albania",X histori HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22798
-#EXTINF:-1 tvg-id="" tvg-name="X family HD AL" tvg-logo="https://picon-13398.kxcdn.com/xfamilyal.jpg" group-title="Live: Albania",X family HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22799
-#EXTINF:-1 tvg-id="" tvg-name="X natyra HD AL" tvg-logo="https://picon-13398.kxcdn.com/xnatyraal.jpg" group-title="Live: Albania",X natyra HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22797
-#EXTINF:-1 tvg-id="" tvg-name="X romance HD AL" tvg-logo="https://picon-13398.kxcdn.com/xromanceal.jpg" group-title="Live: Albania",X romance HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22794
-#EXTINF:-1 tvg-id="" tvg-name="X drama HD AL" tvg-logo="https://picon-13398.kxcdn.com/xdramaal.jpg" group-title="Live: Albania",X drama HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22791
-#EXTINF:-1 tvg-id="" tvg-name="X scyfy HD AL" tvg-logo="https://picon-13398.kxcdn.com/xscyfyal.jpg" group-title="Live: Albania",X scyfy HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22793
-#EXTINF:-1 tvg-id="" tvg-name="X shkenca HD AL" tvg-logo="https://picon-13398.kxcdn.com/xshkencaal.jpg" group-title="Live: Albania",X shkenca HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22796
-#EXTINF:-1 tvg-id="" tvg-name="X thriller HD AL" tvg-logo="https://picon-13398.kxcdn.com/xthrilleral.jpg" group-title="Live: Albania",X thriller HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22790
-#EXTINF:-1 tvg-id="" tvg-name="X western HD AL" tvg-logo="https://picon-13398.kxcdn.com/xwesternal.jpg" group-title="Live: Albania",X western HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22795
-#EXTINF:-1 tvg-id="" tvg-name="X filma24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/xfilm24al.jpg" group-title="Live: Albania",X filma24 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/22815
-#EXTINF:-1 tvg-id="" tvg-name="E Action HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Action HD AL
-http://clientportal.link:80/spoky61/spjFeg367/12047
-#EXTINF:-1 tvg-id="" tvg-name="ALBUK HD AL" tvg-logo="https://picon-13398.kxcdn.com/albukhd.jpg" group-title="Live: Albania",ALBUK HD AL
-http://clientportal.link:80/spoky61/spjFeg367/12053
-#EXTINF:-1 tvg-id="" tvg-name="Sky Planet AL" tvg-logo="https://picon-13398.kxcdn.com/skyplanetal.jpg" group-title="Live: Albania",Sky Planet AL
-http://clientportal.link:80/spoky61/spjFeg367/20189
-#EXTINF:-1 tvg-id="FoxCrime.al" tvg-name="FOX Crime AL" tvg-logo="https://picon-13398.kxcdn.com/foxcrime.jpg" group-title="Live: Albania",FOX Crime AL
-http://clientportal.link:80/spoky61/spjFeg367/3814
-#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang AL" tvg-logo="https://picon-13398.kxcdn.com/bangbang.jpg" group-title="Live: Albania",Bang Bang AL
-http://clientportal.link:80/spoky61/spjFeg367/7062
-#EXTINF:-1 tvg-id="CufoTV.al" tvg-name="Çufo AL" tvg-logo="https://picon-13398.kxcdn.com/cufo.jpg" group-title="Live: Albania",Çufo AL
-http://clientportal.link:80/spoky61/spjFeg367/4208
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV AL" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Albania",Baby TV AL
-http://clientportal.link:80/spoky61/spjFeg367/8410
-#EXTINF:-1 tvg-id="TringKids.al" tvg-name="Tring Kids AL" tvg-logo="https://picon-13398.kxcdn.com/tringkids.jpg" group-title="Live: Albania",Tring Kids AL
-http://clientportal.link:80/spoky61/spjFeg367/8773
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Junior AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21junior.jpg" group-title="Live: Albania",RTV 21 Junior AL
-http://clientportal.link:80/spoky61/spjFeg367/16804
-#EXTINF:-1 tvg-id="JuniorTV.al" tvg-name="Junior TV AL" tvg-logo="https://picon-13398.kxcdn.com/juniortval.jpg" group-title="Live: Albania",Junior TV AL
-http://clientportal.link:80/spoky61/spjFeg367/17182
-#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="Live: Albania",Top News AL
-http://clientportal.link:80/spoky61/spjFeg367/4209
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News AL" tvg-logo="https://picon-13398.kxcdn.com/abcnews.jpg" group-title="Live: Albania",ABC News AL
-http://clientportal.link:80/spoky61/spjFeg367/6263
-#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="Live: Albania",News 24 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/3795
-#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="Live: Albania",Ora News AL
-http://clientportal.link:80/spoky61/spjFeg367/7066
-#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 News AL" tvg-logo="https://picon-13398.kxcdn.com/kanali7news.jpg" group-title="Live: Albania",Kanali 7 News AL
-http://clientportal.link:80/spoky61/spjFeg367/8777
-#EXTINF:-1 tvg-id="RTSH24.al" tvg-name="RTSH 24 AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh24al.jpg" group-title="Live: Albania",RTSH 24 AL
-http://clientportal.link:80/spoky61/spjFeg367/20173
-#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 AL" tvg-logo="https://picon-13398.kxcdn.com/kanali7al.jpg" group-title="Live: Albania",Kanali 7 AL
-http://clientportal.link:80/spoky61/spjFeg367/19544
-#EXTINF:-1 tvg-id="" tvg-name="E! AL" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Albania",E! AL
-http://clientportal.link:80/spoky61/spjFeg367/7072
-#EXTINF:-1 tvg-id="Doku1.al" tvg-name="Art Doku 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artdoku1sr.jpg" group-title="Live: Albania",Art Doku 1 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/28178
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD AL" tvg-logo="https://picon-13398.kxcdn.com/discoveryhd.jpg" group-title="Live: Albania",Discovery HD AL
-http://clientportal.link:80/spoky61/spjFeg367/11291
-#EXTINF:-1 tvg-id="EXPShkence.al" tvg-name="Explorer Shkencë AL" tvg-logo="https://picon-13398.kxcdn.com/explorershkence.jpg" group-title="Live: Albania",Explorer Shkencë AL
-http://clientportal.link:80/spoky61/spjFeg367/4203
-#EXTINF:-1 tvg-id="EXPNatyra.al" tvg-name="Explorer Natyra AL" tvg-logo="https://picon-13398.kxcdn.com/explorernatyra.jpg" group-title="Live: Albania",Explorer Natyra AL
-http://clientportal.link:80/spoky61/spjFeg367/4202
-#EXTINF:-1 tvg-id="EXPNatyra.al" tvg-name="Explorer Natyra (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/explorernatyra.jpg" group-title="Live: Albania",Explorer Natyra (Backup) AL
-http://clientportal.link:80/spoky61/spjFeg367/9462
-#EXTINF:-1 tvg-id="EXPHistori.al" tvg-name="Explorer Histori AL" tvg-logo="https://picon-13398.kxcdn.com/explorerhistori.jpg" group-title="Live: Albania",Explorer Histori AL
-http://clientportal.link:80/spoky61/spjFeg367/4204
-#EXTINF:-1 tvg-id="NatGeo.al" tvg-name="National Geographic AL" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: Albania",National Geographic AL
-http://clientportal.link:80/spoky61/spjFeg367/3793
-#EXTINF:-1 tvg-id="TravelChannel.al" tvg-name="Travel Channel AL" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="Live: Albania",Travel Channel AL
-http://clientportal.link:80/spoky61/spjFeg367/7060
-#EXTINF:-1 tvg-id="Living.al" tvg-name="Living HD AL" tvg-logo="https://picon-13398.kxcdn.com/livinghd.jpg" group-title="Live: Albania",Living HD AL
-http://clientportal.link:80/spoky61/spjFeg367/9370
-#EXTINF:-1 tvg-id="SuperSportNews.al" tvg-name="SuperSport News FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersportnewsal.jpg" group-title="Live: Albania",SuperSport News FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/22807
-#EXTINF:-1 tvg-id="Sport1.al" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Live: Albania",SuperSport 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/4198
-#EXTINF:-1 tvg-id="Sport2.al" tvg-name="SuperSport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/22808
-#EXTINF:-1 tvg-id="Sport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/4199
-#EXTINF:-1 tvg-id="Sport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/22809
-#EXTINF:-1 tvg-id="Sport3.al" tvg-name="SuperSport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/4200
-#EXTINF:-1 tvg-id="Sport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/22810
-#EXTINF:-1 tvg-id="Sport4.al" tvg-name="SuperSport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/4201
-#EXTINF:-1 tvg-id="Sport5.al" tvg-name="SuperSport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/22811
-#EXTINF:-1 tvg-id="Sport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/9373
-#EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="RTSH Sport AL" tvg-logo="https://picon-13398.kxcdn.com/rtshsport.jpg" group-title="Live: Albania",RTSH Sport AL
-http://clientportal.link:80/spoky61/spjFeg367/15635
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport News HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsportnewshd.jpg" group-title="Live: Albania",Tring Sport News HD AL
-http://clientportal.link:80/spoky61/spjFeg367/8077
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="Live: Albania",Tring Sport 1 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/8078
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg" group-title="Live: Albania",Tring Sport 2 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/8079
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="Live: Albania",Tring Sport 3 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/8080
-#EXTINF:-1 tvg-id="TringSport4.al" tvg-name="Tring Sport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport4hd.jpg" group-title="Live: Albania",Tring Sport 4 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/8081
-#EXTINF:-1 tvg-id="K-Sport1.al" tvg-name="K-Sport 1 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport1.jpg" group-title="Live: Albania",K-Sport 1 AL
-http://clientportal.link:80/spoky61/spjFeg367/9150
-#EXTINF:-1 tvg-id="K-Sport2.al" tvg-name="K-Sport 2 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport2.jpg" group-title="Live: Albania",K-Sport 2 AL
-http://clientportal.link:80/spoky61/spjFeg367/9151
-#EXTINF:-1 tvg-id="K-Sport3.al" tvg-name="K-Sport 3 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport3.jpg" group-title="Live: Albania",K-Sport 3 AL
-http://clientportal.link:80/spoky61/spjFeg367/9152
-#EXTINF:-1 tvg-id="K-Sport4.al" tvg-name="K-Sport 4 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport4.jpg" group-title="Live: Albania",K-Sport 4 AL
-http://clientportal.link:80/spoky61/spjFeg367/9153
-#EXTINF:-1 tvg-id="Sport1.al" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 1 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/28182
-#EXTINF:-1 tvg-id="Sport2.al" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 2 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/28183
-#EXTINF:-1 tvg-id="" tvg-name="E Thriller AL" tvg-logo="https://picon-13398.kxcdn.com/albthriller.jpg" group-title="Live: Albania",E Thriller AL
-http://clientportal.link:80/spoky61/spjFeg367/9143
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="Click AL" tvg-logo="https://picon-13398.kxcdn.com/click.jpg" group-title="Live: Albania",Click AL
-http://clientportal.link:80/spoky61/spjFeg367/12033
-#EXTINF:-1 tvg-id="" tvg-name="Era TV AL" tvg-logo="https://picon-13398.kxcdn.com/eratv.jpg" group-title="Live: Albania",Era TV AL
-http://clientportal.link:80/spoky61/spjFeg367/4231
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="FOX AL" tvg-logo="https://picon-13398.kxcdn.com/foxchannel.jpg" group-title="Live: Albania",FOX AL
-http://clientportal.link:80/spoky61/spjFeg367/9392
-#EXTINF:-1 tvg-id="" tvg-name="Klan Macedonia AL" tvg-logo="https://picon-13398.kxcdn.com/klammk.jpg" group-title="Live: Albania",Klan Macedonia AL
-http://clientportal.link:80/spoky61/spjFeg367/27538
-#EXTINF:-1 tvg-id="Muse.al" tvg-name="Muse AL" tvg-logo="https://picon-13398.kxcdn.com/muse.jpg" group-title="Live: Albania",Muse AL
-http://clientportal.link:80/spoky61/spjFeg367/6092
-#EXTINF:-1 tvg-id="" tvg-name="Novela AL" tvg-logo="https://picon-13398.kxcdn.com/novelaal.jpg" group-title="Live: Albania",Novela AL
-http://clientportal.link:80/spoky61/spjFeg367/17181
-#EXTINF:-1 tvg-id="RTSHPlus.al" tvg-name="RTSH Plus AL" tvg-logo="https://picon-13398.kxcdn.com/rtshplusal.jpg" group-title="Live: Albania",RTSH Plus AL
-http://clientportal.link:80/spoky61/spjFeg367/15633
-#EXTINF:-1 tvg-id="" tvg-name="Report TV AL" tvg-logo="https://picon-13398.kxcdn.com/reporttv.jpg" group-title="Live: Albania",Report TV AL
-http://clientportal.link:80/spoky61/spjFeg367/9366
-#EXTINF:-1 tvg-id="" tvg-name="Shenja TV AL" tvg-logo="https://picon-13398.kxcdn.com/shenja.jpg" group-title="Live: Albania",Shenja TV AL
-http://clientportal.link:80/spoky61/spjFeg367/9399
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus Shkodar AL" tvg-logo="https://picon-13398.kxcdn.com/starplusal.jpg" group-title="Live: Albania",Star Plus Shkodar AL
-http://clientportal.link:80/spoky61/spjFeg367/9384
-#EXTINF:-1 tvg-id="" tvg-name="Syri TV AL" tvg-logo="https://picon-13398.kxcdn.com/syriblueal.jpg" group-title="Live: Albania",Syri TV AL
-http://clientportal.link:80/spoky61/spjFeg367/16571
-#EXTINF:-1 tvg-id="" tvg-name="Syri Vision AL" tvg-logo="https://picon-13398.kxcdn.com/syrivisional.jpg" group-title="Live: Albania",Syri Vision AL
-http://clientportal.link:80/spoky61/spjFeg367/20179
-#EXTINF:-1 tvg-id="" tvg-name="TemaTV AL" tvg-logo="https://picon-13398.kxcdn.com/tematv.jpg" group-title="Live: Albania",TemaTV AL
-http://clientportal.link:80/spoky61/spjFeg367/9367
-#EXTINF:-1 tvg-id="TipTv.al" tvg-name="Tip TV AL" tvg-logo="https://picon-13398.kxcdn.com/tiptv.jpg" group-title="Live: Albania",Tip TV AL
-http://clientportal.link:80/spoky61/spjFeg367/7063
-#EXTINF:-1 tvg-id="" tvg-name="TV Dielli AL" tvg-logo="https://picon-13398.kxcdn.com/tvdiellial.jpg" group-title="Live: Albania",TV Dielli AL
-http://clientportal.link:80/spoky61/spjFeg367/19542
-#EXTINF:-1 tvg-id="" tvg-name="TV Kopliku AL" tvg-logo="https://picon-13398.kxcdn.com/tvkoplikual.jpg" group-title="Live: Albania",TV Kopliku AL
-http://clientportal.link:80/spoky61/spjFeg367/20184
-#EXTINF:-1 tvg-id="" tvg-name="Euronews HD AL" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg" group-title="Live: Albania",Euronews HD AL
-http://clientportal.link:80/spoky61/spjFeg367/34755
-#EXTINF:-1 tvg-id="" tvg-name="Supersonic TV AL" tvg-logo="https://picon-13398.kxcdn.com/supersonic.jpg" group-title="Live: Albania",Supersonic TV AL
-http://clientportal.link:80/spoky61/spjFeg367/3810
-#EXTINF:-1 tvg-id="Episode.al" tvg-name="TDC AL" tvg-logo="https://picon-13398.kxcdn.com/tdcal.jpg" group-title="Live: Albania",TDC AL
-http://clientportal.link:80/spoky61/spjFeg367/38606
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 10 AL" tvg-logo="https://picon-13398.kxcdn.com/kanal10alb.jpg" group-title="Live: Albania",Kanal 10 AL
-http://clientportal.link:80/spoky61/spjFeg367/53152
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="Live: Albania",Kanal D Drama FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/56168
-#EXTINF:-1 tvg-id="" tvg-name="First Channel Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg" group-title="Live: Albania",First Channel Kosova FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/66309
-#EXTINF:-1 tvg-id="" tvg-name="A TV FHD AL" tvg-logo="https://picon-13398.kxcdn.com/atval.jpg" group-title="Live: Albania",A TV FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/73298
-#EXTINF:-1 tvg-id="Kino2.al" tvg-name="Art Kino 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino2al.jpg" group-title="Live: Albania",Art Kino 2 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/28176
-#EXTINF:-1 tvg-id="Sport3.al" tvg-name="Art Sport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 3 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/28184
-#EXTINF:-1 tvg-id="KTV.al" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="Live: Albania",KTV Kohavision FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/9456
-#EXTINF:-1 tvg-id="Doku2.al" tvg-name="Art Doku 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artdoku2al.jpg" group-title="Live: Albania",Art Doku 2 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/28179
-#EXTINF:-1 tvg-id="Sport4.al" tvg-name="Art Sport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 4 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/89864
-#EXTINF:-1 tvg-id="Sport5.al" tvg-name="Art Sport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 5 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/89865
-#EXTINF:-1 tvg-id="Sport6.al" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 6 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/89866
-#EXTINF:-1 tvg-id="" tvg-name="E Humor AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Humor AL
-http://clientportal.link:80/spoky61/spjFeg367/12050
-#EXTINF:-1 tvg-id="" tvg-name="Film Gold FHD AL" tvg-logo="https://picon-13398.kxcdn.com/filmgoldal.jpg" group-title="Live: Albania",Film Gold FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/91872
-#EXTINF:-1 tvg-id="" tvg-name="Film Max FHD AL" tvg-logo="" group-title="Live: Albania",Film Max FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/91873
-#EXTINF:-1 tvg-id="" tvg-name="TV Llapi AL" tvg-logo="https://picon-13398.kxcdn.com/tvllapial.jpg" group-title="Live: Albania",TV Llapi AL
-http://clientportal.link:80/spoky61/spjFeg367/93094
-#EXTINF:-1 tvg-id="" tvg-name="Tring Novelas FHD AL" tvg-logo="https://picon-13398.kxcdn.com/novelasal.jpg" group-title="Live: Albania",Tring Novelas FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/93395
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport News HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport News HD AL
-http://clientportal.link:80/spoky61/spjFeg367/97790
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/97791
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport 2 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/97792
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport 3 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/97793
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport 4 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/97794
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/teve1al.jpg" group-title="Live: Albania",Tëvë 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/99872
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 7 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport7al.jpg" group-title="Live: Albania",SuperSport 7 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/22813
-#EXTINF:-1 tvg-id="Sport6.al" tvg-name="SuperSport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport6hd.jpg" group-title="Live: Albania",SuperSport 6 FHD AL
-http://clientportal.link:80/spoky61/spjFeg367/22812
-#EXTINF:-1 tvg-id="" tvg-name="Dark Hits HD AL" tvg-logo="https://picon-13398.kxcdn.com/darkhitsal.jpg" group-title="Live: Albania",Dark Hits HD AL
-http://clientportal.link:80/spoky61/spjFeg367/115133
-#EXTINF:-1 tvg-id="" tvg-name="Dark Kafeneja Jone HD AL" tvg-logo="" group-title="Live: Albania",Dark Kafeneja Jone HD AL
-http://clientportal.link:80/spoky61/spjFeg367/115134
-#EXTINF:-1 tvg-id="" tvg-name="Dark Stupcat Egjeli HD AL" tvg-logo="https://picon-13398.kxcdn.com/darkstupcatal.jpg" group-title="Live: Albania",Dark Stupcat Egjeli HD AL
-http://clientportal.link:80/spoky61/spjFeg367/115135
-#EXTINF:-1 tvg-id="" tvg-name="Dark Netflix 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/darknetflixal.jpg" group-title="Live: Albania",Dark Netflix 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/115136
-#EXTINF:-1 tvg-id="" tvg-name="Dark Netflix 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/darknetflixal.jpg" group-title="Live: Albania",Dark Netflix 2 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/115137
-#EXTINF:-1 tvg-id="" tvg-name="Dark Netflix 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/darknetflixal.jpg" group-title="Live: Albania",Dark Netflix 3 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/115138
-#EXTINF:-1 tvg-id="" tvg-name="Dark Netflix 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/darknetflixal.jpg" group-title="Live: Albania",Dark Netflix 4 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/115139
-#EXTINF:-1 tvg-id="" tvg-name="Dark Popullore HD AL" tvg-logo="https://picon-13398.kxcdn.com/darkpopulloreal.jpg" group-title="Live: Albania",Dark Popullore HD AL
-http://clientportal.link:80/spoky61/spjFeg367/115140
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Aksion HD AL" tvg-logo="" group-title="Live: Albania",Tëvë Aksion HD AL
-http://clientportal.link:80/spoky61/spjFeg367/116965
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Comedy HD AL" tvg-logo="" group-title="Live: Albania",Tëvë Comedy HD AL
-http://clientportal.link:80/spoky61/spjFeg367/116966
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Drame HD AL" tvg-logo="" group-title="Live: Albania",Tëvë Drame HD AL
-http://clientportal.link:80/spoky61/spjFeg367/116967
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Doku 1 HD AL" tvg-logo="" group-title="Live: Albania",Tëvë Doku 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/116968
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Doku 2 HD AL" tvg-logo="" group-title="Live: Albania",Tëvë Doku 2 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/116969
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Fantasy HD AL" tvg-logo="" group-title="Live: Albania",Tëvë Fantasy HD AL
-http://clientportal.link:80/spoky61/spjFeg367/116970
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Novela HD AL" tvg-logo="" group-title="Live: Albania",Tëvë Novela HD AL
-http://clientportal.link:80/spoky61/spjFeg367/116971
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/89640
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother 2 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/89641
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 1 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/117771
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 2 HD AL
-http://clientportal.link:80/spoky61/spjFeg367/117772
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="ALBANIA",AL: Vizion Plus FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36122
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="ALBANIA",AL: Klan FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36123
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: Klan Plus FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36124
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: First Chanel FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36125
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: TV LLAPI
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36126
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: TV LIRIA  FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36127
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: Kanal D drama
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36129
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: TDC
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36130
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: Tring 3 Plus FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36131
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: TV Shenja FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36133
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: TV Koha FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36134
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: MRT 2  FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36135
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: TV Era HD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36136
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: RTV 21 MK FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36137
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL:  Klan MK
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36138
+#EXTINF:0 tvg-id="ETV.al" group-title="ALBANIA",AL:  ERA TV
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36139
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: TV Mitrovica HD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36140
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: TVSH FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36141
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: RTSH 1 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36142
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: RTV Aldi HD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36143
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: BB VIP Kosova 1 HD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36144
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: BB VIP Kosova 2 HD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/36145
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: BIG BROTHER 1
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38864
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: BIG BROTHER 2
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38865
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Eurosport 1 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38866
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Eurosport 2 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38867
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Tring Sport 1 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38868
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Tring Sport 2 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38869
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Tring Sport 3 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38870
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Tring Sport 4 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38871
+#EXTINF:0 tvg-id="TS1HD.al" group-title="SPORT",AL: Tring Sport 1 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38872
+#EXTINF:0 tvg-id="TS2HD.al" group-title="SPORT",AL: Tring Sport 2 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38873
+#EXTINF:0 tvg-id="TS3HD.al" group-title="SPORT",AL: Tring Sport 3 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38874
+#EXTINF:0 tvg-id="TS4HD.al" group-title="SPORT",AL: Tring Sport 4 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38875
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 1 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38876
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 2 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38877
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 3 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38878
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 4 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38879
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 5 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38880
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 6 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38881
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 7 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38882
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="SPORT",AL: Super Sport 1 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38883
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 2 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38884
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 3 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38885
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 4 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38886
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Super Sport 5 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38887
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Oversport 1 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38888
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Oversport 2 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38889
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Oversport 3 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38890
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Oversport 1 HD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38891
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Oversport 2 HD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38892
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Oversport 3 HD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38893
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: ART Sport 1 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38894
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: ART Sport 2 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38895
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: ART Sport 3 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38896
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: ART Sport 4 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38897
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: ART Sport 5 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38898
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: ART Sport 6 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38899
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: RTSH Sport UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38900
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Kujtesa Sport 1 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38901
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Kujtesa Sport 2 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38902
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Kujtesa Sport 3 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38903
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Kujtesa Sport 4 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38904
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Kujtesa Sport 5 UHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38905
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Kujtesa Sport 1 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38906
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Kujtesa Sport 2 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38907
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Kujtesa Sport 3 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38908
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AL: Kujtesa Sport 4 FHD
+http://195.154.176.9:8090/SaboBanes/U23SBB3qpwmX/38909
