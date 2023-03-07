@@ -1,504 +1,269 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1,RTK 1 SAT
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrg2ID3KsZeTXmP88G9i-eQ8/ts
-#EXTINF:-1,RTK 1 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvOKK8xFzhJACkwQ5Lecf9U/ts
-#EXTINF:-1,RTK 1 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrogXm5TGenTtuve2B8kIlZE/ts
-#EXTINF:-1,RTK 3 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqPpieN7oo08RvFb3HG2GkQ/ts
-#EXTINF:-1,BB VIP Kosova 1 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtJcapfyBnIUBtgUeVeFchc/ts
-#EXTINF:-1,BB VIP Kosova 2 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroh8wlKIEd7VL85JJRuFo_Y/ts
-#EXTINF:-1,BB VIP Kosova 1 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgevK66gYLrQqGOkSE7tVaw/ts
-#EXTINF:-1,BB VIP Kosova 2 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrm4qI6YDZjbsek5l8VcZj0M/ts
-#EXTINF:-1,BB VIP Albania 1
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroYW28QqNvJga4Yy-p6ZKEQ/ts
-#EXTINF:-1,BB VIP Albania 2
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroyU6HeOoAJRbi4OeCeenS0/ts
-#EXTINF:-1,KANAL 10 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztru_5rI2W_MLIv6Y0xNtG-vY/ts
-#EXTINF:-1,A TV
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrnWuGnVB2_lsqsFSZHjKrxc/ts
-#EXTINF:-1,A TV (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvXmnMtzSoOdZB87DeTR3EU/ts
-#EXTINF:-1,first CHANNEL
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrwT8XJ8EIGJwMpZHnYdo1Q/ts
-#EXTINF:-1,TOP news
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjiWJlHYsIH2a9UVL9d_s94/ts
-#EXTINF:-1,21 RTV HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgJyXakJug01PeDzO39mU9I/ts
-#EXTINF:-1,21 RTV HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhjLyabHmf0IiZrsvdMBn3I/ts
-#EXTINF:-1,KTV KOHAVIZION HD (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrpA_NasZPrFMagE8Ee-YDTo/ts
-#EXTINF:-1,KTV KOHAVISION HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztriqBv16S5bjKrLR3lFVNKvQ/ts
-#EXTINF:-1,KLAN KOSOVA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlx1F8vLjIxnep7Kc_P5Zi8/ts
-#EXTINF:-1,KLAN KOSOVA (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztriOvIta_uwKjOLz4icwoRBI/ts
-#EXTINF:-1,KLAN | HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtl8biqAxUnDL2z5fpAlFe0/ts
-#EXTINF:-1,KLAN | HD (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmGhjQzqZAhPpSoMPR8pfDY/ts
-#EXTINF:-1,DUKAGJINI
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvsTr9MPAn8Mlmu5tbxXjw0/ts
-#EXTINF:-1,DUKAGJINI (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrk_wYDXuvBJ4-uLxks9PLps/ts
-#EXTINF:-1,T7
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqCb69TpnzmrH0lasLMFqD0/ts
-#EXTINF:-1,T7 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrnwMxf3AzB2Vo0JbCGqwYQc/ts
-#EXTINF:-1,TOP CHANNEL
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmtox5q-P15OkxU13CiOM-M/ts
-#EXTINF:-1,TOP CHANNEL (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrudSdZkiJCDV4jj1lStsR64/ts
-#EXTINF:-1,ALSAT
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgwhOxN0XwNfFJb2SmVAku8/ts
-#EXTINF:-1,ALSAT (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmbOGR7fhS20RPfW6piL-0o/ts
-#EXTINF:-1,tëvë1 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrncNRUvSAwyHuHEd9oLiW7U/ts
-#EXTINF:-1,D TV
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvFrZCOnyABuzbdAPnYmJpE/ts
-#EXTINF:-1,KLANPLUS
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroejQECT1gG7wzBt2dfW2t0/ts
-#EXTINF:-1,KLANPLUS (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrltZbXmiC2w9kfeCe5GaqNw/ts
-#EXTINF:-1,VIZION PLUS (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlUsH1k288UyO4Ykmc8rXVc/ts
-#EXTINF:-1,VIZION PLUS
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtmc8EKVthTRUuAL2ozfLdY/ts
-#EXTINF:-1,KANAL D DRAMA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmHkHyXA_GPrGU7dCkUJrhI/ts
-#EXTINF:-1,21 TV MAQEDONIA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlCOzNdtxIfvYKX-LVISTxA/ts
-#EXTINF:-1,21 MIX HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgrbNiHzK7vp4o8gr2j32TU/ts
-#EXTINF:-1,21 PLUS
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmO-tRoJItQ1PDv7VEFuVMc/ts
-#EXTINF:-1,21 POPULLORE
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrusyTj-8hITqCJkb_QIc5f4/ts
-#EXTINF:-1,KLAN MAQEDONIA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmzbLbZnQ79fBPsmAQJ3Qz0/ts
-#EXTINF:-1,TDC TIMELESS DRAMA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrr-2x2IUY5OAzVI4IK-Tolw/ts
-#EXTINF:-1,RTK 2 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtJGPjsxky7Gx1mgazUvBEU/ts
-#EXTINF:-1,RTK 4 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqtLQJx3Il3IMQGVneS7E_g/ts
-#EXTINF:-1,RTSH 1 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrq7S0sIQMb5-9vFV_vAUre8/ts
-#EXTINF:-1,RTSH 2 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkKub6YtPsNGcbJ4zlGje9A/ts
-#EXTINF:-1,RTSH 3
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrizuZR2VI2t25gqJkxnJkd8/ts
-#EXTINF:-1,RTSH 24
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjquLWm6RnH5-rolDJ83FhE/ts
-#EXTINF:-1,RTSH shqip
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqrmcGVPn5Uh68OiHG_sG_Y/ts
-#EXTINF:-1,RTSH film
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrnJXAkHuxD8l4sS3W5Ryf8I/ts
-#EXTINF:-1,RTSH Gjirokastra
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvt6hHb8g9DkuXnHUYZ_cgI/ts
-#EXTINF:-1,RTSH muzikë
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjEA-MLX4IwP2h1XA59zGJw/ts
-#EXTINF:-1,RTSH sport
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrpe9q01wkW8E3MTgoxk0Hgc/ts
-#EXTINF:-1,News 24
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkPDzjMa2SMhfRgKYOjt-SI/ts
-#EXTINF:-1,A2 CNN
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlzSzkwJNoaTy0lz10O0i5E/ts
-#EXTINF:-1,ABC News
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrs5tQnnLAcrryaRmSMbm7mo/ts
-#EXTINF:-1,euronews ALBANIA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrpaf9IUcj8efbeSEagJoB4A/ts
-#EXTINF:-1,REPORT TV HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrr78KiZow6DJHfK8ZAwcjU/ts
-#EXTINF:-1,ORA news HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkSjLgK3qVqMU1eWNdWlsps/ts
-#EXTINF:-1,SYRI HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmvkL5_ehJNmSIJWQabfdOc/ts
-#EXTINF:-1,ARTA HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrilHIhhgQrgpXo3jIgEyYjc/ts
-#EXTINF:-1,TEMA HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrs_2-BQZXHIhYkialWxzyMU/ts
-#EXTINF:-1,FaX NEWS
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrj9pI6oC1x9BNwIEmJHC23A/ts
-#EXTINF:-1,SHENJA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrq6oF_QcMOTQGnKefdZPEMQ/ts
-#EXTINF:-1,ERA TV
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrn-9Gn4ZWHst9SvfPV7i4W0/ts
-#EXTINF:-1,KOHA HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrll_A0EF98rmfzvnmVY0OP4/ts
-#EXTINF:-1,BESA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvqBjwUVKNGJWK2AOSP-jac/ts
-#EXTINF:-1,Tv Opinion
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrofFZ8lvEXbNOHcFw28oILY/ts
-#EXTINF:-1,TV Prizreni
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroKaxH35yJbtsOT8IK52eLM/ts
-#EXTINF:-1,kanali 7
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrimSh5NjpoukAnk1I8GljQ0/ts
-#EXTINF:-1,RTV Pendimi HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrs3JxMwWd65-2z6SgxZVaqI/ts
-#EXTINF:-1,Peace TV
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjyoyugoz6EN5SYwcqFEg1k/ts
-#EXTINF:-1,RTV ISLAM
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrsEg35X8_NlyoB44jSWv_Fk/ts
-#EXTINF:-1,MEKKA live
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkghWElUH7E0UnAiOKIoZa4/ts
-#EXTINF:-1,MEDINNE Live
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrm3JjM2EauD-he80VZ2e7uk/ts
-#EXTINF:-1,RTV MALISHEVA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztruSNLhJjYG2WXHcAFDPjfyk/ts
-#EXTINF:-1,Muse
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrj33c3ZCeshiOmUewOhH03E/ts
-#EXTINF:-1,STAR PLUS HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrnKZucRGrPObitsFnKEgczM/ts
-#EXTINF:-1,Rozafa
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhYFHRMMklgeeIWNku76JDU/ts
-#EXTINF:-1,TV LLAPI
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmUjT1Oe7a-n8tAdJkX5BH8/ts
-#EXTINF:-1,TV DRITA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrsy8KMO3FUtYDtbXfES0uq0/ts
-#EXTINF:-1,SPIN TV HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhQBp6tDJqCnLLkdFxfHHWg/ts
-#EXTINF:-1,MITRVOICA TV
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjrZOHQJdpgTKxK-Ylt0OaY/ts
-#EXTINF:-1,Deutsche Welle
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgMsm4PleqNdvqy_ERJdd8Y/ts
-#EXTINF:-1,21 BIZNES
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkGotrFLOLyGx45ssXRPcWo/ts
-#EXTINF:-1,TV ULQINI
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvAbL0sxoHZ_HSGG7hcqux0/ts
-#EXTINF:-1,TV TEUTA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrg2w4Rk6skble2r4gVICTpY/ts
-#EXTINF:-1,BOIN
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrCFYM-VuPQ3AlLAQG_dmO8/ts
-#EXTINF:-1,ALPO HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrSKMqEISOe3qfDbZFbGCLc/ts
-#EXTINF:-1,APOLLON
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgirl65K_yt3raISg5wIx_M/ts
-#EXTINF:-1,Syri Blue
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjc-uwz33-BMZ468UZ6kgQs/ts
-#EXTINF:-1,7 TV
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrl6GNcq9Tfc-XneQRvuCPmM/ts
-#EXTINF:-1,GOLD HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrj31aUY4IvL9kFoiQttU5_8/ts
-#EXTINF:-1,MAX HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrsv5t7YgSm7ru1UufqSirD0/ts
-#EXTINF:-1,AKSION HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtARwfCtpEYwxSE3Nq9KZuE/ts
-#EXTINF:-1,THRILLER
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrk6SgrN_A4CRDqgeOEphxYk/ts
-#EXTINF:-1,HITS HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroXfsZdclspMJXkEbS0VG3g/ts
-#EXTINF:-1,AUTOR
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrpQlfQ6Zi5PxHOClUxl1dPM/ts
-#EXTINF:-1,DRAMË
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhcCHEfjuSVNaRorMj0Yd4U/ts
-#EXTINF:-1,KOMEDI
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrqhPp7nHoUPSE0AjJs08bI/ts
-#EXTINF:-1,EUROFILM
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhNJFgkkLBD4eczz0HUlkXA/ts
-#EXTINF:-1,STINËT
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrni_W_glGMhPBOTMbtpw5AQ/ts
-#EXTINF:-1,FAMILY HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtM4O7LHX0FLPuLaO4CgxxM/ts
-#EXTINF:-1,T HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqO0UEdCHAH6F5z8Z1_VD-s/ts
-#EXTINF:-1,ART Kino 1
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkiYrzVUl2ltgjVw4plTf3U/ts
-#EXTINF:-1,ART Kino 2
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjGY8KmXArTk0VyOaKsa74k/ts
-#EXTINF:-1,ART Kino 3
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlbVqtlyuOsS5wkNSHiDEXc/ts
-#EXTINF:-1,EPISODE
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrguEShfPfZ0K1Snj0mGASpo/ts
-#EXTINF:-1,TRING 3+
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrnBUsHGElyREFSmbqWHDd2k/ts
-#EXTINF:-1,TRING SUPER HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhM6wyB29EebCdntiEPda7Y/ts
-#EXTINF:-1,TRING ACTION HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrn5Xg_xIZtwQnW_2LEEfQrU/ts
-#EXTINF:-1,TRING COMEDY
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrm_zIEyecArTXdw8PuymKJ4/ts
-#EXTINF:-1,TRING LIFE
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrsP2-2yL1OeGgIrnpe4Heiw/ts
-#EXTINF:-1,TRING NOVELAS
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztru8HRUoHpWju_v_6PF6tzow/ts
-#EXTINF:-1,TRING FANTASY
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjwwWtJfa_KXouiv0xeyeqY/ts
-#EXTINF:-1,TRING SHQIP
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztro9X6jp6m4KDTO3DyRpg_wQ/ts
-#EXTINF:-1,TRING JOLLY HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrs8Q4nWRweluYCTxFKmeAk8/ts
-#EXTINF:-1,SMILE
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjieBKIwtd6Guemx9hFsktM/ts
-#EXTINF:-1,SKY MAX
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrl8lOVW0s71QI-6ydcypL4g/ts
-#EXTINF:-1,SKY AKSION
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztri-S1uidvKJidyy7Mb1LaMk/ts
-#EXTINF:-1,SKY DRAMË
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhR7hZRjN4lRvwvOEB67ufQ/ts
-#EXTINF:-1,SKY KOMEDI
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrg4Bg8pl55TEreZXJU5LnRA/ts
-#EXTINF:-1,SKY NOVELA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlhOkiriQE7tiSenGXB9y9Q/ts
-#EXTINF:-1,TELEONE 1
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvd9NpThoHJjWKizNNJMVdg/ts
-#EXTINF:-1,TELEONE 2
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgXHU5kZVNZ-4qGbk5M-6ZE/ts
-#EXTINF:-1,TELEONE 3
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrGIksdZXn8H7z16PUbUFog/ts
-#EXTINF:-1,TELEONE 4
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjpTsvCg_7nUL_Pdcdb6VXc/ts
-#EXTINF:-1,TELEONE 5
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztro7ZbhDRlo9Omvst-zVEO8I/ts
-#EXTINF:-1,TELEONE 6
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrioDj4sCqk4cpLlxKhLZCeM/ts
-#EXTINF:-1,Dark Aksion FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlfv8qo42_IsR3BMgnQ46hU/ts
-#EXTINF:-1,Dark Deluxe FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkMMMuRHPr_A9fZnGNWirbw/ts
-#EXTINF:-1,Dark Special FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrg5WgTD_ZQ-5NjtpCFinUb0/ts
-#EXTINF:-1,Dark Komedi FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrk_7_By5dmtKbdvVgE56iZg/ts
-#EXTINF:-1,Dark Horror FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqepRDpUnmYVC7IpBzUjzn4/ts
-#EXTINF:-1,Dark Thriller FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjtpGCSwIFKSUhQbMtNFw8M/ts
-#EXTINF:-1,Dark Western FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvlc8qJiWsyWuqjppx2yTyY/ts
-#EXTINF:-1,Dark Classic FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgjauQfU6DJo2rRJ9L0I5rU/ts
-#EXTINF:-1,Dark Family FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrv5LBJw8yE9hbu6g9PHMr8E/ts
-#EXTINF:-1,Dark Fantazi FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmzPkzdeEfylDTH71-BGYB0/ts
-#EXTINF:-1,Dark Romance FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrpPKK9v_yvByyiRqKEY6KfM/ts
-#EXTINF:-1,Dark Hindi FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrj0eB6FuXF-hHIdzxK-sWpY/ts
-#EXTINF:-1,DARK Gold 1 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrp8_11kP8dg_RAjuULl4vbw/ts
-#EXTINF:-1,DARK Gold 2 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztro0FcnnCB8SppbtEq_NUJDI/ts
-#EXTINF:-1,DARK Gold 3 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqXEKacYYbiDxxxyQi14tZk/ts
-#EXTINF:-1,DARK Gold 4 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvHjMXh6ORtGJoNPgD3ruwA/ts
-#EXTINF:-1,DARK Prime 1 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztriUtcGcOIBLSeT9dPgFbxUY/ts
-#EXTINF:-1,DARK Prime 2 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgn-f_FiuwD09gaL1gb6Pxs/ts
-#EXTINF:-1,DARK Prime 3 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrpmCOHDAj54RLRecMPLbzmg/ts
-#EXTINF:-1,DARK Prime 4 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrsQJER_jxuYI2LPjzZkAIP8/ts
-#EXTINF:-1,DARK Netflix 1 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvpC87QqAfYjKPCa7TDvpWs/ts
-#EXTINF:-1,DARK Netflix 2 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrl_v2y47Tg6hvVI_DpvGY2Y/ts
-#EXTINF:-1,DARK Netflix 3 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroSC4_SlIU1gfhOCj6Se_CU/ts
-#EXTINF:-1,DARK Netflix 4 FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgsULxiNqM4xuHRnoNpticI/ts
-#EXTINF:-1,KINEMA+ milenium 1
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrp5bQqRHLklEVS4wIBYd4nA/ts
-#EXTINF:-1,KINEMA+ milenium 2
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmzDXKQlZ5rXoD2RlB7zm_w/ts
-#EXTINF:-1,KINEMA+ milenium 3
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmi4G9H5GtfPZM6f9Cq-1B0/ts
-#EXTINF:-1,KINEMA+ milenium 4
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrk65ho98yCkIUJcdvDDl6zA/ts
-#EXTINF:-1,KINEMA+ GOLD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrp713Q5yQvXtk-HEO_Xf4fQ/ts
-#EXTINF:-1,KINEMA+ FAMILY
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrv29ZicKhqzVOQH-MisIpNg/ts
-#EXTINF:-1,KINEMA+ AKSION
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhPD-hkps9Aan30KD-WIm08/ts
-#EXTINF:-1,ART DOKU 1 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhR7Lt_42YQu4ZBe92I1BF0/ts
-#EXTINF:-1,ART DOKU 2 HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkvwXWasq0yhSWFp6DS38cQ/ts
-#EXTINF:-1,SHKENCË
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrI87rUKph2WN_ir6egqXGE/ts
-#EXTINF:-1,NATYRA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrpXCuovdp2V9BTjUUpMhcek/ts
-#EXTINF:-1,HISTORI
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrnvf8UVlVr3PqDlrQh5kLow/ts
-#EXTINF:-1,Living HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjQCxOrGL6UWo4ruZOyi-co/ts
-#EXTINF:-1,TRING WORLD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlewqtGjU_-2XGVD3PaRO8I/ts
-#EXTINF:-1,TRING PLANET
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrpDMQgWJ1F6GjvFgJRrYws/ts
-#EXTINF:-1,TRING HYSTORY
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvxIP1NXFDNx09Gh72Xl76g/ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgAs-cqXFA2PK6LUMRSp3mQ/ts
-#EXTINF:-1,travel CHANNEL
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrq9exEdCvz-mysV5oLX59a4/ts
-#EXTINF:-1,ANIMAL PLANET
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjH7VJCOkKVDbwz0tLRw_-A/ts
-#EXTINF:-1,Discovery Channel
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvI_7RWlzsZmexrWkUvVNeM/ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqKARv824tTFSnYrvhBb4rI/ts
-#EXTINF:-1,DTX
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrh43t-8T_rFKP1y4k2gT40E/ts
-#EXTINF:-1,Bang Bang
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjja3A7Fu-h3Ik0jeq3fZxg/ts
-#EXTINF:-1,ÇUFO
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrs1MHhLyf4nYw_kWjgJ0xjk/ts
-#EXTINF:-1,TOMI DHE GJERI
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgz3JrhFMVy36wZJE-G8qDI/ts
-#EXTINF:-1,TRING KIDS
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlU5UTazWDk3pBuvxGh7QUE/ts
-#EXTINF:-1,TRING TRING
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqpe_kVXUfLW07p0LuF2Rx4/ts
-#EXTINF:-1,tip tv
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrv-QphVDYE37yhLR8KMkv1I/ts
-#EXTINF:-1,junior
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrs8rZImgKTZyHG1b5YbEUuQ/ts
-#EXTINF:-1,sofia HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhp-pkGvrBTw34JoQNU5Et0/ts
-#EXTINF:-1,Baby tv
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrq5gWqCyGkeG1NKJon9CLNs/ts
-#EXTINF:-1,BOOMERANG
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztri_lPYYBJKJCz7UIQeoY4lA/ts
-#EXTINF:-1,duck tv
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqT9eGPMIfkz2VrTRtzyEYs/ts
-#EXTINF:-1,21 JUNIOR HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroKRNu0JSFQNw3Vsb7eDLDA/ts
-#EXTINF:-1,Masha dhe Ariu
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrs50C4KcgXJ2UOgJf5Fus7M/ts
-#EXTINF:-1,RTSH femije
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroXySe_rtIwKxnmyJi6_jxk/ts
-#EXTINF:-1,Elrodi tv
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrn2hVsFUDKetPVqdGuIXbBc/ts
-#EXTINF:-1,RTV FONTANA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhTx3MS2px79WST7EajDQ28/ts
-#EXTINF:-1,FOLK
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztru0yuDhHak3bp8Qkn4uCziU/ts
-#EXTINF:-1,BBF Music TV
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjJcnyCWY70Pe5eRFN2WZVg/ts
-#EXTINF:-1,MFM
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztro2l-CE-5tWLsnBC_lJTlcw/ts
-#EXTINF:-1,MTV KOSOVA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztriP0ZyPSHe5PPzDiVe9zs8g/ts
-#EXTINF:-1,MY MUZIK
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjYc-fg9N7Rp7H1_ecSjLmA/ts
-#EXTINF:-1,DASMA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlet0S4JCvHGawa4VG6FQSw/ts
-#EXTINF:-1,DARK Popullore HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrqoFuNLEdZD_7IBPIfI8za0/ts
-#EXTINF:-1,DARK Tallava HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtmiM9n1tmng1XrbvweWBso/ts
-#EXTINF:-1,DARK Çifteli HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmTKAA_bv1Q5L8o_58rveD0/ts
-#EXTINF:-1,DARK Hits HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmPuImEmE_GMqSO4SLfZb-E/ts
-#EXTINF:-1,OPOjA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhXG78uiBpOxPkp-iGbKOUQ/ts
-#EXTINF:-1,ZICO TV FHD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrv9z7Gx3iWN0Zk4AEuLcHDA/ts
-#EXTINF:-1,SUPERSONIC
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhm1lgEE9E3UaDvmKAKRSiY/ts
-#EXTINF:-1,AMOL HD
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjmSBSQ4WwHbXbUCTs3oOYg/ts
-#EXTINF:-1,ROMA TV
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrj9KnSKV4jh-iFGNts6YBGc/ts
-#EXTINF:-1,BALKANIKA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrnqSzgMcnAtL4JcCYH4x-kA/ts
-#EXTINF:-1,turbo CHANNEL
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrv-0XKNTxICtHEFl4iq9-6o/ts
-#EXTINF:-1,TOP ESTRADA
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgq6GwBiNU8EJqwAsvMRgEc/ts
-#EXTINF:-1,Klan Muzike
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjAJWobswMrNmaSqKVyuwxs/ts
-#EXTINF:-1,VEVO R&B
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjCBt_CBlaQtVAwheN1ooo4/ts
-#EXTINF:-1,VEVO HIP-HOP
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrm1_2TkPDKnjNn2GpFlqOtc/ts
-#EXTINF:-1,VEVO LATINO
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrs8tpvaql_MMfitiDylI-Vg/ts
-#EXTINF:-1,FESTINA TV
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrl92UOpS0us12FFlNtEDC1o/ts
-#EXTINF:-1,Super Sport 1
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtNVM5jS3BpahlT3qq54F1s/ts
-#EXTINF:-1,Super Sport 2
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrm0HnmJfT_Wow-BqRnDBmPc/ts
-#EXTINF:-1,Super Sport 3
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrnIPsmXO0Lq6VqWK-WV1eF4/ts
-#EXTINF:-1,Super Sport 4
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtxvYBQKSakOXm6tncy34uM/ts
-#EXTINF:-1,Super Sport 5
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztroFTWfeTjFMBctGg1WOdsXY/ts
-#EXTINF:-1,Super Sport 6
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrvWfVkjKJ6ehceGdZ5VuWGY/ts
-#EXTINF:-1,Super Sport 1 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztru2z2Rkq2sicIS8k8dEuLTo/ts
-#EXTINF:-1,Super Sport 2 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztruNc___LYuVZhuwGlKSr8B0/ts
-#EXTINF:-1,Super Sport 3 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtXFEXMNyz1SHFQIWhQhWf0/ts
-#EXTINF:-1,Super Sport 4 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkRVSrObTAWRPBnPg-lJ3Zo/ts
-#EXTINF:-1,Super Sport 5 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrtgSbCAkNYWT52aZZzgmKv8/ts
-#EXTINF:-1,K Sport 1
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztri3OLX7q241Y-d5CmLD9n5M/ts
-#EXTINF:-1,K Sport 2
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrv9Xc39XAyuMRL7uQbgPFpc/ts
-#EXTINF:-1,K Sport 3
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrhvQ7E5BIGVVn3C4C8tW-9M/ts
-#EXTINF:-1,K Sport 4
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgnLKmmMdu_C8iuYKYcT2vA/ts
-#EXTINF:-1,ART Sport 1
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrSyh44ce-cmYK1HcuK6lxk/ts
-#EXTINF:-1,ART Sport 2
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrjAxU3gkJ8ibrvha35B4oec/ts
-#EXTINF:-1,ART Sport 3
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkACWia5rZQwIx3l7bIo9_k/ts
-#EXTINF:-1,ART Sport 4
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlWbaqlFg_x_t0yKlEzewtQ/ts
-#EXTINF:-1,ART Sport 5
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrghosnY13jnZ1JFofM-gTjc/ts
-#EXTINF:-1,ART Sport 6
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkE9PBdm4p6KZ4KYILtgeno/ts
-#EXTINF:-1,Tring Sport News
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztriky-dRaqfNKMVMny-jeYCc/ts
-#EXTINF:-1,Tring Sport 1
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrlpMtqh24JMYUj7U14FEmfQ/ts
-#EXTINF:-1,Tring Sport 2
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrpCvfPVBwe46uHBC8Pk5AYs/ts
-#EXTINF:-1,Tring Sport 3
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrh_m5uC6TA-xwG52CKEngdM/ts
-#EXTINF:-1,Tring Sport 4
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztriF9IkJl-HOTStvrix2w5ZM/ts
-#EXTINF:-1,Tring Sport 1 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrkpvWUpnS7gTC47c6aumqFM/ts
-#EXTINF:-1,Tring Sport 2 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrplu0vnr21SIR41qkFmueWM/ts
-#EXTINF:-1,Tring Sport 3 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztriKpmQe2GpmQ-xgRCnsIqKE/ts
-#EXTINF:-1,Tring Sport 4 (B)
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrrFUashXqMekNb_scAvdNyI/ts
-#EXTINF:-1,OVERSPORT News
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrsImspER1y-OSlgyenLrKbo/ts
-#EXTINF:-1,OVERSPORT 1
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrpl9670xSTfuIrEmM6CPB9U/ts
-#EXTINF:-1,OVERSPORT 2
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrmCr_2dgLiZeCSeWCKHECg0/ts
-#EXTINF:-1,OVERSPORT 3
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrgb5W76D3NpN6_pa0j1e-fg/ts
-#EXTINF:-1,OVERSPORT 4
-http://lilitv.xyz:80/play/fr7YmM80h0ahPfMcSbztrksTwYvvJbyGbiUJLbZhUp4/ts
+EXTINF:-1 tvg-id="" tvg-name="### ALBANIA AL ###" tvg-logo="http://panel.tivix.eu:8000/logo1/Albania/al.png" group-title="Albanian - AL",### ALBANIA AL ###
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/33896
+#EXTINF:-1 tvg-id="rtk.al" tvg-name="AL: RTK 1 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTK1.al.png" group-title="Albanian - AL",AL: RTK 1 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55219
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTK3.al.png" group-title="Albanian - AL",AL: RTK 3 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55221
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTK4.al.png" group-title="Albanian - AL",AL: RTK 4 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55222
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Mix HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/21Mix.al.png" group-title="Albanian - AL",AL: RTV 21 Mix HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55223
+#EXTINF:-1 tvg-id="rtv21m.al" tvg-name="AL: RTV 21 PLUS HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/21Plus.al.png" group-title="Albanian - AL",AL: RTV 21 PLUS HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55224
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 Popullore" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/21Popullore.al.png" group-title="Albanian - AL",AL: RTV21 Popullore
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55225
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 Pendimi HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/21.al.png" group-title="Albanian - AL",AL: RTV21 Pendimi HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55227
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 Junior HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/21Junior.al.png" group-title="Albanian - AL",AL: RTV21 Junior HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55228
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 Maqedonia HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/21MK.al.png" group-title="Albanian - AL",AL: RTV21 Maqedonia HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55229
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/KTVHD.al.png" group-title="Albanian - AL",AL: KTV HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55230
+#EXTINF:-1 tvg-id="klantv.al" tvg-name="AL: Klan Plus HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/KlanPlus.al.png" group-title="Albanian - AL",AL: Klan Plus HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55231
+#EXTINF:-1 tvg-id="klankosova.al" tvg-name="AL: Klan Kosova HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/KlanKosova.al.png" group-title="Albanian - AL",AL: Klan Kosova HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55232
+#EXTINF:-1 tvg-id="" tvg-name="AL: TOP Channel HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TopChannelHD.al.png" group-title="Albanian - AL",AL: TOP Channel HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55233
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan TV HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/KlanTVHD.al.png" group-title="Albanian - AL",AL: Klan TV HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55234
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTSH1HD.al.png" group-title="Albanian - AL",AL: RTSH 1 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55235
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTSH2HD.al.png" group-title="Albanian - AL",AL: RTSH 2 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55236
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Korca HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTSHKorca.al.png" group-title="Albanian - AL",AL: RTSH Korca HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55237
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Muzike HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTSHMuzike.al.png" group-title="Albanian - AL",AL: RTSH Muzike HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55238
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Plus HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTSHPlus.al.png" group-title="Albanian - AL",AL: RTSH Plus HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55239
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shqip HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTSHShqip.al.png" group-title="Albanian - AL",AL: RTSH Shqip HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55240
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sports HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTSHSport.al.png" group-title="Albanian - AL",AL: RTSH Sports HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55241
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Film HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTSHFilm.al.png" group-title="Albanian - AL",AL: RTSH Film HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55242
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 FHD" tvg-logo="http://worldiptv.xyz/chlogos/big20brother.png" group-title="Albanian - AL",Big Brother 1 FHD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/143612
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alsat M HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/AlsatM.al.png" group-title="Albanian - AL",AL: Alsat M HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55243
+#EXTINF:-1 tvg-id="" tvg-name="AL: VIZION PLUS HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/VizionPlusHD.al.png" group-title="Albanian - AL",AL: VIZION PLUS HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55244
+#EXTINF:-1 tvg-id="" tvg-name="AL: ERA TV HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/ERATV.al.png" group-title="Albanian - AL",AL: ERA TV HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55245
+#EXTINF:-1 tvg-id="" tvg-name="AL: T7 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/T7.al.png" group-title="Albanian - AL",AL: T7 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55247
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Një HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERNje.al.png" group-title="Albanian - AL",AL: Film Një HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55248
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERDy.al.png" group-title="Albanian - AL",AL: Film Dy HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55249
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERhits.al.png" group-title="Albanian - AL",AL: Film Hits HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55250
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERAksion.al.png" group-title="Albanian - AL",AL: Film Aksion HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55251
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERAutor.al.png" group-title="Albanian - AL",AL: Film Autor HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55252
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERKomedi.al.png" group-title="Albanian - AL",AL: Film Komedi HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55253
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Drame HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERDrame.al.png" group-title="Albanian - AL",AL: Film Drame HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55254
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERThriller.al.png" group-title="Albanian - AL",AL: Film Thriller HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55255
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringAction.al.png" group-title="Albanian - AL",AL: Tring Action HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55256
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Histori HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringHistory.al.png" group-title="Albanian - AL",AL: Tring Histori HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55257
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Komedi HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringComedy.al.png" group-title="Albanian - AL",AL: Tring Komedi HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55258
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Life HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringLife.al.png" group-title="Albanian - AL",AL: Tring Life HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55259
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Planet HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringPlanet.al.png" group-title="Albanian - AL",AL: Tring Planet HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55260
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Shqip HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringShqip.al.png" group-title="Albanian - AL",AL: Tring Shqip HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55261
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringFantasy.al.png" group-title="Albanian - AL",AL: Tring Fantasy HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55263
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring World HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringWorld.al.png" group-title="Albanian - AL",AL: Tring World HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55264
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3 Plus HD" tvg-logo="https://www.tring.al/wp-content/uploads/2018/12/3plus.png" group-title="Albanian - AL",AL: Tring 3 Plus HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55265
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Max HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringMax.al.png" group-title="Albanian - AL",AL: Tring Max HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55266
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Smile HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/Smile.al.png" group-title="Albanian - AL",AL: Tring Smile HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55267
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringSuper.al.png" group-title="Albanian - AL",AL: Tring Super HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55268
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Tring" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringTring.al.png" group-title="Albanian - AL",AL: Tring Tring
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55269
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringSport2HD.al.png" group-title="Albanian - AL",AL: Tring Sport 2 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55271
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringSport3HD.al.png" group-title="Albanian - AL",AL: Tring Sport 3 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55272
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringSport4HD.al.png" group-title="Albanian - AL",AL: Tring Sport 4 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55273
+#EXTINF:-1 tvg-id="" tvg-name="AL: FOX HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/FOX.al.png" group-title="Albanian - AL",AL: FOX HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55274
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Crime HD" tvg-logo="http://worldiptv.xyz/chlogos/FoxCrime.al.png" group-title="Albanian - AL",AL: Fox Crime HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55275
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Movie HD" tvg-logo="http://worldiptv.xyz/chlogos/FoxMovies.pt.png" group-title="Albanian - AL",AL: Fox Movie HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55276
+#EXTINF:-1 tvg-id="" tvg-name="AL: Stinët HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERStinet.al.png" group-title="Albanian - AL",AL: Stinët HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55277
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringFantasy.al.png" group-title="Albanian - AL",AL: Tring Fantasy HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55280
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Drame HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SkyDrame.al.png" group-title="Albanian - AL",AL: Sky Drame HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55281
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky History HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SkyHistory.al.png" group-title="Albanian - AL",AL: Sky History HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55282
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Komedi HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SkyComedy.al.png" group-title="Albanian - AL",AL: Sky Komedi HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55283
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SkyMax.al.png" group-title="Albanian - AL",AL: Sky Max HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55284
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB uk HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/ALBUKTV.al.png" group-title="Albanian - AL",AL: ALB uk HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55285
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Kids HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringKids.al.png" group-title="Albanian - AL",AL: Tring Kids HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55286
+#EXTINF:-1 tvg-id="" tvg-name="AL: Pink Comedy HD" tvg-logo="http://worldiptv.xyz/chlogos/PinkComedy.rs.png" group-title="Albanian - AL",AL: Pink Comedy HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55287
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Histori HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERHistori.al.png" group-title="Albanian - AL",AL: Explorer Histori HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55288
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Natyra HD" tvg-logo="http://worldiptv.xyz/chlogos/EXPNatyra.al.png" group-title="Albanian - AL",AL: Explorer Natyra HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55289
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Shkence HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/EXPLORERShkence.al.png" group-title="Albanian - AL",AL: Explorer Shkence HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55290
+#EXTINF:-1 tvg-id="" tvg-name="AL: Living HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/LivingHD.al.png" group-title="Albanian - AL",AL: Living HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55291
+#EXTINF:-1 tvg-id="" tvg-name="AL: Muse HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/Muse.al.png" group-title="Albanian - AL",AL: Muse HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55292
+#EXTINF:-1 tvg-id="" tvg-name="AL: Muse Tring HD" tvg-logo="http://worldiptv.xyz/chlogos/Muse.al.png" group-title="Albanian - AL",AL: Muse Tring HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55293
+#EXTINF:-1 tvg-id="" tvg-name="AL: BBF Music HD" tvg-logo="https://www.tring.al/wp-content/uploads/2018/12/bbf.png" group-title="Albanian - AL",AL: BBF Music HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55294
+#EXTINF:-1 tvg-id="" tvg-name="AL: ABC News HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/ABCNews.al.png" group-title="Albanian - AL",AL: ABC News HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55297
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arta News HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/ArtaHD.al.png" group-title="Albanian - AL",AL: Arta News HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55298
+#EXTINF:-1 tvg-id="" tvg-name="AL: Baby HD" tvg-logo="http://worldiptv.xyz/chlogos/BabyTV.br.png" group-title="Albanian - AL",AL: Baby HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55299
+#EXTINF:-1 tvg-id="" tvg-name="AL: Bang Bang HD" tvg-logo="http://worldiptv.xyz/chlogos/BangBang.al.png" group-title="Albanian - AL",AL: Bang Bang HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55300
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cufo HD" tvg-logo="http://worldiptv.xyz/chlogos/CufoTV.al.png" group-title="Albanian - AL",AL: Cufo HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55302
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/firstCHANNEL.al.png" group-title="Albanian - AL",AL: First Channel HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55304
+#EXTINF:-1 tvg-id="" tvg-name="AL: Junior HD" tvg-logo="http://worldiptv.xyz/chlogos/JuniorTV.al.png" group-title="Albanian - AL",AL: Junior HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55305
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanali 7 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/7News.al.png" group-title="Albanian - AL",AL: Kanali 7 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55306
+#EXTINF:-1 tvg-id="" tvg-name="AL: Nat Geographic HD" tvg-logo="http://worldiptv.xyz/chlogos/NatGeo.de.png" group-title="Albanian - AL",AL: Nat Geographic HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55307
+#EXTINF:-1 tvg-id="" tvg-name="AL: News 24 HD" tvg-logo="http://worldiptv.xyz/chlogos/News24.in.png" group-title="Albanian - AL",AL: News 24 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55308
+#EXTINF:-1 tvg-id="" tvg-name="AL: Peace HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e7/Peace_TV_logosu.png" group-title="Albanian - AL",AL: Peace HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55310
+#EXTINF:-1 tvg-id="" tvg-name="AL: Smile HD" tvg-logo="http://worldiptv.xyz/chlogos/Smile.al.png" group-title="Albanian - AL",AL: Smile HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55311
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Vizion HD" tvg-logo="https://brecani-security.com/wp-content/uploads/2016/02/syrimedia.png" group-title="Albanian - AL",AL: Syri Vizion HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55312
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tip HD" tvg-logo="http://worldiptv.xyz/chlogos/TipTv.al.png" group-title="Albanian - AL",AL: Tip HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55313
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top News HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TopNews.al.png" group-title="Albanian - AL",AL: Top News HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55314
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arta HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/Arta.al.png" group-title="Albanian - AL",AL: Arta HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55315
+#EXTINF:-1 tvg-id="" tvg-name="AL: Besa HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/Besa.al.png" group-title="Albanian - AL",AL: Besa HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55316
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mitrovica HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/MitrovicaTV.al.png" group-title="Albanian - AL",AL: Mitrovica HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55318
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mitrovica HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/MitrovicaTV.al.png" group-title="Albanian - AL",AL: Mitrovica HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55319
+#EXTINF:-1 tvg-id="" tvg-name="AL: Opoja HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/OpojaTV.al.png" group-title="Albanian - AL",AL: Opoja HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55320
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/VizionPlusHD.al.png" group-title="Albanian - AL",AL: Vizion Plus HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55321
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTSH3HD.al.png" group-title="Albanian - AL",AL: RTSH 3 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55322
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zico HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/ZicoTV.al.png" group-title="Albanian - AL",AL: Zico HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55323
+#EXTINF:-1 tvg-id="" tvg-name="AL: Folk HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/ALBMUSICHD.al.png" group-title="Albanian - AL",AL: Folk HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55325
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB Humor HD" tvg-logo="https://icons.iconarchive.com/icons/hopstarter/square-flags/256/Albania-Flag-icon.png" group-title="Albanian - AL",AL: ALB Humor HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55326
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB Music HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/AlbMuzik.al.png" group-title="Albanian - AL",AL: ALB Music HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55327
+#EXTINF:-1 tvg-id="" tvg-name="AL: Elrodi HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/ElrodiTV.al.png" group-title="Albanian - AL",AL: Elrodi HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55328
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filmbox Arthouse HD" tvg-logo="http://worldiptv.xyz/chlogos/FilmBoxArtHouse.pl.png" group-title="Albanian - AL",AL: Filmbox Arthouse HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55329
+#EXTINF:-1 tvg-id="" tvg-name="AL: My Music HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/MyMusic.al.png" group-title="Albanian - AL",AL: My Music HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55330
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ora news HD" tvg-logo="http://panel.tivix.eu:8000/logo1/Albania/ora_news_al.png" group-title="Albanian - AL",AL: Ora news HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55331
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zjaar HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/ZjarrTV.al.png" group-title="Albanian - AL",AL: Zjaar HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55334
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/KujtesaSport2.al.png" group-title="Albanian - AL",AL: Kujtesa Sport 2 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/55336
+#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Channel" tvg-logo="http://worldiptv.xyz/chlogos/DiscoveryChannel.au.png" group-title="Albanian - AL",AL: Discovery Channel
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56728
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sofia TV" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/Sofia.al.png" group-title="Albanian - AL",AL: Sofia TV
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56729
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/RTVFontana.al.png" group-title="Albanian - AL",AL: RTV Fontana
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56731
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tirana TV" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TiranaTV.al.png" group-title="Albanian - AL",AL: Tirana TV
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56732
+#EXTINF:-1 tvg-id="" tvg-name="AL: TOP Music" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TopChannel.al.png" group-title="Albanian - AL",AL: TOP Music
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56733
+#EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TurboChannel.al.png" group-title="Albanian - AL",AL: Turbo Channel
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56734
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Estrada TV HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TopEstrada.al.png" group-title="Albanian - AL",AL: Top Estrada TV HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56735
+#EXTINF:-1 tvg-id="" tvg-name="AL: Folklorit HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/Folklorit.al.png" group-title="Albanian - AL",AL: Folklorit HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56737
+#EXTINF:-1 tvg-id="" tvg-name="AL: STV Folk" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/STVFolk.al.png" group-title="Albanian - AL",AL: STV Folk
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56738
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Novela" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SkyNovela.al.png" group-title="Albanian - AL",AL: Sky Novela
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56740
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TemA.al.png" group-title="Albanian - AL",AL: T HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56744
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Koha" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/KohaTV.al.png" group-title="Albanian - AL",AL: TV Koha
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56745
+#EXTINF:-1 tvg-id="" tvg-name="AL: E! Entertainment" tvg-logo="http://worldiptv.xyz/chlogos/EEntertainment.us.png" group-title="Albanian - AL",AL: E! Entertainment
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56746
+#EXTINF:-1 tvg-id="" tvg-name="AL: 24 Kitchen" tvg-logo="http://worldiptv.xyz/chlogos/24Kitchen.nl.png" group-title="Albanian - AL",AL: 24 Kitchen
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56747
+#EXTINF:-1 tvg-id="" tvg-name="AL: Scan TV" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SCANTV.al.png" group-title="Albanian - AL",AL: Scan TV
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56748
+#EXTINF:-1 tvg-id="" tvg-name="AL: Star Plus Shkoder" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/StarPlusHD.al.png" group-title="Albanian - AL",AL: Star Plus Shkoder
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56756
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/DasmaTV.al.png" group-title="Albanian - AL",AL: Dasma TV
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56760
+#EXTINF:-1 tvg-id="" tvg-name="AL: Boomerang" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/Boomerang.al.png" group-title="Albanian - AL",AL: Boomerang
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56766
+#EXTINF:-1 tvg-id="" tvg-name="AL: Nickelodeon" tvg-logo="http://worldiptv.xyz/chlogos/Nickelodeon.de.png" group-title="Albanian - AL",AL: Nickelodeon
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56773
+#EXTINF:-1 tvg-id="" tvg-name="AL: Travel Channel HD" tvg-logo="http://worldiptv.xyz/chlogos/Travel.bg.png" group-title="Albanian - AL",AL: Travel Channel HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56774
+#EXTINF:-1 tvg-id="" tvg-name="AL: Animal Planet HD" tvg-logo="http://worldiptv.xyz/chlogos/AnimalPlanet.uk.png" group-title="Albanian - AL",AL: Animal Planet HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56775
+#EXTINF:-1 tvg-id="" tvg-name="AL: Comedy Central Extra" tvg-logo="http://worldiptv.xyz/chlogos/ComedyCentralExtra.uk.png" group-title="Albanian - AL",AL: Comedy Central Extra
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56776
+#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Channel" tvg-logo="http://worldiptv.xyz/chlogos/DiscoveryChannel.au.png" group-title="Albanian - AL",AL: Discovery Channel
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56778
+#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Science HD" tvg-logo="http://worldiptv.xyz/chlogos/DiscoveryScience.hu.png" group-title="Albanian - AL",AL: Discovery Science HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56782
+#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Turbo Xtra" tvg-logo="http://worldiptv.xyz/chlogos/DTXTurbo.tr.png" group-title="Albanian - AL",AL: Discovery Turbo Xtra
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56783
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 1 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/Xpremium1HD.al.png" group-title="Albanian - AL",AL: X Premium 1 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56795
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 2 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/Xpremium2HD.al.png" group-title="Albanian - AL",AL: X Premium 2 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/56796
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SuperSport1HD.al.png" group-title="Albanian - AL",AL: Super Sport 1 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/161887
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SuperSport2HD.al.png" group-title="Albanian - AL",AL: Super Sport 2 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/161883
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SuperSport3HD.al.png" group-title="Albanian - AL",AL: Super Sport 3 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/161886
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/SuperSport5.al.png" group-title="Albanian - AL",AL: Super Sport 5 HD
+http://viptv.me:80/EmreCeper/AUaVVJztqTq3/161884
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringSport1HD.al.png" group-title="Albanian - AL",AL: Tring Sport 1 HD
