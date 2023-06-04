@@ -1,642 +1,631 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AL: 24 Kitchen" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/0bc804a09638d8aec9bfa209a7fa027a.png" group-title="Albania ➾ LifeStyle",AL: 24 Kitchen
-http://45.143.222.50:8080/985999aa/a335e51ebe/1343
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Cifteli" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/168089023312d63116382fa8c5f84dd6.jpg" group-title="Albania",AL: 8ova Cifteli
-http://45.143.222.50:8080/985999aa/a335e51ebe/12464
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1343
 #EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Drame" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7afa123ef85c9e96bd335ae6b8b120f7.jpg" group-title="Albania",AL: 8ova Drame
-http://45.143.222.50:8080/985999aa/a335e51ebe/263766
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/263766
 #EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Gjurme Shqiptare TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/36269d8ebf49044925b5b85fa2337205.jpg" group-title="Albania",AL: 8ova Gjurme Shqiptare TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/193733
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/193733
 #EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Humor" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c1b8184a561aaf9f7910d80ccb4f9553.jpg" group-title="Albania",AL: 8ova Humor
-http://45.143.222.50:8080/985999aa/a335e51ebe/263772
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/263772
 #EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Komedi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bfb62bd60457dde7930e0ee6c3bef2b9.jpg" group-title="Albania",AL: 8ova Komedi
-http://45.143.222.50:8080/985999aa/a335e51ebe/263767
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/263767
 #EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Thriller" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3f41b6dae1d1f6d01b8f7bd790b1fa48.jpg" group-title="Albania",AL: 8ova Thriller
-http://45.143.222.50:8080/985999aa/a335e51ebe/263765
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/263765
 #EXTINF:-1 tvg-id="" tvg-name="AL: A2 CNN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e6134662a6df54df16e72f147a19a565.svg" group-title="Albania ➾ News",AL: A2 CNN
-http://45.143.222.50:8080/985999aa/a335e51ebe/281857
-#EXTINF:-1 tvg-id="" tvg-name="AL: AA Network" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: AA Network
-http://45.143.222.50:8080/985999aa/a335e51ebe/297251
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/281857
 #EXTINF:-1 tvg-id="" tvg-name="AL: ABC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fb31ad95ec4bbc4be881e750ea856a89.png" group-title="Albania ➾ LifeStyle",AL: ABC
-http://45.143.222.50:8080/985999aa/a335e51ebe/2551
-#EXTINF:-1 tvg-id="" tvg-name="AL: ACTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/46cd8fdc010df0ab920ca1db096ac45a.png" group-title="Albania ➾ LifeStyle",AL: ACTV
-http://45.143.222.50:8080/985999aa/a335e51ebe/281966
-#EXTINF:-1 tvg-id="" tvg-name="AL: AD TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: AD TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/282007
-#EXTINF:-1 tvg-id="" tvg-name="AL: Adria Net" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/9b6587f3c7e21991be6cc215c6d5374b.png" group-title="Albania",AL: Adria Net
-http://45.143.222.50:8080/985999aa/a335e51ebe/173470
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2551
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1c75920e78b913e57a9a9b9e9d2005db.png" group-title="Albania ➾ Music",AL: ALB Music
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/44994
 #EXTINF:-1 tvg-id="" tvg-name="AL: Alb Swiss" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/06509b8b29e26f2b34a0a0c28e2128c3.png" group-title="Albania ➾ Music",AL: Alb Swiss
-http://45.143.222.50:8080/985999aa/a335e51ebe/12437
-#EXTINF:-1 tvg-id="" tvg-name="AL: Albanian TV Chicago" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: Albanian TV Chicago
-http://45.143.222.50:8080/985999aa/a335e51ebe/297257
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/12437
+#EXTINF:-1 tvg-id="" tvg-name="AL: Albanian TV Chicago" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/2411e6e066ebfcc8d6c5b9b4e9a76065.jfif" group-title="Albania",AL: Albanian TV Chicago
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297257
 #EXTINF:-1 tvg-id="" tvg-name="AL: Albkanale Muzik" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fdbba100c22bd4f8989cdce644343140.png" group-title="Albania ➾ Music",AL: Albkanale Muzik
-http://45.143.222.50:8080/985999aa/a335e51ebe/295858
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295858
 #EXTINF:-1 tvg-id="" tvg-name="AL: ALBSE" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/79435db1a1a065bd112d300f3ac6f780.png" group-title="Albania",AL: ALBSE
-http://45.143.222.50:8080/985999aa/a335e51ebe/297256
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297256
 #EXTINF:-1 tvg-id="" tvg-name="AL: Albuk" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/5bff9d821ee487f9df8d1e70eb830194.png" group-title="Albania ➾ Movie",AL: Albuk
-http://45.143.222.50:8080/985999aa/a335e51ebe/4037
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4037
 #EXTINF:-1 tvg-id="" tvg-name="AL: Alpo" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d29d9fbb2c0cd93b3b8f04b5330f597e.jpg" group-title="Albania",AL: Alpo
-http://45.143.222.50:8080/985999aa/a335e51ebe/278528
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/278528
 #EXTINF:-1 tvg-id="" tvg-name="AL: Amol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/94dda95426bbaef8ac2cc9244ec6dcda.png" group-title="Albania ➾ Music",AL: Amol TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/281387
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/281387
 #EXTINF:-1 tvg-id="" tvg-name="AL: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9afa447ec356f42e26e6a01e01774e0f.png" group-title="Albania ➾ Nature",AL: ANIMAL PLANET
-http://45.143.222.50:8080/985999aa/a335e51ebe/15558
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/15558
 #EXTINF:-1 tvg-id="" tvg-name="AL: Apollon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/48539aa3304c2a7b0ff845e5aa645c7e.jpg" group-title="Albania",AL: Apollon TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/267037
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/267037
 #EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" group-title="Albania ➾ Sports",AL: Arena Sport 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/193741
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/193741
 #EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/14078476ccd04f73e80473edc0a0037c.png" group-title="Albania ➾ Sports",AL: Arena Sport 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/171883
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/171883
 #EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0b368e483f287a3f3e07bab3dd8f652f.png" group-title="Albania ➾ Sports",AL: Arena Sport 4
-http://45.143.222.50:8080/985999aa/a335e51ebe/193744
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/193744
 #EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d5681f9e3564d378ff7769b8037581dc.png" group-title="Albania ➾ Sports",AL: Arena Sport 5
-http://45.143.222.50:8080/985999aa/a335e51ebe/57711
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/57711
 #EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/0a29f149fdf9ea0b75c430524b097d38.png" group-title="Albania ➾ LifeStyle",AL: Art Doku 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/146080
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/146080
 #EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/b4c398265f61972391d66dc127cad1bb.png" group-title="Albania ➾ LifeStyle",AL: Art Doku 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/146081
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/146081
 #EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/7fe45f2f1833f7f70be27cb3dc073c39.png" group-title="Albania ➾ Movie",AL: Art Kino 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/146084
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/146084
 #EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8f5cb8018c2f482d7bc3aebecf5d5e87.png" group-title="Albania ➾ Movie",AL: Art Kino 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/146085
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/146085
 #EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/48fe0b00bb6214ce00ed429c2004ffa0.png" group-title="Albania ➾ Movie",AL: Art Kino 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/146086
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/146086
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/d016a2c0dd5d33df89a4f85a016b9299.png" group-title="Albania ➾ Sports",AL: ART Sport 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/23143
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/23143
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/1f3685cf082119f422fe1bd584cbb48c.png" group-title="Albania ➾ Sports",AL: ART Sport 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/23146
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/23146
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7977d0e43fed7b4efd627df97b1a4e29.png" group-title="Albania ➾ Sports",AL: ART Sport 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/40061
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/abdc977d201ffe4dcb62857da0933002.png" group-title="Albania ➾ Sports",AL: ART Sport 4
-http://45.143.222.50:8080/985999aa/a335e51ebe/295216
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/06e4df2e89ce28cac687246c14956416.png" group-title="Albania ➾ Sports",AL: ART Sport 5
-http://45.143.222.50:8080/985999aa/a335e51ebe/295215
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 6" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/145bf5020853502bf30a313dedfd45d8.png" group-title="Albania ➾ Sports",AL: ART Sport 6
-http://45.143.222.50:8080/985999aa/a335e51ebe/295217
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/40061
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/29bd2d194a584b18ac79234629e0e7d3.png" group-title="Albania ➾ Sports",AL: ART Sport 4
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295216
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8b1c9902f40ad05adb08639c21185942.png" group-title="Albania ➾ Sports",AL: ART Sport 5
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295215
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 6" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f1601e8f1df9decd8a254b34fad96173.png" group-title="Albania ➾ Sports",AL: ART Sport 6
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295217
 #EXTINF:-1 tvg-id="" tvg-name="AL: Arti TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/0003ac6f8756aff13f094d45596c2802.png" group-title="Albania ➾ Music",AL: Arti TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/278529
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/278529
 #EXTINF:-1 tvg-id="" tvg-name="AL: Ashkali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/99f4a0487201e458e34fbc4726a24249.jpg" group-title="Albania ➾ Music",AL: Ashkali TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/193769
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/193769
 #EXTINF:-1 tvg-id="" tvg-name="AL: Atd TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/98556e590489a65d616d6d1ac08afd5e.jpg" group-title="Albania",AL: Atd TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/278531
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/278531
 #EXTINF:-1 tvg-id="" tvg-name="AL: ATV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/fc491afbd5e05e744fa0d4d257780b36.png" group-title="Albania ➾ LifeStyle",AL: ATV
-http://45.143.222.50:8080/985999aa/a335e51ebe/65844
-#EXTINF:-1 tvg-id="" tvg-name="AL: B Muzike" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7cf6921d38e52378c1bb8a3feb502389.jpg" group-title="Albania ➾ Music",AL: B Muzike
-http://45.143.222.50:8080/985999aa/a335e51ebe/188247
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/65844
 #EXTINF:-1 tvg-id="" tvg-name="AL: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/bfffd3dcc537580d993145acb49d47d4.png" group-title="Albania ➾ Kids",AL: Baby TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/4040
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4040
 #EXTINF:-1 tvg-id="" tvg-name="AL: Bang Bang" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/96e9592c36c5590a5503a86aa8c84042.png" group-title="Albania ➾ Kids",AL: Bang Bang
-http://45.143.222.50:8080/985999aa/a335e51ebe/1342
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1342
 #EXTINF:-1 tvg-id="" tvg-name="AL: BBF Music TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/4153e6d9d92367e3d7faf527c32c8f34.png" group-title="Albania ➾ Music",AL: BBF Music TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/4041
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4041
 #EXTINF:-1 tvg-id="" tvg-name="AL: Besa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a91d2c1caa0fca1a548de9508c8a9ad.png" group-title="Albania",AL: Besa TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/4042
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ LifeStyle",AL: Big Brother 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/297206
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 KS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f4303fd97f3b7715830b0d138a4917a2.jpg" group-title="Albania ➾ LifeStyle",AL: Big Brother 1 KS
-http://45.143.222.50:8080/985999aa/a335e51ebe/289613
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ LifeStyle",AL: Big Brother 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/297207
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 KS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d98f6aad4734508e6fec1b34479ff500.jpg" group-title="Albania ➾ LifeStyle",AL: Big Brother 2 KS
-http://45.143.222.50:8080/985999aa/a335e51ebe/289614
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4042
 #EXTINF:-1 tvg-id="" tvg-name="AL: Blue Sky TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ca226b0b1d75c3db087c62aa2d05f326.jpg" group-title="Albania",AL: Blue Sky TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/151757
-#EXTINF:-1 tvg-id="" tvg-name="AL: BOIN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/41005b20319a3ed33df8f686d990bce3.jpg" group-title="Albania",AL: BOIN TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/15520
-#EXTINF:-1 tvg-id="" tvg-name="AL: Cartoonito" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4a1b4ad2a30589bcadc7864434a40b3e.png" group-title="Albania ➾ Kids",AL: Cartoonito
-http://45.143.222.50:8080/985999aa/a335e51ebe/283189
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/151757
+#EXTINF:-1 tvg-id="" tvg-name="AL: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/18f4f54f7148e2049f237e8b2a2ed8ba.png" group-title="Albania ➾ Kids",AL: Boomerang
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1341
 #EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0a3b64b255107a5dec15d7c264c6600c.jpg" group-title="Albania",AL: Cinema 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/295552
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295552
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f89afba9eb7d61d6ca2f683d2795e51e.jpg" group-title="Albania",AL: Cinema 2
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295551
 #EXTINF:-1 tvg-id="" tvg-name="AL: Cinemax 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/94c83bd97c74751ea618bbb516c80a85.png" group-title="Albania ➾ Movie",AL: Cinemax 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/294443
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/294443
 #EXTINF:-1 tvg-id="" tvg-name="AL: CineStar TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/cd291c39df78dfe5f52e0e08d251c723.png" group-title="Albania",AL: CineStar TV 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/297305
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297305
 #EXTINF:-1 tvg-id="" tvg-name="AL: CineStar TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/eb1edcc1daa957427d2949026885dd00.png" group-title="Albania",AL: CineStar TV 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/297304
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297304
 #EXTINF:-1 tvg-id="" tvg-name="AL: CineStar TV Action" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/00766e77c98d14b7ebc058f5bc518b1e.png" group-title="Albania",AL: CineStar TV Action
-http://45.143.222.50:8080/985999aa/a335e51ebe/297301
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297301
 #EXTINF:-1 tvg-id="" tvg-name="AL: CineStar TV Premiere 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c58bee426c97015fe68762a3026a514d.png" group-title="Albania",AL: CineStar TV Premiere 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/297303
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297303
 #EXTINF:-1 tvg-id="" tvg-name="AL: CineStar TV Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/466bc8acf4ce9bcd0a7eaafeb6dd6ced.png" group-title="Albania",AL: CineStar TV Premiere 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/297302
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297302
 #EXTINF:-1 tvg-id="" tvg-name="AL: Click" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b93f3ea577764cf67133258c8902ccca.png" group-title="Albania ➾ Music",AL: Click
-http://45.143.222.50:8080/985999aa/a335e51ebe/16447
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/16447
 #EXTINF:-1 tvg-id="" tvg-name="AL: Comedy Central Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/314b0a42fca90aa03a4a78a8fbfe9100.png" group-title="Albania ➾ Movie",AL: Comedy Central Extra
-http://45.143.222.50:8080/985999aa/a335e51ebe/166512
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/166512
 #EXTINF:-1 tvg-id="" tvg-name="AL: Cufo" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/4fe3cc13a7cd65569e49171ad91e51ee.png" group-title="Albania ➾ Kids",AL: Cufo
-http://45.143.222.50:8080/985999aa/a335e51ebe/1339
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1339
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark Balada" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c07dce6fc82fb713060460a72afa6195.jpg" group-title="Albania",AL: Dark Balada
-http://45.143.222.50:8080/985999aa/a335e51ebe/266409
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/266409
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark Cka ka Shpia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1e2028be2cdd14c875e052a4f8287084.jpg" group-title="Albania",AL: Dark Cka ka Shpia
-http://45.143.222.50:8080/985999aa/a335e51ebe/166521
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/166521
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark Fara e Flliqt" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5ae289fe97626da77381c3f6b38b045c.jpg" group-title="Albania",AL: Dark Fara e Flliqt
-http://45.143.222.50:8080/985999aa/a335e51ebe/266416
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/266416
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark Kafeneja jone" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/41f5b3bb2abc6673008d7dd1d8331fa6.jpg" group-title="Albania",AL: Dark Kafeneja jone
-http://45.143.222.50:8080/985999aa/a335e51ebe/188264
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/188264
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark Popullore" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/48f2f551312ff1247109a912b6e31643.jpg" group-title="Albania",AL: Dark Popullore
-http://45.143.222.50:8080/985999aa/a335e51ebe/166533
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/166533
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark Stupcat Skeçe" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2c28ea1795e2683e8055fe75eaa04903.jpg" group-title="Albania",AL: Dark Stupcat Skeçe
-http://45.143.222.50:8080/985999aa/a335e51ebe/166520
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/166520
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark Tallava" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1411647725de948610133b7b8504beb5.jpg" group-title="Albania",AL: Dark Tallava
-http://45.143.222.50:8080/985999aa/a335e51ebe/166536
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/166536
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6521ee1b459e4eec0f170c94629856c5.png" group-title="Albania",AL: Dasma TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/8288
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/8288
 #EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/beb1692a41d02ea8057de57a42f61554.jpg" group-title="Albania",AL: Digi Gold 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/281904
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/281904
 #EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a7d06d7d3e50a7d0083022428489eef0.png" group-title="Albania ➾ Documentary",AL: Discovery Science
-http://45.143.222.50:8080/985999aa/a335e51ebe/166530
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/166530
 #EXTINF:-1 tvg-id="" tvg-name="AL: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/218b80728b2371099f57f0b9a8caf84c.png" group-title="Albania ➾ Kids",AL: Disney Junior
-http://45.143.222.50:8080/985999aa/a335e51ebe/44959
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/44959
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dizi Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/d5bfb51db01479c076cb8a6a4c902d05.jpg" group-title="Albania ➾ Movie",AL: Dizi Channel
-http://45.143.222.50:8080/985999aa/a335e51ebe/41309
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/41309
+#EXTINF:-1 tvg-id="" tvg-name="AL: Docu Box" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/896b4847e09ffae7e2d4ab67bdabd118.png" group-title="Albania ➾ Movie",AL: Docu Box
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/267033
 #EXTINF:-1 tvg-id="" tvg-name="AL: Drita TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eef24b5325b4ef4f581c2bb68ec7c942.png" group-title="Albania",AL: Drita TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/41318
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/41318
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive
-http://45.143.222.50:8080/985999aa/a335e51ebe/297193
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297193
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/297194
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297194
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/297195
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297195
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/297196
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297196
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive 4
-http://45.143.222.50:8080/985999aa/a335e51ebe/297197
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297197
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive 5
-http://45.143.222.50:8080/985999aa/a335e51ebe/297198
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297198
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive 6
-http://45.143.222.50:8080/985999aa/a335e51ebe/297199
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297199
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive 7
-http://45.143.222.50:8080/985999aa/a335e51ebe/297200
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297200
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive 8
-http://45.143.222.50:8080/985999aa/a335e51ebe/297201
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297201
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive Sofra" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Music",AL: EB Festive Sofra
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297202
 #EXTINF:-1 tvg-id="" tvg-name="AL: EB Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: EB Hits
-http://45.143.222.50:8080/985999aa/a335e51ebe/297192
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297192
 #EXTINF:-1 tvg-id="" tvg-name="AL: Elkalem TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9c67ae1d1da5485a41967e6429bf5f7d.jpg" group-title="Albania",AL: Elkalem TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/294445
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/294445
 #EXTINF:-1 tvg-id="" tvg-name="AL: Elrodi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/a0a4ddd17042ba3635b68af08c08c370.png" group-title="Albania ➾ LifeStyle",AL: Elrodi TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/2557
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2557
 #EXTINF:-1 tvg-id="" tvg-name="AL: Episode" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d0cba76a6d60e962c8a25ff7e1123934.jpg" group-title="Albania",AL: Episode
-http://45.143.222.50:8080/985999aa/a335e51ebe/169877
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/169877
 #EXTINF:-1 tvg-id="" tvg-name="AL: Era TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e4ca153def19020ce3be1bc6d5cf91c8.png" group-title="Albania",AL: Era TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/13864
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/13864
 #EXTINF:-1 tvg-id="" tvg-name="AL: Euro Al" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e5fbc5b4a9cbaf591b2dd67b81fb7f2.png" group-title="Albania",AL: Euro Al
-http://45.143.222.50:8080/985999aa/a335e51ebe/42818
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/42818
 #EXTINF:-1 tvg-id="" tvg-name="AL: Eurofilm" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/79aa3642c99a124bafc4d22b5221699b.png" group-title="Albania ➾ Movie",AL: Eurofilm
-http://45.143.222.50:8080/985999aa/a335e51ebe/5952
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5952
 #EXTINF:-1 tvg-id="" tvg-name="AL: euronews" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cee60d23cf0e39f75c012c4e67bc1985.png" group-title="Albania ➾ News",AL: euronews
-http://45.143.222.50:8080/985999aa/a335e51ebe/169839
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/169839
 #EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f1cecaaf5d587858aabdde39a3a50e15.png" group-title="Albania ➾ Sports",AL: EUROSPORT 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/45047
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/45047
 #EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58c261282f835c1c845666c27004ad9c.png" group-title="Albania ➾ Sports",AL: EUROSPORT 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/16454
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/16454
 #EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Histori" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f9e77d5547d8e675d2793fd8b2f99747.png" group-title="Albania ➾ Documentary",AL: Explorer Histori
-http://45.143.222.50:8080/985999aa/a335e51ebe/1336
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1336
 #EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Natyra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4aec94ce4233b555af20339d1a9fb49d.png" group-title="Albania ➾ Movie",AL: Explorer Natyra
-http://45.143.222.50:8080/985999aa/a335e51ebe/4048
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4048
 #EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Shkence" tvg-logo="http://s3.i3ns.net/portal/picon/2021-02/7a79ebe3df2d6efb9fb670aedcc397d0.png" group-title="Albania ➾ LifeStyle",AL: Explorer Shkence
-http://45.143.222.50:8080/985999aa/a335e51ebe/5961
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5961
 #EXTINF:-1 tvg-id="" tvg-name="AL: Fax News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/65259128a7f8d93d9f19f846179231fe.png" group-title="Albania ➾ News",AL: Fax News
-http://45.143.222.50:8080/985999aa/a335e51ebe/5136
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5136
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/beaf84d6b29cd990d3809d7398ddaba3.png" group-title="Albania ➾ Movie",AL: Film Aksion
-http://45.143.222.50:8080/985999aa/a335e51ebe/2558
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2558
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e16b653c615b5edfde75936d7c1390cb.png" group-title="Albania ➾ Movie",AL: Film Autor
-http://45.143.222.50:8080/985999aa/a335e51ebe/1333
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1333
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Drame" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f640745f5d13a1a2cd8ec2088f9d716.png" group-title="Albania ➾ Movie",AL: Film Drame
-http://45.143.222.50:8080/985999aa/a335e51ebe/1332
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1332
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/8c5e3cde05f17fce53338bfc0cf52709.png" group-title="Albania ➾ Movie",AL: Film Gold
-http://45.143.222.50:8080/985999aa/a335e51ebe/283212
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/283212
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2056af42bfede55def9433e27e7c9a2d.png" group-title="Albania ➾ Movie",AL: Film Hits
-http://45.143.222.50:8080/985999aa/a335e51ebe/1330
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1330
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1f9d633d207c14503547c47cbe5b217a.png" group-title="Albania ➾ Movie",AL: Film Komedi
-http://45.143.222.50:8080/985999aa/a335e51ebe/1329
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1329
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ed4911d4408efb8e81506bc4d3a48eb.png" group-title="Albania ➾ Movie",AL: Film Max
-http://45.143.222.50:8080/985999aa/a335e51ebe/1331
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1331
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Nje" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f06d00b082573cdf5d57167a3edfd5b5.png" group-title="Albania",AL: Film Nje
-http://45.143.222.50:8080/985999aa/a335e51ebe/2559
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2559
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Stinet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a850dafc10aea99f3c2d743d9dd77c2a.png" group-title="Albania ➾ Movie",AL: Film Stinet
-http://45.143.222.50:8080/985999aa/a335e51ebe/4096
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4096
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a841fc5895554026a19ba23d20421304.png" group-title="Albania ➾ Movie",AL: Film Thriller
-http://45.143.222.50:8080/985999aa/a335e51ebe/1328
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1328
 #EXTINF:-1 tvg-id="" tvg-name="AL: FILMA24 Drame" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1fa7b966bf50b0afe1f3b285e71771ab.jpg" group-title="Albania",AL: FILMA24 Drame
-http://45.143.222.50:8080/985999aa/a335e51ebe/169853
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/169853
 #EXTINF:-1 tvg-id="" tvg-name="AL: FILMA24 Romance" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/d583fefc57bf982b4bf62dfe926d8774.jpg" group-title="Albania",AL: FILMA24 Romance
-http://45.143.222.50:8080/985999aa/a335e51ebe/169858
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/169858
 #EXTINF:-1 tvg-id="" tvg-name="AL: FilmBox Arthouse" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c0c1373a50dcc5d542848c614bb7e1b2.png" group-title="Albania",AL: FilmBox Arthouse
-http://45.143.222.50:8080/985999aa/a335e51ebe/145895
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/145895
 #EXTINF:-1 tvg-id="" tvg-name="AL: FilmBox Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e573ad1433a230b358a8095be1164351.png" group-title="Albania ➾ Movie",AL: FilmBox Extra
-http://45.143.222.50:8080/985999aa/a335e51ebe/145896
-#EXTINF:-1 tvg-id="" tvg-name="AL: FilmBox Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c77104eab4777aada326742c6724d53b.jpg" group-title="Albania ➾ Movie",AL: FilmBox Premium
-http://45.143.222.50:8080/985999aa/a335e51ebe/145894
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/145896
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c7fd10691cc843f95f0908905480eea0.png" group-title="Albania ➾ LifeStyle",AL: First Channel
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298434
 #EXTINF:-1 tvg-id="" tvg-name="AL: Flutra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/abbdfdb0654137420e782030348ec3ce.jpg" group-title="Albania",AL: Flutra
-http://45.143.222.50:8080/985999aa/a335e51ebe/280142
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/280142
 #EXTINF:-1 tvg-id="" tvg-name="AL: Folk+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/abbd8b8bd69bc1f6881e45c60d238ad9.jpg" group-title="Albania ➾ Music",AL: Folk+
-http://45.143.222.50:8080/985999aa/a335e51ebe/4053
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4053
 #EXTINF:-1 tvg-id="" tvg-name="AL: Folklorit" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/36a7fecfaad1576730e88ef51e6003a1.jpg" group-title="Albania",AL: Folklorit
-http://45.143.222.50:8080/985999aa/a335e51ebe/278192
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/278192
 #EXTINF:-1 tvg-id="" tvg-name="AL: Fox Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9aa21e733f137a5526791fddec3f4810.png" group-title="Albania ➾ Movie",AL: Fox Crime
-http://45.143.222.50:8080/985999aa/a335e51ebe/4055
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4055
 #EXTINF:-1 tvg-id="" tvg-name="AL: Fox Life" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/30d2125bd2a9b95aa37d432aa55d314e.png" group-title="Albania ➾ Movie",AL: Fox Life
-http://45.143.222.50:8080/985999aa/a335e51ebe/5132
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5132
 #EXTINF:-1 tvg-id="" tvg-name="AL: Fox Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f2aee728753182282d3b8fe502bbc978.png" group-title="Albania ➾ Movie",AL: Fox Movies
-http://45.143.222.50:8080/985999aa/a335e51ebe/4056
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4056
 #EXTINF:-1 tvg-id="" tvg-name="AL: Frame TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2b4d5c71e270a57e8de06689c6d2b71a.jpg" group-title="Albania",AL: Frame TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/281967
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/281967
 #EXTINF:-1 tvg-id="" tvg-name="AL: Globi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/02b732b53ce579b81da8fa347265abf2.jpg" group-title="Albania",AL: Globi TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/280161
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/280161
 #EXTINF:-1 tvg-id="" tvg-name="AL: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/01fb3c74d58f9d37b24700124bcdb048.png" group-title="Albania ➾ Movie",AL: HBO
-http://45.143.222.50:8080/985999aa/a335e51ebe/26155
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/26155
 #EXTINF:-1 tvg-id="" tvg-name="AL: HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e4d71274884261995916467241a66d8d.png" group-title="Albania ➾ Movie",AL: HBO 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/26161
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/26161
 #EXTINF:-1 tvg-id="" tvg-name="AL: HBO 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/948e628c670df382770d30ab57fab8a4.png" group-title="Albania ➾ Movie",AL: HBO 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/26156
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/26156
 #EXTINF:-1 tvg-id="" tvg-name="AL: Histori Shqiptare" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/a1c48f4aa24e29e160b58b1a684c3fe9.png" group-title="Albania",AL: Histori Shqiptare
-http://45.143.222.50:8080/985999aa/a335e51ebe/297048
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297048
 #EXTINF:-1 tvg-id="" tvg-name="AL: HS Tallava" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1d70cdffea55b747c96f5f6ed3b0b093.jpg" group-title="Albania",AL: HS Tallava
-http://45.143.222.50:8080/985999aa/a335e51ebe/6715
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/6715
 #EXTINF:-1 tvg-id="" tvg-name="AL: I Love Tropoja TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/26987a45d0651153ca80312dd5573b1e.jpg" group-title="Albania",AL: I Love Tropoja TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/266657
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/266657
 #EXTINF:-1 tvg-id="" tvg-name="AL: Istogu Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/380361ddc17c2063a695ae151b6a41e4.jpg" group-title="Albania",AL: Istogu Channel
-http://45.143.222.50:8080/985999aa/a335e51ebe/41305
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/41305
 #EXTINF:-1 tvg-id="" tvg-name="AL: Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7ea9318cd70c5d2660473316c5394844.jpg" group-title="Albania ➾ Kids",AL: Junior
-http://45.143.222.50:8080/985999aa/a335e51ebe/2560
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal 10" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1cbf42d8abb19ebe7c22bc9af39db0b0.png" group-title="Albania ➾ News",AL: Kanal 10
-http://45.143.222.50:8080/985999aa/a335e51ebe/198840
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2560
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal 10" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c655613efc4c5e1acbb02c59c874c2fb.png" group-title="Albania ➾ News",AL: Kanal 10
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/198840
 #EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0a43ac4e7afac393bd3c378011eff512.png" group-title="Albania ➾ Movie",AL: Kanal D Drama
-http://45.143.222.50:8080/985999aa/a335e51ebe/26182
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/26182
 #EXTINF:-1 tvg-id="" tvg-name="AL: Kanali 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/55138217ab079c60497daf3f4f722a44.png" group-title="Albania ➾ LifeStyle",AL: Kanali 7
-http://45.143.222.50:8080/985999aa/a335e51ebe/4062
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4062
 #EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f5069fbc944f9b037859da85c68e725e.png" group-title="Albania ➾ LifeStyle",AL: Klan Kosova
-http://45.143.222.50:8080/985999aa/a335e51ebe/2561
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2561
 #EXTINF:-1 tvg-id="" tvg-name="AL: Klan Macedonia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/281a31d9f421e66d8c66fdb3be008957.png" group-title="Albania ➾ LifeStyle",AL: Klan Macedonia
-http://45.143.222.50:8080/985999aa/a335e51ebe/296555
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/296555
 #EXTINF:-1 tvg-id="" tvg-name="AL: Klan Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3fefb1cce7c6c660ebe0d8d1443f0fbe.jpg" group-title="Albania ➾ Music",AL: Klan Music
-http://45.143.222.50:8080/985999aa/a335e51ebe/166503
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/166503
 #EXTINF:-1 tvg-id="" tvg-name="AL: Klan News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0d8ad0f34c08fc3c2c450416dce507c6.png" group-title="Albania ➾ News",AL: Klan News
-http://45.143.222.50:8080/985999aa/a335e51ebe/296554
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/296554
 #EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f366c3269e64ff77d0a400580951a96e.png" group-title="Albania ➾ LifeStyle",AL: Klan Plus
-http://45.143.222.50:8080/985999aa/a335e51ebe/2562
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2562
 #EXTINF:-1 tvg-id="" tvg-name="AL: Koha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e2ced51fa8b30b734ccf765b85b7f2f8.jpg" group-title="Albania ➾ LifeStyle",AL: Koha TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/4115
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4115
 #EXTINF:-1 tvg-id="" tvg-name="AL: Korca Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a2777d3b5d9060d988bbe7c4075927fd.png" group-title="Albania",AL: Korca Plus
-http://45.143.222.50:8080/985999aa/a335e51ebe/294434
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/294434
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Aksion
-http://45.143.222.50:8080/985999aa/a335e51ebe/297261
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297261
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Animacion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Animacion
-http://45.143.222.50:8080/985999aa/a335e51ebe/297262
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297262
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Aventure" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Aventure
-http://45.143.222.50:8080/985999aa/a335e51ebe/297263
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297263
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Aziatika" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Aziatika
-http://45.143.222.50:8080/985999aa/a335e51ebe/297264
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297264
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Biografi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Biografi
-http://45.143.222.50:8080/985999aa/a335e51ebe/297265
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297265
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Drame" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Drame
-http://45.143.222.50:8080/985999aa/a335e51ebe/297266
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297266
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Family
-http://45.143.222.50:8080/985999aa/a335e51ebe/278247
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/278247
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Horror" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Horror
-http://45.143.222.50:8080/985999aa/a335e51ebe/297268
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297268
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Krim" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Krim
-http://45.143.222.50:8080/985999aa/a335e51ebe/297269
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297269
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Mister" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Mister
-http://45.143.222.50:8080/985999aa/a335e51ebe/297270
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297270
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Oscars" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Oscars
-http://45.143.222.50:8080/985999aa/a335e51ebe/297271
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297271
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Premiere
-http://45.143.222.50:8080/985999aa/a335e51ebe/278255
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/278255
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Romance" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Romance
-http://45.143.222.50:8080/985999aa/a335e51ebe/297273
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297273
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 SCI-Fi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 SCI-Fi
-http://45.143.222.50:8080/985999aa/a335e51ebe/297274
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297274
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Triller" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Triller
-http://45.143.222.50:8080/985999aa/a335e51ebe/297275
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297275
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Western" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Western
-http://45.143.222.50:8080/985999aa/a335e51ebe/297276
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297276
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV Kohavision" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/35bb4fd82d973921030f0189694522fa.jpg" group-title="Albania ➾ LifeStyle",AL: KTV Kohavision
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/201094
 #EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b4d3d4bcb7f01fc9d9d633995198bff.jpg" group-title="Albania ➾ Sports",AL: Kujtesa Sport 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/1863
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1863
 #EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0bcdad89b4447a2a1a50f8b6e6f27d2b.jpg" group-title="Albania ➾ Sports",AL: Kujtesa Sport 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/1864
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1864
 #EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/374268c45e28a927265cafd3d15bca99.jpg" group-title="Albania ➾ Sports",AL: Kujtesa Sport 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/1865
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1865
 #EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e97db585bf968f9c3df5945b962726d1.jpg" group-title="Albania ➾ Sports",AL: Kujtesa Sport 4
-http://45.143.222.50:8080/985999aa/a335e51ebe/1866
-#EXTINF:-1 tvg-id="" tvg-name="AL: Liria" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/673c8472334fe025d402e6a7bd594170.jpg" group-title="Albania",AL: Liria
-http://45.143.222.50:8080/985999aa/a335e51ebe/163401
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1866
 #EXTINF:-1 tvg-id="" tvg-name="AL: Living" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e2d646e5b32546a6dbe83001b0414e56.png" group-title="Albania ➾ LifeStyle",AL: Living
-http://45.143.222.50:8080/985999aa/a335e51ebe/4070
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4070
 #EXTINF:-1 tvg-id="" tvg-name="AL: Malisheva" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e46b6ed47cc07f1864ac61c526e283d2.png" group-title="Albania",AL: Malisheva
-http://45.143.222.50:8080/985999aa/a335e51ebe/198450
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/198450
 #EXTINF:-1 tvg-id="" tvg-name="AL: MCN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/84328831fa19ad420ea7f1520d33bfa3.png" group-title="Albania ➾ News",AL: MCN TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/286798
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/286798
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Aksion
-http://45.143.222.50:8080/985999aa/a335e51ebe/297277
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297277
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Comedy
-http://45.143.222.50:8080/985999aa/a335e51ebe/297280
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297280
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Folk" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Folk
-http://45.143.222.50:8080/985999aa/a335e51ebe/297281
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297281
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Gold" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Gold
-http://45.143.222.50:8080/985999aa/a335e51ebe/297282
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297282
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Horror" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Horror
-http://45.143.222.50:8080/985999aa/a335e51ebe/297283
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297283
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Humor" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Humor
-http://45.143.222.50:8080/985999aa/a335e51ebe/297284
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297284
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV kids
-http://45.143.222.50:8080/985999aa/a335e51ebe/297285
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297285
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Max" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Max
-http://45.143.222.50:8080/985999aa/a335e51ebe/297286
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297286
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Music" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Music
-http://45.143.222.50:8080/985999aa/a335e51ebe/297287
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297287
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Shqip" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Shqip
-http://45.143.222.50:8080/985999aa/a335e51ebe/297288
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297288
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Tallava" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Tallava
-http://45.143.222.50:8080/985999aa/a335e51ebe/297289
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297289
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Çifteli" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV Çifteli
-http://45.143.222.50:8080/985999aa/a335e51ebe/297278
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297278
 #EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV çka ka shpija 24/7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: MetiTV çka ka shpija 24/7
-http://45.143.222.50:8080/985999aa/a335e51ebe/297279
-#EXTINF:-1 tvg-id="" tvg-name="AL: MFM Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a0d688a0c1b50a2ea7c5b8cca2c39b9f.jpg" group-title="Albania",AL: MFM Music
-http://45.143.222.50:8080/985999aa/a335e51ebe/45019
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297279
 #EXTINF:-1 tvg-id="" tvg-name="AL: Mr Bean" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/349782e5a0ecdb275d0787f5a418e102.jpg" group-title="Albania",AL: Mr Bean
-http://45.143.222.50:8080/985999aa/a335e51ebe/290511
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/290511
 #EXTINF:-1 tvg-id="" tvg-name="AL: MTV Kosova" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8c62bf6c87574289bf103877b09ee901.jpg" group-title="Albania ➾ Music",AL: MTV Kosova
-http://45.143.222.50:8080/985999aa/a335e51ebe/16483
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/16483
 #EXTINF:-1 tvg-id="" tvg-name="AL: Muse TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8c1c24c42cedcc683029fe78e86f2b2f.png" group-title="Albania ➾ LifeStyle",AL: Muse TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/4072
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4072
 #EXTINF:-1 tvg-id="" tvg-name="AL: My Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e59d0fb982c4fa1155a269326360887f.png" group-title="Albania ➾ Music",AL: My Music
-http://45.143.222.50:8080/985999aa/a335e51ebe/171895
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/171895
 #EXTINF:-1 tvg-id="" tvg-name="AL: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a03f99967979ee5b44560a41b66fd0ee.png" group-title="Albania ➾ Documentary",AL: NAT GEO
-http://45.143.222.50:8080/985999aa/a335e51ebe/6737
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/6737
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay Aksion
-http://45.143.222.50:8080/985999aa/a335e51ebe/297294
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297294
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay Classic
-http://45.143.222.50:8080/985999aa/a335e51ebe/297295
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297295
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Collection" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay Collection
-http://45.143.222.50:8080/985999aa/a335e51ebe/297296
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297296
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Extra" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay Extra
-http://45.143.222.50:8080/985999aa/a335e51ebe/297297
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297297
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay Family
-http://45.143.222.50:8080/985999aa/a335e51ebe/297298
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297298
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Netflix" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay Netflix
-http://45.143.222.50:8080/985999aa/a335e51ebe/297299
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297299
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Premium" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay Premium
-http://45.143.222.50:8080/985999aa/a335e51ebe/297300
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297300
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay prime 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay prime 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/297290
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297290
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay prime 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay prime 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/297291
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297291
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay prime 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay prime 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/297292
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297292
 #EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay prime 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: OnePlay prime 4
-http://45.143.222.50:8080/985999aa/a335e51ebe/297293
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297293
 #EXTINF:-1 tvg-id="" tvg-name="AL: Ora" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/eef7666644595f5e056adf5620d97a4d.png" group-title="Albania ➾ LifeStyle",AL: Ora
-http://45.143.222.50:8080/985999aa/a335e51ebe/163104
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/163104
 #EXTINF:-1 tvg-id="" tvg-name="AL: Ora News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d4ac2713819e179c78c678ae6c1636bb.png" group-title="Albania ➾ News",AL: Ora News
-http://45.143.222.50:8080/985999aa/a335e51ebe/5126
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5126
 #EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ef8213f5e236a12fb644eb2bcff28ce5.jpeg" group-title="Albania ➾ Sports",AL: OVERSPORT 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/290218
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/290218
 #EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9c8bee846533b2c299d57bddf3d7f0a3.jpeg" group-title="Albania ➾ Sports",AL: OVERSPORT 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/295514
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295514
 #EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/744027c660655a915f50a71f59896a89.jpeg" group-title="Albania ➾ Sports",AL: OVERSPORT 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/290537
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/290537
 #EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/2aefeb7ccb3619b0172a1e49c72fb74f.jpeg" group-title="Albania ➾ Sports",AL: OVERSPORT 4
-http://45.143.222.50:8080/985999aa/a335e51ebe/290538
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/290538
 #EXTINF:-1 tvg-id="" tvg-name="AL: Peace TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/127fed99e14527d5771aee47da055db8.jpeg" group-title="Albania",AL: Peace TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/15562
-#EXTINF:-1 tvg-id="" tvg-name="AL: Podujeva" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5a45c6ded75aeccdeafe6abb6154a5a8.png" group-title="Albania",AL: Podujeva
-http://45.143.222.50:8080/985999aa/a335e51ebe/295529
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/15562
 #EXTINF:-1 tvg-id="" tvg-name="AL: Pollogu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c8314f63833192e4a9bf9c51c8081f5b.jpg" group-title="Albania",AL: Pollogu
-http://45.143.222.50:8080/985999aa/a335e51ebe/264836
-#EXTINF:-1 tvg-id="" tvg-name="AL: Premium Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b2bdfd4aebeaad8e63061432cec8afb9.jpg" group-title="Albania",AL: Premium Channel
-http://45.143.222.50:8080/985999aa/a335e51ebe/23780
-#EXTINF:-1 tvg-id="" tvg-name="AL: Real RTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/f0f1e558b06eadd6d11cb488271f9287.jfif" group-title="Albania",AL: Real RTV
-http://45.143.222.50:8080/985999aa/a335e51ebe/297306
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/264836
 #EXTINF:-1 tvg-id="" tvg-name="AL: Report TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/144beb981ee21f4b042307d63fb10d30.png" group-title="Albania ➾ LifeStyle",AL: Report TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/4077
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4077
 #EXTINF:-1 tvg-id="" tvg-name="AL: Rozafa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66f956374d354d9bd40704f13010f5c9.jpg" group-title="Albania ➾ News",AL: Rozafa
-http://45.143.222.50:8080/985999aa/a335e51ebe/6730
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/6730
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/baf7bf76cef98f2e6f0d3fa9e836f896.png" group-title="Albania",AL: RTK 1
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298417
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3620d8e55b1b27057d07e50b7d83aa72.png" group-title="Albania",AL: RTK 2
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298418
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4bf5e68cebdfd6adfbbba71cacef99b0.png" group-title="Albania",AL: RTK 3
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298419
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7a736f678334e0caec808dca464e5c95.png" group-title="Albania",AL: RTK 4
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298420
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0f9e089f10181b4032a1060569407a01.svg" group-title="Albania ➾ LifeStyle",AL: RTSH 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/4123
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4123
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/35773f95678e4a4dfdc623c9bb0c77fa.svg" group-title="Albania ➾ LifeStyle",AL: RTSH 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/1854
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1854
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/96aa53d22c69879794fb269ab38caf92.svg" group-title="Albania ➾ LifeStyle",AL: RTSH 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/1855
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1855
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cdb42292d9c45ae1db8241b4fdcc0dd2.svg" group-title="Albania ➾ News",AL: RTSH 24
-http://45.143.222.50:8080/985999aa/a335e51ebe/5962
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Agro" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2220440114a101fd1eaa2e69b4e2d4a3.svg" group-title="Albania ➾ LifeStyle",AL: RTSH Agro
-http://45.143.222.50:8080/985999aa/a335e51ebe/193717
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5962
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Femije" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1fb8b7d702106a0099b78893f5b696ee.svg" group-title="Albania ➾ LifeStyle",AL: RTSH Femije
-http://45.143.222.50:8080/985999aa/a335e51ebe/5146
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5146
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Film" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/f0a071a1e164071dfea41777e3ef6781.svg" group-title="Albania ➾ Movie",AL: RTSH Film
-http://45.143.222.50:8080/985999aa/a335e51ebe/5145
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5145
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Gjirokastra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/74abeaf2819ce0729b7f00581b28e62e.svg" group-title="Albania ➾ LifeStyle",AL: RTSH Gjirokastra
-http://45.143.222.50:8080/985999aa/a335e51ebe/23700
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/23700
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Korca" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/11be00f9db7f484c48609adfb297238f.svg" group-title="Albania ➾ LifeStyle",AL: RTSH Korca
-http://45.143.222.50:8080/985999aa/a335e51ebe/23708
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kukesi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/19a49e326e628155a8d7a8db1a20e3a5.svg" group-title="Albania ➾ LifeStyle",AL: RTSH Kukesi
-http://45.143.222.50:8080/985999aa/a335e51ebe/198663
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/23708
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Muzike" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3c11cc7a5c9ed8aae2ea089ceefa2c57.svg" group-title="Albania ➾ Music",AL: RTSH Muzike
-http://45.143.222.50:8080/985999aa/a335e51ebe/5144
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5144
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b6f004251405caa3b5c1aa3d2426a15c.svg" group-title="Albania ➾ Movie",AL: RTSH Plus
-http://45.143.222.50:8080/985999aa/a335e51ebe/169831
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/169831
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Satelit" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/903acb92b2b1674561636bd877d9adc3.png" group-title="Albania ➾ LifeStyle",AL: RTSH Satelit
-http://45.143.222.50:8080/985999aa/a335e51ebe/282301
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/282301
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shkodra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/24bd976221001ff80c027daa5b7ac8e4.png" group-title="Albania ➾ LifeStyle",AL: RTSH Shkodra
-http://45.143.222.50:8080/985999aa/a335e51ebe/284742
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/284742
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shkolle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/174d4bcd7f28a11ac1f7542675c1e961.svg" group-title="Albania ➾ LifeStyle",AL: RTSH Shkolle
-http://45.143.222.50:8080/985999aa/a335e51ebe/1856
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1856
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shqip" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6988c74f94ed84d769b514ee22b72256.svg" group-title="Albania ➾ Movie",AL: RTSH Shqip
-http://45.143.222.50:8080/985999aa/a335e51ebe/5143
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5143
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/bf23238a743c9feae86249cae1e285d3.svg" group-title="Albania ➾ Sports",AL: RTSH Sport
-http://45.143.222.50:8080/985999aa/a335e51ebe/2568
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/d8ed8470195430bd466a9147be97c5c5.jpg" group-title="Albania",AL: RTV 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/281994
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2568
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2c4f7f62b27a589f916baedaacdd3882.png" group-title="Albania",AL: RTV 21
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298421
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9ab1585b7bfce829faff255183eaadd3.png" group-title="Albania ➾ Kids",AL: RTV 21 Junior
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/283211
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Mix" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/950f993e563b9f14c58e8a4db540ed37.png" group-title="Albania",AL: RTV 21 Mix
-http://45.143.222.50:8080/985999aa/a335e51ebe/4086
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4086
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b4040b73ebd15c45debb44748c4bf59.png" group-title="Albania",AL: RTV 21 Plus
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298423
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Popullore" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7eb2ffd0462211537a78abc809bd6ab7.png" group-title="Albania",AL: RTV 21 Popullore
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298424
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTV Ahireti" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f14ac6e2b1edff82cf279ef52136aa6f.jpg" group-title="Albania",AL: RTV Ahireti
-http://45.143.222.50:8080/985999aa/a335e51ebe/281987
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/281987
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTV Aldi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/bc6b8959410664716dbb33192c145747.png" group-title="Albania",AL: RTV Aldi
-http://45.143.222.50:8080/985999aa/a335e51ebe/145888
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/145888
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTV Dukagjini" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fa3c38ea620be6656c37ec59faa83bdd.png" group-title="Albania ➾ News",AL: RTV Dukagjini
-http://45.143.222.50:8080/985999aa/a335e51ebe/6708
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/e3d2866ae277c392f6782d7587f02fac.jpeg" group-title="Albania",AL: RTV Fontana
-http://45.143.222.50:8080/985999aa/a335e51ebe/282006
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/6708
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a67d5e2f46845ce13255e8d6dc631677.jpg" group-title="Albania",AL: RTV Fontana
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/282006
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTV Ilirida" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6dbb3fa26ac9c531519d1af5c128a2dc.jpg" group-title="Albania",AL: RTV Ilirida
-http://45.143.222.50:8080/985999aa/a335e51ebe/284743
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/284743
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTV Islam" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/21baa2e87813273da6e0bb0f6df6b094.png" group-title="Albania",AL: RTV Islam
-http://45.143.222.50:8080/985999aa/a335e51ebe/4089
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4089
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTV Pendimi" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/14255559c4385fc106e11b98863b41b5.png" group-title="Albania",AL: RTV Pendimi
-http://45.143.222.50:8080/985999aa/a335e51ebe/23783
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/23783
 #EXTINF:-1 tvg-id="" tvg-name="AL: S TV Folk" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/465219bab2600443bab77ef3f3afb4f4.png" group-title="Albania ➾ Music",AL: S TV Folk
-http://45.143.222.50:8080/985999aa/a335e51ebe/30178
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/30178
 #EXTINF:-1 tvg-id="" tvg-name="AL: Saranda TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: Saranda TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/297316
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297316
 #EXTINF:-1 tvg-id="" tvg-name="AL: Scan" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f39d0c070d20b6cf58b37d2fc5aad240.png" group-title="Albania ➾ News",AL: Scan
-http://45.143.222.50:8080/985999aa/a335e51ebe/23735
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/23735
 #EXTINF:-1 tvg-id="" tvg-name="AL: Shenja TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aa88b829791137383b8bcce2abf94f02.png" group-title="Albania",AL: Shenja TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/12414
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/12414
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8cb5f5f62521ca6fede4d91ac8a1a3c1.jpg" group-title="Albania",AL: Sky Aksion
-http://45.143.222.50:8080/985999aa/a335e51ebe/295515
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295515
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sky Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f40fe26f60705a5f7eefc43bbb89ada5.jpg" group-title="Albania",AL: Sky Comedy
-http://45.143.222.50:8080/985999aa/a335e51ebe/295516
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295516
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sky Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fa2e178f3a64eccd94625534a02ac4f7.jpg" group-title="Albania",AL: Sky Drama
-http://45.143.222.50:8080/985999aa/a335e51ebe/295517
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295517
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/99d2f699e5151213dccadf9a294a64e0.jpg" group-title="Albania",AL: Sky Max
-http://45.143.222.50:8080/985999aa/a335e51ebe/26127
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/26127
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sky Novela" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/511960bd0a94f8ff99331c52bbcb32fc.jpg" group-title="Albania",AL: Sky Novela
-http://45.143.222.50:8080/985999aa/a335e51ebe/16496
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/16496
 #EXTINF:-1 tvg-id="" tvg-name="AL: SKY Star" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c6a6aa0bea6091fcc8c104e741b17f76.jpg" group-title="Albania",AL: SKY Star
-http://45.143.222.50:8080/985999aa/a335e51ebe/120818
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/120818
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sofia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e0fe5b4edba418760e1e30390a84c8f0.png" group-title="Albania",AL: Sofia
-http://45.143.222.50:8080/985999aa/a335e51ebe/15539
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/15539
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sole TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/190f0d3d0c15b2177613a81eb3b60eb5.jpg" group-title="Albania",AL: Sole TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/15540
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/15540
 #EXTINF:-1 tvg-id="" tvg-name="AL: Spin TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3534822f60e87ed0f74eb2a3b91d905a.png" group-title="Albania",AL: Spin TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/6714
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/6714
 #EXTINF:-1 tvg-id="" tvg-name="AL: Star Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/aeb4d3ba777598eb409ebf6d6a1f7e2f.png" group-title="Albania ➾ LifeStyle",AL: Star Plus
-http://45.143.222.50:8080/985999aa/a335e51ebe/12428
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/12428
 #EXTINF:-1 tvg-id="" tvg-name="AL: Super Sonic TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/780ca28c4b7d72fbb4584650714e9012.png" group-title="Albania ➾ Music",AL: Super Sonic TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/4098
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4098
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd40a0c54e5a3acb0ffce128dc90de94.png" group-title="Albania ➾ Sports",AL: SuperSport 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/1316
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1316
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" group-title="Albania ➾ Sports",AL: SuperSport 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/1312
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1312
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" group-title="Albania ➾ Sports",AL: SuperSport 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/1319
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="Albania",AL: SuperSport 4
-http://45.143.222.50:8080/985999aa/a335e51ebe/1318
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1319
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="Albania ➾ Sports",AL: SuperSport 4
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1318
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c6be34175b71784909e9493c29135344.png" group-title="Albania ➾ Sports",AL: SuperSport 5
-http://45.143.222.50:8080/985999aa/a335e51ebe/1860
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1860
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f2f8128ce788087140b3d84a313fe6e8.png" group-title="Albania ➾ Sports",AL: SuperSport 6
-http://45.143.222.50:8080/985999aa/a335e51ebe/3638
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/3638
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/90b0f1e0b931a25f5257b5ff05e96fe5.png" group-title="Albania ➾ Sports",AL: SuperSport 7
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/174441
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/aefe50d9ab73b8233ce7f0bf3c44880b.png" group-title="Albania ➾ Sports",AL: SuperSport News
-http://45.143.222.50:8080/985999aa/a335e51ebe/1313
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1313
 #EXTINF:-1 tvg-id="" tvg-name="AL: Syri News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ed3dbf8a740b1bc955155b9711c19b7b.png" group-title="Albania ➾ News",AL: Syri News
-http://45.143.222.50:8080/985999aa/a335e51ebe/4100
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4100
 #EXTINF:-1 tvg-id="" tvg-name="AL: SYRI TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9dd57907788a362e735879f586984c64.jpg" group-title="Albania",AL: SYRI TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/4099
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4099
 #EXTINF:-1 tvg-id="" tvg-name="AL: Syri Vizion" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d8df8b8c82fc67aa506f539ffe83fd33.png" group-title="Albania",AL: Syri Vizion
-http://45.143.222.50:8080/985999aa/a335e51ebe/120792
-#EXTINF:-1 tvg-id="" tvg-name="AL: T Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/467332097ca9cb8ee909414e4c46ad8c.png" group-title="Albania",AL: T Channel
-http://45.143.222.50:8080/985999aa/a335e51ebe/4101
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/120792
 #EXTINF:-1 tvg-id="" tvg-name="AL: T7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e51ec8d204406e82257fc581fca5616a.png" group-title="Albania ➾ LifeStyle",AL: T7
-http://45.143.222.50:8080/985999aa/a335e51ebe/281851
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/281851
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tema TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b7d98629907462e44e26be992f05cb3d.jpg" group-title="Albania",AL: Tema TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/4102
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4102
 #EXTINF:-1 tvg-id="" tvg-name="AL: Teuta" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/95afb2f210d5b0b4c4e6588556bd8c12.jpg" group-title="Albania",AL: Teuta
-http://45.143.222.50:8080/985999aa/a335e51ebe/169882
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/169882
 #EXTINF:-1 tvg-id="" tvg-name="AL: TEVE 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8973cd61db359bdb4c411314127da4a0.png" group-title="Albania ➾ LifeStyle",AL: TEVE 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/295527
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295527
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tip TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4d9ee786fddd6132b4f5954940f272dd.png" group-title="Albania ➾ LifeStyle",AL: Tip TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/2574
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2574
 #EXTINF:-1 tvg-id="" tvg-name="AL: TNT Series" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d9986ffa4b4d3192af23fbb947c2357c.png" group-title="Albania ➾ Movie",AL: TNT Series
-http://45.143.222.50:8080/985999aa/a335e51ebe/285140
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/285140
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tom & Jerry" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0f9bfdb43a434f3a97aec3da6d2fd40c.jpg" group-title="Albania",AL: Tom & Jerry
-http://45.143.222.50:8080/985999aa/a335e51ebe/15543
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/15543
 #EXTINF:-1 tvg-id="" tvg-name="AL: TOP Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ccdd2ccdf1cface8d5a14186566daf84.png" group-title="Albania ➾ LifeStyle",AL: TOP Channel
-http://45.143.222.50:8080/985999aa/a335e51ebe/1311
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1311
 #EXTINF:-1 tvg-id="" tvg-name="AL: TOP Estrada" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/407f75f0f7ee76f86140a74e8513337a.png" group-title="Albania ➾ Music",AL: TOP Estrada
-http://45.143.222.50:8080/985999aa/a335e51ebe/16502
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/16502
 #EXTINF:-1 tvg-id="" tvg-name="AL: TOP News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png" group-title="Albania ➾ News",AL: TOP News
-http://45.143.222.50:8080/985999aa/a335e51ebe/5122
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5122
 #EXTINF:-1 tvg-id="" tvg-name="AL: Travel Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/fa40a5f67e2c05623cd5e49d24ae2b17.png" group-title="Albania ➾ Documentary",AL: Travel Channel
-http://45.143.222.50:8080/985999aa/a335e51ebe/5121
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/5121
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3 Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/334e9b6f9375aa39e5883948275850d6.jpg" group-title="Albania ➾ Movie",AL: Tring 3 Plus
-http://45.143.222.50:8080/985999aa/a335e51ebe/4105
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4105
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9e6071e3273a53b9e66dfc99f89fa264.png" group-title="Albania ➾ Movie",AL: Tring Action
-http://45.143.222.50:8080/985999aa/a335e51ebe/1308
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1308
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cd697f7f4114b005023485a924cc1951.png" group-title="Albania ➾ Movie",AL: Tring Classic
-http://45.143.222.50:8080/985999aa/a335e51ebe/290516
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/290516
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Collection" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/25a43beaf3d7119e165bbedd5fb16417.png" group-title="Albania ➾ Movie",AL: Tring Collection
-http://45.143.222.50:8080/985999aa/a335e51ebe/295528
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295528
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/15f347a715450c9fd7bdad3f88c2095c.png" group-title="Albania ➾ Movie",AL: Tring Comedy
-http://45.143.222.50:8080/985999aa/a335e51ebe/1310
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1310
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/124db68b51c5e8d199b5080693ab9023.png" group-title="Albania ➾ Movie",AL: Tring Family
-http://45.143.222.50:8080/985999aa/a335e51ebe/4063
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4063
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ab00f2f37ac3229fd0848ac48d53b7b9.png" group-title="Albania ➾ Movie",AL: Tring Fantasy
-http://45.143.222.50:8080/985999aa/a335e51ebe/2577
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/2577
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring History" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a81d374e125c00c3bedd06afe18904fd.png" group-title="Albania ➾ Documentary",AL: Tring History
-http://45.143.222.50:8080/985999aa/a335e51ebe/1345
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1345
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7f798ebf0224602cf264275c9922602d.png" group-title="Albania ➾ Kids",AL: Tring Kids
-http://45.143.222.50:8080/985999aa/a335e51ebe/44952
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Komedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Movie",AL: Tring Komedy
-http://45.143.222.50:8080/985999aa/a335e51ebe/297541
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/44952
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Komedy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/a2c4edbc2aae9924e6b950c0b0c367ef.png" group-title="Albania ➾ Movie",AL: Tring Komedy
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297541
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Life" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d00e09b01730e8508e41db3e72f2f04c.jpg" group-title="Albania ➾ Movie",AL: Tring Life
-http://45.143.222.50:8080/985999aa/a335e51ebe/1309
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1309
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Novelas" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/450e67c921e444fa615095077aa2c7ba.jpg" group-title="Albania ➾ Movie",AL: Tring Novelas
-http://45.143.222.50:8080/985999aa/a335e51ebe/23754
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/23754
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Original" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Movie",AL: Tring Original
-http://45.143.222.50:8080/985999aa/a335e51ebe/15535
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/15535
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Planet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/afc0149ae70eca0a72841295dbb499ea.png" group-title="Albania ➾ Nature",AL: Tring Planet
-http://45.143.222.50:8080/985999aa/a335e51ebe/1344
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1344
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Series" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania ➾ Movie",AL: Tring Series
-http://45.143.222.50:8080/985999aa/a335e51ebe/296833
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/296833
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Shqip" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/169f8a4c444563e3c490d92a886cb487.png" group-title="Albania ➾ Movie",AL: Tring Shqip
-http://45.143.222.50:8080/985999aa/a335e51ebe/1307
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1307
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Smile" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9cde1e4e258b128a544f7f7c3a8a5b37.png" group-title="Albania ➾ Movie",AL: Tring Smile
-http://45.143.222.50:8080/985999aa/a335e51ebe/1322
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1322
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="Albania ➾ Sports",AL: Tring Sport 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/1306
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1306
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/43c29acadbe04ba7cccb93430e73d373.png" group-title="Albania ➾ Sports",AL: Tring Sport 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/1305
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/85de7720019eb796d9dfe20898807b36.png" group-title="Albania ➾ Sports",AL: Tring Sport 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/1304
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1305
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d336e84b188eca200534666d82b422c9.png" group-title="Albania ➾ News",AL: Tring Sport News
-http://45.143.222.50:8080/985999aa/a335e51ebe/1861
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1861
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/841e40fc4581a7d0668fa892ee975757.png" group-title="Albania ➾ Movie",AL: Tring Super
-http://45.143.222.50:8080/985999aa/a335e51ebe/1303
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1303
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Tring" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a7c16d47b5668b4e414829112d1198f8.png" group-title="Albania ➾ Kids",AL: Tring Tring
-http://45.143.222.50:8080/985999aa/a335e51ebe/1302
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1302
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/34c55c1b943922779da04d17f001fa41.png" group-title="Albania ➾ Movie",AL: Tring World
-http://45.143.222.50:8080/985999aa/a335e51ebe/1301
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1301
 #EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/81ac7a7326e6d0748bc4026019628f35.png" group-title="Albania",AL: Turbo Channel
-http://45.143.222.50:8080/985999aa/a335e51ebe/6717
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/6717
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV 7 Albania" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e36a597b8116c736e787ea916bc612c4.png" group-title="Albania ➾ News",AL: TV 7 Albania
-http://45.143.222.50:8080/985999aa/a335e51ebe/6762
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/6762
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV 21 Macedonia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ed5d29ea9bb9627a5c7b0e419c74c204.png" group-title="Albania ➾ LifeStyle",AL: TV 21 Macedonia
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298425
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Diaspora" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9b281acd5165088c9970670ec5f8bf15.jpg" group-title="Albania",AL: TV Diaspora
-http://45.143.222.50:8080/985999aa/a335e51ebe/281350
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/281350
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Dielli" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/fe3b554c186d7250608586118d158ffc.png" group-title="Albania",AL: TV Dielli
-http://45.143.222.50:8080/985999aa/a335e51ebe/12418
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/12418
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Festina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/e9b8af7efcf8f7daf030920c51cc2c2a.png" group-title="Albania",AL: TV Festina
-http://45.143.222.50:8080/985999aa/a335e51ebe/297260
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297260
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Klan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" group-title="Albania ➾ News",AL: TV Klan
-http://45.143.222.50:8080/985999aa/a335e51ebe/1853
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1853
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Kopliku" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27a583c58d8f59b668672b6e56878ee8.jpg" group-title="Albania",AL: TV Kopliku
-http://45.143.222.50:8080/985999aa/a335e51ebe/173458
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/173458
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Mitrovica" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac3961e6a01fb2835eaf8d2e37294eb9.jpg" group-title="Albania",AL: TV Mitrovica
-http://45.143.222.50:8080/985999aa/a335e51ebe/4118
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4118
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Opoja" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b8e20e7506a44c0e98dafdcfec30c35.jpg" group-title="Albania",AL: TV Opoja
-http://45.143.222.50:8080/985999aa/a335e51ebe/4119
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/4119
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/03bf7ee22afa23be577be153f1748038.png" group-title="Albania",AL: TV Sharri
-http://45.143.222.50:8080/985999aa/a335e51ebe/12416
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/12416
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Uskana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4e3321ac3a41d9c75471c2c4f590bd35.jpg" group-title="Albania",AL: TV Uskana
-http://45.143.222.50:8080/985999aa/a335e51ebe/12421
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/12421
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV1 Shkoder" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d57e092c3ba7cb7b98f2ab1d824291c6.jpg" group-title="Albania",AL: TV1 Shkoder
-http://45.143.222.50:8080/985999aa/a335e51ebe/188076
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/188076
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV2 Gostivar" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7f690b3cc7912a62a593e46e8c518fd4.png" group-title="Albania",AL: TV2 Gostivar
-http://45.143.222.50:8080/985999aa/a335e51ebe/169842
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/169842
 #EXTINF:-1 tvg-id="" tvg-name="AL: Ulqini TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/256b4ee00f6a4935ed7f96cb6bed34ab.jpg" group-title="Albania",AL: Ulqini TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/278582
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/278582
 #EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/81af6d3489034eab2c610279a903cd4f.png" group-title="Albania ➾ News",AL: Vizion Plus
-http://45.143.222.50:8080/985999aa/a335e51ebe/1299
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1299
 #EXTINF:-1 tvg-id="" tvg-name="AL: WebStar aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: WebStar aksion
-http://45.143.222.50:8080/985999aa/a335e51ebe/193709
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/193709
 #EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: WebStar Film 1
-http://45.143.222.50:8080/985999aa/a335e51ebe/193704
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/193704
 #EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: WebStar Film 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/295534
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295534
 #EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: WebStar Film 3
-http://45.143.222.50:8080/985999aa/a335e51ebe/295535
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/295535
 #EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: WebStar Film Cinema
-http://45.143.222.50:8080/985999aa/a335e51ebe/297311
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297311
 #EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Drame" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: WebStar Film Drame
-http://45.143.222.50:8080/985999aa/a335e51ebe/297312
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297312
 #EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Komedi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: WebStar Film Komedi
-http://45.143.222.50:8080/985999aa/a335e51ebe/297313
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297313
 #EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Thriller" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: WebStar Film Thriller
-http://45.143.222.50:8080/985999aa/a335e51ebe/297314
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297314
 #EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Natyr" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: WebStar Natyr
-http://45.143.222.50:8080/985999aa/a335e51ebe/297315
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297315
 #EXTINF:-1 tvg-id="" tvg-name="AL: X Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/eecdc54a99f39060d1a6777e65135235.jpg" group-title="Albania",AL: X Premiere 2
-http://45.143.222.50:8080/985999aa/a335e51ebe/40535
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/40535
 #EXTINF:-1 tvg-id="" tvg-name="AL: Zeri" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/468777dd51e09383904df58023464d0c.jpg" group-title="Albania",AL: Zeri
-http://45.143.222.50:8080/985999aa/a335e51ebe/91064
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/91064
 #EXTINF:-1 tvg-id="" tvg-name="AL: Zjarr TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/72835de4dabb3cfe6d8543b3c818fbb3.png" group-title="Albania ➾ Movie",AL: Zjarr TV
-http://45.143.222.50:8080/985999aa/a335e51ebe/23711
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/23711
