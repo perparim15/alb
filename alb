@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/0bc804a09638d8aec9bfa209a7fa027a.png" group-title="Albania ➾ LifeStyle",AL: 24 Kitchen
-
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2" tvg-logo="" group-title="Albania ➾ LifeStyle",AL: SS 2
+http://154.56.131.22:80/live/kIxMAPn315/8zr6fe359/22808.m3u8
