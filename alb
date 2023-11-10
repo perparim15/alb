@@ -1,4 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1" tvg-logo="" group-title="Albania ➾ Big Brother", Big Brother
 https://biguon.xyz/hls/zk1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL:Klan Kosova" tvg-logo="" group-title="Albania ➾ Klan Kosova", Klan Kosova
+http://iptvtree.net:8080/multi5220/0d5e5910/2561
 
