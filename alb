@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg" group-title="Live: Albania",▬ Albania [AL] ▬
-http://clientportal.link:80/YdDohzoeY9359/nXYDFK869/16544
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707017332/ei/FLC-ZdO1HYKg8gOH0o2ACQ/ip/2a03%3A4b80%3Ac720%3A28b0%3A617c%3Ae370%3A38fc%3A1473/id/Yb12eqKMd2k.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f1rLQuSsdfrNq05-ZEiiH82QvEE3vOKQ_kSDwZkxKzfWdbPn1-15DSln/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCGvQOgNx0rj18Hk3y1GUVQO-6ORlHSSTsui0JmdNDnQCIQCIBjQWt50TwvAZdBoazDmwoJA1K-7l8b9Cr4-OSqETAQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 2 HD AL
 http://clientportal.link:80/YdDohzoeY9359/nXYDFK869/117772
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 1 HD AL
