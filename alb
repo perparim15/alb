@@ -5,14 +5,8 @@ http://sansat.net:25461/02067763197872/90e553c6dacdce64/95884
 http://sansat.net:25461/02067763197872/90e553c6dacdce64/548745
 #EXTINF:0 CUID="3850" tvg-name="|ALB| BIG BROTHER ALBANIA 2 VIP" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA",|ALB| BIG BROTHER ALBANIA 2 VIP
 http://sansat.net:25461/02067763197872/90e553c6dacdce64/548746
-#EXTINF:0 CUID="3851" tvg-name="|ALB| BIG BROTHER 1 KOSOVO HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/big_brother_vip_kosova_1.png" group-title="EU ALBANIA",|ALB| BIG BROTHER 1 KOSOVO HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/462035
-#EXTINF:0 CUID="3852" tvg-name="|ALB| BIG BROTHER 1 KOSOVO FHD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/big_brother_vip_kosova_1.png" group-title="EU ALBANIA",|ALB| BIG BROTHER 1 KOSOVO FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/462036
-#EXTINF:0 CUID="3853" tvg-name="|ALB| BIG BROTHER 2 KOSOVO HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/big_brother_vip_kosova_2.png" group-title="EU ALBANIA",|ALB| BIG BROTHER 2 KOSOVO HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/462037
-#EXTINF:0 CUID="3854" tvg-name="|ALB| BIG BROTHER 2 KOSOVO FHD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/big_brother_vip_kosova_2.png" group-title="EU ALBANIA",|ALB| BIG BROTHER 2 KOSOVO FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/462038
+#EXTINF:0 CUID="3981" tvg-name="|ALB| E KAFENEJA JONE" group-title="EU ALBANIA",|ALB| E KAFENEJA JONE
+http://sansat.net:25461/02067763197872/90e553c6dacdce64/229682
 #EXTINF:0 CUID="3855" tvg-name="|ALB| TOP CHANNEL HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Top_Channel_HD.png" group-title="EU ALBANIA",|ALB| TOP CHANNEL HD
 http://sansat.net:25461/02067763197872/90e553c6dacdce64/95886
 #EXTINF:0 CUID="3856" tvg-name="|ALB| TOP CHANNEL 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Top_Channel_HD.png" group-title="EU ALBANIA",|ALB| TOP CHANNEL 4K
