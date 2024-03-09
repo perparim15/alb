@@ -1,831 +1,365 @@
 #EXTM3U
-#EXTINF:0 CUID="3848" tvg-name="===== ALBANIA =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== ALBANIA =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95884
-#EXTINF:0 CUID="3849" tvg-name="|ALB| BIG BROTHER ALBANIA VIP" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA",|ALB| BIG BROTHER ALBANIA VIP
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/548745
-#EXTINF:0 CUID="3850" tvg-name="|ALB| BIG BROTHER ALBANIA 2 VIP" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA",|ALB| BIG BROTHER ALBANIA 2 VIP
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/548746
-#EXTINF:0 CUID="3981" tvg-name="|ALB| E KAFENEJA JONE" group-title="EU ALBANIA",|ALB| E KAFENEJA JONE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229682
-#EXTINF:0 CUID="3855" tvg-name="|ALB| TOP CHANNEL HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Top_Channel_HD.png" group-title="EU ALBANIA",|ALB| TOP CHANNEL HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95886
-#EXTINF:0 CUID="3856" tvg-name="|ALB| TOP CHANNEL 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Top_Channel_HD.png" group-title="EU ALBANIA",|ALB| TOP CHANNEL 4K
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95887
-#EXTINF:0 CUID="3857" tvg-name="|ALB| ATV HD " tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ATV.png" group-title="EU ALBANIA",|ALB| ATV HD 
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/121840
-#EXTINF:0 CUID="3858" tvg-name="|ALB| KLAN TV HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Klan_TV_HD.png" group-title="EU ALBANIA",|ALB| KLAN TV HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95888
-#EXTINF:0 CUID="3859" tvg-name="|ALB| KLAN 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Klan_TV_HD.png" group-title="EU ALBANIA",|ALB| KLAN 4K
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95889
-#EXTINF:0 CUID="3860" tvg-name="|ALB| KLAN PLUS 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Klan_Plus.png" group-title="EU ALBANIA",|ALB| KLAN PLUS 4K
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95890
-#EXTINF:0 CUID="3861" tvg-name="|ALB| KLAN PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Klan_Plus.png" group-title="EU ALBANIA",|ALB| KLAN PLUS HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95891
-#EXTINF:0 CUID="3862" tvg-name="|ALB| VIZION PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Vizion_Plus_HD.png" group-title="EU ALBANIA",|ALB| VIZION PLUS HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95892
-#EXTINF:0 CUID="3863" tvg-name="|ALB| VIZION PLUS 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Vizion_Plus_HD.png" group-title="EU ALBANIA",|ALB| VIZION PLUS 4K
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95893
-#EXTINF:0 CUID="3864" tvg-name="|ALB| Kanal 10 FHD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Kanal_10.png" group-title="EU ALBANIA",|ALB| Kanal 10 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/111252
-#EXTINF:0 CUID="3865" tvg-name="|ALB| KLAN KOSOVA HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Klan_Kosova.png" group-title="EU ALBANIA",|ALB| KLAN KOSOVA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95894
-#EXTINF:0 CUID="3866" tvg-name="|ALB| KLAN MACEDONIA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Klan_Macedonia.png" group-title="EU ALBANIA",|ALB| KLAN MACEDONIA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95895
-#EXTINF:0 CUID="3867" tvg-name="|ALB| ALSAT M HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Alsat_M.png" group-title="EU ALBANIA",|ALB| ALSAT M HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95896
-#EXTINF:0 CUID="3868" tvg-name="ALB: ALSAT M" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Alsat_M.png" group-title="EU ALBANIA",ALB: ALSAT M
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95897
-#EXTINF:0 CUID="3869" tvg-name="|ALB| ALB UK" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ALBUK_HD.png" group-title="EU ALBANIA",|ALB| ALB UK
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/144819
-#EXTINF:0 CUID="3870" tvg-name="|ALB| RTSH 1" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_1_HD.png" group-title="EU ALBANIA",|ALB| RTSH 1
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95899
-#EXTINF:0 CUID="3871" tvg-name="|ALB| RTSH 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_1_HD.png" group-title="EU ALBANIA",|ALB| RTSH 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95900
-#EXTINF:0 CUID="3872" tvg-name="|ALB| RTSH 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_2.png" group-title="EU ALBANIA",|ALB| RTSH 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95901
-#EXTINF:0 CUID="3873" tvg-name="|ALB| RTSH 3" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_3.png" group-title="EU ALBANIA",|ALB| RTSH 3
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95902
-#EXTINF:0 CUID="3874" tvg-name="ALB: RTSH MUZIKE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_MUZIKE.png" group-title="EU ALBANIA",ALB: RTSH MUZIKE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95903
-#EXTINF:0 CUID="3875" tvg-name="|ALB| RTSH SHQIP" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_SHQIP.png" group-title="EU ALBANIA",|ALB| RTSH SHQIP
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95904
-#EXTINF:0 CUID="3876" tvg-name="|ALB| RTSH GJIROKASTRA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_GJIROKASTRA.png" group-title="EU ALBANIA",|ALB| RTSH GJIROKASTRA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95905
-#EXTINF:0 CUID="3877" tvg-name="|ALB| RTSH 24 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_24.png" group-title="EU ALBANIA",|ALB| RTSH 24 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95906
-#EXTINF:0 CUID="3878" tvg-name="|ALB| RTSH PLUS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_PLUS.png" group-title="EU ALBANIA",|ALB| RTSH PLUS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95907
-#EXTINF:0 CUID="3879" tvg-name="|ALB| RTSH KUVEND" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_KUVEND.png" group-title="EU ALBANIA",|ALB| RTSH KUVEND
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95908
-#EXTINF:0 CUID="3880" tvg-name="|ALB| RTSH SPORT HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_SPORT.png" group-title="EU ALBANIA",|ALB| RTSH SPORT HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95909
-#EXTINF:0 CUID="3881" tvg-name="|ALB| RTK 1" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_1.png" group-title="EU ALBANIA",|ALB| RTK 1
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95910
-#EXTINF:0 CUID="3882" tvg-name="|ALB| RTK 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_1.png" group-title="EU ALBANIA",|ALB| RTK 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95911
-#EXTINF:0 CUID="3883" tvg-name="|ALB| RTK 2" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_2.png" group-title="EU ALBANIA",|ALB| RTK 2
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95912
-#EXTINF:0 CUID="3884" tvg-name="|ALB| RTK 3" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_3.png" group-title="EU ALBANIA",|ALB| RTK 3
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95913
-#EXTINF:0 CUID="3885" tvg-name="|ALB| RTK 4" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_4.png" group-title="EU ALBANIA",|ALB| RTK 4
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95914
-#EXTINF:0 CUID="3886" tvg-name="|ALB| RTV21" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTV21.png" group-title="EU ALBANIA",|ALB| RTV21
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95915
-#EXTINF:0 CUID="3887" tvg-name="|ALB| RTV21 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/21_Plus_HD.png" group-title="EU ALBANIA",|ALB| RTV21 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95916
-#EXTINF:0 CUID="3888" tvg-name="|ALB| RTV21 MAQEDONIA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTV21M.png" group-title="EU ALBANIA",|ALB| RTV21 MAQEDONIA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95917
-#EXTINF:0 CUID="3889" tvg-name="|ALB| KTV KOHAVISION" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/kohavision-logo.png" group-title="EU ALBANIA",|ALB| KTV KOHAVISION
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95918
-#EXTINF:0 CUID="3890" tvg-name="|ALB| TV DUKAGJINI" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/tv_radio.png" group-title="EU ALBANIA",|ALB| TV DUKAGJINI
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95919
-#EXTINF:0 CUID="3891" tvg-name="|ALB| TËVË 1 HD" group-title="EU ALBANIA",|ALB| TËVË 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/192705
-#EXTINF:0 CUID="3892" tvg-name="|ALB| T7" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/T7.png" group-title="EU ALBANIA",|ALB| T7
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95920
-#EXTINF:0 CUID="3893" tvg-name="|ALB| TV ERA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ERA_TV.png" group-title="EU ALBANIA",|ALB| TV ERA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95921
-#EXTINF:0 CUID="3894" tvg-name="|ALB| MRT 2" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/MRT_2.png" group-title="EU ALBANIA",|ALB| MRT 2
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95922
-#EXTINF:0 CUID="3895" tvg-name="|ALB| SHENJA TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Shenja_TV.png" group-title="EU ALBANIA",|ALB| SHENJA TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95923
-#EXTINF:0 CUID="3896" tvg-name="|ALB| FIRST TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| FIRST TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95924
-#EXTINF:0 CUID="3897" tvg-name="|ALB| RTV21 MIX" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/21_Mix.png" group-title="EU ALBANIA",|ALB| RTV21 MIX
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95925
-#EXTINF:0 CUID="3898" tvg-name="|ALB| RTV21 PLUS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTV21_Plus.png" group-title="EU ALBANIA",|ALB| RTV21 PLUS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95926
-#EXTINF:0 CUID="3899" tvg-name="|ALB| TV KOHA HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TV KOHA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95928
-#EXTINF:0 CUID="3900" tvg-name="|ALB| TV CHANNEL SHOKDER" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TV CHANNEL SHOKDER
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95929
-#EXTINF:0 CUID="3901" tvg-name="|ALB| TV MITROVICA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TV MITROVICA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95930
-#EXTINF:0 CUID="3902" tvg-name="|ALB| SYRI VISION" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| SYRI VISION
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95931
-#EXTINF:0 CUID="3903" tvg-name="|ALB| BESA TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Besa-TV.png" group-title="EU ALBANIA",|ALB| BESA TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95933
-#EXTINF:0 CUID="3904" tvg-name="|ALB| TV GLOBI" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TV GLOBI
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95936
-#EXTINF:0 CUID="3905" tvg-name="|ALB| TV2 GOSTIVAR" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TV2 GOSTIVAR
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95937
-#EXTINF:0 CUID="3906" tvg-name="|ALB| STAR PLUS SHKODER HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| STAR PLUS SHKODER HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95939
-#EXTINF:0 CUID="3907" tvg-name="|ALB| TV KOPLIKU HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TV KOPLIKU HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95940
-#EXTINF:0 CUID="3908" tvg-name="|ALB| TV LIRIA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TV LIRIA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95942
-#EXTINF:0 CUID="3909" tvg-name="|ALB| TEMA TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TEMA TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95943
-#EXTINF:0 CUID="3910" tvg-name="|ALB| TV PRESHEVA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TV PRESHEVA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/111249
-#EXTINF:0 CUID="3911" tvg-name="|ALB| RTV FONTANA HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| RTV FONTANA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/111251
-#EXTINF:0 CUID="3912" tvg-name="===== LAJME =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== LAJME =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95944
-#EXTINF:0 CUID="3913" tvg-name="ALB: TOP NEWS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Top_News.png" group-title="EU ALBANIA",ALB: TOP NEWS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95945
-#EXTINF:0 CUID="3914" tvg-name="ALB: ABC NEWS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ABC_HD.png" group-title="EU ALBANIA",ALB: ABC NEWS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95946
-#EXTINF:0 CUID="3915" tvg-name="ALB: ORA NEWS HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Ora_News.png" group-title="EU ALBANIA",ALB: ORA NEWS HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95947
-#EXTINF:0 CUID="3916" tvg-name="|ALB| NEWS 24" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/News_24.png" group-title="EU ALBANIA",|ALB| NEWS 24
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95948
-#EXTINF:0 CUID="3917" tvg-name="|ALB| FAX NEWS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Fax_News.png" group-title="EU ALBANIA",|ALB| FAX NEWS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95949
-#EXTINF:0 CUID="3918" tvg-name="|ALB| REPORT TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ReportTV.png" group-title="EU ALBANIA",|ALB| REPORT TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95950
-#EXTINF:0 CUID="3919" tvg-name="|ALB| KANALI 7" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Kanali_7.png" group-title="EU ALBANIA",|ALB| KANALI 7
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95952
-#EXTINF:0 CUID="3920" tvg-name="|ALB| EURONEWS ALBANIA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Euronews_Albania.png" group-title="EU ALBANIA",|ALB| EURONEWS ALBANIA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95956
-#EXTINF:0 CUID="3921" tvg-name="|ALB| SCAN TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Scan_TV.png" group-title="EU ALBANIA",|ALB| SCAN TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95957
-#EXTINF:0 CUID="3922" tvg-name="===== FEMIJE =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== FEMIJE =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95958
-#EXTINF:0 CUID="3923" tvg-name="|ALB| BANG BANG" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Bang_Bang.png" group-title="EU ALBANIA",|ALB| BANG BANG
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95960
-#EXTINF:0 CUID="3924" tvg-name="|ALB| CUFO" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/CufoTV.png" group-title="EU ALBANIA",|ALB| CUFO
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95961
-#EXTINF:0 CUID="3925" tvg-name="|ALB| BABY TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/BabyTV.png" group-title="EU ALBANIA",|ALB| BABY TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95962
-#EXTINF:0 CUID="3926" tvg-name="|ALB| JUNIOR" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Junior_TV.png" group-title="EU ALBANIA",|ALB| JUNIOR
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95963
-#EXTINF:0 CUID="3927" tvg-name="|ALB| TRING KIDS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Kids.png" group-title="EU ALBANIA",|ALB| TRING KIDS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95964
-#EXTINF:0 CUID="3928" tvg-name="|ALB| TRING TRING" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_Tring.png" group-title="EU ALBANIA",|ALB| TRING TRING
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95965
-#EXTINF:0 CUID="3929" tvg-name="|ALB| TIP TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/TIP_TV.png" group-title="EU ALBANIA",|ALB| TIP TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95966
-#EXTINF:0 CUID="3930" tvg-name="|ALB| SOFIA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| SOFIA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95967
-#EXTINF:0 CUID="3931" tvg-name="|ALB| RTV21 JUNIOR" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| RTV21 JUNIOR
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95970
-#EXTINF:0 CUID="3932" tvg-name="|ALB| RTSH FEMIJE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_Femije.png" group-title="EU ALBANIA",|ALB| RTSH FEMIJE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95971
-#EXTINF:0 CUID="3933" tvg-name="|ALB| BOOMERANG" tvg-logo="http://vodkom.com:25461/Logo/PICONS/BOOMERANG..png" group-title="EU ALBANIA",|ALB| BOOMERANG
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95973
-#EXTINF:0 CUID="3934" tvg-name="|ALB| ART PRINCE KIDS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| ART PRINCE KIDS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95974
-#EXTINF:0 CUID="3935" tvg-name="|ALB| CARTOON NETWORK" tvg-logo="http://vodkom.com:25461/Logo/PICONS/CARTOON_NETWORK..png" group-title="EU ALBANIA",|ALB| CARTOON NETWORK
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95975
-#EXTINF:0 CUID="3936" tvg-name="|ALB| DUCK TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| DUCK TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95979
-#EXTINF:0 CUID="3937" tvg-name="|ALB| JIM JAM" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| JIM JAM
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95980
-#EXTINF:0 CUID="3938" tvg-name="|ALB| SHAUN THE SHEEP HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| SHAUN THE SHEEP HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95981
-#EXTINF:0 CUID="3939" tvg-name="|ALB| ZIG AND SHARKO HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| ZIG AND SHARKO HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95982
-#EXTINF:0 CUID="3940" tvg-name="|ALB| BOOBA HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| BOOBA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95983
-#EXTINF:0 CUID="3941" tvg-name="|ALB| RABBIDS HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| RABBIDS HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95984
-#EXTINF:0 CUID="3942" tvg-name="|ALB| GRIZZY HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| GRIZZY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95985
-#EXTINF:0 CUID="3943" tvg-name="===== DIGITALB FILM =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== DIGITALB FILM =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95986
-#EXTINF:0 CUID="3944" tvg-name="|ALB| FILM NJE HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Film_Nje_HD.png" group-title="EU ALBANIA",|ALB| FILM NJE HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95987
-#EXTINF:0 CUID="3945" tvg-name="|ALB| FILM DY HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Film_Dy_HD.png" group-title="EU ALBANIA",|ALB| FILM DY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95988
-#EXTINF:0 CUID="3946" tvg-name="|ALB| FILM AKSION" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Film_Aksion.png" group-title="EU ALBANIA",|ALB| FILM AKSION
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95989
-#EXTINF:0 CUID="3947" tvg-name="|ALB| FILM HITS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Film_Hits_HD.png" group-title="EU ALBANIA",|ALB| FILM HITS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95990
-#EXTINF:0 CUID="3948" tvg-name="|ALB| FILM AUTOR" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Film_Autor.png" group-title="EU ALBANIA",|ALB| FILM AUTOR
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95991
-#EXTINF:0 CUID="3949" tvg-name="|ALB| FILM DRAMA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Film_Drame.png" group-title="EU ALBANIA",|ALB| FILM DRAMA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95992
-#EXTINF:0 CUID="3950" tvg-name="|ALB| FILM KOMEDI" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Film_Komedi.png" group-title="EU ALBANIA",|ALB| FILM KOMEDI
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95993
-#EXTINF:0 CUID="3951" tvg-name="|ALB| FILM THRILLER" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Film_Thriller.png" group-title="EU ALBANIA",|ALB| FILM THRILLER
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95994
-#EXTINF:0 CUID="3952" tvg-name="|ALB| FILM FAMILY HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Family_HD.png" group-title="EU ALBANIA",|ALB| FILM FAMILY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95995
-#EXTINF:0 CUID="3953" tvg-name="|ALB| FILM STINET" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/FILM_STINET.png" group-title="EU ALBANIA",|ALB| FILM STINET
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95996
-#EXTINF:0 CUID="3954" tvg-name="|ALB| FILM T HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/FILM_T_HD.png" group-title="EU ALBANIA",|ALB| FILM T HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95997
-#EXTINF:0 CUID="3955" tvg-name="|ALB| TDC" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/TDC_4K.png" group-title="EU ALBANIA",|ALB| TDC
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/95998
-#EXTINF:0 CUID="3956" tvg-name="|ALB| EURO FILM" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/EUROFILM.png" group-title="EU ALBANIA",|ALB| EURO FILM
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96000
-#EXTINF:0 CUID="3957" tvg-name="===== TRING FILM =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== TRING FILM =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96013
-#EXTINF:0 CUID="3958" tvg-name="|ALB| TRING ACTION" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_Action_HD.png" group-title="EU ALBANIA",|ALB| TRING ACTION
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96014
-#EXTINF:0 CUID="3959" tvg-name="|ALB| TRING FANTASY" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_Fantasy.png" group-title="EU ALBANIA",|ALB| TRING FANTASY
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96015
-#EXTINF:0 CUID="3960" tvg-name="|ALB| TRING LIFE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_Life.png" group-title="EU ALBANIA",|ALB| TRING LIFE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96016
-#EXTINF:0 CUID="3961" tvg-name="|ALB| TRING COMEDY" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_Comedy.png" group-title="EU ALBANIA",|ALB| TRING COMEDY
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96017
-#EXTINF:0 CUID="3962" tvg-name="|ALB| TRING SUPER" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_Super_HD.png" group-title="EU ALBANIA",|ALB| TRING SUPER
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96018
-#EXTINF:0 CUID="3963" tvg-name="|ALB| TRING 3" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/3_Plus.png" group-title="EU ALBANIA",|ALB| TRING 3
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96019
-#EXTINF:0 CUID="3964" tvg-name="|ALB| TRING SMILE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Smile.png" group-title="EU ALBANIA",|ALB| TRING SMILE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96020
-#EXTINF:0 CUID="3965" tvg-name="|ALB| TRING SHQIP" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_Shqip.png" group-title="EU ALBANIA",|ALB| TRING SHQIP
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96021
-#EXTINF:0 CUID="3966" tvg-name="|ALB| TRING JOLLY" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Jolly_HD.png" group-title="EU ALBANIA",|ALB| TRING JOLLY
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96022
-#EXTINF:0 CUID="3967" tvg-name="|ALB| LIVING HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Living_HD.png" group-title="EU ALBANIA",|ALB| LIVING HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96023
-#EXTINF:0 CUID="3968" tvg-name="|ALB| FOX CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/FOX.png" group-title="EU ALBANIA",|ALB| FOX CHANNEL
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96024
-#EXTINF:0 CUID="3969" tvg-name="|ALB| FOX LIFE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Fox_Life.png" group-title="EU ALBANIA",|ALB| FOX LIFE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96025
-#EXTINF:0 CUID="3970" tvg-name="|ALB| KANAL D DRAMA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/KanalD_Drama.png" group-title="EU ALBANIA",|ALB| KANAL D DRAMA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96027
-#EXTINF:0 CUID="3971" tvg-name="===== Q PREMIERE FILM =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== Q PREMIERE FILM =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96028
-#EXTINF:0 CUID="3972" tvg-name="|ALB| Q ACTION HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| Q ACTION HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96029
-#EXTINF:0 CUID="3973" tvg-name="|ALB| Q HUMOR HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| Q HUMOR HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96030
-#EXTINF:0 CUID="3974" tvg-name="|ALB| Q STUPCAT HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| Q STUPCAT HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96031
-#EXTINF:0 CUID="3975" tvg-name="|ALB| Q HUMOR HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| Q HUMOR HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96040
-#EXTINF:0 CUID="3976" tvg-name="|ALB| Q STUPCAT HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| Q STUPCAT HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96041
-#EXTINF:0 CUID="3977" tvg-name="===== X FILM =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== X FILM =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96049
-#EXTINF:0 CUID="3978" tvg-name="|ALB| E 2XL" group-title="EU ALBANIA",|ALB| E 2XL
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229679
-#EXTINF:0 CUID="3979" tvg-name="|ALB| E OSA MIRE" group-title="EU ALBANIA",|ALB| E OSA MIRE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229680
-#EXTINF:0 CUID="3980" tvg-name="|ALB| E CA KA SHPIJA" group-title="EU ALBANIA",|ALB| E CA KA SHPIJA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229681
-#EXTINF:0 CUID="3981" tvg-name="|ALB| E KAFENEJA JONE" group-title="EU ALBANIA",|ALB| E KAFENEJA JONE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229682
-#EXTINF:0 CUID="3982" tvg-name="|ALB| E STUPCAT" group-title="EU ALBANIA",|ALB| E STUPCAT
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229683
-#EXTINF:0 CUID="3983" tvg-name="|ALB| E HUMOR HD" group-title="EU ALBANIA",|ALB| E HUMOR HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229684
-#EXTINF:0 CUID="3984" tvg-name="|ALB| E CIFTELI HD" group-title="EU ALBANIA",|ALB| E CIFTELI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229685
-#EXTINF:0 CUID="3985" tvg-name="|ALB E POPULLORE HD" group-title="EU ALBANIA",|ALB E POPULLORE HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229686
-#EXTINF:0 CUID="3986" tvg-name="|ALB| E MUSIC HITS HD" group-title="EU ALBANIA",|ALB| E MUSIC HITS HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229687
-#EXTINF:0 CUID="3987" tvg-name="|ALB E GJURMET SHQIPTARE HD" group-title="EU ALBANIA",|ALB E GJURMET SHQIPTARE HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229688
-#EXTINF:0 CUID="3988" tvg-name="|ALB| E HISTORI" group-title="EU ALBANIA",|ALB| E HISTORI
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229689
-#EXTINF:0 CUID="3989" tvg-name="|ALB| E NATYRA HD" group-title="EU ALBANIA",|ALB| E NATYRA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229690
-#EXTINF:0 CUID="3990" tvg-name="|ALB| E SHKENCA HD" group-title="EU ALBANIA",|ALB| E SHKENCA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229691
-#EXTINF:0 CUID="3991" tvg-name="|ALB| E FAMILY HD" group-title="EU ALBANIA",|ALB| E FAMILY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229692
-#EXTINF:0 CUID="3992" tvg-name="|ALB| E WESTERN HD" group-title="EU ALBANIA",|ALB| E WESTERN HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229693
-#EXTINF:0 CUID="3993" tvg-name="|ALB| E DARK HD" group-title="EU ALBANIA",|ALB| E DARK HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229694
-#EXTINF:0 CUID="3994" tvg-name="|ALB| E DRAMA HD" group-title="EU ALBANIA",|ALB| E DRAMA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229695
-#EXTINF:0 CUID="3995" tvg-name="|ALB| E ROMANCE HD" group-title="EU ALBANIA",|ALB| E ROMANCE HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229696
-#EXTINF:0 CUID="3996" tvg-name="|ALB| E COMEDY HD" group-title="EU ALBANIA",|ALB| E COMEDY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229697
-#EXTINF:0 CUID="3997" tvg-name="|ALB| E SCI-FI HD" group-title="EU ALBANIA",|ALB| E SCI-FI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229698
-#EXTINF:0 CUID="3998" tvg-name="|ALB| E THRILLER HD" group-title="EU ALBANIA",|ALB| E THRILLER HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229699
-#EXTINF:0 CUID="3999" tvg-name="|ALB| E ACTION HD" group-title="EU ALBANIA",|ALB| E ACTION HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229700
-#EXTINF:0 CUID="4000" tvg-name="|ALB| E PREMIERE 1 HD" group-title="EU ALBANIA",|ALB| E PREMIERE 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229704
-#EXTINF:0 CUID="4001" tvg-name="|ALB| E PRMIERE 2 HD" group-title="EU ALBANIA",|ALB| E PRMIERE 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229703
-#EXTINF:0 CUID="4002" tvg-name="|ALB| E PREMIERE 3 HD" group-title="EU ALBANIA",|ALB| E PREMIERE 3 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229702
-#EXTINF:0 CUID="4003" tvg-name="|ALB| E PRMIERE 4 HD" group-title="EU ALBANIA",|ALB| E PRMIERE 4 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229701
-#EXTINF:0 CUID="4004" tvg-name="|ALB| GALAXY HD" group-title="EU ALBANIA",|ALB| GALAXY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229705
-#EXTINF:0 CUID="4005" tvg-name="|ALB| GEO HD" group-title="EU ALBANIA",|ALB| GEO HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229706
-#EXTINF:0 CUID="4006" tvg-name="|ALB| SKY SHQIP" group-title="EU ALBANIA",|ALB| SKY SHQIP
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229707
-#EXTINF:0 CUID="4007" tvg-name="|ALB| SKY NOVEAL" group-title="EU ALBANIA",|ALB| SKY NOVEAL
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229708
-#EXTINF:0 CUID="4008" tvg-name="|ALB| SKY KOMEDI" group-title="EU ALBANIA",|ALB| SKY KOMEDI
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229709
-#EXTINF:0 CUID="4009" tvg-name="|ALB| SKY DRAME" group-title="EU ALBANIA",|ALB| SKY DRAME
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229710
-#EXTINF:0 CUID="4010" tvg-name="|ALB| SKY AKSION" group-title="EU ALBANIA",|ALB| SKY AKSION
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229711
-#EXTINF:0 CUID="4011" tvg-name="|ALB| SKY MAX" group-title="EU ALBANIA",|ALB| SKY MAX
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229712
-#EXTINF:0 CUID="4012" tvg-name="|ALB| SKY 7" group-title="EU ALBANIA",|ALB| SKY 7
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229713
-#EXTINF:0 CUID="4013" tvg-name="|ALB| STAR HD" group-title="EU ALBANIA",|ALB| STAR HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229714
-#EXTINF:0 CUID="4014" tvg-name="|ALB| TRING INTERNATIONAL" group-title="EU ALBANIA",|ALB| TRING INTERNATIONAL
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229724
-#EXTINF:0 CUID="4015" tvg-name="|ALB| CINEMA 1 HD" group-title="EU ALBANIA",|ALB| CINEMA 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229726
-#EXTINF:0 CUID="4016" tvg-name="|ALB| CINEMA 2 HD" group-title="EU ALBANIA",|ALB| CINEMA 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229725
-#EXTINF:0 CUID="4017" tvg-name="|ALB| CINEMAX 2 HD" group-title="EU ALBANIA",|ALB| CINEMAX 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229727
-#EXTINF:0 CUID="4018" tvg-name="|ALB| FOX CRIME" group-title="EU ALBANIA",|ALB| FOX CRIME
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229728
-#EXTINF:0 CUID="4019" tvg-name="|ALB| E FILMA24" group-title="EU ALBANIA",|ALB| E FILMA24
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229729
-#EXTINF:0 CUID="4020" tvg-name="|ALB| CINE 1" group-title="EU ALBANIA",|ALB| CINE 1
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229733
-#EXTINF:0 CUID="4021" tvg-name="|ALB| CINE 2" group-title="EU ALBANIA",|ALB| CINE 2
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229732
-#EXTINF:0 CUID="4022" tvg-name="|ALB| CINE 3" group-title="EU ALBANIA",|ALB| CINE 3
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229731
-#EXTINF:0 CUID="4023" tvg-name="|ALB| CINE 4" group-title="EU ALBANIA",|ALB| CINE 4
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229730
-#EXTINF:0 CUID="4024" tvg-name="|ALB| DIGI GOLD" group-title="EU ALBANIA",|ALB| DIGI GOLD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229738
-#EXTINF:0 CUID="4025" tvg-name="|ALB| DIGI GOLD 1" group-title="EU ALBANIA",|ALB| DIGI GOLD 1
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229737
-#EXTINF:0 CUID="4026" tvg-name="|ALB| DIGI GOLD 2" group-title="EU ALBANIA",|ALB| DIGI GOLD 2
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229736
-#EXTINF:0 CUID="4027" tvg-name="|ALB| DIGI GOLD 3" group-title="EU ALBANIA",|ALB| DIGI GOLD 3
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229735
-#EXTINF:0 CUID="4028" tvg-name="|ALB| DIGI GOLD 4" group-title="EU ALBANIA",|ALB| DIGI GOLD 4
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229734
-#EXTINF:0 CUID="4029" tvg-name="|ALB| E XHAMIA E TABAKEVE" group-title="EU ALBANIA",|ALB| E XHAMIA E TABAKEVE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229739
-#EXTINF:0 CUID="4030" tvg-name="|ALB| TAO TAO HD" group-title="EU ALBANIA",|ALB| TAO TAO HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229740
-#EXTINF:0 CUID="4031" tvg-name="|ALB| E TOM & JERRY" group-title="EU ALBANIA",|ALB| E TOM & JERRY
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229741
-#EXTINF:0 CUID="4032" tvg-name="|ALB| E KIDS" group-title="EU ALBANIA",|ALB| E KIDS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229742
-#EXTINF:0 CUID="4033" tvg-name="===== KUJTESA FILM =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== KUJTESA FILM =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96065
-#EXTINF:0 CUID="4034" tvg-name="|ALB| FILMBOX PREMIUM" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/FilmBox_Premium_HD.png" group-title="EU ALBANIA",|ALB| FILMBOX PREMIUM
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96066
-#EXTINF:0 CUID="4035" tvg-name="|ALB| FILMBOX ARTHOUSE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/FilmBox_Arthouse.png" group-title="EU ALBANIA",|ALB| FILMBOX ARTHOUSE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96067
-#EXTINF:0 CUID="4036" tvg-name="|ALB| FILMBOX EXTRA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/FilmBox_Extra_HD.png" group-title="EU ALBANIA",|ALB| FILMBOX EXTRA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96068
-#EXTINF:0 CUID="4037" tvg-name="|ALB| FILMBOX PLUS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/FILMBOX-PLUS.png" group-title="EU ALBANIA",|ALB| FILMBOX PLUS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96069
-#EXTINF:0 CUID="4038" tvg-name="|ALB| ART KINO 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ART_KINO_1.png" group-title="EU ALBANIA",|ALB| ART KINO 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96070
-#EXTINF:0 CUID="4039" tvg-name="|ALB| ART KINO 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ART_KINO_2.png" group-title="EU ALBANIA",|ALB| ART KINO 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96071
-#EXTINF:0 CUID="4040" tvg-name="|ALB| ART KINO 3 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ART_KINO_3.png" group-title="EU ALBANIA",|ALB| ART KINO 3 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96072
-#EXTINF:0 CUID="4041" tvg-name="|ALB| ART PRIME HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/PRIME.png" group-title="EU ALBANIA",|ALB| ART PRIME HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96074
-#EXTINF:0 CUID="4042" tvg-name="===== DOKUMENTARE =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== DOKUMENTARE =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96080
-#EXTINF:0 CUID="4043" tvg-name="|ALB| EXPLORER SHKENCE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/EXP_shkence.png" group-title="EU ALBANIA",|ALB| EXPLORER SHKENCE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96081
-#EXTINF:0 CUID="4044" tvg-name="|ALB| EXPLORER NATYRA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/EXP_natyra.png" group-title="EU ALBANIA",|ALB| EXPLORER NATYRA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96082
-#EXTINF:0 CUID="4045" tvg-name="|ALB| EXPLORER HISTORI" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/EXPhistori.png" group-title="EU ALBANIA",|ALB| EXPLORER HISTORI
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96083
-#EXTINF:0 CUID="4046" tvg-name="|ALB| TRING HISTORY" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_History.png" group-title="EU ALBANIA",|ALB| TRING HISTORY
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96084
-#EXTINF:0 CUID="4047" tvg-name="|ALB| TRING PLANET" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_Planet.png" group-title="EU ALBANIA",|ALB| TRING PLANET
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96085
-#EXTINF:0 CUID="4048" tvg-name="|ALB| TRING WORLD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Tring_World.png" group-title="EU ALBANIA",|ALB| TRING WORLD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96086
-#EXTINF:0 CUID="4049" tvg-name="|ALB| SKY PLANET" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| SKY PLANET
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96090
-#EXTINF:0 CUID="4050" tvg-name="|ALB| DISCOVERY SCIENCE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Discovery_Sci_HD.png" group-title="EU ALBANIA",|ALB| DISCOVERY SCIENCE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96093
-#EXTINF:0 CUID="4051" tvg-name="|ALB| DISCOVERY CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Discovery Channel.png" group-title="EU ALBANIA",|ALB| DISCOVERY CHANNEL
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96094
-#EXTINF:0 CUID="4052" tvg-name="|ALB| NATIONAL GEOGRAPHIC" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/NationalGeo_HD.png" group-title="EU ALBANIA",|ALB| NATIONAL GEOGRAPHIC
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96095
-#EXTINF:0 CUID="4053" tvg-name="|ALB| 24 KITCHEN" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/24Kitchen.png" group-title="EU ALBANIA",|ALB| 24 KITCHEN
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96098
-#EXTINF:0 CUID="4054" tvg-name="===== MUSIC =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== MUSIC =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96100
-#EXTINF:0 CUID="4055" tvg-name="|ALB| HITS TV" group-title="EU ALBANIA",|ALB| HITS TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/147948
-#EXTINF:0 CUID="4056" tvg-name="|ALB| RAP TV" group-title="EU ALBANIA",|ALB| RAP TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/147949
-#EXTINF:0 CUID="4057" tvg-name="|ALB| MIX TV" group-title="EU ALBANIA",|ALB| MIX TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/147950
-#EXTINF:0 CUID="4058" tvg-name="|ALB| RTV ILIRIDA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/rtv_ilirida.png" group-title="EU ALBANIA",|ALB| RTV ILIRIDA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/144818
-#EXTINF:0 CUID="4059" tvg-name="|ALB| MY MUSIC HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| MY MUSIC HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96101
-#EXTINF:0 CUID="4060" tvg-name="|ALB| RTV21 POPULLORE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/21_Popullore.png" group-title="EU ALBANIA",|ALB| RTV21 POPULLORE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96108
-#EXTINF:0 CUID="4061" tvg-name="|ALB| SYRI BLU MUSIC HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| SYRI BLU MUSIC HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96110
-#EXTINF:0 CUID="4062" tvg-name="|ALB| TV OPOJA HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/TV-Opoja-Live.png" group-title="EU ALBANIA",|ALB| TV OPOJA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96111
-#EXTINF:0 CUID="4063" tvg-name="|ALB| ZICO TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Zico_TV.png" group-title="EU ALBANIA",|ALB| ZICO TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96112
-#EXTINF:0 CUID="4064" tvg-name="|ALB| A-MOL TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| A-MOL TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96113
-#EXTINF:0 CUID="4065" tvg-name="|ALB| TOP ESTRADA MUSIC HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TOP ESTRADA MUSIC HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96115
-#EXTINF:0 CUID="4066" tvg-name="|ALB| ALB" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| ALB
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96116
-#EXTINF:0 CUID="4067" tvg-name="|ALB| TV ZJARR" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ZJARR_TV.png" group-title="EU ALBANIA",|ALB| TV ZJARR
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96117
-#EXTINF:0 CUID="4068" tvg-name="|ALB| SKY MUSIC HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| SKY MUSIC HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96118
-#EXTINF:0 CUID="4069" tvg-name="|ALB| ELRODI" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| ELRODI
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96121
-#EXTINF:0 CUID="4070" tvg-name="|ALB| FOLK" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| FOLK
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96122
-#EXTINF:0 CUID="4071" tvg-name="|ALB| FOLK+" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Folk_Plus.png" group-title="EU ALBANIA",|ALB| FOLK+
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96123
-#EXTINF:0 CUID="4072" tvg-name="===== SUPER SPORTS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== SUPER SPORTS =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96124
-#EXTINF:0 CUID="4073" tvg-name="|ALB| SUPER SPORT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-1_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96125
-#EXTINF:0 CUID="4074" tvg-name="|ALB| SUPER SPORT 1 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-1_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 1 4K
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96126
-#EXTINF:0 CUID="4075" tvg-name="|ALB| SUPER SPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-2_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96127
-#EXTINF:0 CUID="4076" tvg-name="|ALB| SUPER SPORT 3 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-3_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 3 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96129
-#EXTINF:0 CUID="4077" tvg-name="|ALB| SUPER SPORT 3 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-3_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 3 4K
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96130
-#EXTINF:0 CUID="4078" tvg-name="|ALB| SUPER SPORT 4 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-4_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 4 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96131
-#EXTINF:0 CUID="4079" tvg-name="|ALB| SUPER SPORT 5 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-5_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 5 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96133
-#EXTINF:0 CUID="4080" tvg-name="|ALB| SUPER SPORT 6 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-6_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 6 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96135
-#EXTINF:0 CUID="4081" tvg-name="|ALB| SUPER SPORT 7 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-7_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 7 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96137
-#EXTINF:0 CUID="4082" tvg-name="|ALB| SUPER SPORT KOSOVO 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Super-Sport-Kosova-1.png" group-title="EU ALBANIA",|ALB| SUPER SPORT KOSOVO 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/144814
-#EXTINF:0 CUID="4083" tvg-name="|ALB| SUPER SPORT KOSOVO 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Super-Sport-Kosova-2.png" group-title="EU ALBANIA",|ALB| SUPER SPORT KOSOVO 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/144815
-#EXTINF:0 CUID="4084" tvg-name="===== TRING SPORTS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== TRING SPORTS =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96139
-#EXTINF:0 CUID="4085" tvg-name="|ALB| TRING SPORT NEWS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/TringSportNews-Live.png" group-title="EU ALBANIA",|ALB| TRING SPORT NEWS
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96140
-#EXTINF:0 CUID="4086" tvg-name="|ALB| TRING SPORT NEWS HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/TringSportNews-Live.png" group-title="EU ALBANIA",|ALB| TRING SPORT NEWS HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96141
-#EXTINF:0 CUID="4087" tvg-name="|ALB| TRING SPORT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Tring-Sport-1.png" group-title="EU ALBANIA",|ALB| TRING SPORT 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96142
-#EXTINF:0 CUID="4088" tvg-name="|ALB| TRING SPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/TringSport-2.png" group-title="EU ALBANIA",|ALB| TRING SPORT 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96143
-#EXTINF:0 CUID="4089" tvg-name="|ALB| TRING SPORT 3 HD (ONLY MATCH TIME)" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Tring-Sport-3.png" group-title="EU ALBANIA",|ALB| TRING SPORT 3 HD (ONLY MATCH TIME)
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96144
-#EXTINF:0 CUID="4090" tvg-name="|ALB| TRING SPORT 4 HD (ONLY MATCH TIME)" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TRING SPORT 4 HD (ONLY MATCH TIME)
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96145
-#EXTINF:0 CUID="4091" tvg-name="===== KUJTESA SPORT =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== KUJTESA SPORT =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96146
-#EXTINF:0 CUID="4092" tvg-name="|ALB| K SPORT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Kujtesa_Sport_1.png" group-title="EU ALBANIA",|ALB| K SPORT 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96147
-#EXTINF:0 CUID="4093" tvg-name="|ALB| K SPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Kujtesa_Sport_2.png" group-title="EU ALBANIA",|ALB| K SPORT 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96148
-#EXTINF:0 CUID="4094" tvg-name="|ALB| K SPORT 3 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Kujtesa_Sport_3.png" group-title="EU ALBANIA",|ALB| K SPORT 3 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96149
-#EXTINF:0 CUID="4095" tvg-name="|ALB| K SPORT 4 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Kujtesa_Sport_4.png" group-title="EU ALBANIA",|ALB| K SPORT 4 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96150
-#EXTINF:0 CUID="4096" tvg-name="==== ART MOTION SPORT =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",==== ART MOTION SPORT =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96152
-#EXTINF:0 CUID="4097" tvg-name="|ALB| ART SPORT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ART_SPORT_1_HD.png" group-title="EU ALBANIA",|ALB| ART SPORT 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96153
-#EXTINF:0 CUID="4098" tvg-name="|ALB| ART SPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ART_SPORT_2_HD.png" group-title="EU ALBANIA",|ALB| ART SPORT 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96154
-#EXTINF:0 CUID="4099" tvg-name="|ALB| ART SPORT 3 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ART_SPORT_3_HD.png" group-title="EU ALBANIA",|ALB| ART SPORT 3 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96155
-#EXTINF:0 CUID="4100" tvg-name="==== OVER SPORT ====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",==== OVER SPORT ====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/169623
-#EXTINF:0 CUID="4101" tvg-name="|ALB| OVER SPORT 1" group-title="EU ALBANIA",|ALB| OVER SPORT 1
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/169619
-#EXTINF:0 CUID="4102" tvg-name="|ALB| OVER SPORT 2" group-title="EU ALBANIA",|ALB| OVER SPORT 2
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/169620
-#EXTINF:0 CUID="4103" tvg-name="|ALB| OVER SPORT 3" group-title="EU ALBANIA",|ALB| OVER SPORT 3
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/169621
-#EXTINF:0 CUID="4104" tvg-name="|ALB| OVER SPORT 4" group-title="EU ALBANIA",|ALB| OVER SPORT 4
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/169622
-#EXTINF:0 CUID="4105" tvg-name="===== ISLAM =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== ISLAM =====
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96158
-#EXTINF:0 CUID="4106" tvg-name="|ALB| RTV PENDIMI TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| RTV PENDIMI TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96164
-#EXTINF:0 CUID="4107" tvg-name="|ALB| PEACE TV" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| PEACE TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/96165
-#EXTINF:0 CUID="4108" tvg-name="|ALB| RTV ISLAM" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTV_Islam.png" group-title="EU ALBANIA",|ALB| RTV ISLAM
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/144816
-#EXTINF:0 CUID="4109" tvg-name="|ALB| RTSH SHKOLLE" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_Shkolle_HD.png" group-title="EU ALBANIA",|ALB| RTSH SHKOLLE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/144817
-#EXTINF:0 CUID="4110" tvg-name="|ALB| T DOC 2" group-title="EU ALBANIA",|ALB| T DOC 2
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229715
-#EXTINF:0 CUID="4111" tvg-name="|ALB| T DOC 1" group-title="EU ALBANIA",|ALB| T DOC 1
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229716
-#EXTINF:0 CUID="4112" tvg-name="|ALB| T SERIALE" group-title="EU ALBANIA",|ALB| T SERIALE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229717
-#EXTINF:0 CUID="4113" tvg-name="|ALB| T DRAMA" group-title="EU ALBANIA",|ALB| T DRAMA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229718
-#EXTINF:0 CUID="4114" tvg-name="|ALB| T COMEDY" group-title="EU ALBANIA",|ALB| T COMEDY
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229719
-#EXTINF:0 CUID="4115" tvg-name="|ALB| T THRILLER" group-title="EU ALBANIA",|ALB| T THRILLER
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229720
-#EXTINF:0 CUID="4116" tvg-name="|ALB| T ACTION" group-title="EU ALBANIA",|ALB| T ACTION
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229721
-#EXTINF:0 CUID="4117" tvg-name="|ALB| T PRIME 2" group-title="EU ALBANIA",|ALB| T PRIME 2
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229722
-#EXTINF:0 CUID="4118" tvg-name="|ALB| T PRIME 1" group-title="EU ALBANIA",|ALB| T PRIME 1
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/229723
-#EXTINF:0 CUID="4119" tvg-name="|ALB| DIELLI" group-title="EU ALBANIA",|ALB| DIELLI
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365127
-#EXTINF:0 CUID="4120" tvg-name="|ALB| Dasma TV HD" group-title="EU ALBANIA",|ALB| Dasma TV HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365128
-#EXTINF:0 CUID="4121" tvg-name="|ALB| MCN TV" group-title="EU ALBANIA",|ALB| MCN TV
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365129
-#EXTINF:0 CUID="4122" tvg-name="|ALB| SYRI TELEVISION" group-title="EU ALBANIA",|ALB| SYRI TELEVISION
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365130
-#EXTINF:0 CUID="4123" tvg-name="|ALB| A2 CNN" group-title="EU ALBANIA",|ALB| A2 CNN
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365131
-#EXTINF:0 CUID="4124" tvg-name="|ALB| TRING NOVELAS HD" group-title="EU ALBANIA",|ALB| TRING NOVELAS HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365132
-#EXTINF:0 CUID="4125" tvg-name="|ALB| Tring Muse" group-title="EU ALBANIA",|ALB| Tring Muse
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365133
-#EXTINF:0 CUID="4126" tvg-name="|ALB| ART DOKU 1 FHD" group-title="EU ALBANIA",|ALB| ART DOKU 1 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365134
-#EXTINF:0 CUID="4127" tvg-name="|ALB| ART DOKU 2 FHD" group-title="EU ALBANIA",|ALB| ART DOKU 2 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365135
-#EXTINF:0 CUID="4128" tvg-name="|ALB| GALAXY HD" group-title="EU ALBANIA",|ALB| GALAXY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365172
-#EXTINF:0 CUID="4129" tvg-name="|ALB| GEO HD" group-title="EU ALBANIA",|ALB| GEO HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365173
-#EXTINF:0 CUID="4130" tvg-name="|ALB| SKY SHQIP" group-title="EU ALBANIA",|ALB| SKY SHQIP
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365174
-#EXTINF:0 CUID="4131" tvg-name="|ALB| SKY NOVEAL" group-title="EU ALBANIA",|ALB| SKY NOVEAL
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365175
-#EXTINF:0 CUID="4132" tvg-name="|ALB| SKY KOMEDI" group-title="EU ALBANIA",|ALB| SKY KOMEDI
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365176
-#EXTINF:0 CUID="4133" tvg-name="|ALB| SKY DRAME" group-title="EU ALBANIA",|ALB| SKY DRAME
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365177
-#EXTINF:0 CUID="4134" tvg-name="|ALB| SKY AKSION" group-title="EU ALBANIA",|ALB| SKY AKSION
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365178
-#EXTINF:0 CUID="4135" tvg-name="|ALB| SKY MAX" group-title="EU ALBANIA",|ALB| SKY MAX
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365179
-#EXTINF:0 CUID="4136" tvg-name="|ALB| SKY 7" group-title="EU ALBANIA",|ALB| SKY 7
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365180
-#EXTINF:0 CUID="4137" tvg-name="|ALB| STAR HD" group-title="EU ALBANIA",|ALB| STAR HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365181
-#EXTINF:0 CUID="4138" tvg-name="|ALB| TRING INTERNATIONAL" group-title="EU ALBANIA",|ALB| TRING INTERNATIONAL
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365191
-#EXTINF:0 CUID="4139" tvg-name="|ALB| CINEMA 2 HD" group-title="EU ALBANIA",|ALB| CINEMA 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365192
-#EXTINF:0 CUID="4140" tvg-name="|ALB| CINEMA 1 HD" group-title="EU ALBANIA",|ALB| CINEMA 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365193
-#EXTINF:0 CUID="4141" tvg-name="|ALB| CINEMAX 2 HD" group-title="EU ALBANIA",|ALB| CINEMAX 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365194
-#EXTINF:0 CUID="4142" tvg-name="|ALB| FOX CRIME" group-title="EU ALBANIA",|ALB| FOX CRIME
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365195
-#EXTINF:0 CUID="4143" tvg-name="|ALB| E FILMA24" group-title="EU ALBANIA",|ALB| E FILMA24
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365196
-#EXTINF:0 CUID="4144" tvg-name="|ALB| CINE 4" group-title="EU ALBANIA",|ALB| CINE 4
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365197
-#EXTINF:0 CUID="4145" tvg-name="|ALB| CINE 3" group-title="EU ALBANIA",|ALB| CINE 3
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365198
-#EXTINF:0 CUID="4146" tvg-name="|ALB| CINE 2" group-title="EU ALBANIA",|ALB| CINE 2
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365199
-#EXTINF:0 CUID="4147" tvg-name="|ALB| CINE 1" group-title="EU ALBANIA",|ALB| CINE 1
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365200
-#EXTINF:0 CUID="4148" tvg-name="|ALB| DIGI Gold 4" group-title="EU ALBANIA",|ALB| DIGI Gold 4
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365201
-#EXTINF:0 CUID="4149" tvg-name="|ALB| DIGI GOLD 3" group-title="EU ALBANIA",|ALB| DIGI GOLD 3
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365202
-#EXTINF:0 CUID="4150" tvg-name="|ALB| DIGI GOLD 2" group-title="EU ALBANIA",|ALB| DIGI GOLD 2
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365203
-#EXTINF:0 CUID="4151" tvg-name="|ALB| DIGI GOLD 1" group-title="EU ALBANIA",|ALB| DIGI GOLD 1
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365204
-#EXTINF:0 CUID="4152" tvg-name="|ALB| DIGI GOLD" group-title="EU ALBANIA",|ALB| DIGI GOLD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365205
-#EXTINF:0 CUID="4153" tvg-name="|ALB| RTSH FILM HD" group-title="EU ALBANIA",|ALB| RTSH FILM HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365206
-#EXTINF:0 CUID="4154" tvg-name="|ALB| WEBSTAR ACTION HD" group-title="EU ALBANIA",|ALB| WEBSTAR ACTION HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365207
-#EXTINF:0 CUID="4155" tvg-name="|ALB| WEBSTAR CHUCHU HD" group-title="EU ALBANIA",|ALB| WEBSTAR CHUCHU HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365208
-#EXTINF:0 CUID="4156" tvg-name="|ALB| WEBSTAR CINEMA HD" group-title="EU ALBANIA",|ALB| WEBSTAR CINEMA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365209
-#EXTINF:0 CUID="4157" tvg-name="|ALB| WEBSTAR HUMOR HD" group-title="EU ALBANIA",|ALB| WEBSTAR HUMOR HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365210
-#EXTINF:0 CUID="4158" tvg-name="|ALB| WEBSTAR KOMEDI HD" group-title="EU ALBANIA",|ALB| WEBSTAR KOMEDI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365211
-#EXTINF:0 CUID="4159" tvg-name="|ALB| WEBSTAR MUZIK HD" group-title="EU ALBANIA",|ALB| WEBSTAR MUZIK HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365212
-#EXTINF:0 CUID="4160" tvg-name="|ALB| WEBSTAR QIFTELI HD" group-title="EU ALBANIA",|ALB| WEBSTAR QIFTELI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365213
-#EXTINF:0 CUID="4161" tvg-name="|ALB| WEBSTAR THRILLER HD" group-title="EU ALBANIA",|ALB| WEBSTAR THRILLER HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365214
-#EXTINF:0 CUID="4162" tvg-name="|ALB| 8OVA DRAME HD" group-title="EU ALBANIA",|ALB| 8OVA DRAME HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365215
-#EXTINF:0 CUID="4163" tvg-name="|ALB| 8OVA FAMILY HD" group-title="EU ALBANIA",|ALB| 8OVA FAMILY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365216
-#EXTINF:0 CUID="4164" tvg-name="|ALB| 8OVA GJURME SHQIPTARE" group-title="EU ALBANIA",|ALB| 8OVA GJURME SHQIPTARE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365217
-#EXTINF:0 CUID="4165" tvg-name="|ALB| 8OVA GOLD 1 HD" group-title="EU ALBANIA",|ALB| 8OVA GOLD 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365218
-#EXTINF:0 CUID="4166" tvg-name="|ALB| 8OVA GOLD 2 HD" group-title="EU ALBANIA",|ALB| 8OVA GOLD 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365219
-#EXTINF:0 CUID="4167" tvg-name="|ALB| 8OVA KOMEDI HD" group-title="EU ALBANIA",|ALB| 8OVA KOMEDI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365220
-#EXTINF:0 CUID="4168" tvg-name="|ALB| TRING FAMILY HD" group-title="EU ALBANIA",|ALB| TRING FAMILY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365221
-#EXTINF:0 CUID="4169" tvg-name="|ALB| TRING COLLECTION HD" group-title="EU ALBANIA",|ALB| TRING COLLECTION HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365222
-#EXTINF:0 CUID="4170" tvg-name="|ALB| TRING CLASSIC HD" group-title="EU ALBANIA",|ALB| TRING CLASSIC HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365223
-#EXTINF:0 CUID="4171" tvg-name="|ALB| KINEMA MAX HD" group-title="EU ALBANIA",|ALB| KINEMA MAX HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365224
-#EXTINF:0 CUID="4172" tvg-name="|ALB| KINEMA CLASSICS HD" group-title="EU ALBANIA",|ALB| KINEMA CLASSICS HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365225
-#EXTINF:0 CUID="4173" tvg-name="|ALB| KINEMA DRAME HD" group-title="EU ALBANIA",|ALB| KINEMA DRAME HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365226
-#EXTINF:0 CUID="4174" tvg-name="|ALB| KINEMA GOLD HD" group-title="EU ALBANIA",|ALB| KINEMA GOLD HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365227
-#EXTINF:0 CUID="4175" tvg-name="|ALB| KINEMA FAMILY HD" group-title="EU ALBANIA",|ALB| KINEMA FAMILY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365228
-#EXTINF:0 CUID="4176" tvg-name="|ALB| KINEMA DUCK HD" group-title="EU ALBANIA",|ALB| KINEMA DUCK HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365229
-#EXTINF:0 CUID="4177" tvg-name="|ALB| KINEMA SCI-FI HD" group-title="EU ALBANIA",|ALB| KINEMA SCI-FI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365230
-#EXTINF:0 CUID="4178" tvg-name="|ALB| KINEMA SHQIP HD" group-title="EU ALBANIA",|ALB| KINEMA SHQIP HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365231
-#EXTINF:0 CUID="4179" tvg-name="|ALB| KINEMA PREMIER HD" group-title="EU ALBANIA",|ALB| KINEMA PREMIER HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365232
-#EXTINF:0 CUID="4180" tvg-name="|ALB| KINEMA MILENIUM 1 HD" group-title="EU ALBANIA",|ALB| KINEMA MILENIUM 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365233
-#EXTINF:0 CUID="4181" tvg-name="|ALB| KINEMA MILENIUM 2 HD" group-title="EU ALBANIA",|ALB| KINEMA MILENIUM 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365234
-#EXTINF:0 CUID="4182" tvg-name="|ALB| KINEMA MILENIUM 3 HD" group-title="EU ALBANIA",|ALB| KINEMA MILENIUM 3 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365235
-#EXTINF:0 CUID="4183" tvg-name="|ALB| KINEMA MILENIUM 4 HD" group-title="EU ALBANIA",|ALB| KINEMA MILENIUM 4 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365236
-#EXTINF:0 CUID="4184" tvg-name="|ALB| KINEMA REPUBLIKA HD" group-title="EU ALBANIA",|ALB| KINEMA REPUBLIKA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365237
-#EXTINF:0 CUID="4185" tvg-name="|ALB| KINEMA PARTIZANI HD" group-title="EU ALBANIA",|ALB| KINEMA PARTIZANI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365238
-#EXTINF:0 CUID="4186" tvg-name="|ALB| KINEMA 17 NËNTORI HD" group-title="EU ALBANIA",|ALB| KINEMA 17 NËNTORI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365239
-#EXTINF:0 CUID="4187" tvg-name="|ALB| KINEMA AGIMI HD" group-title="EU ALBANIA",|ALB| KINEMA AGIMI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365240
-#EXTINF:0 CUID="4188" tvg-name="|ALB| KINEMA DAJTI HD" group-title="EU ALBANIA",|ALB| KINEMA DAJTI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365241
-#EXTINF:0 CUID="4189" tvg-name="|ALB| SHQIP 1 HD" group-title="EU ALBANIA",|ALB| SHQIP 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365242
-#EXTINF:0 CUID="4190" tvg-name="|ALB| SHQIP 2 HD" group-title="EU ALBANIA",|ALB| SHQIP 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365243
-#EXTINF:0 CUID="4191" tvg-name="|ALB| SHQIP 3 HD" group-title="EU ALBANIA",|ALB| SHQIP 3 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365244
-#EXTINF:0 CUID="4192" tvg-name="|ALB| SHQIP 4 HD" group-title="EU ALBANIA",|ALB| SHQIP 4 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365245
-#EXTINF:0 CUID="4193" tvg-name="|ALB| STATION CINE HD" group-title="EU ALBANIA",|ALB| STATION CINE HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365246
-#EXTINF:0 CUID="4194" tvg-name="|ALB| STATION PRIME HD" group-title="EU ALBANIA",|ALB| STATION PRIME HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365247
-#EXTINF:0 CUID="4195" tvg-name="|ALB| STATION BOX HD" group-title="EU ALBANIA",|ALB| STATION BOX HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365248
-#EXTINF:0 CUID="4196" tvg-name="|ALB| STATION TOP HD" group-title="EU ALBANIA",|ALB| STATION TOP HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365249
-#EXTINF:0 CUID="4197" tvg-name="|ALB| STATION STARS HD" group-title="EU ALBANIA",|ALB| STATION STARS HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365250
-#EXTINF:0 CUID="4198" tvg-name="|ALB| TELE ONE 1 HD" group-title="EU ALBANIA",|ALB| TELE ONE 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365251
-#EXTINF:0 CUID="4199" tvg-name="|ALB| TELE ONE 2 HD" group-title="EU ALBANIA",|ALB| TELE ONE 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365252
-#EXTINF:0 CUID="4200" tvg-name="|ALB| TELE ONE 3 HD" group-title="EU ALBANIA",|ALB| TELE ONE 3 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365253
-#EXTINF:0 CUID="4201" tvg-name="|ALB| TELE ONE 4 HD" group-title="EU ALBANIA",|ALB| TELE ONE 4 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365254
-#EXTINF:0 CUID="4202" tvg-name="|ALB| TELE ONE 5 HD" group-title="EU ALBANIA",|ALB| TELE ONE 5 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365255
-#EXTINF:0 CUID="4203" tvg-name="|ALB| TELE ONE 6 HD" group-title="EU ALBANIA",|ALB| TELE ONE 6 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365256
-#EXTINF:0 CUID="4204" tvg-name="|ALB| TELE ONE AKSION HD" group-title="EU ALBANIA",|ALB| TELE ONE AKSION HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365257
-#EXTINF:0 CUID="4205" tvg-name="|ALB| TELE ONE CRIME HD" group-title="EU ALBANIA",|ALB| TELE ONE CRIME HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365258
-#EXTINF:0 CUID="4206" tvg-name="|ALB| TELE ONE DRAMA HD" group-title="EU ALBANIA",|ALB| TELE ONE DRAMA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365259
-#EXTINF:0 CUID="4207" tvg-name="|ALB| TELE ONE EPIK HD" group-title="EU ALBANIA",|ALB| TELE ONE EPIK HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365260
-#EXTINF:0 CUID="4208" tvg-name="|ALB| TELE ONE FANTAZI HD" group-title="EU ALBANIA",|ALB| TELE ONE FANTAZI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365261
-#EXTINF:0 CUID="4209" tvg-name="|ALB| TELE ONE GOLD COLLECTION HD" group-title="EU ALBANIA",|ALB| TELE ONE GOLD COLLECTION HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365262
-#EXTINF:0 CUID="4210" tvg-name="|ALB| DARK FILMA SHQIP FHD" group-title="EU ALBANIA",|ALB| DARK FILMA SHQIP FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365263
-#EXTINF:0 CUID="4211" tvg-name="|ALB| DARK PRIME 1 FHD" group-title="EU ALBANIA",|ALB| DARK PRIME 1 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365264
-#EXTINF:0 CUID="4212" tvg-name="|ALB| DARK PRIME 2 FHD" group-title="EU ALBANIA",|ALB| DARK PRIME 2 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365265
-#EXTINF:0 CUID="4213" tvg-name="|ALB| DARK PRIME 3 FHD" group-title="EU ALBANIA",|ALB| DARK PRIME 3 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365266
-#EXTINF:0 CUID="4214" tvg-name="|ALB| DARK PRIME 4 FHD" group-title="EU ALBANIA",|ALB| DARK PRIME 4 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365267
-#EXTINF:0 CUID="4215" tvg-name="|ALB| DARK GOLD 1 FHD" group-title="EU ALBANIA",|ALB| DARK GOLD 1 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365268
-#EXTINF:0 CUID="4216" tvg-name="|ALB| DARK GOLD 2 FHD" group-title="EU ALBANIA",|ALB| DARK GOLD 2 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365269
-#EXTINF:0 CUID="4217" tvg-name="|ALB| DARK GOLD 3 FHD" group-title="EU ALBANIA",|ALB| DARK GOLD 3 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365270
-#EXTINF:0 CUID="4218" tvg-name="|ALB| DARK GOLD 4 FHD" group-title="EU ALBANIA",|ALB| DARK GOLD 4 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365271
-#EXTINF:0 CUID="4219" tvg-name="|ALB| DARK NETFLIX 1 FHD" group-title="EU ALBANIA",|ALB| DARK NETFLIX 1 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365272
-#EXTINF:0 CUID="4220" tvg-name="|ALB| DARK NETFLIX 2 FHD" group-title="EU ALBANIA",|ALB| DARK NETFLIX 2 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365273
-#EXTINF:0 CUID="4221" tvg-name="|ALB| DARK NETFLIX 3 FHD" group-title="EU ALBANIA",|ALB| DARK NETFLIX 3 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365274
-#EXTINF:0 CUID="4222" tvg-name="|ALB| DARK NETFLIX 4 FHD" group-title="EU ALBANIA",|ALB| DARK NETFLIX 4 FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365275
-#EXTINF:0 CUID="4223" tvg-name="|ALB| DARK AKSION FHD" group-title="EU ALBANIA",|ALB| DARK AKSION FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365276
-#EXTINF:0 CUID="4224" tvg-name="|ALB| DARK DELUXE FHD" group-title="EU ALBANIA",|ALB| DARK DELUXE FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365277
-#EXTINF:0 CUID="4225" tvg-name="|ALB| DARK SPECIAL FHD" group-title="EU ALBANIA",|ALB| DARK SPECIAL FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365278
-#EXTINF:0 CUID="4226" tvg-name="|ALB| DARK KOMEDI FHD" group-title="EU ALBANIA",|ALB| DARK KOMEDI FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365279
-#EXTINF:0 CUID="4227" tvg-name="|ALB| DARK HORROR FHD" group-title="EU ALBANIA",|ALB| DARK HORROR FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365280
-#EXTINF:0 CUID="4228" tvg-name="|ALB| DARK THRILLER FHD" group-title="EU ALBANIA",|ALB| DARK THRILLER FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365281
-#EXTINF:0 CUID="4229" tvg-name="|ALB| DARK WESTERN FHD" group-title="EU ALBANIA",|ALB| DARK WESTERN FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365282
-#EXTINF:0 CUID="4230" tvg-name="|ALB| DARK CLASSIC FHD" group-title="EU ALBANIA",|ALB| DARK CLASSIC FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365283
-#EXTINF:0 CUID="4231" tvg-name="|ALB| DARK FAMILY FHD" group-title="EU ALBANIA",|ALB| DARK FAMILY FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365284
-#EXTINF:0 CUID="4232" tvg-name="|ALB| DARK FANTAZI FHD" group-title="EU ALBANIA",|ALB| DARK FANTAZI FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365285
-#EXTINF:0 CUID="4233" tvg-name="|ALB| DARK ROMANCE FHD" group-title="EU ALBANIA",|ALB| DARK ROMANCE FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365286
-#EXTINF:0 CUID="4234" tvg-name="|ALB| DARK HINDI FHD" group-title="EU ALBANIA",|ALB| DARK HINDI FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365287
-#EXTINF:0 CUID="4235" tvg-name="|ALB| ONEP. PRIME 1 HD" group-title="EU ALBANIA",|ALB| ONEP. PRIME 1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365288
-#EXTINF:0 CUID="4236" tvg-name="|ALB| ONEP. PRIME 2 HD" group-title="EU ALBANIA",|ALB| ONEP. PRIME 2 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365289
-#EXTINF:0 CUID="4237" tvg-name="|ALB| ONEP. PRIME 3 HD" group-title="EU ALBANIA",|ALB| ONEP. PRIME 3 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365290
-#EXTINF:0 CUID="4238" tvg-name="|ALB| ONEP. PRIME 4 HD" group-title="EU ALBANIA",|ALB| ONEP. PRIME 4 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365291
-#EXTINF:0 CUID="4239" tvg-name="|ALB| ONEP. EXTRA HD" group-title="EU ALBANIA",|ALB| ONEP. EXTRA HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365292
-#EXTINF:0 CUID="4240" tvg-name="|ALB| ONEP. PREMIUM HD" group-title="EU ALBANIA",|ALB| ONEP. PREMIUM HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365293
-#EXTINF:0 CUID="4241" tvg-name="|ALB| ONEP. NETFLIX HD" group-title="EU ALBANIA",|ALB| ONEP. NETFLIX HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365294
-#EXTINF:0 CUID="4242" tvg-name="|ALB| ONEP. BEST OF HD" group-title="EU ALBANIA",|ALB| ONEP. BEST OF HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365295
-#EXTINF:0 CUID="4243" tvg-name="|ALB| ONEP. COLLECTION HD" group-title="EU ALBANIA",|ALB| ONEP. COLLECTION HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365296
-#EXTINF:0 CUID="4244" tvg-name="|ALB| ONEP. AKSION HD" group-title="EU ALBANIA",|ALB| ONEP. AKSION HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365297
-#EXTINF:0 CUID="4245" tvg-name="|ALB| ONEP. AKSION +1 HD" group-title="EU ALBANIA",|ALB| ONEP. AKSION +1 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365298
-#EXTINF:0 CUID="4246" tvg-name="|ALB| ONEP. KOMEDI HD" group-title="EU ALBANIA",|ALB| ONEP. KOMEDI HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365299
-#EXTINF:0 CUID="4247" tvg-name="|ALB| ONEP. CLASSIC HD" group-title="EU ALBANIA",|ALB| ONEP. CLASSIC HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365300
-#EXTINF:0 CUID="4248" tvg-name="|ALB| ONEP. FAMILY HD" group-title="EU ALBANIA",|ALB| ONEP. FAMILY HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365301
-#EXTINF:0 CUID="4249" tvg-name="|ALB| ONEP. HORROR HD" group-title="EU ALBANIA",|ALB| ONEP. HORROR HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365302
-#EXTINF:0 CUID="4250" tvg-name="|ALB| ONEP. FILMA SHQIP HD" group-title="EU ALBANIA",|ALB| ONEP. FILMA SHQIP HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365303
-#EXTINF:0 CUID="4251" tvg-name="|ALB| ART SPORT 5 HD" group-title="EU ALBANIA",|ALB| ART SPORT 5 HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365304
-#EXTINF:0 CUID="4252" tvg-name="|ALB| E XHAMIA E TABAKEVE" group-title="EU ALBANIA",|ALB| E XHAMIA E TABAKEVE
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365305
-#EXTINF:0 CUID="4253" tvg-name="|ALB| USKANA TV HD" group-title="EU ALBANIA",|ALB| USKANA TV HD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365306
-#EXTINF:0 CUID="4254" tvg-name="|ALB| ROZAFA" group-title="EU ALBANIA",|ALB| ROZAFA
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365307
-#EXTINF:0 CUID="4255" tvg-name="|ALB| SYRI VISION TV FHD" group-title="EU ALBANIA",|ALB| SYRI VISION TV FHD
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/365308
-#EXTINF:0 CUID="4256" tvg-name="|ALB| MCN24" group-title="EU ALBANIA",|ALB| MCN24
-http://sansat.net:25461/02067763197872/90e553c6dacdce64/433167
-#EXTINF:0 CUID="25676" tvg-name="Furious-7-(2015)" group-title="|VOD| ALBANIA",Furious-7-(2015)
-http://sansat.net:25461/movie/02067763197872/90e553c6dacdce64/306781.mp4
-#EXTINF:0 CUID="26955" tvg-name="The-Fast-and-the-Furious-(2001)" group-title="|VOD| ALBANIA",The-Fast-and-the-Furious-(2001)
-http://sansat.net:25461/movie/02067763197872/90e553c6dacdce64/308065.mp4
-#EXTINF:0 CUID="26956" tvg-name="The-Fast-and-the-Furious:-Tokyo-Drift-(2006)" group-title="|VOD| ALBANIA",The-Fast-and-the-Furious:-Tokyo-Drift-(2006)
-http://sansat.net:25461/movie/02067763197872/90e553c6dacdce64/308066.mp4
-#EXTINF:0 CUID="26958" tvg-name="The-Fate-of-the-Furious-(2017)" group-title="|VOD| ALBANIA",The-Fate-of-the-Furious-(2017)
-http://sansat.net:25461/movie/02067763197872/90e553c6dacdce64/308068.mp4
-#EXTINF:0 CUID="25616" tvg-name="Fast-&-Furious-Presents-Hobbs-&-Shaw-(2019)" group-title="|VOD| ALBANIA",Fast-&-Furious-Presents-Hobbs-&-Shaw-(2019)
-http://sansat.net:25461/movie/02067763197872/90e553c6dacdce64/306721.mp4
-#EXTINF:0 CUID="25617" tvg-name="Fast-and-Furious-(2009)" group-title="|VOD| ALBANIA",Fast-and-Furious-(2009)
-http://sansat.net:25461/movie/02067763197872/90e553c6dacdce64/306722.mp4
-#EXTINF:0 CUID="25618" tvg-name="Fast-and-Furious-5-(2011)" group-title="|VOD| ALBANIA",Fast-and-Furious-5-(2011)
-http://sansat.net:25461/movie/02067763197872/90e553c6dacdce64/306723.mp4
-#EXTINF:0 CUID="25619" tvg-name="Fast-and-Furious-6-(2013)" group-title="|VOD| ALBANIA",Fast-and-Furious-6-(2013)
-http://sansat.net:25461/movie/02067763197872/90e553c6dacdce64/306724.mp4
-#EXTINF:0 CUID="26155" tvg-name="Lucy-(2014)" group-title="|VOD| ALBANIA",Lucy-(2014)
-http://sansat.net:25461/movie/02067763197872/90e553c6dacdce64/307262.mp4
+#EXTINF:0 CUID="2700" tvg-name="------|Albania|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/------|Albania|------.png" group-title="Albania",------|Albania|------
+http://vo01.mohdtv.com:8880/voby3857/35874579/30634
+#EXTINF:0 CUID="2701" tvg-name="AL001:21 POPULLORE" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL001" group-title="Albania",AL001:21 POPULLORE
+http://vo01.mohdtv.com:8880/voby3857/35874579/30633
+#EXTINF:0 CUID="2702" tvg-name="AL002:24 KITCHEN" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL002" group-title="Albania",AL002:24 KITCHEN
+http://vo01.mohdtv.com:8880/voby3857/35874579/30632
+#EXTINF:0 CUID="2703" tvg-name="AL003:A-MOL TV" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL003SuperSport2HD.png" group-title="Albania",AL003:A-MOL TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30631
+#EXTINF:0 CUID="2704" tvg-name="AL004:A2 CNN" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL004SuperSport1HD.png" group-title="Albania",AL004:A2 CNN
+http://vo01.mohdtv.com:8880/voby3857/35874579/30630
+#EXTINF:0 CUID="2705" tvg-name="AL005:ASHKALI TV 2" tvg-id="film.komedi.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL005SkyKomedi.png" group-title="Albania",AL005:ASHKALI TV 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30629
+#EXTINF:0 CUID="2706" tvg-name="AL006:ALPO GJIROKASTER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL006SkyHistori.png" group-title="Albania",AL006:ALPO GJIROKASTER
+http://vo01.mohdtv.com:8880/voby3857/35874579/30628
+#EXTINF:0 CUID="2707" tvg-name="AL007:ALSAT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL007SkyALMax.png" group-title="Albania",AL007:ALSAT FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30627
+#EXTINF:0 CUID="2708" tvg-name="AL008:ANIMAL PLANET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL008ZjarrTV.png" group-title="Albania",AL008:ANIMAL PLANET
+http://vo01.mohdtv.com:8880/voby3857/35874579/30626
+#EXTINF:0 CUID="2709" tvg-name="AL009:ART DOKU 1" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL009VizionPlusToksor.png" group-title="Albania",AL009:ART DOKU 1
+http://vo01.mohdtv.com:8880/voby3857/35874579/30625
+#EXTINF:0 CUID="2710" tvg-name="AL010:ART KINO 1 FHD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL010VizionPlusHD.png" group-title="Albania",AL010:ART KINO 1 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30624
+#EXTINF:0 CUID="2711" tvg-name="AL011:ART SPORT 1 FHD" tvg-id="exp.shkence.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL011XShkencaHD.png" group-title="Albania",AL011:ART SPORT 1 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30623
+#EXTINF:0 CUID="2712" tvg-name="AL012:ART SPORT 2 FHD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL012TringSport2HD.png" group-title="Albania",AL012:ART SPORT 2 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30622
+#EXTINF:0 CUID="2713" tvg-name="AL013:ART SPORT 3 FHD" tvg-id="rtk.1.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL013RTK1HDAL.png" group-title="Albania",AL013:ART SPORT 3 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30621
+#EXTINF:0 CUID="2714" tvg-name="AL014:ARTA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL014SkyShkence.png" group-title="Albania",AL014:ARTA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30620
+#EXTINF:0 CUID="2715" tvg-name="AL015:ARTA NEWS HD" tvg-id="tring.comedy.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL015" group-title="Albania",AL015:ARTA NEWS HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30619
+#EXTINF:0 CUID="2716" tvg-name="AL016:ASHKALI TV" tvg-id="film.aksion.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL016SkyAksion.png" group-title="Albania",AL016:ASHKALI TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30618
+#EXTINF:0 CUID="2717" tvg-name="AL017:ATV" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL017RTV21Popullore.png" group-title="Albania",AL017:ATV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30617
+#EXTINF:0 CUID="2718" tvg-name="AL018:BABY TV" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL018RTV21MixHD.png" group-title="Albania",AL018:BABY TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30616
+#EXTINF:0 CUID="2719" tvg-name="AL019:BANG BANG" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL019RTV21Maqedonia.png" group-title="Albania",AL019:BANG BANG
+http://vo01.mohdtv.com:8880/voby3857/35874579/30615
+#EXTINF:0 CUID="2720" tvg-name="AL020:BBF MUSIC" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL020RTV21Junior.png" group-title="Albania",AL020:BBF MUSIC
+http://vo01.mohdtv.com:8880/voby3857/35874579/30614
+#EXTINF:0 CUID="2721" tvg-name="AL021:BESA TV" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL021RTSHSportHD.png" group-title="Albania",AL021:BESA TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30613
+#EXTINF:0 CUID="2722" tvg-name="AL022:BLUE SKY TV MUSIC HD" tvg-id="rrokum.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL022RrokumTV.png" group-title="Albania",AL022:BLUE SKY TV MUSIC HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30612
+#EXTINF:0 CUID="2723" tvg-name="AL023:BOOMERANG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL023RTK2HDAL.png" group-title="Albania",AL023:BOOMERANG
+http://vo01.mohdtv.com:8880/voby3857/35874579/30611
+#EXTINF:0 CUID="2724" tvg-name="AL024:C1 CHANNEL" tvg-id="plus.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL024PLUSHD(Digitalb).png" group-title="Albania",AL024:C1 CHANNEL
+http://vo01.mohdtv.com:8880/voby3857/35874579/30610
+#EXTINF:0 CUID="2725" tvg-name="AL025:CITY TV" tvg-id="plus.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL025PlusHD.png" group-title="Albania",AL025:CITY TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30609
+#EXTINF:0 CUID="2726" tvg-name="AL026:CUFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL026RTK3HDAL.png" group-title="Albania",AL026:CUFO
+http://vo01.mohdtv.com:8880/voby3857/35874579/30608
+#EXTINF:0 CUID="2727" tvg-name="AL027:DASMA TV" tvg-id="news.24.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL027News24.png" group-title="Albania",AL027:DASMA TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30607
+#EXTINF:0 CUID="2728" tvg-name="AL028:DIELLI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL028RTK4HDAL.png" group-title="Albania",AL028:DIELLI
+http://vo01.mohdtv.com:8880/voby3857/35874579/30606
+#EXTINF:0 CUID="2729" tvg-name="AL029:DISCOVERY CHANNEL" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL029LivingHD.png" group-title="Albania",AL029:DISCOVERY CHANNEL
+http://vo01.mohdtv.com:8880/voby3857/35874579/30605
+#EXTINF:0 CUID="2730" tvg-name="AL030:AL030:DISNEY JR" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL030KLANPlus.png" group-title="Albania",AL030:AL030:DISNEY JR
+http://vo01.mohdtv.com:8880/voby3857/35874579/30604
+#EXTINF:0 CUID="2731" tvg-name="AL031:DRITA" tvg-id="klan.kosova.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL031KlanKosovaToksor.png" group-title="Albania",AL031:DRITA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30603
+#EXTINF:0 CUID="2732" tvg-name="AL032:DUCK TV" tvg-id="klan.kosova.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL032KLANKosovaHD.png" group-title="Albania",AL032:DUCK TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30602
+#EXTINF:0 CUID="2733" tvg-name="AL033:DUKAGJINI" tvg-id="klan.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL033KLANHD.png" group-title="Albania",AL033:DUKAGJINI
+http://vo01.mohdtv.com:8880/voby3857/35874579/30601
+#EXTINF:0 CUID="2734" tvg-name="AL034:ERA TV" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL034RTV21HD.png" group-title="Albania",AL034:ERA TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30600
+#EXTINF:0 CUID="2735" tvg-name="AL035:EURO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL035" group-title="Albania",AL035:EURO
+http://vo01.mohdtv.com:8880/voby3857/35874579/30599
+#EXTINF:0 CUID="2736" tvg-name="AL036:EUROSPORT 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL036KinoROMANCEHD.png" group-title="Albania",AL036:EUROSPORT 1 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30598
+#EXTINF:0 CUID="2737" tvg-name="AL037:EUROSPORT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL037KinoPremiere3HD.png" group-title="Albania",AL037:EUROSPORT 2 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30597
+#EXTINF:0 CUID="2738" tvg-name="AL038:EXPLORER HISTORI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL038RTV21MIXHD.png" group-title="Albania",AL038:EXPLORER HISTORI
+http://vo01.mohdtv.com:8880/voby3857/35874579/30596
+#EXTINF:0 CUID="2739" tvg-name="AL039:EXPLORER NATYRA" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL039RTV21PLUSHD.png" group-title="Albania",AL039:EXPLORER NATYRA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30595
+#EXTINF:0 CUID="2740" tvg-name="AL040:EXPLORER SHKENCE" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL040KinoFamilyHD.png" group-title="Albania",AL040:EXPLORER SHKENCE
+http://vo01.mohdtv.com:8880/voby3857/35874579/30594
+#EXTINF:0 CUID="2741" tvg-name="AL041:EXTREAM SPOERTS CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL041KinoDarkHD.png" group-title="Albania",AL041:EXTREAM SPOERTS CHANNEL
+http://vo01.mohdtv.com:8880/voby3857/35874579/30593
+#EXTINF:0 CUID="2742" tvg-name="AL042:FAMILY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL042" group-title="Albania",AL042:FAMILY
+http://vo01.mohdtv.com:8880/voby3857/35874579/30592
+#EXTINF:0 CUID="2743" tvg-name="AL043:FIGHT BOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL043KinoAction.png" group-title="Albania",AL043:FIGHT BOX
+http://vo01.mohdtv.com:8880/voby3857/35874579/30591
+#EXTINF:0 CUID="2744" tvg-name="AL044:FILM AKSION FHD" tvg-id="junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL044JuniorTV.png" group-title="Albania",AL044:FILM AKSION FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30590
+#EXTINF:0 CUID="2745" tvg-name="AL045:FILM AUTOR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL045RTVFONTANA.png" group-title="Albania",AL045:FILM AUTOR
+http://vo01.mohdtv.com:8880/voby3857/35874579/30589
+#EXTINF:0 CUID="2746" tvg-name="AL046:FILM BOX ARTHOUSE" tvg-id="first.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL046FirstTV.png" group-title="Albania",AL046:FILM BOX ARTHOUSE
+http://vo01.mohdtv.com:8880/voby3857/35874579/30588
+#EXTINF:0 CUID="2747" tvg-name="AL047:FILM BOX PLUS" tvg-id="film.nje.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL047FilmNjeHD.png" group-title="Albania",AL047:FILM BOX PLUS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30587
+#EXTINF:0 CUID="2748" tvg-name="AL048:FILM DRAME" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL048RTV21MKHD.png" group-title="Albania",AL048:FILM DRAME
+http://vo01.mohdtv.com:8880/voby3857/35874579/30586
+#EXTINF:0 CUID="2749" tvg-name="AL049:FILM DY FHD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL049KTVHD.png" group-title="Albania",AL049:FILM DY FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30585
+#EXTINF:0 CUID="2750" tvg-name="AL052:FILM GOLD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL052ExplorerShkenc.png" group-title="Albania",AL052:FILM GOLD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30582
+#EXTINF:0 CUID="2751" tvg-name="AL053:EXPLORER NATYRA" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL053ExplorerNatyra.png" group-title="Albania",AL053:EXPLORER NATYRA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30581
+#EXTINF:0 CUID="2752" tvg-name="AL054:FILM KOMEDI" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL054ExplorerHistori.png" group-title="Albania",AL054:FILM KOMEDI
+http://vo01.mohdtv.com:8880/voby3857/35874579/30580
+#EXTINF:0 CUID="2753" tvg-name="AL055:FILM THRILLER" tvg-id="cufo.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL055Cufo.png" group-title="Albania",AL055:FILM THRILLER
+http://vo01.mohdtv.com:8880/voby3857/35874579/30579
+#EXTINF:0 CUID="2754" tvg-name="AL056:FOLK PLUS" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL056ALBUKHD.png" group-title="Albania",AL056:FOLK PLUS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30578
+#EXTINF:0 CUID="2755" tvg-name="AL057:FOLK+" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL057ALBUK.png" group-title="Albania",AL057:FOLK+
+http://vo01.mohdtv.com:8880/voby3857/35874579/30577
+#EXTINF:0 CUID="2756" tvg-name="AL058:FOLKLORIT" tvg-id="abc.news.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL058ABCNews.png" group-title="Albania",AL058:FOLKLORIT
+http://vo01.mohdtv.com:8880/voby3857/35874579/30576
+#EXTINF:0 CUID="2757" tvg-name="AL059:FOX" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL059A1SHQIPTARE.png" group-title="Albania",AL059:FOX
+http://vo01.mohdtv.com:8880/voby3857/35874579/30575
+#EXTINF:0 CUID="2758" tvg-name="AL060:FOX CRIME" tvg-id="top.news.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL060TopNews.png" group-title="Albania",AL060:FOX CRIME
+http://vo01.mohdtv.com:8880/voby3857/35874579/30574
+#EXTINF:0 CUID="2759" tvg-name="AL061:FOX LIFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL061" group-title="Albania",AL061:FOX LIFE
+http://vo01.mohdtv.com:8880/voby3857/35874579/30573
+#EXTINF:0 CUID="2760" tvg-name="AL062:FOX MOVIES" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL062TringWorld.png" group-title="Albania",AL062:FOX MOVIES
+http://vo01.mohdtv.com:8880/voby3857/35874579/30572
+#EXTINF:0 CUID="2761" tvg-name="AL063:FOX NEWS" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL063TRINGTRING.png" group-title="Albania",AL063:FOX NEWS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30571
+#EXTINF:0 CUID="2762" tvg-name="AL064:FREE SPORTS" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL064TRINGSUPER.png" group-title="Albania",AL064:FREE SPORTS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30570
+#EXTINF:0 CUID="2763" tvg-name="AL065:K SPORT 1 HD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL065TRINGSPORT4HD.png" group-title="Albania",AL065:K SPORT 1 HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30569
+#EXTINF:0 CUID="2764" tvg-name="AL066:JOLLY" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL066TRINGSPORT1HD.png" group-title="Albania",AL066:JOLLY
+http://vo01.mohdtv.com:8880/voby3857/35874579/30568
+#EXTINF:0 CUID="2765" tvg-name="AL067:JUNIOR" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL067TringShqip.png" group-title="Albania",AL067:JUNIOR
+http://vo01.mohdtv.com:8880/voby3857/35874579/30567
+#EXTINF:0 CUID="2766" tvg-name="AL068:K SPORT 2 FHD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL068TringPlanet.png" group-title="Albania",AL068:K SPORT 2 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30566
+#EXTINF:0 CUID="2767" tvg-name="AL069:K SPORT 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL069TringMax.png" group-title="Albania",AL069:K SPORT 3 HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30565
+#EXTINF:0 CUID="2768" tvg-name="AL070:KANAL 10" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL070TringLife.png" group-title="Albania",AL070:KANAL 10
+http://vo01.mohdtv.com:8880/voby3857/35874579/30564
+#EXTINF:0 CUID="2769" tvg-name="AL071:KANAL D DRAMA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL071TVCHFHD.png" group-title="Albania",AL071:KANAL D DRAMA FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30563
+#EXTINF:0 CUID="2770" tvg-name="AL072:KANALI 7" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL072TRINGHISTORI.png" group-title="Albania",AL072:KANALI 7
+http://vo01.mohdtv.com:8880/voby3857/35874579/30562
+#EXTINF:0 CUID="2771" tvg-name="AL073:KANALI 7 NEWS" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL073TRINGFANTASY.png" group-title="Albania",AL073:KANALI 7 NEWS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30561
+#EXTINF:0 CUID="2772" tvg-name="AL074:KLAN" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL074TringComedy.png" group-title="Albania",AL074:KLAN
+http://vo01.mohdtv.com:8880/voby3857/35874579/30560
+#EXTINF:0 CUID="2773" tvg-name="AL075:KLAN KOSOVA" tvg-id="top.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL075TopChannelHD.png" group-title="Albania",AL075:KLAN KOSOVA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30559
+#EXTINF:0 CUID="2774" tvg-name="AL076:KLAN MUSIC HD" tvg-id="film.thriller.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL076Thriller.png" group-title="Albania",AL076:KLAN MUSIC HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30558
+#EXTINF:0 CUID="2775" tvg-name="AL077:KLAN NEWS" tvg-id="klan.kosova.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL077KLANKOSOVAHD.png" group-title="Albania",AL077:KLAN NEWS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30557
+#EXTINF:0 CUID="2776" tvg-name="AL078:KLAN PLUS" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL078SuperSport5.png" group-title="Albania",AL078:KLAN PLUS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30556
+#EXTINF:0 CUID="2777" tvg-name="AL079:KOHA" tvg-id="supersport.4.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL079" group-title="Albania",AL079:KOHA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30555
+#EXTINF:0 CUID="2778" tvg-name="AL080:KOMEDI" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL080SuperSport3.png" group-title="Albania",AL080:KOMEDI
+http://vo01.mohdtv.com:8880/voby3857/35874579/30554
+#EXTINF:0 CUID="2779" tvg-name="AL081:KS ACTION" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL081KLANPLUSHD.png" group-title="Albania",AL081:KS ACTION
+http://vo01.mohdtv.com:8880/voby3857/35874579/30553
+#EXTINF:0 CUID="2780" tvg-name="AL082:KS POPULLORE" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL082SuperSportKosovo1HD.png" group-title="Albania",AL082:KS POPULLORE
+http://vo01.mohdtv.com:8880/voby3857/35874579/30552
+#EXTINF:0 CUID="2781" tvg-name="AL083:KS PREMIER 2" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL083RTV21.png" group-title="Albania",AL083:KS PREMIER 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30551
+#EXTINF:0 CUID="2782" tvg-name="AL084:KS PREMIER 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL084RTK.png" group-title="Albania",AL084:KS PREMIER 3
+http://vo01.mohdtv.com:8880/voby3857/35874579/30550
+#EXTINF:0 CUID="2783" tvg-name="AL085:KS PREMIER 4" tvg-id="ora.news.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL085OraNews(1).png" group-title="Albania",AL085:KS PREMIER 4
+http://vo01.mohdtv.com:8880/voby3857/35874579/30549
+#EXTINF:0 CUID="2784" tvg-name="AL086:KTV FHD" tvg-id="news.24.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL086News24(1).png" group-title="Albania",AL086:KTV FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30548
+#EXTINF:0 CUID="2785" tvg-name="AL087:LIRIA" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL087RTSH1HD.png" group-title="Albania",AL087:LIRIA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30547
+#EXTINF:0 CUID="2786" tvg-name="AL088:MALISHEVA TV" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL088KTVHD.png" group-title="Albania",AL088:MALISHEVA TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30546
+#EXTINF:0 CUID="2787" tvg-name="AL089:MCN TV" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL089JOLLYHD.png" group-title="Albania",AL089:MCN TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30545
+#EXTINF:0 CUID="2788" tvg-name="AL090:MRT 2" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL090RTSH2.png" group-title="Albania",AL090:MRT 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30544
+#EXTINF:0 CUID="2789" tvg-name="AL091:MTV KOSOVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL091" group-title="Albania",AL091:MTV KOSOVA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30543
+#EXTINF:0 CUID="2790" tvg-name="AL094:MUSE TV" tvg-id="film.dy.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL094FILMDY.png" group-title="Albania",AL094:MUSE TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30540
+#EXTINF:0 CUID="2791" tvg-name="AL095:MY MUSIC" tvg-id="film.drame.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL095FILMDRAME.png" group-title="Albania",AL095:MY MUSIC
+http://vo01.mohdtv.com:8880/voby3857/35874579/30539
+#EXTINF:0 CUID="2792" tvg-name="AL096:MYSLIMANET E VEGJEL" tvg-id="exp.histori.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL096" group-title="Albania",AL096:MYSLIMANET E VEGJEL
+http://vo01.mohdtv.com:8880/voby3857/35874579/30538
+#EXTINF:0 CUID="2793" tvg-name="AL097:NAT GEO" tvg-id="digi.gold.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL097DIGIGOLD.png" group-title="Albania",AL097:NAT GEO
+http://vo01.mohdtv.com:8880/voby3857/35874579/30537
+#EXTINF:0 CUID="2794" tvg-name="AL098:NEWS 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL098RTSH3HD.png" group-title="Albania",AL098:NEWS 24
+http://vo01.mohdtv.com:8880/voby3857/35874579/30536
+#EXTINF:0 CUID="2795" tvg-name="AL099:NICK TOONS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL099RTSH24HD.png" group-title="Albania",AL099:NICK TOONS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30535
+#EXTINF:0 CUID="2796" tvg-name="AL100:ON TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL100BB11Muzik.png" group-title="Albania",AL100:ON TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30534
+#EXTINF:0 CUID="2797" tvg-name="AL101:ORA NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL101ALBHindi.png" group-title="Albania",AL101:ORA NEWS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30533
+#EXTINF:0 CUID="2798" tvg-name="AL102:OVERSPORT 1" tvg-id="mtv.live.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL102" group-title="Albania",AL102:OVERSPORT 1
+http://vo01.mohdtv.com:8880/voby3857/35874579/30532
+#EXTINF:0 CUID="2799" tvg-name="AL103:OVERSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL103XHumorHD.png" group-title="Albania",AL103:OVERSPORT 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30531
+#EXTINF:0 CUID="2800" tvg-name="AL104:OVERSPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL104RTSHPlusHD.png" group-title="Albania",AL104:OVERSPORT 3
+http://vo01.mohdtv.com:8880/voby3857/35874579/30530
+#EXTINF:0 CUID="2801" tvg-name="AL105:PEACE TV" tvg-id="24.kitchen.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL10524KITCHENHD.png" group-title="Albania",AL105:PEACE TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30529
+#EXTINF:0 CUID="2802" tvg-name="AL106:PENDIMI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL106A-MolTV.png" group-title="Albania",AL106:PENDIMI
+http://vo01.mohdtv.com:8880/voby3857/35874579/30528
+#EXTINF:0 CUID="2803" tvg-name="AL107:PLANET FHD" tvg-id="abc.news.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL107" group-title="Albania",AL107:PLANET FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30527
+#EXTINF:0 CUID="2804" tvg-name="AL108:PLUS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL108RTSHKORCAHD.png" group-title="Albania",AL108:PLUS TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30526
+#EXTINF:0 CUID="2805" tvg-name="AL109:PRESHEVA RTV" tvg-id="film.aksion.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL109AksionHD.png" group-title="Albania",AL109:PRESHEVA RTV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30525
+#EXTINF:0 CUID="2806" tvg-name="AL110:REPORT TV HD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL110AlReport.png" group-title="Albania",AL110:REPORT TV HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30524
+#EXTINF:0 CUID="2807" tvg-name="AL112:RTK 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL112RTSHMUZIKEHD.png" group-title="Albania",AL112:RTK 1
+http://vo01.mohdtv.com:8880/voby3857/35874579/30522
+#EXTINF:0 CUID="2808" tvg-name="AL113:RTK 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL113AlbFolk1HD.png" group-title="Albania",AL113:RTK 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30521
+#EXTINF:0 CUID="2809" tvg-name="AL114:RTK 3" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL114THD.png" group-title="Albania",AL114:RTK 3
+http://vo01.mohdtv.com:8880/voby3857/35874579/30520
+#EXTINF:0 CUID="2810" tvg-name="AL115:RTK 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL115ALBHitsHD.png" group-title="Albania",AL115:RTK 4
+http://vo01.mohdtv.com:8880/voby3857/35874579/30519
+#EXTINF:0 CUID="2811" tvg-name="AL116:RTSH 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL116AlbHorrorHD.png" group-title="Albania",AL116:RTSH 1
+http://vo01.mohdtv.com:8880/voby3857/35874579/30518
+#EXTINF:0 CUID="2812" tvg-name="AL117:RTSH 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL117AlbThriller.png" group-title="Albania",AL117:RTSH 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30517
+#EXTINF:0 CUID="2813" tvg-name="AL118:RTSH 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL118RTSHShqipHD.png" group-title="Albania",AL118:RTSH 3
+http://vo01.mohdtv.com:8880/voby3857/35874579/30516
+#EXTINF:0 CUID="2814" tvg-name="AL119:RTSH FEMIJE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL119SuperSonic.png" group-title="Albania",AL119:RTSH FEMIJE
+http://vo01.mohdtv.com:8880/voby3857/35874579/30515
+#EXTINF:0 CUID="2815" tvg-name="AL120:RTSH PLUS" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL120RTSHSportsHD.png" group-title="Albania",AL120:RTSH PLUS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30514
+#EXTINF:0 CUID="2816" tvg-name="AL121:RTSH SHQIP" tvg-id="musical.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL121" group-title="Albania",AL121:RTSH SHQIP
+http://vo01.mohdtv.com:8880/voby3857/35874579/30513
+#EXTINF:0 CUID="2817" tvg-name="AL122:RTSH SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL122AlbSwissHD.png" group-title="Albania",AL122:RTSH SPORT
+http://vo01.mohdtv.com:8880/voby3857/35874579/30512
+#EXTINF:0 CUID="2818" tvg-name="AL123:RTV 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL123ALBWESTERNHD.png" group-title="Albania",AL123:RTV 21
+http://vo01.mohdtv.com:8880/voby3857/35874579/30511
+#EXTINF:0 CUID="2819" tvg-name="AL124:RTV 21 JUNIOR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL124RTSHFILMHD.png" group-title="Albania",AL124:RTV 21 JUNIOR
+http://vo01.mohdtv.com:8880/voby3857/35874579/30510
+#EXTINF:0 CUID="2820" tvg-name="AL125:RTV 21 MACEDONIA" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL125ALBUKHD.png" group-title="Albania",AL125:RTV 21 MACEDONIA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30509
+#EXTINF:0 CUID="2821" tvg-name="AL126:RTV 21 MIX" tvg-id="alsat.m.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL126AlsatM.png" group-title="Albania",AL126:RTV 21 MIX
+http://vo01.mohdtv.com:8880/voby3857/35874579/30508
+#EXTINF:0 CUID="2822" tvg-name="AL127:RTV 21 PLUS" tvg-id="animal.planet.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL127ANIMALPLANETHD.png" group-title="Albania",AL127:RTV 21 PLUS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30507
+#EXTINF:0 CUID="2823" tvg-name="AL128:RTV 21 POPULLORE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL128" group-title="Albania",AL128:RTV 21 POPULLORE
+http://vo01.mohdtv.com:8880/voby3857/35874579/30506
+#EXTINF:0 CUID="2824" tvg-name="AL129:RTV AHIRETI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL129ApollonTV.png" group-title="Albania",AL129:RTV AHIRETI
+http://vo01.mohdtv.com:8880/voby3857/35874579/30505
+#EXTINF:0 CUID="2825" tvg-name="AL130:RTV ARBERIA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL130ERATVHD.png" group-title="Albania",AL130:RTV ARBERIA 1
+http://vo01.mohdtv.com:8880/voby3857/35874579/30504
+#EXTINF:0 CUID="2826" tvg-name="AL131:RTV ISLAM" tvg-id="rrokum.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL131RROKUMTVHD.png" group-title="Albania",AL131:RTV ISLAM
+http://vo01.mohdtv.com:8880/voby3857/35874579/30503
+#EXTINF:0 CUID="2827" tvg-name="AL132:RTV ORA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL132T7HD.png" group-title="Albania",AL132:RTV ORA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30502
+#EXTINF:0 CUID="2828" tvg-name="AL133:RTV PENDIMI" tvg-id="film.nje.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL133FilmNjëHD.png" group-title="Albania",AL133:RTV PENDIMI
+http://vo01.mohdtv.com:8880/voby3857/35874579/30501
+#EXTINF:0 CUID="2829" tvg-name="AL134:SCAN TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL134ZjarrTV.png" group-title="Albania",AL134:SCAN TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30500
+#EXTINF:0 CUID="2830" tvg-name="AL135:SHOTA TV FHD" tvg-id="film.dy.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL135FilmDyHD.png" group-title="Albania",AL135:SHOTA TV FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30499
+#EXTINF:0 CUID="2831" tvg-name="AL136:SKY AKSION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL136VISIONPLUSHD.png" group-title="Albania",AL136:SKY AKSION
+http://vo01.mohdtv.com:8880/voby3857/35874579/30498
+#EXTINF:0 CUID="2832" tvg-name="AL137:SKY KOMEDI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL137ArtaNewsHD.png" group-title="Albania",AL137:SKY KOMEDI
+http://vo01.mohdtv.com:8880/voby3857/35874579/30497
+#EXTINF:0 CUID="2833" tvg-name="AL138:SKY NOVELA" tvg-id="bang.bang.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL138BangBangHD.png" group-title="Albania",AL138:SKY NOVELA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30496
+#EXTINF:0 CUID="2834" tvg-name="AL139:STUPCAT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL139BOINTV.png" group-title="Albania",AL139:STUPCAT HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30495
+#EXTINF:0 CUID="2835" tvg-name="AL140:SPORT KOSOVA 2" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL140BBFMUSICTV.png" group-title="Albania",AL140:SPORT KOSOVA 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30494
+#EXTINF:0 CUID="2836" tvg-name="AL141:STINET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL141BesaTV.png" group-title="Albania",AL141:STINET
+http://vo01.mohdtv.com:8880/voby3857/35874579/30493
+#EXTINF:0 CUID="2837" tvg-name="AL142:SUPER SPORTS 1 FHD" tvg-id="film.hits.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL142FilmHitsHD.png" group-title="Albania",AL142:SUPER SPORTS 1 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30492
+#EXTINF:0 CUID="2838" tvg-name="AL143:SUPER SPORTS 2" tvg-id="film.autor.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL143FilmAutorHD.png" group-title="Albania",AL143:SUPER SPORTS 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30491
+#EXTINF:0 CUID="2839" tvg-name="AL144:SUPER SPORTS 3" tvg-id="film.drame.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL144FilmDrameHD.png" group-title="Albania",AL144:SUPER SPORTS 3
+http://vo01.mohdtv.com:8880/voby3857/35874579/30490
+#EXTINF:0 CUID="2840" tvg-name="AL145:SUPER SPORTS 4" tvg-id="film.thriller.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL145FilmThrillerHD.png" group-title="Albania",AL145:SUPER SPORTS 4
+http://vo01.mohdtv.com:8880/voby3857/35874579/30489
+#EXTINF:0 CUID="2841" tvg-name="AL146:SUPER SPORTS 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL146FilmComediHD.png" group-title="Albania",AL146:SUPER SPORTS 5
+http://vo01.mohdtv.com:8880/voby3857/35874579/30488
+#EXTINF:0 CUID="2842" tvg-name="AL147:SUPER SPORTS 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL147ChannelOneFHD.png" group-title="Albania",AL147:SUPER SPORTS 6
+http://vo01.mohdtv.com:8880/voby3857/35874579/30487
+#EXTINF:0 CUID="2843" tvg-name="AL148:SUPER SPORTS 7" tvg-id="film.aksion.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL148FilmAksionHD.png" group-title="Albania",AL148:SUPER SPORTS 7
+http://vo01.mohdtv.com:8880/voby3857/35874579/30486
+#EXTINF:0 CUID="2844" tvg-name="AL149:SUPER SPORTS NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL149XWesternHD.png" group-title="Albania",AL149:SUPER SPORTS NEWS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30485
+#EXTINF:0 CUID="2845" tvg-name="AL150:SYRI NEWS" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL150ClubTV.png" group-title="Albania",AL150:SYRI NEWS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30484
+#EXTINF:0 CUID="2846" tvg-name="AL151:SYRI VISION" tvg-id="cufo.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL151CufoHD.png" group-title="Albania",AL151:SYRI VISION
+http://vo01.mohdtv.com:8880/voby3857/35874579/30483
+#EXTINF:0 CUID="2847" tvg-name="AL152:T7 FHD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL152FamilyHD.png" group-title="Albania",AL152:T7 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30482
+#EXTINF:0 CUID="2848" tvg-name="AL153:TEMA TV" tvg-id="disney.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL153DisneyChannelHD.png" group-title="Albania",AL153:TEMA TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30481
+#EXTINF:0 CUID="2849" tvg-name="AL154:TIP TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL154DTVHD.png" group-title="Albania",AL154:TIP TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30480
+#EXTINF:0 CUID="2850" tvg-name="AL155:TIRANA TV" tvg-id="tv.dukagjini.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL155DukagjiniHD.png" group-title="Albania",AL155:TIRANA TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30479
+#EXTINF:0 CUID="2851" tvg-name="AL156:TOP ESTRADA TV HD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL156ElrodiTVHD.png" group-title="Albania",AL156:TOP ESTRADA TV HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30478
+#EXTINF:0 CUID="2852" tvg-name="AL157:TOP CHANNEL FHD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL157EnglishClubTV.png" group-title="Albania",AL157:TOP CHANNEL FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30477
+#EXTINF:0 CUID="2853" tvg-name="AL158:TRAVEL CHANNEL FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL158EraTVHD.png" group-title="Albania",AL158:TRAVEL CHANNEL FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30476
+#EXTINF:0 CUID="2854" tvg-name="AL159:TRING 3" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL159EuroAL.png" group-title="Albania",AL159:TRING 3
+http://vo01.mohdtv.com:8880/voby3857/35874579/30475
+#EXTINF:0 CUID="2855" tvg-name="AL160:TRING 3 PLUS" tvg-id="eurosport.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL160EUROSPORT1HD.png" group-title="Albania",AL160:TRING 3 PLUS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30474
+#EXTINF:0 CUID="2856" tvg-name="AL161:TRING CLASSIC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL161EUROSPORT2HD.png" group-title="Albania",AL161:TRING CLASSIC HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30473
+#EXTINF:0 CUID="2857" tvg-name="AL162:TRING COLLECTION HD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL162ExplorerHistory.png" group-title="Albania",AL162:TRING COLLECTION HD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30472
+#EXTINF:0 CUID="2858" tvg-name="AL163:TRING COMEDY" tvg-id="explorer.natyra.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL163ExtremeSports.png" group-title="Albania",AL163:TRING COMEDY
+http://vo01.mohdtv.com:8880/voby3857/35874579/30471
+#EXTINF:0 CUID="2859" tvg-name="AL164:TRING FANTASY" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL164ExplorerShkenceHD.png" group-title="Albania",AL164:TRING FANTASY
+http://vo01.mohdtv.com:8880/voby3857/35874579/30470
+#EXTINF:0 CUID="2860" tvg-name="AL165:TRING HISTORY" tvg-id="fast.fun.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL165FASTBOX&FUN.png" group-title="Albania",AL165:TRING HISTORY
+http://vo01.mohdtv.com:8880/voby3857/35874579/30469
+#EXTINF:0 CUID="2861" tvg-name="AL166:TRING INTERNATIONAL" tvg-id="film.aksion.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL166FILMAKSIONHD.png" group-title="Albania",AL166:TRING INTERNATIONAL
+http://vo01.mohdtv.com:8880/voby3857/35874579/30468
+#EXTINF:0 CUID="2862" tvg-name="AL167:TRING KIDS" tvg-id="film.autor.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL167FilmAutor.png" group-title="Albania",AL167:TRING KIDS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30467
+#EXTINF:0 CUID="2863" tvg-name="AL168:TRING PLANET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL168TDC.png" group-title="Albania",AL168:TRING PLANET
+http://vo01.mohdtv.com:8880/voby3857/35874579/30466
+#EXTINF:0 CUID="2864" tvg-name="AL169:TRING SHQIP" tvg-id="film.drame.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL169FilmDrame.png" group-title="Albania",AL169:TRING SHQIP
+http://vo01.mohdtv.com:8880/voby3857/35874579/30465
+#EXTINF:0 CUID="2865" tvg-name="AL170:TRING SMILE" tvg-id="film.dy.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL170FilmDyHD.png" group-title="Albania",AL170:TRING SMILE
+http://vo01.mohdtv.com:8880/voby3857/35874579/30464
+#EXTINF:0 CUID="2866" tvg-name="AL171:TRING SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL171FilmFamilyHD.png" group-title="Albania",AL171:TRING SPORT 1
+http://vo01.mohdtv.com:8880/voby3857/35874579/30463
+#EXTINF:0 CUID="2867" tvg-name="AL172:TRING SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL172FilmGold1HD.png" group-title="Albania",AL172:TRING SPORT 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30462
+#EXTINF:0 CUID="2868" tvg-name="AL173:TRING SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL173FILMGold3HD.png" group-title="Albania",AL173:TRING SPORT 4
+http://vo01.mohdtv.com:8880/voby3857/35874579/30461
+#EXTINF:0 CUID="2869" tvg-name="AL174:TRING SPORT NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL174FilmGold4HD.png" group-title="Albania",AL174:TRING SPORT NEWS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30460
+#EXTINF:0 CUID="2870" tvg-name="AL175:TRING TRING" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL175FilmHitsHD.png" group-title="Albania",AL175:TRING TRING
+http://vo01.mohdtv.com:8880/voby3857/35874579/30459
+#EXTINF:0 CUID="2871" tvg-name="AL176:TRING WORLD" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL176FilmKomedi.png" group-title="Albania",AL176:TRING WORLD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30458
+#EXTINF:0 CUID="2872" tvg-name="AL177:TV BESA PRIZREN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL177XCifteliHD.png" group-title="Albania",AL177:TV BESA PRIZREN
+http://vo01.mohdtv.com:8880/voby3857/35874579/30457
+#EXTINF:0 CUID="2873" tvg-name="AL178:TV OPOJA" tvg-id="film.nje.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL178FilmNjeHD.png" group-title="Albania",AL178:TV OPOJA
+http://vo01.mohdtv.com:8880/voby3857/35874579/30456
+#EXTINF:0 CUID="2874" tvg-name="AL179:VIZION PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL179FILMStinetHD.png" group-title="Albania",AL179:VIZION PLUS
+http://vo01.mohdtv.com:8880/voby3857/35874579/30455
+#EXTINF:0 CUID="2875" tvg-name="AL180:X FILMA 24" tvg-id="film.thriller.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL180FilmThrillerHD.png" group-title="Albania",AL180:X FILMA 24
+http://vo01.mohdtv.com:8880/voby3857/35874579/30454
+#EXTINF:0 CUID="2876" tvg-name="AL181:X GOLD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL181FilmiUmeri.png" group-title="Albania",AL181:X GOLD 1
+http://vo01.mohdtv.com:8880/voby3857/35874579/30453
+#EXTINF:0 CUID="2877" tvg-name="AL182:ZICO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL182FIRSTBurimiTV.png" group-title="Albania",AL182:ZICO TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30452
+#EXTINF:0 CUID="2878" tvg-name="AL183:ZJARR TV" tvg-id="first.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL183FirstChannelHD.png" group-title="Albania",AL183:ZJARR TV
+http://vo01.mohdtv.com:8880/voby3857/35874579/30451
+#EXTINF:0 CUID="2879" tvg-name="AL184:K SPORT 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL184FOLKHD.png" group-title="Albania",AL184:K SPORT 4 FHD
+http://vo01.mohdtv.com:8880/voby3857/35874579/30450
+#EXTINF:0 CUID="2880" tvg-name="AL185:Big Brother 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL185Folklorit.png" group-title="Albania",AL185:Big Brother 1
+http://vo01.mohdtv.com:8880/voby3857/35874579/30449
+#EXTINF:0 CUID="2881" tvg-name="AL186:Big Brother 2" tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL186FOXCRIMEHD.png" group-title="Albania",AL186:Big Brother 2
+http://vo01.mohdtv.com:8880/voby3857/35874579/30448
