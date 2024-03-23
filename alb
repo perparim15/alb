@@ -1,1155 +1,843 @@
 #EXTM3U
-#EXTINF:0 CUID="12218" tvg-name="✦●✦ RTSH ✦●✦" tvg-logo="https://lo1.in/alb/flg.png" group-title="EU | ALBANIA RTSH",✦●✦ RTSH ✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148406
-#EXTINF:0 CUID="12219" tvg-name="AL| RTSH SAT HD" tvg-logo="https://lo1.in/alb/rtshsat.png" group-title="EU | ALBANIA RTSH",AL| RTSH SAT HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148405
-#EXTINF:0 CUID="12220" tvg-name="AL| RTSH 1 FHD" tvg-id="rtsh1.al" tvg-logo="https://lo1.in/alb/rtsh1.png" group-title="EU | ALBANIA RTSH",AL| RTSH 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/212427
-#EXTINF:0 CUID="12221" tvg-name="AL| RTSH 1 HD [BK]" tvg-logo="https://lo1.in/alb/rtsh1.png" group-title="EU | ALBANIA RTSH",AL| RTSH 1 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48117
-#EXTINF:0 CUID="12222" tvg-name="AL| RTSH 2 FHD" tvg-id="rtsh2.al" tvg-logo="https://lo1.in/alb/rtsh2.png" group-title="EU | ALBANIA RTSH",AL| RTSH 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183883
-#EXTINF:0 CUID="12223" tvg-name="AL| RTSH 2 HD [BK]" tvg-logo="https://lo1.in/alb/rtsh2.png" group-title="EU | ALBANIA RTSH",AL| RTSH 2 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48116
-#EXTINF:0 CUID="12224" tvg-name="AL| RTSH 3 HD" tvg-id="rtsh3.al" tvg-logo="https://lo1.in/alb/rtsh3.png" group-title="EU | ALBANIA RTSH",AL| RTSH 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183931
-#EXTINF:0 CUID="12225" tvg-name="AL| RTSH 3 HD [BK]" tvg-logo="https://lo1.in/alb/rtsh3.png" group-title="EU | ALBANIA RTSH",AL| RTSH 3 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48115
-#EXTINF:0 CUID="12226" tvg-name="AL| RTSH PLUS HD" tvg-id="rtshplus.al" tvg-logo="https://lo1.in/alb/rtshpls.png" group-title="EU | ALBANIA RTSH",AL| RTSH PLUS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183933
-#EXTINF:0 CUID="12227" tvg-name="AL| RTSH PLUS HD [BK]" tvg-logo="https://lo1.in/alb/rtshpls.png" group-title="EU | ALBANIA RTSH",AL| RTSH PLUS HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48113
-#EXTINF:0 CUID="12228" tvg-name="AL| RTSH 24 FHD" tvg-id="rtsh24.al" tvg-logo="https://lo1.in/alb/rtsh24.png" group-title="EU | ALBANIA RTSH",AL| RTSH 24 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184092
-#EXTINF:0 CUID="12229" tvg-name="AL| RTSH MUZIKE HD ♫" tvg-id="rtshmuzikë.al" tvg-logo="https://lo1.in/alb/rtshmuz.png" group-title="EU | ALBANIA RTSH",AL| RTSH MUZIKE HD ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148404
-#EXTINF:0 CUID="12230" tvg-name="AL| RTSH SHQIP HD" tvg-id="rtshshqip.al" tvg-logo="https://lo1.in/alb/rtshshqib.png" group-title="EU | ALBANIA RTSH",AL| RTSH SHQIP HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183934
-#EXTINF:0 CUID="12231" tvg-name="AL| RTSH SHQIP HD [BK]" tvg-logo="https://lo1.in/alb/rtshshqib.png" group-title="EU | ALBANIA RTSH",AL| RTSH SHQIP HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48114
-#EXTINF:0 CUID="12232" tvg-name="AL| RTSH FILM HD" tvg-id="rtshfilm.al" tvg-logo="https://lo1.in/alb/rtshflm.png" group-title="EU | ALBANIA RTSH",AL| RTSH FILM HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148402
-#EXTINF:0 CUID="12233" tvg-name="AL| RTSH FILM HD [BK]" tvg-logo="https://lo1.in/alb/rtshflm.png" group-title="EU | ALBANIA RTSH",AL| RTSH FILM HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48111
-#EXTINF:0 CUID="12234" tvg-name="AL| RTSH FEMIJE HD" tvg-id="rtshfemijë.al" tvg-logo="https://lo1.in/alb/rtshfem.png" group-title="EU | ALBANIA RTSH",AL| RTSH FEMIJE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148401
-#EXTINF:0 CUID="12235" tvg-name="AL| RTSH SHKODRA FHD" tvg-logo="https://lo1.in/alb/rtshshkdr.png" group-title="EU | ALBANIA RTSH",AL| RTSH SHKODRA FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148399
-#EXTINF:0 CUID="12236" tvg-name="AL| RTSH GJIROKASTRA HD" tvg-id="rtshgjirokastra.al" tvg-logo="https://lo1.in/alb/rtshgiro.png" group-title="EU | ALBANIA RTSH",AL| RTSH GJIROKASTRA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148398
-#EXTINF:0 CUID="12237" tvg-name="AL| RTSH GJIROKASTRA HD [BK]" tvg-logo="https://lo1.in/alb/rtshgiro.png" group-title="EU | ALBANIA RTSH",AL| RTSH GJIROKASTRA HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48108
-#EXTINF:0 CUID="12238" tvg-name="AL| RTSH KORCA HD" tvg-id="rtshkorça.al" tvg-logo="https://lo1.in/alb/rtshkorca.png" group-title="EU | ALBANIA RTSH",AL| RTSH KORCA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360051
-#EXTINF:0 CUID="12239" tvg-name="AL| RTSH KORCA HD [BK]" tvg-logo="https://lo1.in/alb/rtshkorca.png" group-title="EU | ALBANIA RTSH",AL| RTSH KORCA HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48109
-#EXTINF:0 CUID="12240" tvg-name="AL| RTSH KUVEND HD" tvg-id="rtshkuvend.al" tvg-logo="https://lo1.in/alb/rtshkuv.png" group-title="EU | ALBANIA RTSH",AL| RTSH KUVEND HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148397
-#EXTINF:0 CUID="12241" tvg-name="AL| RTSH SPORT HD" tvg-id="rtshsport.al" tvg-logo="https://lo1.in/alb/rtshsp.png" group-title="EU | ALBANIA RTSH",AL| RTSH SPORT HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184119
-#EXTINF:0 CUID="12242" tvg-name="AL| RTSH SPORT HD [BK]" tvg-logo="https://lo1.in/alb/rtshsp.png" group-title="EU | ALBANIA RTSH",AL| RTSH SPORT HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48106
-#EXTINF:0 CUID="12243" tvg-name="AL| RTSH AGRO HD" tvg-id="rtshagro.al" tvg-logo="https://lo1.in/alb/rtsagro.png" group-title="EU | ALBANIA RTSH",AL| RTSH AGRO HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148400
-#EXTINF:0 CUID="12244" tvg-name="AL| RTSH SHKOLLE FHD" tvg-id="rtshshkollë.al" tvg-logo="https://lo1.in/alb/rtsshkll.png" group-title="EU | ALBANIA RTSH",AL| RTSH SHKOLLE FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148403
-#EXTINF:0 CUID="12245" tvg-name="AL| RTSH KUKËSI HD" tvg-id="rtshkukësi.al" tvg-logo="https://lo1.in/LOGO/ALBANIA/RTSHKUK%C3%8BSI.png" group-title="EU | ALBANIA RTSH",AL| RTSH KUKËSI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261882
-#EXTINF:0 CUID="12246" tvg-name="AL| RTSH KUVEND HD [BK]" tvg-logo="https://lo1.in/alb/rtshkuv.png" group-title="EU | ALBANIA RTSH",AL| RTSH KUVEND HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48107
-#EXTINF:0 CUID="12247" tvg-name="✦●✦ ISLAME ✦●✦" tvg-logo="https://lo1.in/alb/flag.png" group-title="EU | ALBANIA ISLAME",✦●✦ ISLAME ✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148346
-#EXTINF:0 CUID="12248" tvg-name="AL| RTV ISLAM FHD" tvg-logo="https://lo1.in/alb/rtvislm.png" group-title="EU | ALBANIA ISLAME",AL| RTV ISLAM FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183937
-#EXTINF:0 CUID="12249" tvg-name="AL| PEACE TV HD" tvg-logo="https://lo1.in/alb/peac.png" group-title="EU | ALBANIA ISLAME",AL| PEACE TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/117940
-#EXTINF:0 CUID="12250" tvg-name="AL| PENDIMI RTV HD" tvg-logo="https://lo1.in/alb/pendmi.png" group-title="EU | ALBANIA ISLAME",AL| PENDIMI RTV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/117943
-#EXTINF:0 CUID="12251" tvg-name="AL| RTV AHIRETI HD" tvg-logo="https://lo1.in/alb/rtvadli.png" group-title="EU | ALBANIA ISLAME",AL| RTV AHIRETI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261858
-#EXTINF:0 CUID="12252" tvg-name="AL| RTV ELKALEM HD" tvg-logo="https://lo1.in/alb/rtvadli.png" group-title="EU | ALBANIA ISLAME",AL| RTV ELKALEM HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261849
-#EXTINF:0 CUID="12253" tvg-name="AL| HUTBE ISLAME HD" tvg-logo="https://lo1.in/alb/hutbislm.png" group-title="EU | ALBANIA ISLAME",AL| HUTBE ISLAME HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261853
-#EXTINF:0 CUID="12254" tvg-name="AL| HUTBE ISLAME 2 HD" tvg-logo="https://lo1.in/alb/hutbislm.png" group-title="EU | ALBANIA ISLAME",AL| HUTBE ISLAME 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261852
-#EXTINF:0 CUID="12255" tvg-name="AL| TV MEKA LIVE HD" tvg-logo="https://lo1.in/alb/tvmekalv.png" group-title="EU | ALBANIA ISLAME",AL| TV MEKA LIVE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118134
-#EXTINF:0 CUID="12256" tvg-name="AL| TELEVIZIJA 5 HD" tvg-logo="https://lo1.in/alb/teleja5.png" group-title="EU | ALBANIA ISLAME",AL| TELEVIZIJA 5 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261856
-#EXTINF:0 CUID="12257" tvg-name="AL| TV MEDINA HD" tvg-logo="https://lo1.in/alb/medina.png" group-title="EU | ALBANIA ISLAME",AL| TV MEDINA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261855
-#EXTINF:0 CUID="12258" tvg-name="AL| KUR'ANI HIDAYAH HD" tvg-logo="https://lo1.in/alb/kuranhid.png" group-title="EU | ALBANIA ISLAME",AL| KUR'ANI HIDAYAH HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261854
-#EXTINF:0 CUID="12259" tvg-name="✦●✦ ALBANIA USA TIME ✦●✦" tvg-logo="https://lo1.in/alb/gjene.png" group-title="EU | ALBANIA EST USA TIME",✦●✦ ALBANIA USA TIME ✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400449161
-#EXTINF:0 CUID="12260" tvg-name="AL| TOP CHANNEL USA" tvg-logo="https://lo1.in/alb/tpchan.png" group-title="EU | ALBANIA EST USA TIME",AL| TOP CHANNEL USA
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45559
-#EXTINF:0 CUID="12261" tvg-name="AL| KLAN AL USA" tvg-logo="https://lo1.in/alb/klan.png" group-title="EU | ALBANIA EST USA TIME",AL| KLAN AL USA
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45558
-#EXTINF:0 CUID="12262" tvg-name="AL| KLAN PLUS USA" tvg-logo="https://lo1.in/alb/kanpls.png" group-title="EU | ALBANIA EST USA TIME",AL| KLAN PLUS USA
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45557
-#EXTINF:0 CUID="12263" tvg-name="AL| RTSH 1 USA TIME" tvg-logo="https://lo1.in/alb/rtsh1.png" group-title="EU | ALBANIA EST USA TIME",AL| RTSH 1 USA TIME
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45556
-#EXTINF:0 CUID="12264" tvg-name="AL| ALSAT M USA" tvg-logo="https://lo1.in/alb/alsat.png" group-title="EU | ALBANIA EST USA TIME",AL| ALSAT M USA
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45555
-#EXTINF:0 CUID="12265" tvg-name="AL| RTV 21 MAQEDONIA USA" tvg-logo="https://lo1.in/alb/rtv21mqdo.png" group-title="EU | ALBANIA EST USA TIME",AL| RTV 21 MAQEDONIA USA
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45554
-#EXTINF:0 CUID="12266" tvg-name="AL| RTK USA" tvg-logo="https://lo1.in/alb/rt1.png" group-title="EU | ALBANIA EST USA TIME",AL| RTK USA
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45553
-#EXTINF:0 CUID="12267" tvg-name="AL| KLAN KOSOVA USA" tvg-logo="https://lo1.in/alb/klnkoso.png" group-title="EU | ALBANIA EST USA TIME",AL| KLAN KOSOVA USA
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45552
-#EXTINF:0 CUID="12268" tvg-name="AL| KTV  AL USA" tvg-logo="https://lo1.in/alb/ktv.png" group-title="EU | ALBANIA EST USA TIME",AL| KTV  AL USA
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45551
-#EXTINF:0 CUID="12269" tvg-name="AL| RTV 21 KS USA" tvg-logo="https://lo1.in/alb/rtv21.png" group-title="EU | ALBANIA EST USA TIME",AL| RTV 21 KS USA
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45550
-#EXTINF:0 CUID="12270" tvg-name="✦●✦ ALBANIA SPORTS HD ✦●✦" tvg-logo="https://lo1.in/alb/albsp.png" group-title="EU | ALBANIA SPORTS",✦●✦ ALBANIA SPORTS HD ✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148245
-#EXTINF:0 CUID="12271" tvg-name="AL| SUPER SPORT NEWS HD" tvg-id="supersportnews.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/sprspns.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT NEWS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118056
-#EXTINF:0 CUID="12272" tvg-name="AL| SUPER SPORT 1 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/sprsp1.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118041
-#EXTINF:0 CUID="12273" tvg-name="AL| SUPER SPORT 1 HD [BK]" tvg-logo="https://lo1.in/alb/sprsp1.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 1 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48105
-#EXTINF:0 CUID="12274" tvg-name="AL| SUPER SPORT 2 HD" tvg-id="supersport2.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/sprsp2.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118057
-#EXTINF:0 CUID="12275" tvg-name="AL| SUPER SPORT 2 HD [BK]" tvg-logo="https://lo1.in/alb/sprsp2.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 2 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48104
-#EXTINF:0 CUID="12276" tvg-name="AL| SUPER SPORT 3 HD" tvg-id="supersport3.al" tvg-logo="https://lo1.in/alb/sprsp3.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118058
-#EXTINF:0 CUID="12277" tvg-name="AL| SUPER SPORT 3 HD [BK]" tvg-logo="https://lo1.in/alb/sprsp3.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 3 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48103
-#EXTINF:0 CUID="12278" tvg-name="AL| SUPER SPORT 4 HD" tvg-id="supersport4.al" tvg-logo="https://lo1.in/alb/sprsp4.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118059
-#EXTINF:0 CUID="12279" tvg-name="AL| SUPER SPORT 4 HD [BK]" tvg-logo="https://lo1.in/alb/sprsp4.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 4 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400449160
-#EXTINF:0 CUID="12280" tvg-name="AL| SUPER SPORT 5 HD" tvg-id="supersport5.al" tvg-logo="https://lo1.in/alb/sprsp5.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 5 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118060
-#EXTINF:0 CUID="12281" tvg-name="AL| SUPER SPORT 6 HD" tvg-id="supersport6.al" tvg-logo="https://lo1.in/alb/sprsp6.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 6 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118061
-#EXTINF:0 CUID="12282" tvg-name="AL| SUPER SPORT 7 HD" tvg-logo="https://lo1.in/alb/sprsp7.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 7 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400142477
-#EXTINF:0 CUID="12283" tvg-name="AL| SUPER SPORT KOSOVA 1 HD" tvg-id="supersportkosova1.al" tvg-logo="https://lo1.in/alb/sprspkoso1.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT KOSOVA 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118045
-#EXTINF:0 CUID="12284" tvg-name="AL| SUPER SPORT KOSOVA 2 HD" tvg-id="supersportkosova2.al" tvg-logo="https://lo1.in/alb/sprspkosoo2.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT KOSOVA 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118046
-#EXTINF:0 CUID="12285" tvg-name="AL| SUPER SPORT KOSOVA 3 HD" tvg-logo="https://lo1.in/alb/SSK3.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT KOSOVA 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38073
-#EXTINF:0 CUID="12286" tvg-name="AL| TRING SPORT NEWS HD" tvg-id="tringsportnews.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/trinspns.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT NEWS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118114
-#EXTINF:0 CUID="12287" tvg-name="AL| TRING SPORT NEWS HD [BK]" tvg-logo="https://lo1.in/alb/trinspns.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT NEWS HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/42045
-#EXTINF:0 CUID="12288" tvg-name="AL| TRING SPORT 1 HD" tvg-id="tringsport1.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/trinsp1.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118110
-#EXTINF:0 CUID="12289" tvg-name="AL| TRING SPORT 1 HD [BK]" tvg-logo="https://lo1.in/alb/trinsp1.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 1 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/42044
-#EXTINF:0 CUID="12290" tvg-name="AL| TRING SPORT 2 HD" tvg-id="tringsport2.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/trinsp2.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118111
-#EXTINF:0 CUID="12291" tvg-name="AL| TRING SPORT 2 HD [BK]" tvg-logo="https://lo1.in/alb/trinsp2.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 2 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/42043
-#EXTINF:0 CUID="12292" tvg-name="AL| TRING SPORT 3 HD" tvg-id="tringsport3.al" tvg-logo="https://lo1.in/alb/trinsp3.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118112
-#EXTINF:0 CUID="12293" tvg-name="AL| TRING SPORT 3 HD [BK]" tvg-logo="https://lo1.in/alb/trinsp3.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 3 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/42042
-#EXTINF:0 CUID="12294" tvg-name="AL| TRING SPORT 4 HD" tvg-id="tringsport4.al" tvg-logo="https://lo1.in/alb/trinsp4.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118113
-#EXTINF:0 CUID="12295" tvg-name="AL| TRING SPORT 4 HD [BK]" tvg-logo="https://lo1.in/alb/trinsp4.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 4 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/42041
-#EXTINF:0 CUID="12296" tvg-name="AL| TRING SPORT 5 HD [BK]" tvg-logo="https://lo1.in/alb/flag.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 5 HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/42040
-#EXTINF:0 CUID="12297" tvg-name="AL| EUROSPORT 1 HD" tvg-id="eurosport.al" tvg-logo="https://lo1.in/alb/eursp1.png" group-title="EU | ALBANIA SPORTS",AL| EUROSPORT 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184102
-#EXTINF:0 CUID="12298" tvg-name="AL| EUROSPORT 2 HD" tvg-logo="https://lo1.in/alb/eursp2.png" group-title="EU | ALBANIA SPORTS",AL| EUROSPORT 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184104
-#EXTINF:0 CUID="12299" tvg-name="AL| KUJTESA SPORT 1 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/kujtsp1.png" group-title="EU | ALBANIA SPORTS",AL| KUJTESA SPORT 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184112
-#EXTINF:0 CUID="12300" tvg-name="AL| KUJTESA SPORT 2 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/kujtsp2.png" group-title="EU | ALBANIA SPORTS",AL| KUJTESA SPORT 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184113
-#EXTINF:0 CUID="12301" tvg-name="AL| KUJTESA SPORT 3 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/kujtsp3.png" group-title="EU | ALBANIA SPORTS",AL| KUJTESA SPORT 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184114
-#EXTINF:0 CUID="12302" tvg-name="AL| KUJTESA SPORT 4 HD" tvg-logo="https://lo1.in/alb/kujtsp4.png" group-title="EU | ALBANIA SPORTS",AL| KUJTESA SPORT 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184115
-#EXTINF:0 CUID="12303" tvg-name="AL| KUJTESA SPORT 5 HD" tvg-logo="https://lo1.in/alb/kujtsp5.png" group-title="EU | ALBANIA SPORTS",AL| KUJTESA SPORT 5 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400260898
-#EXTINF:0 CUID="12304" tvg-name="AL| OVERSPORT 1 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/oversp.png" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400260897
-#EXTINF:0 CUID="12305" tvg-name="AL| OVERSPORT 2 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/oversp.png" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400260896
-#EXTINF:0 CUID="12306" tvg-name="AL| OVERSPORT 3 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/oversp.png" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400260895
-#EXTINF:0 CUID="12307" tvg-name="AL| OVERSPORT 4 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/oversp.png" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400260894
-#EXTINF:0 CUID="12308" tvg-name="✦●✦ ALBANIA SPORTS FHD✦●✦" tvg-logo="https://lo1.in/alb/albsp.png" group-title="EU | ALBANIA SPORTS",✦●✦ ALBANIA SPORTS FHD✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/212452
-#EXTINF:0 CUID="12309" tvg-name="AL| SUPER SPORT 1 FHD" tvg-logo="https://lo1.in/alb/sprsp1.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148238
-#EXTINF:0 CUID="12310" tvg-name="AL| SUPER SPORT 2 FHD" tvg-id="supersport2.al" tvg-logo="https://lo1.in/alb/sprsp2.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360088
-#EXTINF:0 CUID="12311" tvg-name="AL| SUPER SPORT 3 FHD" tvg-id="supersport3.al" tvg-logo="https://lo1.in/alb/sprsp3.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 3 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360089
-#EXTINF:0 CUID="12312" tvg-name="AL| SUPER SPORT 4 FHD" tvg-id="supersport4.al" tvg-logo="https://lo1.in/alb/sprsp4.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 4 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360090
-#EXTINF:0 CUID="12313" tvg-name="AL| SUPER SPORT 5 FHD" tvg-id="supersport5.al" tvg-logo="https://lo1.in/alb/sprsp5.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 5 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360091
-#EXTINF:0 CUID="12314" tvg-name="AL| SUPER SPORT 6 FHD" tvg-id="supersport6.al" tvg-logo="https://lo1.in/alb/sprsp6.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 6 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148242
-#EXTINF:0 CUID="12315" tvg-name="AL| TRING SPORT 1 FHD" tvg-id="tringsport1.al" tvg-logo="https://lo1.in/alb/trinsp1.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360092
-#EXTINF:0 CUID="12316" tvg-name="AL| TRING SPORT 2 FHD" tvg-id="tringsport2.al" tvg-logo="https://lo1.in/alb/trinsp2.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360093
-#EXTINF:0 CUID="12317" tvg-name="AL| TRING SPORT 3 FHD" tvg-id="tringsport3.al" tvg-logo="https://lo1.in/alb/trinsp3.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 3 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360094
-#EXTINF:0 CUID="12318" tvg-name="AL| TRING SPORT 4 FHD" tvg-id="tringsport4.al" tvg-logo="https://lo1.in/alb/trinsp4.png" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 4 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360095
-#EXTINF:0 CUID="12319" tvg-name="AL| ART SPORT 1 FHD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/artsp1.png" group-title="EU | ALBANIA SPORTS",AL| ART SPORT 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184099
-#EXTINF:0 CUID="12320" tvg-name="AL| ART SPORT 2 FHD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/artsp2.png" group-title="EU | ALBANIA SPORTS",AL| ART SPORT 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184100
-#EXTINF:0 CUID="12321" tvg-name="AL| ART SPORT 3 FHD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/artsp3.png" group-title="EU | ALBANIA SPORTS",AL| ART SPORT 3 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184101
-#EXTINF:0 CUID="12322" tvg-name="AL| ART SPORT 4 FHD" tvg-logo="https://lo1.in/alb/artsp.png" group-title="EU | ALBANIA SPORTS",AL| ART SPORT 4 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400260893
-#EXTINF:0 CUID="12323" tvg-name="AL| ART SPORT 5 FHD" tvg-logo="https://lo1.in/alb/artsp.png" group-title="EU | ALBANIA SPORTS",AL| ART SPORT 5 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400260892
-#EXTINF:0 CUID="12324" tvg-name="AL| ART SPORT 6 FHD" tvg-logo="https://lo1.in/alb/artsp.png" group-title="EU | ALBANIA SPORTS",AL| ART SPORT 6 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400260891
-#EXTINF:0 CUID="12325" tvg-name="AL| SPORT 1 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA SPORTS",AL| SPORT 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473500
-#EXTINF:0 CUID="12326" tvg-name="AL| SPORT 2 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA SPORTS",AL| SPORT 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473499
-#EXTINF:0 CUID="12327" tvg-name="AL| SPORT 3 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA SPORTS",AL| SPORT 3 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473498
-#EXTINF:0 CUID="12328" tvg-name="AL| SPORT 4 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA SPORTS",AL| SPORT 4 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473497
-#EXTINF:0 CUID="12329" tvg-name="AL| SPORT 5 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA SPORTS",AL| SPORT 5 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473496
-#EXTINF:0 CUID="12330" tvg-name="✦●✦ FEMIJET ✦●✦" tvg-logo="https://lo1.in/alb/femijet.png" group-title="EU | ALBANIA FEMIJET",✦●✦ FEMIJET ✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/185707
-#EXTINF:0 CUID="12331" tvg-name="AL| BANG BANG HD" tvg-id="bangbang.al" tvg-logo="https://lo1.in/alb/bngbng.png" group-title="EU | ALBANIA FEMIJET",AL| BANG BANG HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183965
-#EXTINF:0 CUID="12332" tvg-name="AL| ÇUFO HD" tvg-id="cufotv.al" tvg-logo="https://lo1.in/alb/cufo.png" group-title="EU | ALBANIA FEMIJET",AL| ÇUFO HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183973
-#EXTINF:0 CUID="12333" tvg-name="AL| TRING TRING HD" tvg-id="tringtring.al" tvg-logo="https://lo1.in/alb/tringt.png" group-title="EU | ALBANIA FEMIJET",AL| TRING TRING HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118116
-#EXTINF:0 CUID="12334" tvg-name="AL| TRING KIDS HD" tvg-id="tringkids.al" tvg-logo="https://lo1.in/alb/tringkds.png" group-title="EU | ALBANIA FEMIJET",AL| TRING KIDS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118102
-#EXTINF:0 CUID="12335" tvg-name="AL| TIP TV FHD" tvg-id="tiptv.al" tvg-logo="https://lo1.in/alb/tip.png" group-title="EU | ALBANIA FEMIJET",AL| TIP TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118082
-#EXTINF:0 CUID="12336" tvg-name="AL| JUNIOR TV HD" tvg-id="juniortv.al" tvg-logo="https://lo1.in/alb/jr.png" group-title="EU | ALBANIA FEMIJET",AL| JUNIOR TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/212445
-#EXTINF:0 CUID="12337" tvg-name="AL| RTV 21 JUNIOR HD" tvg-id="rtv21.al" tvg-logo="https://lo1.in/alb/rtv21jr.png" group-title="EU | ALBANIA FEMIJET",AL| RTV 21 JUNIOR HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183962
-#EXTINF:0 CUID="12338" tvg-name="AL| SOFIA FHD" tvg-logo="https://lo1.in/alb/sfia.png" group-title="EU | ALBANIA FEMIJET",AL| SOFIA FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118037
-#EXTINF:0 CUID="12339" tvg-name="AL| EB TOM AND JERRY HD" tvg-logo="https://lo1.in/alb/ebtmnjer.png" group-title="EU | ALBANIA FEMIJET",AL| EB TOM AND JERRY HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400149111
-#EXTINF:0 CUID="12340" tvg-name="AL| BOOMERANG HD" tvg-id="boomerang.al" tvg-logo="https://lo1.in/alb/bmrng.png" group-title="EU | ALBANIA FEMIJET",AL| BOOMERANG HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183951
-#EXTINF:0 CUID="12341" tvg-name="AL| CARTOON NETWORK HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FEMIJET",AL| CARTOON NETWORK HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473510
-#EXTINF:0 CUID="12342" tvg-name="AL| BABY TV HD" tvg-logo="https://lo1.in/alb/bbytv.png" group-title="EU | ALBANIA FEMIJET",AL| BABY TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183957
-#EXTINF:0 CUID="12343" tvg-name="AL| DUCK TV HD" tvg-logo="https://lo1.in/alb/dcktv.png" group-title="EU | ALBANIA FEMIJET",AL| DUCK TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183968
-#EXTINF:0 CUID="12344" tvg-name="AL| NICK JUNIOR FHD" tvg-logo="https://lo1.in/alb/nickjr.png" group-title="EU | ALBANIA FEMIJET",AL| NICK JUNIOR FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/117930
-#EXTINF:0 CUID="12345" tvg-name="AL| DISNEY JUNIOR HD" tvg-logo="https://lo1.in/alb/disjr.png" group-title="EU | ALBANIA FEMIJET",AL| DISNEY JUNIOR HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183953
-#EXTINF:0 CUID="12346" tvg-name="AL| RTV ARBËRIA 3 HD" tvg-logo="https://lo1.in/alb/rtvabr.png" group-title="EU | ALBANIA FEMIJET",AL| RTV ARBËRIA 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400271474
-#EXTINF:0 CUID="12347" tvg-name="AL| FILMA VIZATIMOR HD" tvg-logo="https://lo1.in/alb/femijet.png" group-title="EU | ALBANIA FEMIJET",AL| FILMA VIZATIMOR HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261781
-#EXTINF:0 CUID="12348" tvg-name="AL| FILMA VIZATIMOR 2 HD" tvg-logo="https://lo1.in/alb/femijet.png" group-title="EU | ALBANIA FEMIJET",AL| FILMA VIZATIMOR 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261780
-#EXTINF:0 CUID="12349" tvg-name="AL| FILMA VIZATIMOR 4 HD" tvg-logo="https://lo1.in/alb/femijet.png" group-title="EU | ALBANIA FEMIJET",AL| FILMA VIZATIMOR 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261779
-#EXTINF:0 CUID="12350" tvg-name="AL| FILMA VIZATIMOR 5 HD" tvg-logo="https://lo1.in/alb/femijet.png" group-title="EU | ALBANIA FEMIJET",AL| FILMA VIZATIMOR 5 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261778
-#EXTINF:0 CUID="12351" tvg-name="AL| OnePlay BabyTV" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay BabyTV
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45612
-#EXTINF:0 CUID="12352" tvg-name="AL| OnePlay Cocomelon" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Cocomelon
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45613
-#EXTINF:0 CUID="12353" tvg-name="AL| OnePlay CloudBabies" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay CloudBabies
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45614
-#EXTINF:0 CUID="12354" tvg-name="AL| OnePlay BabyShark" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay BabyShark
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45615
-#EXTINF:0 CUID="12355" tvg-name="AL| OnePlay Bob The Builder" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Bob The Builder
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45616
-#EXTINF:0 CUID="12356" tvg-name="AL| OnePlay Grizzy" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Grizzy
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45617
-#EXTINF:0 CUID="12357" tvg-name="AL| OnePlay Larva" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Larva
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45618
-#EXTINF:0 CUID="12358" tvg-name="AL| OnePlay Oddbods" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Oddbods
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45619
-#EXTINF:0 CUID="12359" tvg-name="AL| OnePlay Spidey" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Spidey
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45620
-#EXTINF:0 CUID="12360" tvg-name="AL| OnePlay Pets" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Pets
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45621
-#EXTINF:0 CUID="12361" tvg-name="AL| OnePlay SpongeBob" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay SpongeBob
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45622
-#EXTINF:0 CUID="12362" tvg-name="AL| OnePlay Bloopies" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Bloopies
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45623
-#EXTINF:0 CUID="12363" tvg-name="AL| OnePlay Tom&Jerry" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Tom&Jerry
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45624
-#EXTINF:0 CUID="12364" tvg-name="AL| OnePlay Peppa Pig" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Peppa Pig
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45625
-#EXTINF:0 CUID="12365" tvg-name="AL| OnePlay Mickey Mouse" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Mickey Mouse
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45626
-#EXTINF:0 CUID="12366" tvg-name="AL| OnePlay Masha&Bear" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Masha&Bear
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45627
-#EXTINF:0 CUID="12367" tvg-name="AL| OnePlay Pj Masks" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Pj Masks
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45628
-#EXTINF:0 CUID="12368" tvg-name="AL| OnePlay Paw Patrol" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Paw Patrol
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45629
-#EXTINF:0 CUID="12369" tvg-name="AL| OnePlay Nastya" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Nastya
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45630
-#EXTINF:0 CUID="12370" tvg-name="AL| OnePlay Diana Show" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Diana Show
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45631
-#EXTINF:0 CUID="12371" tvg-name="AL| OnePlay Vlad&Niki" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay Vlad&Niki
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45632
-#EXTINF:0 CUID="12372" tvg-name="AL| OnePlay-Kids Dhelpera" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay-Kids Dhelpera
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45633
-#EXTINF:0 CUID="12373" tvg-name="AL| OnePlay-Kids Shqip" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay-Kids Shqip
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45634
-#EXTINF:0 CUID="12374" tvg-name="AL| OnePlay-Kids Rritu dhe Meso" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FEMIJET",AL| OnePlay-Kids Rritu dhe Meso
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45635
-#EXTINF:0 CUID="12375" tvg-name="✦●✦ ALBANIA MUZIKE✦●✦" tvg-logo="https://lo1.in/alb/flag.png" group-title="EU | ALBANIA MUZIKE",✦●✦ ALBANIA MUZIKE✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/185705
-#EXTINF:0 CUID="12376" tvg-name="Diti.tv" tvg-logo="https://lo1.in/alb/folk.png" group-title="EU | ALBANIA MUZIKE",Diti.tv
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148378
-#EXTINF:0 CUID="12377" tvg-name="AL| STV FOLK HD" tvg-logo="https://lo1.in/alb/SFolk.png" group-title="EU | ALBANIA MUZIKE",AL| STV FOLK HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38081
-#EXTINF:0 CUID="12378" tvg-name="AL| MELODY TV ♫" tvg-logo="https://lo1.in/alb/melod.png" group-title="EU | ALBANIA MUZIKE",AL| MELODY TV ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148375
-#EXTINF:0 CUID="12379" tvg-name="AL| SUPERSONIC TV HD ♫" tvg-logo="https://lo1.in/alb/sprsnic.png" group-title="EU | ALBANIA MUZIKE",AL| SUPERSONIC TV HD ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148326
-#EXTINF:0 CUID="12380" tvg-name="AL| ELRODI TV ♫" tvg-logo="https://lo1.in/alb/elrodi.png" group-title="EU | ALBANIA MUZIKE",AL| ELRODI TV ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148376
-#EXTINF:0 CUID="12381" tvg-name="AL| BBF MUSIC ♫" tvg-logo="https://lo1.in/alb/bfbmus.png" group-title="EU | ALBANIA MUZIKE",AL| BBF MUSIC ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148373
-#EXTINF:0 CUID="12382" tvg-name="AL| TOP ESTRADA TV ♫" tvg-logo="https://lo1.in/alb/topestra.png" group-title="EU | ALBANIA MUZIKE",AL| TOP ESTRADA TV ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148367
-#EXTINF:0 CUID="12383" tvg-name="AL| KLAN MUSIC ♫" tvg-logo="https://lo1.in/alb/klanmus.png" group-title="EU | ALBANIA MUZIKE",AL| KLAN MUSIC ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148377
-#EXTINF:0 CUID="12384" tvg-name="AL| TV ZIKO FHD" tvg-logo="https://lo1.in/alb/ziko.png" group-title="EU | ALBANIA MUZIKE",AL| TV ZIKO FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261763
-#EXTINF:0 CUID="12385" tvg-name="AL| RTV21 PLUS FHD ♫" tvg-logo="https://lo1.in/alb/rtv21pls.png" group-title="EU | ALBANIA MUZIKE",AL| RTV21 PLUS FHD ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148316
-#EXTINF:0 CUID="12386" tvg-name="AL| RTV21 POPULLORE FHD ♫" tvg-id="rtv21.al" tvg-logo="https://lo1.in/alb/rtv21pplr.png" group-title="EU | ALBANIA MUZIKE",AL| RTV21 POPULLORE FHD ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148371
-#EXTINF:0 CUID="12387" tvg-name="AL| RTV21 MIX FHD ♫" tvg-id="rtv21m.al" tvg-logo="https://lo1.in/alb/rtv21mx.png" group-title="EU | ALBANIA MUZIKE",AL| RTV21 MIX FHD ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148315
-#EXTINF:0 CUID="12388" tvg-name="AL| TURBO CHANNEL TV HD ♫" tvg-logo="https://lo1.in/alb/turbchn.png" group-title="EU | ALBANIA MUZIKE",AL| TURBO CHANNEL TV HD ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148311
-#EXTINF:0 CUID="12389" tvg-name="AL| RTV FONTANA HD ♫" tvg-logo="https://lo1.in/alb/rtvfntana.png" group-title="EU | ALBANIA MUZIKE",AL| RTV FONTANA HD ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148310
-#EXTINF:0 CUID="12390" tvg-name="AL| ASHK TV 1 HD" tvg-logo="https://lo1.in/alb/Ashk.png" group-title="EU | ALBANIA MUZIKE",AL| ASHK TV 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45666
-#EXTINF:0 CUID="12391" tvg-name="AL| ASHK TV 2 HD" tvg-logo="https://lo1.in/alb/Ashk.png" group-title="EU | ALBANIA MUZIKE",AL| ASHK TV 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45665
-#EXTINF:0 CUID="12392" tvg-name="AL| ASHK TV 3 HD" tvg-logo="https://lo1.in/alb/Ashk.png" group-title="EU | ALBANIA MUZIKE",AL| ASHK TV 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45664
-#EXTINF:0 CUID="12393" tvg-name="AL| CLICK TV ♫" tvg-id="clicktv.al" tvg-logo="https://lo1.in/alb/clik.png" group-title="EU | ALBANIA MUZIKE",AL| CLICK TV ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148374
-#EXTINF:0 CUID="12394" tvg-name="AL| RTV ARBËRIA 4 HD" tvg-logo="https://lo1.in/alb/rtvabr.png" group-title="EU | ALBANIA MUZIKE",AL| RTV ARBËRIA 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400271475
-#EXTINF:0 CUID="12395" tvg-name="AL| MTV HD" tvg-logo="https://lo1.in/alb/mtv.png" group-title="EU | ALBANIA MUZIKE",AL| MTV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261764
-#EXTINF:0 CUID="12396" tvg-name="AL| MTV HITS HD" tvg-logo="https://lo1.in/alb/mtvhts.png" group-title="EU | ALBANIA MUZIKE",AL| MTV HITS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261765
-#EXTINF:0 CUID="12397" tvg-name="AL| MTV KOSOVA ♫" tvg-logo="https://lo1.in/alb/mtvkoso.png" group-title="EU | ALBANIA MUZIKE",AL| MTV KOSOVA ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148366
-#EXTINF:0 CUID="12398" tvg-name="AL| TIRANA TV" tvg-logo="https://lo1.in/alb/tirana.png" group-title="EU | ALBANIA MUZIKE",AL| TIRANA TV
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118083
-#EXTINF:0 CUID="12399" tvg-name="AL| ALB UK HD" tvg-logo="https://lo1.in/alb/albuk.png" group-title="EU | ALBANIA MUZIKE",AL| ALB UK HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183964
-#EXTINF:0 CUID="12400" tvg-name="AL| AMOL TV FHD" tvg-logo="https://lo1.in/alb/amol.png" group-title="EU | ALBANIA MUZIKE",AL| AMOL TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148318
-#EXTINF:0 CUID="12401" tvg-name="AL| E MIRË TV MUZIKË HD" tvg-logo="https://lo1.in/alb/emirmuz.png" group-title="EU | ALBANIA MUZIKE",AL| E MIRË TV MUZIKË HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261757
-#EXTINF:0 CUID="12402" tvg-name="AL| DARK POPULLORE HD" tvg-logo="https://lo1.in/alb/drkpopulr.png" group-title="EU | ALBANIA MUZIKE",AL| DARK POPULLORE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188417
-#EXTINF:0 CUID="12403" tvg-name="AL| MALISHEVA TV FHD" tvg-logo="https://lo1.in/alb/malish.png" group-title="EU | ALBANIA MUZIKE",AL| MALISHEVA TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148435
-#EXTINF:0 CUID="12404" tvg-name="AL| RTV MALISHEVA HD" tvg-logo="https://lo1.in/alb/rtvmalshv.png" group-title="EU | ALBANIA MUZIKE",AL| RTV MALISHEVA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148434
-#EXTINF:0 CUID="12405" tvg-name="AL| LUGINA POPULLORE HD ♫" tvg-logo="https://lo1.in/alb/lugapoplr.png" group-title="EU | ALBANIA MUZIKE",AL| LUGINA POPULLORE HD ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148364
-#EXTINF:0 CUID="12406" tvg-name="AL| MY MUSIC ♫" tvg-id="mymusic.al" tvg-logo="https://lo1.in/alb/mymus.png" group-title="EU | ALBANIA MUZIKE",AL| MY MUSIC ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148362
-#EXTINF:0 CUID="12407" tvg-name="AL| ROMA TV ♫" tvg-logo="https://lo1.in/alb/roma.png" group-title="EU | ALBANIA MUZIKE",AL| ROMA TV ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148354
-#EXTINF:0 CUID="12408" tvg-name="AL| SHQIPONIA TV HD" tvg-logo="https://lo1.in/alb/flg.png" group-title="EU | ALBANIA MUZIKE",AL| SHQIPONIA TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48112
-#EXTINF:0 CUID="12409" tvg-name="AL| SKY BLUE TV HD" tvg-logo="https://lo1.in/alb/skyblu.png" group-title="EU | ALBANIA MUZIKE",AL| SKY BLUE TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148299
-#EXTINF:0 CUID="12410" tvg-name="AL| SPIN TV HD" tvg-logo="https://lo1.in/alb/spin.png" group-title="EU | ALBANIA MUZIKE",AL| SPIN TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118039
-#EXTINF:0 CUID="12411" tvg-name="AL| FRAME TV HD" tvg-logo="https://lo1.in/alb/frm.png" group-title="EU | ALBANIA MUZIKE",AL| FRAME TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261761
-#EXTINF:0 CUID="12412" tvg-name="✦●✦ LAJME✦●✦" tvg-logo="https://lo1.in/alb/femijet.png" group-title="EU | ALBANIA LAJME",✦●✦ LAJME✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/212453
-#EXTINF:0 CUID="12413" tvg-name="AL| TOP NEWS HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/topns.png" group-title="EU | ALBANIA LAJME",AL| TOP NEWS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118090
-#EXTINF:0 CUID="12414" tvg-name="AL| KLAN NEWS FHD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/klanns.png" group-title="EU | ALBANIA LAJME",AL| KLAN NEWS FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261771
-#EXTINF:0 CUID="12415" tvg-name="AL| KANALI 7 HD" tvg-id="kanali7.al" tvg-logo="https://lo1.in/alb/kanali7.png" group-title="EU | ALBANIA LAJME",AL| KANALI 7 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184090
-#EXTINF:0 CUID="12416" tvg-name="AL| KANALI 7 NEWS HD" tvg-logo="https://lo1.in/alb/kanali7.png" group-title="EU | ALBANIA LAJME",AL| KANALI 7 NEWS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183803
-#EXTINF:0 CUID="12417" tvg-name="AL| ABC NEWS FHD" tvg-logo="https://lo1.in/alb/abcns.png" group-title="EU | ALBANIA LAJME",AL| ABC NEWS FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184077
-#EXTINF:0 CUID="12418" tvg-name="AL| SYRI TV HD" tvg-logo="https://lo1.in/alb/syri.png" group-title="EU | ALBANIA LAJME",AL| SYRI TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183939
-#EXTINF:0 CUID="12419" tvg-name="AL| SYRI NEWS TV" tvg-logo="https://lo1.in/alb/syrns.png" group-title="EU | ALBANIA LAJME",AL| SYRI NEWS TV
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184084
-#EXTINF:0 CUID="12420" tvg-name="AL| NEWS 24 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/ns24.png" group-title="EU | ALBANIA LAJME",AL| NEWS 24 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360057
-#EXTINF:0 CUID="12421" tvg-name="AL| ORA NEWS HD" tvg-logo="https://lo1.in/alb/orans.png" group-title="EU | ALBANIA LAJME",AL| ORA NEWS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360058
-#EXTINF:0 CUID="12422" tvg-name="AL| ORA HD" tvg-logo="https://lo1.in/alb/ora.png" group-title="EU | ALBANIA LAJME",AL| ORA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261769
-#EXTINF:0 CUID="12423" tvg-name="AL| ARTA NEWS HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/artans.png" group-title="EU | ALBANIA LAJME",AL| ARTA NEWS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360056
-#EXTINF:0 CUID="12424" tvg-name="AL| A1 REPORT FHD" tvg-logo="https://lo1.in/alb/a1repo.png" group-title="EU | ALBANIA LAJME",AL| A1 REPORT FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184087
-#EXTINF:0 CUID="12425" tvg-name="AL| A2 NEWS FHD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/a2ns.png" group-title="EU | ALBANIA LAJME",AL| A2 NEWS FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184085
-#EXTINF:0 CUID="12426" tvg-name="AL| EURONEWS FHD" tvg-logo="https://lo1.in/alb/eurns.png" group-title="EU | ALBANIA LAJME",AL| EURONEWS FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184079
-#EXTINF:0 CUID="12427" tvg-name="AL| FAX NEWS HD" tvg-logo="https://lo1.in/alb/faxns.png" group-title="EU | ALBANIA LAJME",AL| FAX NEWS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184080
-#EXTINF:0 CUID="12428" tvg-name="AL| ZERI TV FHD" tvg-logo="https://lo1.in/alb/zeri.png" group-title="EU | ALBANIA LAJME",AL| ZERI TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118195
-#EXTINF:0 CUID="12429" tvg-name="AL| REPORT FHD" tvg-logo="https://lo1.in/alb/repor.png" group-title="EU | ALBANIA LAJME",AL| REPORT FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184091
-#EXTINF:0 CUID="12430" tvg-name="AL| SCAN TV HD" tvg-logo="https://lo1.in/alb/scan.png" group-title="EU | ALBANIA LAJME",AL| SCAN TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184093
-#EXTINF:0 CUID="12431" tvg-name="AL| Panorama TV HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA LAJME",AL| Panorama TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48101
-#EXTINF:0 CUID="12432" tvg-name="AL| PANORAMA NEWS HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA LAJME",AL| PANORAMA NEWS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/48102
-#EXTINF:0 CUID="12433" tvg-name="AL| FOX NEWS HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA LAJME",AL| FOX NEWS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473511
-#EXTINF:0 CUID="12434" tvg-name="✦●✦ DOKUMENTARI ✦●✦" tvg-logo="https://lo1.in/alb/dukmnt.png" group-title="EU | ALBANIA DOKUMENTARE",✦●✦ DOKUMENTARI ✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/185708
-#EXTINF:0 CUID="12435" tvg-name="AL| EXPLORER NATYRA HD" tvg-id="expnatyra.al" tvg-logo="https://lo1.in/alb/explnat.png" group-title="EU | ALBANIA DOKUMENTARE",AL| EXPLORER NATYRA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183877
-#EXTINF:0 CUID="12436" tvg-name="AL| EXPLORER HISTORI HD" tvg-id="exphistori.al" tvg-logo="https://lo1.in/alb/explrhis.png" group-title="EU | ALBANIA DOKUMENTARE",AL| EXPLORER HISTORI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183876
-#EXTINF:0 CUID="12437" tvg-name="AL| EXPLORER SHKENCE HD" tvg-id="expshkence.al" tvg-logo="https://lo1.in/alb/explshk.png" group-title="EU | ALBANIA DOKUMENTARE",AL| EXPLORER SHKENCE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183878
-#EXTINF:0 CUID="12438" tvg-name="AL| TRING WORLD HD" tvg-id="tringworld.al" tvg-logo="https://lo1.in/alb/trngwrd.png" group-title="EU | ALBANIA DOKUMENTARE",AL| TRING WORLD HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118117
-#EXTINF:0 CUID="12439" tvg-name="AL| TRING PLANET FHD" tvg-id="tringplanet.al" tvg-logo="https://lo1.in/alb/trinplnt.png" group-title="EU | ALBANIA DOKUMENTARE",AL| TRING PLANET FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118106
-#EXTINF:0 CUID="12440" tvg-name="AL| TRING HISTORY HD" tvg-logo="https://lo1.in/alb/tringhis.png" group-title="EU | ALBANIA DOKUMENTARE",AL| TRING HISTORY HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118097
-#EXTINF:0 CUID="12441" tvg-name="AL| ART DOKU 1 FHD" tvg-logo="https://lo1.in/alb/artdoku1.png" group-title="EU | ALBANIA DOKUMENTARE",AL| ART DOKU 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183885
-#EXTINF:0 CUID="12442" tvg-name="AL| ART DOKU 2 FHD" tvg-logo="https://lo1.in/alb/artdoku1.png" group-title="EU | ALBANIA DOKUMENTARE",AL| ART DOKU 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183886
-#EXTINF:0 CUID="12443" tvg-name="AL| ANIMAL PLANET HD" tvg-logo="https://lo1.in/alb/anmlplnt.png" group-title="EU | ALBANIA DOKUMENTARE",AL| ANIMAL PLANET HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183866
-#EXTINF:0 CUID="12444" tvg-name="AL| NAT GEO FHD" tvg-id="nationalgeographic.al" tvg-logo="https://lo1.in/alb/natgeo.png" group-title="EU | ALBANIA DOKUMENTARE",AL| NAT GEO FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183865
-#EXTINF:0 CUID="12445" tvg-name="AL| DOKUMENTAR HD" tvg-logo="https://lo1.in/alb/dokum.png" group-title="EU | ALBANIA DOKUMENTARE",AL| DOKUMENTAR HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261776
-#EXTINF:0 CUID="12446" tvg-name="AL| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA DOKUMENTARE",AL| DISCOVERY CHANNEL HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473504
-#EXTINF:0 CUID="12447" tvg-name="AL| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/alb/discsci.png" group-title="EU | ALBANIA DOKUMENTARE",AL| DISCOVERY SCIENCE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183862
-#EXTINF:0 CUID="12448" tvg-name="AL| E MIRË TV DOKUMENTAR HD" tvg-logo="https://lo1.in/alb/emirdoc.png" group-title="EU | ALBANIA DOKUMENTARE",AL| E MIRË TV DOKUMENTAR HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261773
-#EXTINF:0 CUID="12449" tvg-name="AL| SKY PLANET HD" tvg-logo="https://lo1.in/alb/skuplnt.png" group-title="EU | ALBANIA DOKUMENTARE",AL| SKY PLANET HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118034
-#EXTINF:0 CUID="12450" tvg-name="AL| SKY GALAXY FHD" tvg-logo="https://lo1.in/alb/skygal.png" group-title="EU | ALBANIA DOKUMENTARE",AL| SKY GALAXY FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261774
-#EXTINF:0 CUID="12451" tvg-name="AL| SKY GEO FHD" tvg-logo="https://lo1.in/alb/skygeo.png" group-title="EU | ALBANIA DOKUMENTARE",AL| SKY GEO FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261775
-#EXTINF:0 CUID="12452" tvg-name="AL| TRAVEL CHANNEL FHD" tvg-id="expshkence.al" tvg-logo="https://lo1.in/alb/trvlchan.png" group-title="EU | ALBANIA DOKUMENTARE",AL| TRAVEL CHANNEL FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118091
-#EXTINF:0 CUID="12453" tvg-name="✦●✦ FILMA ✦●✦" tvg-logo="https://lo1.in/alb/flma.png" group-title="EU | ALBANIA FILMA",✦●✦ FILMA ✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/185709
-#EXTINF:0 CUID="12454" tvg-name="AL| FILM T HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| FILM T HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473507
-#EXTINF:0 CUID="12455" tvg-name="AL| T FHD" tvg-id="tchannel.al" tvg-logo="https://lo1.in/alb/t.png" group-title="EU | ALBANIA FILMA",AL| T FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118070
-#EXTINF:0 CUID="12456" tvg-name="AL| FILM NJË HD" tvg-id="filmnje.al" tvg-logo="https://lo1.in/alb/flmnje.png" group-title="EU | ALBANIA FILMA",AL| FILM NJË HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183667
-#EXTINF:0 CUID="12457" tvg-name="AL| FILM DY HD" tvg-id="filmdy.al" tvg-logo="https://lo1.in/alb/flmdy.png" group-title="EU | ALBANIA FILMA",AL| FILM DY HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183658
-#EXTINF:0 CUID="12458" tvg-name="AL| FILM MAX HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| FILM MAX HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473506
-#EXTINF:0 CUID="12459" tvg-name="AL| FILM DRAMA HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| FILM DRAMA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473508
-#EXTINF:0 CUID="12460" tvg-name="AL| FILM HITS HD" tvg-logo="https://lo1.in/alb/flmhits.png" group-title="EU | ALBANIA FILMA",AL| FILM HITS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183664
-#EXTINF:0 CUID="12461" tvg-name="AL| FILM AKSION FHD" tvg-id="filmaksion.al" tvg-logo="https://lo1.in/alb/flmakc.png" group-title="EU | ALBANIA FILMA",AL| FILM AKSION FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/224628
-#EXTINF:0 CUID="12462" tvg-name="AL| FILM THRILLER HD" tvg-id="filmthriller.al" tvg-logo="https://lo1.in/alb/xthrill.png" group-title="EU | ALBANIA FILMA",AL| FILM THRILLER HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183669
-#EXTINF:0 CUID="12463" tvg-name="AL| FILM DRAME HD" tvg-id="filmdrame.al" tvg-logo="https://lo1.in/alb/flmdra.png" group-title="EU | ALBANIA FILMA",AL| FILM DRAME HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183657
-#EXTINF:0 CUID="12464" tvg-name="AL| FILM KOMEDI HD" tvg-logo="https://lo1.in/alb/flmkom.png" group-title="EU | ALBANIA FILMA",AL| FILM KOMEDI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183665
-#EXTINF:0 CUID="12465" tvg-name="AL| FILM AUTOR HD" tvg-logo="https://lo1.in/alb/flmaut.png" group-title="EU | ALBANIA FILMA",AL| FILM AUTOR HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183656
-#EXTINF:0 CUID="12466" tvg-name="AL| FAMILY FHD" tvg-logo="https://lo1.in/alb/fam.png" group-title="EU | ALBANIA FILMA",AL| FAMILY FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360073
-#EXTINF:0 CUID="12467" tvg-name="AL| STINET HD" tvg-logo="https://lo1.in/alb/stnt.png" group-title="EU | ALBANIA FILMA",AL| STINET HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183813
-#EXTINF:0 CUID="12468" tvg-name="AL| DIZI TDC FHD" tvg-logo="https://lo1.in/alb/dizitdc.png" group-title="EU | ALBANIA FILMA",AL| DIZI TDC FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/33101
-#EXTINF:0 CUID="12469" tvg-name="AL| PLUS FHD" tvg-logo="https://lo1.in/alb/pls.png" group-title="EU | ALBANIA FILMA",AL| PLUS FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/117945
-#EXTINF:0 CUID="12470" tvg-name="AL| TRING SHQIP HD" tvg-id="tringshqip.al" tvg-logo="https://lo1.in/alb/trinsh.png" group-title="EU | ALBANIA FILMA",AL| TRING SHQIP HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118107
-#EXTINF:0 CUID="12471" tvg-name="AL| TRING ACTION FHD" tvg-logo="https://lo1.in/alb/tringact.png" group-title="EU | ALBANIA FILMA",AL| TRING ACTION FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261848
-#EXTINF:0 CUID="12472" tvg-name="AL| TRING COMEDY FHD" tvg-id="tringcomedy.al" tvg-logo="https://lo1.in/alb/trincom.png" group-title="EU | ALBANIA FILMA",AL| TRING COMEDY FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183829
-#EXTINF:0 CUID="12473" tvg-name="AL| TRING LIFE FHD" tvg-id="tringlife.al" tvg-logo="https://lo1.in/alb/trinlf.png" group-title="EU | ALBANIA FILMA",AL| TRING LIFE FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183832
-#EXTINF:0 CUID="12474" tvg-name="AL| TRING FANTASY HD" tvg-id="tringfantazi.al" tvg-logo="https://lo1.in/alb/trinfan.png" group-title="EU | ALBANIA FILMA",AL| TRING FANTASY HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118096
-#EXTINF:0 CUID="12475" tvg-name="AL| TRING SUPER FHD" tvg-id="tringsuper.al" tvg-logo="https://lo1.in/alb/trinspr.png" group-title="EU | ALBANIA FILMA",AL| TRING SUPER FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360076
-#EXTINF:0 CUID="12476" tvg-name="AL| TRING INTERNATIONAL FHD" tvg-id="tringinternational.al" tvg-logo="https://lo1.in/alb/tringinter.png" group-title="EU | ALBANIA FILMA",AL| TRING INTERNATIONAL FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261847
-#EXTINF:0 CUID="12477" tvg-name="AL| TRING FAMILY FHD" tvg-logo="https://lo1.in/alb/trinfam.png" group-title="EU | ALBANIA FILMA",AL| TRING FAMILY FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261846
-#EXTINF:0 CUID="12478" tvg-name="AL| TRING NOVELAS FHD" tvg-logo="https://lo1.in/alb/tringnovel.png" group-title="EU | ALBANIA FILMA",AL| TRING NOVELAS FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261845
-#EXTINF:0 CUID="12479" tvg-name="AL| JOLLY FHD" tvg-id="jolly.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/jolly.png" group-title="EU | ALBANIA FILMA",AL| JOLLY FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148466
-#EXTINF:0 CUID="12480" tvg-name="AL| TRING 3 PLUS HD" tvg-logo="https://lo1.in/alb/trinpls3.png" group-title="EU | ALBANIA FILMA",AL| TRING 3 PLUS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148468
-#EXTINF:0 CUID="12481" tvg-name="AL| LIVING FHD" tvg-id="living.al" tvg-logo="https://lo1.in/alb/livin.png" group-title="EU | ALBANIA FILMA",AL| LIVING FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183913
-#EXTINF:0 CUID="12482" tvg-name="AL| EPISODE FHD" tvg-logo="https://lo1.in/alb/epsd.png" group-title="EU | ALBANIA FILMA",AL| EPISODE FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148463
-#EXTINF:0 CUID="12483" tvg-name="AL| KANAL D DRAMA FHD" tvg-logo="https://lo1.in/alb/kanadra.png" group-title="EU | ALBANIA FILMA",AL| KANAL D DRAMA FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183793
-#EXTINF:0 CUID="12484" tvg-name="AL| TRING TURKISH STORIES" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| TRING TURKISH STORIES
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473488
-#EXTINF:0 CUID="12485" tvg-name="AL| TRING ORIGINAL HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| TRING ORIGINAL HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473489
-#EXTINF:0 CUID="12486" tvg-name="AL| TRING MUSE HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| TRING MUSE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473490
-#EXTINF:0 CUID="12487" tvg-name="AL| TRING CLASSIC HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| TRING CLASSIC HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473491
-#EXTINF:0 CUID="12488" tvg-name="AL| TRING COLLECTION HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| TRING COLLECTION HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473492
-#EXTINF:0 CUID="12489" tvg-name="AL| TRING SERIESV" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| TRING SERIESV
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473493
-#EXTINF:0 CUID="12490" tvg-name="AL| TRING SMILE HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| TRING SMILE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473494
-#EXTINF:0 CUID="12491" tvg-name="AL| SMILE HD" tvg-id="smile.al" tvg-logo="https://lo1.in/alb/smil.png" group-title="EU | ALBANIA FILMA",AL| SMILE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118036
-#EXTINF:0 CUID="12492" tvg-name="AL| CINEMA 1 FHD" tvg-logo="https://lo1.in/alb/cine1.png" group-title="EU | ALBANIA FILMA",AL| CINEMA 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360069
-#EXTINF:0 CUID="12493" tvg-name="AL| CINEMA 2 FHD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| CINEMA 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45560
-#EXTINF:0 CUID="12494" tvg-name="AL| TELE ONE 1 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118073
-#EXTINF:0 CUID="12495" tvg-name="AL| TELE ONE 2 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118074
-#EXTINF:0 CUID="12496" tvg-name="AL| TELE ONE 3 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183856
-#EXTINF:0 CUID="12497" tvg-name="AL| TELE ONE 4 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118076
-#EXTINF:0 CUID="12498" tvg-name="AL| TELE ONE 5 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE 5 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118077
-#EXTINF:0 CUID="12499" tvg-name="AL| TELE ONE 6 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE 6 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118078
-#EXTINF:0 CUID="12500" tvg-name="AL| TELE ONE Aksion" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE Aksion
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45663
-#EXTINF:0 CUID="12501" tvg-name="AL| TELE ONE Aventure" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE Aventure
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45662
-#EXTINF:0 CUID="12502" tvg-name="AL| TELE ONE Crime" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE Crime
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45661
-#EXTINF:0 CUID="12503" tvg-name="AL| TELE ONE GOLD Collection" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE GOLD Collection
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45660
-#EXTINF:0 CUID="12504" tvg-name="AL| TELE ONE fantazi" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE fantazi
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45659
-#EXTINF:0 CUID="12505" tvg-name="AL| TELE ONE Thriller" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE Thriller
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45658
-#EXTINF:0 CUID="12506" tvg-name="AL| TELE ONE Drama" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE Drama
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45657
-#EXTINF:0 CUID="12507" tvg-name="AL| TELE ONE Epik" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE Epik
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45656
-#EXTINF:0 CUID="12508" tvg-name="AL| TELE ONE Gags" tvg-logo="https://lo1.in/alb/tl1.png" group-title="EU | ALBANIA FILMA",AL| TELE ONE Gags
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45655
-#EXTINF:0 CUID="12509" tvg-name="AL| KARATE HD" tvg-logo="https://lo1.in/alb/karate.png" group-title="EU | ALBANIA FILMA",AL| KARATE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261815
-#EXTINF:0 CUID="12510" tvg-name="AL| FOX HD" tvg-id="fox.al" tvg-logo="https://lo1.in/alb/fx.png" group-title="EU | ALBANIA FILMA",AL| FOX HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183838
-#EXTINF:0 CUID="12511" tvg-name="AL| FOX LIFE HD" tvg-id="foxlife.al" tvg-logo="https://lo1.in/alb/fxlf.png" group-title="EU | ALBANIA FILMA",AL| FOX LIFE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183863
-#EXTINF:0 CUID="12512" tvg-name="AL| FOX CRIME HD" tvg-id="foxcrime.al" tvg-logo="https://lo1.in/alb/fxcrim.png" group-title="EU | ALBANIA FILMA",AL| FOX CRIME HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183828
-#EXTINF:0 CUID="12513" tvg-name="AL| FOX MOVIE HD" tvg-logo="https://lo1.in/alb/fxmv.png" group-title="EU | ALBANIA FILMA",AL| FOX MOVIE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261844
-#EXTINF:0 CUID="12514" tvg-name="AL| RTV ARBËRIA 1 FHD" tvg-logo="https://lo1.in/alb/rtvabr.png" group-title="EU | ALBANIA FILMA",AL| RTV ARBËRIA 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400271448
-#EXTINF:0 CUID="12515" tvg-name="AL| RTV ARBËRIA 2 HD" tvg-logo="https://lo1.in/alb/rtvabr.png" group-title="EU | ALBANIA FILMA",AL| RTV ARBËRIA 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400271473
-#EXTINF:0 CUID="12516" tvg-name="AL| ART KINO 1 FHD" tvg-logo="https://lo1.in/alb/artkino.png" group-title="EU | ALBANIA FILMA",AL| ART KINO 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183820
-#EXTINF:0 CUID="12517" tvg-name="AL| ART KINO 2 FHD" tvg-logo="https://lo1.in/alb/artkino.png" group-title="EU | ALBANIA FILMA",AL| ART KINO 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183821
-#EXTINF:0 CUID="12518" tvg-name="AL| ART KINO 3 FHD" tvg-logo="https://lo1.in/alb/artkino.png" group-title="EU | ALBANIA FILMA",AL| ART KINO 3 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183822
-#EXTINF:0 CUID="12519" tvg-name="AL| EURO FILM HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="EU | ALBANIA FILMA",AL| EURO FILM HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183651
-#EXTINF:0 CUID="12520" tvg-name="AL| EURO FILM 1 HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="EU | ALBANIA FILMA",AL| EURO FILM 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183652
-#EXTINF:0 CUID="12521" tvg-name="AL| EURO FILM 2 HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="EU | ALBANIA FILMA",AL| EURO FILM 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183653
-#EXTINF:0 CUID="12522" tvg-name="AL| EURO FILM 3 HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="EU | ALBANIA FILMA",AL| EURO FILM 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183677
-#EXTINF:0 CUID="12523" tvg-name="AL| EURO FILM 4 HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="EU | ALBANIA FILMA",AL| EURO FILM 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183655
-#EXTINF:0 CUID="12524" tvg-name="AL| FILMBOX EXTRA FHD" tvg-logo="https://lo1.in/alb/flmbx.png" group-title="EU | ALBANIA FILMA",AL| FILMBOX EXTRA FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261843
-#EXTINF:0 CUID="12525" tvg-name="AL| FILMBOX PREMIUM FHD" tvg-logo="https://lo1.in/alb/flmbxprem.png" group-title="EU | ALBANIA FILMA",AL| FILMBOX PREMIUM FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261842
-#EXTINF:0 CUID="12526" tvg-name="AL| FILMBOX ARTHOUSE HD" tvg-logo="https://lo1.in/alb/flmbxhos.png" group-title="EU | ALBANIA FILMA",AL| FILMBOX ARTHOUSE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261841
-#EXTINF:0 CUID="12527" tvg-name="AL| FILM BOX EXTRA FHD" tvg-logo="https://lo1.in/alb/flmbxex.png" group-title="EU | ALBANIA FILMA",AL| FILM BOX EXTRA FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183671
-#EXTINF:0 CUID="12528" tvg-name="AL| ALB ACTION HD" tvg-logo="https://lo1.in/alb/albact.png" group-title="EU | ALBANIA FILMA",AL| ALB ACTION HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183808
-#EXTINF:0 CUID="12529" tvg-name="AL| SKY 7 FHD" tvg-logo="https://lo1.in/alb/sky7.png" group-title="EU | ALBANIA FILMA",AL| SKY 7 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261840
-#EXTINF:0 CUID="12530" tvg-name="AL| SKY SHQIP HD" tvg-logo="https://lo1.in/alb/skyshq.png" group-title="EU | ALBANIA FILMA",AL| SKY SHQIP HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261839
-#EXTINF:0 CUID="12531" tvg-name="AL| SKY STAR FHD" tvg-logo="https://lo1.in/alb/skystr.png" group-title="EU | ALBANIA FILMA",AL| SKY STAR FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261838
-#EXTINF:0 CUID="12532" tvg-name="AL| SKY AKSION FHD" tvg-logo="https://lo1.in/alb/skyaks.png" group-title="EU | ALBANIA FILMA",AL| SKY AKSION FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118024
-#EXTINF:0 CUID="12533" tvg-name="AL| SKY MAX HD" tvg-logo="https://lo1.in/alb/skymx.png" group-title="EU | ALBANIA FILMA",AL| SKY MAX HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118032
-#EXTINF:0 CUID="12534" tvg-name="AL| SKY KOMEDI HD" tvg-logo="https://lo1.in/alb/skycom.png" group-title="EU | ALBANIA FILMA",AL| SKY KOMEDI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118026
-#EXTINF:0 CUID="12535" tvg-name="AL| SKY DRAMA HD" tvg-logo="https://lo1.in/alb/skydra.png" group-title="EU | ALBANIA FILMA",AL| SKY DRAMA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183791
-#EXTINF:0 CUID="12536" tvg-name="AL| SKY NOVELA FHD" tvg-logo="https://lo1.in/alb/skynov.png" group-title="EU | ALBANIA FILMA",AL| SKY NOVELA FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118033
-#EXTINF:0 CUID="12537" tvg-name="AL| TV FESTINA HD" tvg-logo="https://lo1.in/alb/tvfest.png" group-title="EU | ALBANIA FILMA",AL| TV FESTINA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148490
-#EXTINF:0 CUID="12538" tvg-name="AL| X PREMIUM 1 HD" tvg-logo="https://lo1.in/alb/xpremiu.png" group-title="EU | ALBANIA FILMA",AL| X PREMIUM 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118181
-#EXTINF:0 CUID="12539" tvg-name="AL| X PREMIUM 2 HD" tvg-logo="https://lo1.in/alb/xpremiu2.png" group-title="EU | ALBANIA FILMA",AL| X PREMIUM 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118182
-#EXTINF:0 CUID="12540" tvg-name="AL| PORTOKALLI HD" tvg-logo="https://lo1.in/alb/porkli.png" group-title="EU | ALBANIA FILMA",AL| PORTOKALLI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183920
-#EXTINF:0 CUID="12541" tvg-name="AL| E MIRË TV FILM 1 HD" tvg-logo="https://lo1.in/alb/emirmuz.png" group-title="EU | ALBANIA FILMA",AL| E MIRË TV FILM 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261803
-#EXTINF:0 CUID="12542" tvg-name="AL| E MIRË TV FILM ACTION HD" tvg-logo="https://lo1.in/alb/emirmuz.png" group-title="EU | ALBANIA FILMA",AL| E MIRË TV FILM ACTION HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261802
-#EXTINF:0 CUID="12543" tvg-name="AL| E MIRË TV FILM HITS HD" tvg-logo="https://lo1.in/alb/emirmuz.png" group-title="EU | ALBANIA FILMA",AL| E MIRË TV FILM HITS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261801
-#EXTINF:0 CUID="12544" tvg-name="AL| CINESTAR TV COMEDY HD" tvg-logo="https://lo1.in/alb/cinestrcom.png" group-title="EU | ALBANIA FILMA",AL| CINESTAR TV COMEDY HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/32103
-#EXTINF:0 CUID="12545" tvg-name="AL| CINESTAR TV 1 HD" tvg-logo="https://lo1.in/alb/cinestr1.png" group-title="EU | ALBANIA FILMA",AL| CINESTAR TV 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/32104
-#EXTINF:0 CUID="12546" tvg-name="AL| CINESTAR TV 2 HD" tvg-logo="https://lo1.in/alb/cinestr2.png" group-title="EU | ALBANIA FILMA",AL| CINESTAR TV 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/32105
-#EXTINF:0 CUID="12547" tvg-name="AL| CINESTAR TV ACTION HD" tvg-logo="https://lo1.in/alb/cinestract.png" group-title="EU | ALBANIA FILMA",AL| CINESTAR TV ACTION HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/32106
-#EXTINF:0 CUID="12548" tvg-name="AL| CINESTAR TV PREMIERE 1 FHD" tvg-logo="https://lo1.in/alb/cinestrprem1.png" group-title="EU | ALBANIA FILMA",AL| CINESTAR TV PREMIERE 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/32107
-#EXTINF:0 CUID="12549" tvg-name="AL| CINESTAR TV PREMIERE 2 FHD" tvg-logo="https://lo1.in/alb/cinestrprem2.png" group-title="EU | ALBANIA FILMA",AL| CINESTAR TV PREMIERE 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/32108
-#EXTINF:0 CUID="12550" tvg-name="AL| CINESTAR TV FANTASY HD" tvg-logo="https://lo1.in/alb/cinestrfan.png" group-title="EU | ALBANIA FILMA",AL| CINESTAR TV FANTASY HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/32109
-#EXTINF:0 CUID="12551" tvg-name="AL| FILM ROMANCE HD" tvg-logo="https://lo1.in/alb/flmrmnc.png" group-title="EU | ALBANIA FILMA",AL| FILM ROMANCE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261821
-#EXTINF:0 CUID="12552" tvg-name="AL| FILM MIX HD" tvg-logo="https://lo1.in/alb/flmmx.png" group-title="EU | ALBANIA FILMA",AL| FILM MIX HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261820
-#EXTINF:0 CUID="12553" tvg-name="AL| FILM MIX 2 HD" tvg-logo="https://lo1.in/alb/flmmx.png" group-title="EU | ALBANIA FILMA",AL| FILM MIX 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261819
-#EXTINF:0 CUID="12554" tvg-name="AL| FILM GOLD HD" tvg-logo="https://lo1.in/alb/GOLD.png" group-title="EU | ALBANIA FILMA",AL| FILM GOLD HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/32523
-#EXTINF:0 CUID="12555" tvg-name="AL| FILMA ROMANCE HD" tvg-logo="https://lo1.in/alb/flmrmnc.png" group-title="EU | ALBANIA FILMA",AL| FILMA ROMANCE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261818
-#EXTINF:0 CUID="12556" tvg-name="AL| FILMA HORROR HD" tvg-logo="https://lo1.in/alb/flmhrr.png" group-title="EU | ALBANIA FILMA",AL| FILMA HORROR HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261817
-#EXTINF:0 CUID="12557" tvg-name="AL| FILMA PREMIER HD" tvg-logo="https://lo1.in/alb/flmprem.png" group-title="EU | ALBANIA FILMA",AL| FILMA PREMIER HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261816
-#EXTINF:0 CUID="12558" tvg-name="AL| RTV ILIRIDA HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="EU | ALBANIA FILMA",AL| RTV ILIRIDA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/76205
-#EXTINF:0 CUID="12559" tvg-name="AL| RTV ILIRIDA FILMA HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="EU | ALBANIA FILMA",AL| RTV ILIRIDA FILMA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/76200
-#EXTINF:0 CUID="12560" tvg-name="AL| RTV ILIRIDA FEMIJE HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="EU | ALBANIA FILMA",AL| RTV ILIRIDA FEMIJE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/76201
-#EXTINF:0 CUID="12561" tvg-name="AL| RTV ILIRIDA DADOKUMENTAR HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="EU | ALBANIA FILMA",AL| RTV ILIRIDA DADOKUMENTAR HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/76202
-#EXTINF:0 CUID="12562" tvg-name="AL| RTV ILIRIDA HUMOR SHQIP HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="EU | ALBANIA FILMA",AL| RTV ILIRIDA HUMOR SHQIP HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/76203
-#EXTINF:0 CUID="12563" tvg-name="AL| RTV ILIRIDA TV MENDI HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="EU | ALBANIA FILMA",AL| RTV ILIRIDA TV MENDI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/76204
-#EXTINF:0 CUID="12564" tvg-name="AL| STARFILM 1 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261814
-#EXTINF:0 CUID="12565" tvg-name="AL| STARFILM 2 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261813
-#EXTINF:0 CUID="12566" tvg-name="AL| STARFILM 3 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261812
-#EXTINF:0 CUID="12567" tvg-name="AL| STARFILM 4 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261811
-#EXTINF:0 CUID="12568" tvg-name="AL| STARFILM 5 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 5 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261810
-#EXTINF:0 CUID="12569" tvg-name="AL| STARFILM 6 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 6 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261809
-#EXTINF:0 CUID="12570" tvg-name="AL| STARFILM 7 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 7 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261808
-#EXTINF:0 CUID="12571" tvg-name="AL| STARFILM 8 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 8 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261807
-#EXTINF:0 CUID="12572" tvg-name="AL| STARFILM 9 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 9 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261806
-#EXTINF:0 CUID="12573" tvg-name="AL| STARFILM 10 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="EU | ALBANIA FILMA",AL| STARFILM 10 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261805
-#EXTINF:0 CUID="12574" tvg-name="AL| NETFLIX KOMEDI" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX KOMEDI
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188418
-#EXTINF:0 CUID="12575" tvg-name="AL| NETFLIX ROMANC" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX ROMANC
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188419
-#EXTINF:0 CUID="12576" tvg-name="AL| NETFLIX HORROR" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX HORROR
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188420
-#EXTINF:0 CUID="12577" tvg-name="AL| NETFLIX ARNOD SHWARZENEGGER" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX ARNOD SHWARZENEGGER
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188421
-#EXTINF:0 CUID="12578" tvg-name="AL| NETFLIX SYLVESTER STALLONE" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX SYLVESTER STALLONE
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188422
-#EXTINF:0 CUID="12579" tvg-name="AL| NETFLIX VAN DAMME" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX VAN DAMME
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188423
-#EXTINF:0 CUID="12580" tvg-name="AL| NETFLIX DWAYNE JOHNSON" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX DWAYNE JOHNSON
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188424
-#EXTINF:0 CUID="12581" tvg-name="AL| NETFLIX FANTAZI" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX FANTAZI
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188425
-#EXTINF:0 CUID="12582" tvg-name="AL| NETFLIX  EPIK" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX  EPIK
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188426
-#EXTINF:0 CUID="12583" tvg-name="AL| NETFLIX AVANTUR" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX AVANTUR
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188427
-#EXTINF:0 CUID="12584" tvg-name="AL| NETFLIX AKSION" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="EU | ALBANIA FILMA",AL| NETFLIX AKSION
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400188428
-#EXTINF:0 CUID="12585" tvg-name="AL| MAX PREMIER 1 HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX PREMIER 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38072
-#EXTINF:0 CUID="12586" tvg-name="AL| MAX PREMIER 2 HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX PREMIER 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38071
-#EXTINF:0 CUID="12587" tvg-name="AL| MAX PREMIER 3 HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX PREMIER 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38070
-#EXTINF:0 CUID="12588" tvg-name="AL| MAX PREMIER 4 HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX PREMIER 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38069
-#EXTINF:0 CUID="12589" tvg-name="AL| MAX HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| MAX HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473509
-#EXTINF:0 CUID="12590" tvg-name="AL| MAX CINE HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX CINE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38068
-#EXTINF:0 CUID="12591" tvg-name="AL| MAX ELITE HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX ELITE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38067
-#EXTINF:0 CUID="12592" tvg-name="AL| MAX ENERGI HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX ENERGI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38066
-#EXTINF:0 CUID="12593" tvg-name="AL| MAX ONE HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX ONE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38065
-#EXTINF:0 CUID="12594" tvg-name="AL| MAX RED HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX RED HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38064
-#EXTINF:0 CUID="12595" tvg-name="AL| MAX STAR HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="EU | ALBANIA FILMA",AL| MAX STAR HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38063
-#EXTINF:0 CUID="12596" tvg-name="AL| FILM24 AKSION 1 HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="EU | ALBANIA FILMA",AL| FILM24 AKSION 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38080
-#EXTINF:0 CUID="12597" tvg-name="AL| FILM24 AKSION 2 HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="EU | ALBANIA FILMA",AL| FILM24 AKSION 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38079
-#EXTINF:0 CUID="12598" tvg-name="AL| FILM24 AKSION 3 HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="EU | ALBANIA FILMA",AL| FILM24 AKSION 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38078
-#EXTINF:0 CUID="12599" tvg-name="AL| FILM24 AZIATIK HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="EU | ALBANIA FILMA",AL| FILM24 AZIATIK HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38077
-#EXTINF:0 CUID="12600" tvg-name="AL| FILM24 AVENTURE HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="EU | ALBANIA FILMA",AL| FILM24 AVENTURE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38076
-#EXTINF:0 CUID="12601" tvg-name="AL| FILM24 DRAME HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="EU | ALBANIA FILMA",AL| FILM24 DRAME HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38075
-#EXTINF:0 CUID="12602" tvg-name="AL| FILM24 FANTASHKEENC HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="EU | ALBANIA FILMA",AL| FILM24 FANTASHKEENC HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38074
-#EXTINF:0 CUID="12603" tvg-name="AL| WebStar Aksion" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Aksion
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45576
-#EXTINF:0 CUID="12604" tvg-name="AL| WebStar Chanel 4K." tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Chanel 4K.
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45575
-#EXTINF:0 CUID="12605" tvg-name="AL| WebStar ChuChu TV" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar ChuChu TV
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45574
-#EXTINF:0 CUID="12606" tvg-name="AL| WebStar Cinema DE" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Cinema DE
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45573
-#EXTINF:0 CUID="12607" tvg-name="AL| WebStar Cinema" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Cinema
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45572
-#EXTINF:0 CUID="12608" tvg-name="AL| WebStar Drame" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Drame
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45571
-#EXTINF:0 CUID="12609" tvg-name="AL| WebStar Komedi" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Komedi
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45570
-#EXTINF:0 CUID="12610" tvg-name="AL| WebStar Masha Orso" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Masha Orso
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45569
-#EXTINF:0 CUID="12611" tvg-name="AL| WebStar Thriller" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Thriller
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45568
-#EXTINF:0 CUID="12612" tvg-name="AL| WebStar Music CH" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Music CH
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45567
-#EXTINF:0 CUID="12613" tvg-name="AL| WebStar Muzik" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Muzik
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45566
-#EXTINF:0 CUID="12614" tvg-name="AL| WebStar Popullore" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Popullore
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45565
-#EXTINF:0 CUID="12615" tvg-name="AL| WebStar Qifteli" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Qifteli
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45564
-#EXTINF:0 CUID="12616" tvg-name="AL| WebStar Islam" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| WebStar Islam
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45563
-#EXTINF:0 CUID="12617" tvg-name="AL| ShqipTV Aksion" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Aksion
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45611
-#EXTINF:0 CUID="12618" tvg-name="AL| ShqipTV Fantasy" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Fantasy
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45610
-#EXTINF:0 CUID="12619" tvg-name="AL| ShqipTV Komedi" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Komedi
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45609
-#EXTINF:0 CUID="12620" tvg-name="AL| ShqipTV Drama" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Drama
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45608
-#EXTINF:0 CUID="12621" tvg-name="AL| ShqipTV Romance" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Romance
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45607
-#EXTINF:0 CUID="12622" tvg-name="AL| ShqipTV Marvel" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Marvel
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45606
-#EXTINF:0 CUID="12623" tvg-name="AL| ShqipTV Family" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Family
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45605
-#EXTINF:0 CUID="12624" tvg-name="AL| ShqipTV Thriller " tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Thriller 
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45604
-#EXTINF:0 CUID="12625" tvg-name="AL| ShqipTV Hits" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Hits
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45603
-#EXTINF:0 CUID="12626" tvg-name="AL| ShqipTV Cinema" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Cinema
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45602
-#EXTINF:0 CUID="12627" tvg-name="AL| ShqipTV Film" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Film
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45601
-#EXTINF:0 CUID="12628" tvg-name="AL| ShqipTV Hindi" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Hindi
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45600
-#EXTINF:0 CUID="12629" tvg-name="AL| ShqipTV Western" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Western
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45599
-#EXTINF:0 CUID="12630" tvg-name="AL| ShqipTV Serial" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Serial
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45598
-#EXTINF:0 CUID="12631" tvg-name="AL| ShqipTV Tom & Jerry" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Tom & Jerry
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45597
-#EXTINF:0 CUID="12632" tvg-name="AL| ShqipTV MiMi" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV MiMi
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45596
-#EXTINF:0 CUID="12633" tvg-name="AL| ShqipTV Jeta" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Jeta
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45595
-#EXTINF:0 CUID="12634" tvg-name="AL| ShqipTV Folk" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Folk
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45594
-#EXTINF:0 CUID="12635" tvg-name="AL| ShqipTV Humor" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Humor
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45593
-#EXTINF:0 CUID="12636" tvg-name="AL| ShqipTV Stupcat" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Stupcat
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45592
-#EXTINF:0 CUID="12637" tvg-name="AL| ShqipTV Ilahi" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ShqipTV Ilahi
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45591
-#EXTINF:0 CUID="12638" tvg-name="AL| Kinema Animation" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Animation
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45577
-#EXTINF:0 CUID="12639" tvg-name="AL| Kinema Super" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Super
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45578
-#EXTINF:0 CUID="12640" tvg-name="AL| Kinema Milenium 1" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Milenium 1
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45582
-#EXTINF:0 CUID="12641" tvg-name="AL| Kinema Milenium 2" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Milenium 2
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45581
-#EXTINF:0 CUID="12642" tvg-name="AL| Kinema Milenium 3" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Milenium 3
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45580
-#EXTINF:0 CUID="12643" tvg-name="AL| Kinema Milenium 4" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Milenium 4
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45579
-#EXTINF:0 CUID="12644" tvg-name="AL| Kinema Hits" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Hits
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45583
-#EXTINF:0 CUID="12645" tvg-name="AL| Kinema Gold" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Gold
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45584
-#EXTINF:0 CUID="12646" tvg-name="AL| Kinema Fantasy" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Fantasy
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45585
-#EXTINF:0 CUID="12647" tvg-name="AL| Kinema Family" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Family
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45586
-#EXTINF:0 CUID="12648" tvg-name="AL| Kinema Comedy" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Comedy
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45587
-#EXTINF:0 CUID="12649" tvg-name="AL| Kinema Classics" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Classics
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45588
-#EXTINF:0 CUID="12650" tvg-name="AL| Kinema Aksion MAX" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Aksion MAX
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45589
-#EXTINF:0 CUID="12651" tvg-name="AL| Kinema Aksion" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| Kinema Aksion
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45590
-#EXTINF:0 CUID="12652" tvg-name="AL| DARK PRIME 1" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK PRIME 1
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45654
-#EXTINF:0 CUID="12653" tvg-name="AL| DARK PRIME 2" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK PRIME 2
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45653
-#EXTINF:0 CUID="12654" tvg-name="AL| DARK PRIME 3" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK PRIME 3
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45652
-#EXTINF:0 CUID="12655" tvg-name="AL| DARK PRIME 4" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK PRIME 4
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45651
-#EXTINF:0 CUID="12656" tvg-name="AL| DARK GOLD 1" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK GOLD 1
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45650
-#EXTINF:0 CUID="12657" tvg-name="AL| DARK GOLD 2" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK GOLD 2
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45649
-#EXTINF:0 CUID="12658" tvg-name="AL| DARK GOLD 3" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK GOLD 3
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45648
-#EXTINF:0 CUID="12659" tvg-name="AL| DARK GOLD 4" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK GOLD 4
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45647
-#EXTINF:0 CUID="12660" tvg-name="AL| DARK Netflix 1" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Netflix 1
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45646
-#EXTINF:0 CUID="12661" tvg-name="AL| DARK Netflix 2" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Netflix 2
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45645
-#EXTINF:0 CUID="12662" tvg-name="AL| DARK Netflix 3" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Netflix 3
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45644
-#EXTINF:0 CUID="12663" tvg-name="AL| DARK Netflix 4" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Netflix 4
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45643
-#EXTINF:0 CUID="12664" tvg-name="AL| DARK Aksion" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Aksion
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45642
-#EXTINF:0 CUID="12665" tvg-name="AL| DARK Komedi" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Komedi
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45641
-#EXTINF:0 CUID="12666" tvg-name="AL| DARK Western" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Western
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45640
-#EXTINF:0 CUID="12667" tvg-name="AL| DARK Classic" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Classic
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45639
-#EXTINF:0 CUID="12668" tvg-name="AL| DARK Family" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Family
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45638
-#EXTINF:0 CUID="12669" tvg-name="AL| DARK Fantazi" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Fantazi
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45637
-#EXTINF:0 CUID="12670" tvg-name="AL| DARK Hindi" tvg-logo="https://lo1.in/alb/dark.png" group-title="EU | ALBANIA FILMA",AL| DARK Hindi
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45636
-#EXTINF:0 CUID="12671" tvg-name="AL| HUMOR 1 HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| HUMOR 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261873
-#EXTINF:0 CUID="12672" tvg-name="AL| HUMOR 2 HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| HUMOR 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261872
-#EXTINF:0 CUID="12673" tvg-name="AL| HUMOR 3 HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| HUMOR 3 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261871
-#EXTINF:0 CUID="12674" tvg-name="AL| HUMOR 4 HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| HUMOR 4 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261870
-#EXTINF:0 CUID="12675" tvg-name="AL| HUMOR 5 HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| HUMOR 5 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261869
-#EXTINF:0 CUID="12676" tvg-name="AL| PLEQENARËT HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| PLEQENARËT HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261860
-#EXTINF:0 CUID="12677" tvg-name="AL| ZYHRA HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| ZYHRA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261861
-#EXTINF:0 CUID="12678" tvg-name="AL| QUMILI HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| QUMILI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261862
-#EXTINF:0 CUID="12679" tvg-name="AL| MINISTRIA E SHYHRETIT HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| MINISTRIA E SHYHRETIT HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261863
-#EXTINF:0 CUID="12680" tvg-name="AL| KOMEDI KOSOVARE HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| KOMEDI KOSOVARE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261864
-#EXTINF:0 CUID="12681" tvg-name="AL| KOMEDI SHQIPTARE HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| KOMEDI SHQIPTARE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261865
-#EXTINF:0 CUID="12682" tvg-name="AL| CIMA HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| CIMA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261866
-#EXTINF:0 CUID="12683" tvg-name="AL| SHENGEN VISA HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| SHENGEN VISA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261867
-#EXTINF:0 CUID="12684" tvg-name="AL| STUPCAT EGJELI HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA FILMA",AL| STUPCAT EGJELI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261868
-#EXTINF:0 CUID="12685" tvg-name="AL| Q STUPCAT HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA FILMA",AL| Q STUPCAT HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473505
-#EXTINF:0 CUID="12686" tvg-name="✦●✦ GJENERALE ✦●✦" tvg-logo="https://lo1.in/alb/gjene.png" group-title="EU | ALBANIA GJENERALE",✦●✦ GJENERALE ✦●✦
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148472
-#EXTINF:0 CUID="12687" tvg-name="AL| GJURME SHQIPTARE HD" tvg-logo="https://lo1.in/alb/gjshtre.png" group-title="EU | ALBANIA GJENERALE",AL| GJURME SHQIPTARE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183840
-#EXTINF:0 CUID="12688" tvg-name="AL| BIG BROTHER VIP ALBANIA 1" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/82148
-#EXTINF:0 CUID="12689" tvg-name="AL| BIG BROTHER VIP ALBANIA 1 [BK]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1 [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/19301
-#EXTINF:0 CUID="12690" tvg-name="AL| BIG BROTHER VIP ALBANIA 1 [BK1]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1 [BK1]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/19306
-#EXTINF:0 CUID="12691" tvg-name="AL| BIG BROTHER VIP ALBANIA 1 [BK2]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1 [BK2]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/42047
-#EXTINF:0 CUID="12692" tvg-name="AL| BIG BROTHER VIP ALBANIA 2" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/82147
-#EXTINF:0 CUID="12693" tvg-name="AL| BIG BROTHER VIP ALBANIA 2 [BK]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2 [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/19302
-#EXTINF:0 CUID="12694" tvg-name="AL| BIG BROTHER VIP ALBANIA 2 [BK1]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2 [BK1]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/19317
-#EXTINF:0 CUID="12695" tvg-name="AL| BIG BROTHER VIP ALBANIA 2 [BK2]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2 [BK2]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/42046
-#EXTINF:0 CUID="12696" tvg-name="AL| TOP CHANNEL FHD" tvg-id="topchannel.al" tvg-logo="https://lo1.in/alb/tpchan.png" group-title="EU | ALBANIA GJENERALE",AL| TOP CHANNEL FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148422
-#EXTINF:0 CUID="12697" tvg-name="AL| TOP CHANNEL HD" tvg-id="topchannel.al" tvg-logo="https://lo1.in/alb/tpchan.png" group-title="EU | ALBANIA GJENERALE",AL| TOP CHANNEL HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360050
-#EXTINF:0 CUID="12698" tvg-name="AL| TOP CHANNEL SD" tvg-id="topchannel.al" tvg-logo="https://lo1.in/alb/tpchan.png" group-title="EU | ALBANIA GJENERALE",AL| TOP CHANNEL SD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118088
-#EXTINF:0 CUID="12699" tvg-name="AL| TOP CHANNEL HD [BK]" tvg-logo="https://lo1.in/alb/tpchan.png" group-title="EU | ALBANIA GJENERALE",AL| TOP CHANNEL HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/191647
-#EXTINF:0 CUID="12700" tvg-name="AL| KLAN FHD" tvg-id="klantv.al" tvg-logo="https://lo1.in/alb/klan.png" group-title="EU | ALBANIA GJENERALE",AL| KLAN FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183903
-#EXTINF:0 CUID="12701" tvg-name="AL| KLAN HD" tvg-id="klantv.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/klan.png" group-title="EU | ALBANIA GJENERALE",AL| KLAN HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/321597
-#EXTINF:0 CUID="12702" tvg-name="AL| KLAN HD [BK]" tvg-logo="https://lo1.in/alb/klan.png" group-title="EU | ALBANIA GJENERALE",AL| KLAN HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/191334
-#EXTINF:0 CUID="12703" tvg-name="AL| KLAN PLUS FHD" tvg-id="klanplus.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/kanpls.png" group-title="EU | ALBANIA GJENERALE",AL| KLAN PLUS FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148420
-#EXTINF:0 CUID="12704" tvg-name="AL| KLAN KOSOVA FHD" tvg-id="klankosova.al" tvg-logo="https://lo1.in/alb/klnkoso.png" group-title="EU | ALBANIA GJENERALE",AL| KLAN KOSOVA FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400252329
-#EXTINF:0 CUID="12705" tvg-name="AL| KLAN KOSOVA HD" tvg-id="klankosova.al" tvg-logo="https://lo1.in/alb/klnkoso.png" group-title="EU | ALBANIA GJENERALE",AL| KLAN KOSOVA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183904
-#EXTINF:0 CUID="12706" tvg-name="AL| KLAN MACEDONIA HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/klanmcdon.png" group-title="EU | ALBANIA GJENERALE",AL| KLAN MACEDONIA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183905
-#EXTINF:0 CUID="12707" tvg-name="AL| VIZION PLUS FHD" tvg-id="vizionplus.al" tvg-logo="https://lo1.in/alb/visipls.png" group-title="EU | ALBANIA GJENERALE",AL| VIZION PLUS FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148418
-#EXTINF:0 CUID="12708" tvg-name="AL| VIZION PLUS HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/visipls.png" group-title="EU | ALBANIA GJENERALE",AL| VIZION PLUS HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148419
-#EXTINF:0 CUID="12709" tvg-name="AL| MCN TV FHD" tvg-logo="https://lo1.in/alb/mcn.png" group-title="EU | ALBANIA GJENERALE",AL| MCN TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400149106
-#EXTINF:0 CUID="12710" tvg-name="AL| MCN 24 HD" tvg-logo="https://lo1.in/alb/mcn.png" group-title="EU | ALBANIA GJENERALE",AL| MCN 24 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/38102
-#EXTINF:0 CUID="12711" tvg-name="AL| RTK 1 FHD" tvg-id="rtk.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/rt1.png" group-title="EU | ALBANIA GJENERALE",AL| RTK 1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183924
-#EXTINF:0 CUID="12712" tvg-name="AL| RTK 2 FHD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/rtk2.png" group-title="EU | ALBANIA GJENERALE",AL| RTK 2 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183925
-#EXTINF:0 CUID="12713" tvg-name="AL| RTK 3 FHD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/rtk3.png" group-title="EU | ALBANIA GJENERALE",AL| RTK 3 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183926
-#EXTINF:0 CUID="12714" tvg-name="AL| RTK 4 FHD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/rtk4.png" group-title="EU | ALBANIA GJENERALE",AL| RTK 4 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183927
-#EXTINF:0 CUID="12715" tvg-name="AL| ATV FHD" tvg-logo="https://lo1.in/alb/atv.png" group-title="EU | ALBANIA GJENERALE",AL| ATV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148246
-#EXTINF:0 CUID="12716" tvg-name="AL| KTV FHD" tvg-logo="https://lo1.in/alb/ktv.png" group-title="EU | ALBANIA GJENERALE",AL| KTV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/212446
-#EXTINF:0 CUID="12717" tvg-name="AL| KTV HD" tvg-logo="https://lo1.in/alb/ktv.png" group-title="EU | ALBANIA GJENERALE",AL| KTV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183848
-#EXTINF:0 CUID="12718" tvg-name="AL| RTV 21 FHD" tvg-id="rtv21.al" tvg-logo="https://lo1.in/alb/rtv21.png" group-title="EU | ALBANIA GJENERALE",AL| RTV 21 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400252331
-#EXTINF:0 CUID="12719" tvg-name="AL| RTV 21 HD" tvg-id="rtv21.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/rtv21.png" group-title="EU | ALBANIA GJENERALE",AL| RTV 21 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183851
-#EXTINF:0 CUID="12720" tvg-name="AL| RTV 21 MAQEDONIA FHD" tvg-id="rtv21m.al" tvg-logo="https://lo1.in/alb/rtv21mqdo.png" group-title="EU | ALBANIA GJENERALE",AL| RTV 21 MAQEDONIA FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183936
-#EXTINF:0 CUID="12721" tvg-name="AL| RTV 21 NEWSBIZ HD" tvg-id="rtv21.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/rtv21nsbiz.png" group-title="EU | ALBANIA GJENERALE",AL| RTV 21 NEWSBIZ HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184083
-#EXTINF:0 CUID="12722" tvg-name="AL| T7 FHD" tvg-logo="https://lo1.in/alb/t7.png" group-title="EU | ALBANIA GJENERALE",AL| T7 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360047
-#EXTINF:0 CUID="12723" tvg-name="AL| T7 HD" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/t7.png" group-title="EU | ALBANIA GJENERALE",AL| T7 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118071
-#EXTINF:0 CUID="12724" tvg-name="AL| FIRST TV FHD" tvg-id="firstchannel.al" tvg-logo="https://lo1.in/alb/frst.png" group-title="EU | ALBANIA GJENERALE",AL| FIRST TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183782
-#EXTINF:0 CUID="12725" tvg-name="AL| DASMA TV FHD" tvg-logo="https://lo1.in/alb/dsma.png" group-title="EU | ALBANIA GJENERALE",AL| DASMA TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148370
-#EXTINF:0 CUID="12726" tvg-name="AL| TV DUKAGJINI FHD" tvg-id="tvdukagjini.al" tvg-logo="https://lo1.in/alb/tvdukagj.png" group-title="EU | ALBANIA GJENERALE",AL| TV DUKAGJINI FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/360046
-#EXTINF:0 CUID="12727" tvg-name="AL| ALSAT M FHD" tvg-id="alsatm.al" tvg-logo="https://lo1.in/alb/alsat.png" group-title="EU | ALBANIA GJENERALE",AL| ALSAT M FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148471
-#EXTINF:0 CUID="12728" tvg-name="AL| ALSAT FHD" tvg-id="alsatm.al" tvg-logo="https://lo1.in/alb/alsat.png" group-title="EU | ALBANIA GJENERALE",AL| ALSAT FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148469
-#EXTINF:0 CUID="12729" tvg-name="AL| ALSAT HD" tvg-id="alsatm.al" catchup-type="xc" catchup-days="2" tvg-logo="https://lo1.in/alb/alsat.png" group-title="EU | ALBANIA GJENERALE",AL| ALSAT HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148470
-#EXTINF:0 CUID="12730" tvg-name="AL| RTM 2 HD" tvg-logo="https://lo1.in/alb/mktv2.png" group-title="EU | ALBANIA GJENERALE",AL| RTM 2 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183918
-#EXTINF:0 CUID="12731" tvg-name="AL| TV SHENJA HD" tvg-logo="https://lo1.in/alb/tvshenj.png" group-title="EU | ALBANIA GJENERALE",AL| TV SHENJA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148461
-#EXTINF:0 CUID="12732" tvg-name="AL| TV OPOJA HD" tvg-logo="https://lo1.in/alb/tvopoja.png" group-title="EU | ALBANIA GJENERALE",AL| TV OPOJA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148324
-#EXTINF:0 CUID="12733" tvg-name="AL| TV KOHA HD" tvg-logo="https://lo1.in/alb/gjene.png" group-title="EU | ALBANIA GJENERALE",AL| TV KOHA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118131
-#EXTINF:0 CUID="12734" tvg-name="AL| TV2 MK HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA GJENERALE",AL| TV2 MK HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473514
-#EXTINF:0 CUID="12735" tvg-name="AL| TV GLOBI HD" tvg-logo="https://lo1.in/alb/globi.png" group-title="EU | ALBANIA GJENERALE",AL| TV GLOBI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261895
-#EXTINF:0 CUID="12736" tvg-name="AL| NEWS TV MK FHD" tvg-logo="https://lo1.in/alb/nsmk.png" group-title="EU | ALBANIA GJENERALE",AL| NEWS TV MK FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261770
-#EXTINF:0 CUID="12737" tvg-name="AL| TV 2 GOSTIVAR FHD" tvg-logo="https://lo1.in/alb/t2gostiv.png" group-title="EU | ALBANIA GJENERALE",AL| TV 2 GOSTIVAR FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148457
-#EXTINF:0 CUID="12738" tvg-name="AL| ERA TV HD" tvg-logo="https://lo1.in/alb/era.png" group-title="EU | ALBANIA GJENERALE",AL| ERA TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148322
-#EXTINF:0 CUID="12739" tvg-name="AL| TëVë 1 HD" tvg-logo="https://lo1.in/alb/albsp.png" group-title="EU | ALBANIA GJENERALE",AL| TëVë 1 HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400406119
-#EXTINF:0 CUID="12740" tvg-name="AL| KANAL 10 FHD" tvg-logo="https://lo1.in/alb/kan10.png" group-title="EU | ALBANIA GJENERALE",AL| KANAL 10 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184036
-#EXTINF:0 CUID="12741" tvg-name="AL| PRO1 FHD" group-title="EU | ALBANIA GJENERALE",AL| PRO1 FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400449156
-#EXTINF:0 CUID="12742" tvg-name="AL| TV KOPLIKU HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA GJENERALE",AL| TV KOPLIKU HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473512
-#EXTINF:0 CUID="12743" tvg-name="AL| ZJARR TV HD" tvg-logo="https://lo1.in/alb/zjar.png" group-title="EU | ALBANIA GJENERALE",AL| ZJARR TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118197
-#EXTINF:0 CUID="12744" tvg-name="AL| STAR PLUS SHKODER HD" tvg-logo="https://lo1.in/alb/strplsshkdr.png" group-title="EU | ALBANIA GJENERALE",AL| STAR PLUS SHKODER HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118050
-#EXTINF:0 CUID="12745" tvg-name="AL| ANTENA SHKODER HD" tvg-logo="https://lo1.in/alb/anshkdr.png" group-title="EU | ALBANIA GJENERALE",AL| ANTENA SHKODER HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118152
-#EXTINF:0 CUID="12746" tvg-name="AL| TV ROZAFA SHKODER HD" tvg-logo="https://lo1.in/alb/tvrozfshkd.png" group-title="EU | ALBANIA GJENERALE",AL| TV ROZAFA SHKODER HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148300
-#EXTINF:0 CUID="12747" tvg-name="AL|  TV 1 SHKODER HD" tvg-logo="https://lo1.in/alb/tv1shkdr.png" group-title="EU | ALBANIA GJENERALE",AL|  TV 1 SHKODER HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148307
-#EXTINF:0 CUID="12748" tvg-name="AL| SARANDA TV HD" tvg-logo="https://lo1.in/alb/sarnda.png" group-title="EU | ALBANIA GJENERALE",AL| SARANDA TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261888
-#EXTINF:0 CUID="12749" tvg-name="AL| ANTENA HD" tvg-logo="https://lo1.in/alb/antena.png" group-title="EU | ALBANIA GJENERALE",AL| ANTENA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148303
-#EXTINF:0 CUID="12750" tvg-name="AL| TV TETOVA HD" tvg-logo="https://lo1.in/alb/tvteto.png" group-title="EU | ALBANIA GJENERALE",AL| TV TETOVA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118146
-#EXTINF:0 CUID="12751" tvg-name="AL| TV CHICAGO HD" tvg-logo="https://lo1.in/alb/tvchika.png" group-title="EU | ALBANIA GJENERALE",AL| TV CHICAGO HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118124
-#EXTINF:0 CUID="12752" tvg-name="AL| TEMA TV HD" tvg-logo="https://lo1.in/alb/tema.png" group-title="EU | ALBANIA GJENERALE",AL| TEMA TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118079
-#EXTINF:0 CUID="12753" tvg-name="AL| SYRI BLUE HD" tvg-logo="https://lo1.in/alb/syrblu.png" group-title="EU | ALBANIA GJENERALE",AL| SYRI BLUE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118066
-#EXTINF:0 CUID="12754" tvg-name="AL| ADRIA NET HD" tvg-logo="https://lo1.in/alb/adrianet.png" group-title="EU | ALBANIA GJENERALE",AL| ADRIA NET HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183998
-#EXTINF:0 CUID="12755" tvg-name="AL| 24 KITCHEN HD" tvg-logo="https://lo1.in/alb/24kit.png" group-title="EU | ALBANIA GJENERALE",AL| 24 KITCHEN HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183860
-#EXTINF:0 CUID="12756" tvg-name="AL| PREMIUM CHANNEL HD" tvg-logo="https://lo1.in/alb/premchan.png" group-title="EU | ALBANIA GJENERALE",AL| PREMIUM CHANNEL HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148290
-#EXTINF:0 CUID="12757" tvg-name="AL| TV OPINIONI HD" tvg-logo="https://lo1.in/alb/tvopin.png" group-title="EU | ALBANIA GJENERALE",AL| TV OPINIONI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118136
-#EXTINF:0 CUID="12758" tvg-name="AL| LOBI TV HD" tvg-logo="https://lo1.in/alb/lobi.png" group-title="EU | ALBANIA GJENERALE",AL| LOBI TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183914
-#EXTINF:0 CUID="12759" tvg-name="AL| RTV ALDI HD" tvg-logo="https://lo1.in/alb/rtvadli.png" group-title="EU | ALBANIA GJENERALE",AL| RTV ALDI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184037
-#EXTINF:0 CUID="12760" tvg-name="AL| Globe Tv" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA GJENERALE",AL| Globe Tv
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45561
-#EXTINF:0 CUID="12761" tvg-name="AL| TV Pollogu" tvg-logo="https://lo1.in/alb/alb.png" group-title="EU | ALBANIA GJENERALE",AL| TV Pollogu
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/45562
-#EXTINF:0 CUID="12762" tvg-name="AL| PRIME TV FHD" tvg-logo="https://lo1.in/alb/prim.png" group-title="EU | ALBANIA GJENERALE",AL| PRIME TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261804
-#EXTINF:0 CUID="12763" tvg-name="AL| DIELLI TV HD" tvg-logo="https://lo1.in/alb/diell.png" group-title="EU | ALBANIA GJENERALE",AL| DIELLI TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/184008
-#EXTINF:0 CUID="12764" tvg-name="AL| AA NEWYORK TV FHD" tvg-logo="https://lo1.in/alb/aany.png" group-title="EU | ALBANIA GJENERALE",AL| AA NEWYORK TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261760
-#EXTINF:0 CUID="12765" tvg-name="AL| ACTV MICHIGAN HD" tvg-logo="https://lo1.in/alb/actvmich.png" group-title="EU | ALBANIA GJENERALE",AL| ACTV MICHIGAN HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261759
-#EXTINF:0 CUID="12766" tvg-name="AL| MUSE TV HD" tvg-id="muse.al" tvg-logo="https://lo1.in/alb/muse.png" group-title="EU | ALBANIA GJENERALE",AL| MUSE TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148320
-#EXTINF:0 CUID="12767" tvg-name="AL| APOLLON TV FHD" tvg-logo="https://lo1.in/alb/apollon.png" group-title="EU | ALBANIA GJENERALE",AL| APOLLON TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148319
-#EXTINF:0 CUID="12768" tvg-name="AL| SYRI VISION TV FHD" tvg-logo="https://lo1.in/alb/sryvisi.png" group-title="EU | ALBANIA GJENERALE",AL| SYRI VISION TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148302
-#EXTINF:0 CUID="12769" tvg-name="AL| LIRIA TV HD" tvg-logo="https://lo1.in/alb/liria.png" group-title="EU | ALBANIA GJENERALE",AL| LIRIA TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148301
-#EXTINF:0 CUID="12770" tvg-name="AL| ALBSWISS TV FHD" tvg-logo="https://lo1.in/alb/albswis.png" group-title="EU | ALBANIA GJENERALE",AL| ALBSWISS TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148297
-#EXTINF:0 CUID="12771" tvg-name="AL| TV ULQINI HD" tvg-logo="https://lo1.in/alb/tvulq.png" group-title="EU | ALBANIA GJENERALE",AL| TV ULQINI HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148292
-#EXTINF:0 CUID="12772" tvg-name="AL| ON TV HD ♫" tvg-logo="https://lo1.in/alb/ontv.png" group-title="EU | ALBANIA GJENERALE",AL| ON TV HD ♫
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148289
-#EXTINF:0 CUID="12773" tvg-name="AL| USKANA TV HD" tvg-logo="https://lo1.in/alb/uskana.png" group-title="EU | ALBANIA GJENERALE",AL| USKANA TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148282
-#EXTINF:0 CUID="12774" tvg-name="AL| FASHION TV HD" tvg-logo="https://lo1.in/alb/fshn.png" group-title="EU | ALBANIA GJENERALE",AL| FASHION TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183893
-#EXTINF:0 CUID="12775" tvg-name="AL| RTV 1 ALBANIA HD" tvg-logo="https://lo1.in/alb/rtvadli.png" group-title="EU | ALBANIA GJENERALE",AL| RTV 1 ALBANIA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400148283
-#EXTINF:0 CUID="12776" tvg-name="AL| RTV 1 ALBANIA HD [BK]" tvg-logo="https://lo1.in/alb/rtvadli.png" group-title="EU | ALBANIA GJENERALE",AL| RTV 1 ALBANIA HD [BK]
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/187360
-#EXTINF:0 CUID="12777" tvg-name="AL| PRESHEVA RTV HD" tvg-logo="https://lo1.in/alb/preshrtv.png" group-title="EU | ALBANIA GJENERALE",AL| PRESHEVA RTV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/117949
-#EXTINF:0 CUID="12778" tvg-name="AL| TV BESA PRIZREN HD" tvg-logo="https://lo1.in/alb/tvbesapriz.png" group-title="EU | ALBANIA GJENERALE",AL| TV BESA PRIZREN HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118122
-#EXTINF:0 CUID="12779" tvg-name="AL| TV MITROVICA HD" tvg-logo="https://lo1.in/alb/tvmtrovik.png" group-title="EU | ALBANIA GJENERALE",AL| TV MITROVICA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/118135
-#EXTINF:0 CUID="12780" tvg-name="AL| DRITA TV FHD" tvg-logo="https://lo1.in/alb/drita.png" group-title="EU | ALBANIA GJENERALE",AL| DRITA TV FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183836
-#EXTINF:0 CUID="12781" tvg-name="AL| ISTOGU CHANNEL FHD" tvg-logo="https://lo1.in/alb/istochan.png" group-title="EU | ALBANIA GJENERALE",AL| ISTOGU CHANNEL FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/183900
-#EXTINF:0 CUID="12782" tvg-name="AL| KORÇA PLUS FHD" tvg-logo="https://lo1.in/alb/korpls.png" group-title="EU | ALBANIA GJENERALE",AL| KORÇA PLUS FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261896
-#EXTINF:0 CUID="12783" tvg-name="AL| REAL TV HD" tvg-logo="https://lo1.in/alb/real.png" group-title="EU | ALBANIA GJENERALE",AL| REAL TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261894
-#EXTINF:0 CUID="12784" tvg-name="AL| ALPO TV HD" tvg-logo="https://lo1.in/alb/alpo.png" group-title="EU | ALBANIA GJENERALE",AL| ALPO TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261893
-#EXTINF:0 CUID="12785" tvg-name="AL| NTV HD" tvg-logo="https://lo1.in/alb/ntv.png" group-title="EU | ALBANIA GJENERALE",AL| NTV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261892
-#EXTINF:0 CUID="12786" tvg-name="AL| TV GOLD JOHANITER HD" tvg-logo="https://lo1.in/alb/gldjohan.png" group-title="EU | ALBANIA GJENERALE",AL| TV GOLD JOHANITER HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261891
-#EXTINF:0 CUID="12787" tvg-name="AL| ALBSE HD" tvg-logo="https://lo1.in/alb/albse.png" group-title="EU | ALBANIA GJENERALE",AL| ALBSE HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261890
-#EXTINF:0 CUID="12788" tvg-name="AL| PREMIUM TRAVEL FHD" tvg-logo="https://lo1.in/alb/premtrvl.png" group-title="EU | ALBANIA GJENERALE",AL| PREMIUM TRAVEL FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261886
-#EXTINF:0 CUID="12789" tvg-name="AL| TV TEUTA FHD" tvg-logo="https://lo1.in/alb/teuta.png" group-title="EU | ALBANIA GJENERALE",AL| TV TEUTA FHD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261885
-#EXTINF:0 CUID="12790" tvg-name="AL| TELEVIZIONI TV R HD" tvg-logo="https://lo1.in/alb/teleitvr.png" group-title="EU | ALBANIA GJENERALE",AL| TELEVIZIONI TV R HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261884
-#EXTINF:0 CUID="12791" tvg-name="AL| TV PODUJEVA HD" tvg-logo="https://lo1.in/alb/podu.png" group-title="EU | ALBANIA GJENERALE",AL| TV PODUJEVA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/400261883
-#EXTINF:0 CUID="12792" tvg-name="AL| ALB USA HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA GJENERALE",AL| ALB USA HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473501
-#EXTINF:0 CUID="12793" tvg-name="AL| ZICO TV HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA GJENERALE",AL| ZICO TV HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473502
-#EXTINF:0 CUID="12794" tvg-name="AL| SYRI BLU MUSIC HD" tvg-logo="https://lo1.in/som/flg.png" group-title="EU | ALBANIA GJENERALE",AL| SYRI BLU MUSIC HD
-http://akzxbeg.mexamo.xyz/7487972181/2633400566/473503
+#EXTINF:-1,ART Sport 1
+http://iptvtree.net:8080/F19406/e4fccd99/23143
+#EXTINF:-1,ART Sport 2
+http://iptvtree.net:8080/F19406/e4fccd99/23146
+#EXTINF:-1,ART Sport 3
+http://iptvtree.net:8080/F19406/e4fccd99/40061
+#EXTINF:-1,ART Sport 4
+http://iptvtree.net:8080/F19406/e4fccd99/295216
+#EXTINF:-1,ART Sport 5
+http://iptvtree.net:8080/F19406/e4fccd99/295215
+#EXTINF:-1,Eurosport 1
+http://iptvtree.net:8080/F19406/e4fccd99/45047
+#EXTINF:-1,Eurosport 2
+http://iptvtree.net:8080/F19406/e4fccd99/16454
+#EXTINF:-1,Kujtesa Sport 1
+http://iptvtree.net:8080/F19406/e4fccd99/1863
+#EXTINF:-1,Kujtesa Sport 2
+http://iptvtree.net:8080/F19406/e4fccd99/1864
+#EXTINF:-1,Kujtesa Sport 3
+http://iptvtree.net:8080/F19406/e4fccd99/1865
+#EXTINF:-1,Kujtesa Sport 4
+http://iptvtree.net:8080/F19406/e4fccd99/1866
+#EXTINF:-1,Oversport 1
+http://iptvtree.net:8080/F19406/e4fccd99/290218
+#EXTINF:-1,Oversport 2
+http://iptvtree.net:8080/F19406/e4fccd99/295514
+#EXTINF:-1,Oversport 3
+http://iptvtree.net:8080/F19406/e4fccd99/290537
+#EXTINF:-1,OverSport 5
+http://iptvtree.net:8080/F19406/e4fccd99/301828
+#EXTINF:-1,OverSport 6
+http://iptvtree.net:8080/F19406/e4fccd99/301829
+#EXTINF:-1,Oversport News
+http://iptvtree.net:8080/F19406/e4fccd99/298898
+#EXTINF:-1,RTSH Sport
+http://iptvtree.net:8080/F19406/e4fccd99/2568
+#EXTINF:-1,SuperSport 1
+http://iptvtree.net:8080/F19406/e4fccd99/1316
+#EXTINF:-1,SuperSport 2
+http://iptvtree.net:8080/F19406/e4fccd99/1312
+#EXTINF:-1,SuperSport 3
+http://iptvtree.net:8080/F19406/e4fccd99/1319
+#EXTINF:-1,SuperSport 4
+http://iptvtree.net:8080/F19406/e4fccd99/1318
+#EXTINF:-1,SuperSport 5
+http://iptvtree.net:8080/F19406/e4fccd99/1860
+#EXTINF:-1,SuperSport 6
+http://iptvtree.net:8080/F19406/e4fccd99/3638
+#EXTINF:-1,SuperSport 7
+http://iptvtree.net:8080/F19406/e4fccd99/174441
+#EXTINF:-1,Tring Sport 1
+http://iptvtree.net:8080/F19406/e4fccd99/1306
+#EXTINF:-1,Tring Sport 2
+http://iptvtree.net:8080/F19406/e4fccd99/1305
+#EXTINF:-1,Tring Sport 3
+http://iptvtree.net:8080/F19406/e4fccd99/1304
+#EXTINF:-1,Tring Sport 4
+http://iptvtree.net:8080/F19406/e4fccd99/1862
+#EXTINF:-1,Baby TV
+http://iptvtree.net:8080/F19406/e4fccd99/4040
+#EXTINF:-1,Bang Bang
+http://iptvtree.net:8080/F19406/e4fccd99/1342
+#EXTINF:-1,Boomerang
+http://iptvtree.net:8080/F19406/e4fccd99/1341
+#EXTINF:-1,Bubble
+http://iptvtree.net:8080/F19406/e4fccd99/300156
+#EXTINF:-1,Cufo
+http://iptvtree.net:8080/F19406/e4fccd99/1339
+#EXTINF:-1,Disney Junior
+http://iptvtree.net:8080/F19406/e4fccd99/44959
+#EXTINF:-1,Junior
+http://iptvtree.net:8080/F19406/e4fccd99/2560
+#EXTINF:-1,RTV 21 Junior
+http://iptvtree.net:8080/F19406/e4fccd99/283211
+#EXTINF:-1,Tring Kids
+http://iptvtree.net:8080/F19406/e4fccd99/44952
+#EXTINF:-1,Tring Tring
+http://iptvtree.net:8080/F19406/e4fccd99/1302
+#EXTINF:-1,Arti TV
+http://iptvtree.net:8080/F19406/e4fccd99/278529
+#EXTINF:-1,BBF Music TV
+http://iptvtree.net:8080/F19406/e4fccd99/4041
+#EXTINF:-1,Click
+http://iptvtree.net:8080/F19406/e4fccd99/16447
+#EXTINF:-1,Folk+
+http://iptvtree.net:8080/F19406/e4fccd99/4053
+#EXTINF:-1,Folklorit
+http://iptvtree.net:8080/F19406/e4fccd99/278192
+#EXTINF:-1,Klan Music
+http://iptvtree.net:8080/F19406/e4fccd99/166503
+#EXTINF:-1,MTV Kosova
+http://iptvtree.net:8080/F19406/e4fccd99/16483
+#EXTINF:-1,My Music
+http://iptvtree.net:8080/F19406/e4fccd99/171895
+#EXTINF:-1,RTSH Muzike
+http://iptvtree.net:8080/F19406/e4fccd99/5144
+#EXTINF:-1,STV Folk
+http://iptvtree.net:8080/F19406/e4fccd99/30178
+#EXTINF:-1,Super Sonic TV
+http://iptvtree.net:8080/F19406/e4fccd99/4098
+#EXTINF:-1,TV Sharri
+http://iptvtree.net:8080/F19406/e4fccd99/12416
+#EXTINF:-1,A2 CNN
+http://iptvtree.net:8080/F19406/e4fccd99/281857
+#EXTINF:-1,ABC
+http://iptvtree.net:8080/F19406/e4fccd99/2551
+#EXTINF:-1,City News Albania
+http://iptvtree.net:8080/F19406/e4fccd99/301838
+#EXTINF:-1,euronews
+http://iptvtree.net:8080/F19406/e4fccd99/169839
+#EXTINF:-1,Fax News
+http://iptvtree.net:8080/F19406/e4fccd99/5136
+#EXTINF:-1,Kanal 10
+http://iptvtree.net:8080/F19406/e4fccd99/198840
+#EXTINF:-1,Klan News
+http://iptvtree.net:8080/F19406/e4fccd99/296554
+#EXTINF:-1,News 24
+http://iptvtree.net:8080/F19406/e4fccd99/299812
+#EXTINF:-1,Ora News
+http://iptvtree.net:8080/F19406/e4fccd99/5126
+#EXTINF:-1,Report TV
+http://iptvtree.net:8080/F19406/e4fccd99/4077
+#EXTINF:-1,RTSH 24
+http://iptvtree.net:8080/F19406/e4fccd99/5962
+#EXTINF:-1,Scan
+http://iptvtree.net:8080/F19406/e4fccd99/23735
+#EXTINF:-1,Syri News
+http://iptvtree.net:8080/F19406/e4fccd99/4100
+#EXTINF:-1,TOP News
+http://iptvtree.net:8080/F19406/e4fccd99/5122
+#EXTINF:-1,Tring Sport News
+http://iptvtree.net:8080/F19406/e4fccd99/1861
+#EXTINF:-1,TV Klan
+http://iptvtree.net:8080/F19406/e4fccd99/1853
+#EXTINF:-1,Cinemax 2
+http://iptvtree.net:8080/F19406/e4fccd99/294443
+#EXTINF:-1,CineStar TV 1
+http://iptvtree.net:8080/F19406/e4fccd99/297305
+#EXTINF:-1,CineStar TV 2
+http://iptvtree.net:8080/F19406/e4fccd99/297304
+#EXTINF:-1,CineStar TV Action
+http://iptvtree.net:8080/F19406/e4fccd99/297301
+#EXTINF:-1,CineStar TV Comedy
+http://iptvtree.net:8080/F19406/e4fccd99/299058
+#EXTINF:-1,CineStar TV Premiere 1
+http://iptvtree.net:8080/F19406/e4fccd99/297303
+#EXTINF:-1,CineStar TV Premiere 2
+http://iptvtree.net:8080/F19406/e4fccd99/297302
+#EXTINF:-1,Dizi Channel
+http://iptvtree.net:8080/F19406/e4fccd99/41309
+#EXTINF:-1,Eurofilm
+http://iptvtree.net:8080/F19406/e4fccd99/5952
+#EXTINF:-1,Film Aksion
+http://iptvtree.net:8080/F19406/e4fccd99/2558
+#EXTINF:-1,Film Autor
+http://iptvtree.net:8080/F19406/e4fccd99/1333
+#EXTINF:-1,Film Drame
+http://iptvtree.net:8080/F19406/e4fccd99/1332
+#EXTINF:-1,Film Gold
+http://iptvtree.net:8080/F19406/e4fccd99/283212
+#EXTINF:-1,Film Hits
+http://iptvtree.net:8080/F19406/e4fccd99/1330
+#EXTINF:-1,Film Komedi
+http://iptvtree.net:8080/F19406/e4fccd99/1329
+#EXTINF:-1,Film Max
+http://iptvtree.net:8080/F19406/e4fccd99/1331
+#EXTINF:-1,Film Stinet
+http://iptvtree.net:8080/F19406/e4fccd99/4096
+#EXTINF:-1,Film Thriller
+http://iptvtree.net:8080/F19406/e4fccd99/1328
+#EXTINF:-1,Filma24 Action
+http://iptvtree.net:8080/F19406/e4fccd99/281961
+#EXTINF:-1,Filma24 Animuar
+http://iptvtree.net:8080/F19406/e4fccd99/299889
+#EXTINF:-1,Filma24 Aventure
+http://iptvtree.net:8080/F19406/e4fccd99/169851
+#EXTINF:-1,Filma24 Biografi
+http://iptvtree.net:8080/F19406/e4fccd99/169852
+#EXTINF:-1,Filma24 Drame
+http://iptvtree.net:8080/F19406/e4fccd99/169853
+#EXTINF:-1,Filma24 Family
+http://iptvtree.net:8080/F19406/e4fccd99/299870
+#EXTINF:-1,Filma24 Fantazi
+http://iptvtree.net:8080/F19406/e4fccd99/299871
+#EXTINF:-1,Filma24 History
+http://iptvtree.net:8080/F19406/e4fccd99/299874
+#EXTINF:-1,Filma24 Komedi
+http://iptvtree.net:8080/F19406/e4fccd99/299876
+#EXTINF:-1,Filma24 Krim
+http://iptvtree.net:8080/F19406/e4fccd99/299877
+#EXTINF:-1,Filma24 Mister
+http://iptvtree.net:8080/F19406/e4fccd99/299878
+#EXTINF:-1,Filma24 Romance
+http://iptvtree.net:8080/F19406/e4fccd99/169858
+#EXTINF:-1,Filma24 Triller
+http://iptvtree.net:8080/F19406/e4fccd99/169859
+#EXTINF:-1,FilmBox Arthouse
+http://iptvtree.net:8080/F19406/e4fccd99/145895
+#EXTINF:-1,FilmBox Extra
+http://iptvtree.net:8080/F19406/e4fccd99/145896
+#EXTINF:-1,FilmBox Premium
+http://iptvtree.net:8080/F19406/e4fccd99/145894
+#EXTINF:-1,FOX
+http://iptvtree.net:8080/F19406/e4fccd99/5133
+#EXTINF:-1,Fox Crime
+http://iptvtree.net:8080/F19406/e4fccd99/4055
+#EXTINF:-1,Fox Life
+http://iptvtree.net:8080/F19406/e4fccd99/5132
+#EXTINF:-1,Fox Movies
+http://iptvtree.net:8080/F19406/e4fccd99/4056
+#EXTINF:-1,HBO
+http://iptvtree.net:8080/F19406/e4fccd99/26155
+#EXTINF:-1,HBO 2
+http://iptvtree.net:8080/F19406/e4fccd99/26161
+#EXTINF:-1,HBO 3
+http://iptvtree.net:8080/F19406/e4fccd99/26156
+#EXTINF:-1,Kanal D Drama
+http://iptvtree.net:8080/F19406/e4fccd99/26182
+#EXTINF:-1,KS Filma24 Aksion
+http://iptvtree.net:8080/F19406/e4fccd99/297261
+#EXTINF:-1,KS Filma24 Animacion
+http://iptvtree.net:8080/F19406/e4fccd99/297262
+#EXTINF:-1,KS Filma24 Aventure
+http://iptvtree.net:8080/F19406/e4fccd99/297263
+#EXTINF:-1,KS Filma24 Aziatika
+http://iptvtree.net:8080/F19406/e4fccd99/297264
+#EXTINF:-1,KS Filma24 Biografi
+http://iptvtree.net:8080/F19406/e4fccd99/297265
+#EXTINF:-1,KS Filma24 Drame
+http://iptvtree.net:8080/F19406/e4fccd99/297266
+#EXTINF:-1,KS Filma24 Family
+http://iptvtree.net:8080/F19406/e4fccd99/278247
+#EXTINF:-1,KS Filma24 Horror
+http://iptvtree.net:8080/F19406/e4fccd99/297268
+#EXTINF:-1,KS Filma24 Krim
+http://iptvtree.net:8080/F19406/e4fccd99/297269
+#EXTINF:-1,KS Filma24 Mister
+http://iptvtree.net:8080/F19406/e4fccd99/297270
+#EXTINF:-1,KS Filma24 Oscars
+http://iptvtree.net:8080/F19406/e4fccd99/297271
+#EXTINF:-1,KS Filma24 Premiere
+http://iptvtree.net:8080/F19406/e4fccd99/278255
+#EXTINF:-1,KS Filma24 Romance
+http://iptvtree.net:8080/F19406/e4fccd99/297273
+#EXTINF:-1,KS Filma24 SCI-Fi
+http://iptvtree.net:8080/F19406/e4fccd99/297274
+#EXTINF:-1,KS Filma24 Triller
+http://iptvtree.net:8080/F19406/e4fccd99/297275
+#EXTINF:-1,RTSH Film
+http://iptvtree.net:8080/F19406/e4fccd99/5145
+#EXTINF:-1,RTSH Shqip
+http://iptvtree.net:8080/F19406/e4fccd99/5143
+#EXTINF:-1,Tring 3 Plus
+http://iptvtree.net:8080/F19406/e4fccd99/4105
+#EXTINF:-1,Tring Action
+http://iptvtree.net:8080/F19406/e4fccd99/1308
+#EXTINF:-1,Tring Classic
+http://iptvtree.net:8080/F19406/e4fccd99/290516
+#EXTINF:-1,Tring Collection
+http://iptvtree.net:8080/F19406/e4fccd99/295528
+#EXTINF:-1,Tring Comedy
+http://iptvtree.net:8080/F19406/e4fccd99/1310
+#EXTINF:-1,Tring Family
+http://iptvtree.net:8080/F19406/e4fccd99/4063
+#EXTINF:-1,Tring Fantasy
+http://iptvtree.net:8080/F19406/e4fccd99/2577
+#EXTINF:-1,Tring Life
+http://iptvtree.net:8080/F19406/e4fccd99/1309
+#EXTINF:-1,Tring Novelas
+http://iptvtree.net:8080/F19406/e4fccd99/23754
+#EXTINF:-1,Tring Original
+http://iptvtree.net:8080/F19406/e4fccd99/15535
+#EXTINF:-1,Tring Series
+http://iptvtree.net:8080/F19406/e4fccd99/296833
+#EXTINF:-1,Tring Shqip
+http://iptvtree.net:8080/F19406/e4fccd99/1307
+#EXTINF:-1,Tring Smile
+http://iptvtree.net:8080/F19406/e4fccd99/1322
+#EXTINF:-1,Tring Super
+http://iptvtree.net:8080/F19406/e4fccd99/1303
+#EXTINF:-1,Tring Turkish Stories
+http://iptvtree.net:8080/F19406/e4fccd99/301814
+#EXTINF:-1,Zjarr TV
+http://iptvtree.net:8080/F19406/e4fccd99/23711
+#EXTINF:-1,24 Kitchen
+http://iptvtree.net:8080/F19406/e4fccd99/1343
+#EXTINF:-1,Alsat M
+http://iptvtree.net:8080/F19406/e4fccd99/300235
+#EXTINF:-1,ATV
+http://iptvtree.net:8080/F19406/e4fccd99/65844
+#EXTINF:-1,Big Brother 1
+http://iptvtree.net:8080/F19406/e4fccd99/297206
+#EXTINF:-1,Big Brother 1 KS
+http://iptvtree.net:8080/F19406/e4fccd99/289613
+#EXTINF:-1,Big Brother 2
+http://iptvtree.net:8080/F19406/e4fccd99/297207
+#EXTINF:-1,Big Brother 2 KS
+http://iptvtree.net:8080/F19406/e4fccd99/289614
+#EXTINF:-1,Elrodi TV
+http://iptvtree.net:8080/F19406/e4fccd99/2557
+#EXTINF:-1,Explorer Shkence
+http://iptvtree.net:8080/F19406/e4fccd99/5961
+#EXTINF:-1,Fashion TV
+http://iptvtree.net:8080/F19406/e4fccd99/301817
+#EXTINF:-1,First Channel
+http://iptvtree.net:8080/F19406/e4fccd99/298434
+#EXTINF:-1,Kanali 7
+http://iptvtree.net:8080/F19406/e4fccd99/4062
+#EXTINF:-1,Klan Kosova
+http://iptvtree.net:8080/F19406/e4fccd99/2561
+#EXTINF:-1,Klan Macedonia
+http://iptvtree.net:8080/F19406/e4fccd99/296555
+#EXTINF:-1,Klan Plus
+http://iptvtree.net:8080/F19406/e4fccd99/2562
+#EXTINF:-1,Koha TV
+http://iptvtree.net:8080/F19406/e4fccd99/4115
+#EXTINF:-1,KTV Kohavision
+http://iptvtree.net:8080/F19406/e4fccd99/201094
+#EXTINF:-1,Living
+http://iptvtree.net:8080/F19406/e4fccd99/4070
+#EXTINF:-1,MCN TV
+http://iptvtree.net:8080/F19406/e4fccd99/286798
+#EXTINF:-1,Muse TV
+http://iptvtree.net:8080/F19406/e4fccd99/4072
+#EXTINF:-1,Ora
+http://iptvtree.net:8080/F19406/e4fccd99/163104
+#EXTINF:-1,Peace TV
+http://iptvtree.net:8080/F19406/e4fccd99/15562
+#EXTINF:-1,Portokalli
+http://iptvtree.net:8080/F19406/e4fccd99/173494
+#EXTINF:-1,RTK 1
+http://iptvtree.net:8080/F19406/e4fccd99/298417
+#EXTINF:-1,RTK 2
+http://iptvtree.net:8080/F19406/e4fccd99/298418
+#EXTINF:-1,RTK 3
+http://iptvtree.net:8080/F19406/e4fccd99/298419
+#EXTINF:-1,RTK 4
+http://iptvtree.net:8080/F19406/e4fccd99/298420
+#EXTINF:-1,RTSH 1
+http://iptvtree.net:8080/F19406/e4fccd99/4123
+#EXTINF:-1,RTSH 2
+http://iptvtree.net:8080/F19406/e4fccd99/1854
+#EXTINF:-1,RTSH 3
+http://iptvtree.net:8080/F19406/e4fccd99/1855
+#EXTINF:-1,RTSH Agro
+http://iptvtree.net:8080/F19406/e4fccd99/193717
+#EXTINF:-1,RTSH Femije
+http://iptvtree.net:8080/F19406/e4fccd99/5146
+#EXTINF:-1,RTSH Gjirokastra
+http://iptvtree.net:8080/F19406/e4fccd99/23700
+#EXTINF:-1,RTSH Korca
+http://iptvtree.net:8080/F19406/e4fccd99/23708
+#EXTINF:-1,RTSH Kukesi
+http://iptvtree.net:8080/F19406/e4fccd99/198663
+#EXTINF:-1,RTSH Kuvend
+http://iptvtree.net:8080/F19406/e4fccd99/22434
+#EXTINF:-1,RTSH Plus
+http://iptvtree.net:8080/F19406/e4fccd99/169831
+#EXTINF:-1,RTSH Shkodra
+http://iptvtree.net:8080/F19406/e4fccd99/284742
+#EXTINF:-1,RTSH Shkolle
+http://iptvtree.net:8080/F19406/e4fccd99/1856
+#EXTINF:-1,RTV 21
+http://iptvtree.net:8080/F19406/e4fccd99/298421
+#EXTINF:-1,RTV 21 Mix
+http://iptvtree.net:8080/F19406/e4fccd99/4086
+#EXTINF:-1,RTV 21 Plus
+http://iptvtree.net:8080/F19406/e4fccd99/298423
+#EXTINF:-1,RTV 21 Popullore
+http://iptvtree.net:8080/F19406/e4fccd99/298424
+#EXTINF:-1,RTV Dukagjini
+http://iptvtree.net:8080/F19406/e4fccd99/6708
+#EXTINF:-1,Star Plus
+http://iptvtree.net:8080/F19406/e4fccd99/12428
+#EXTINF:-1,T7
+http://iptvtree.net:8080/F19406/e4fccd99/281851
+#EXTINF:-1,Teve 1
+http://iptvtree.net:8080/F19406/e4fccd99/295527
+#EXTINF:-1,Tip TV
+http://iptvtree.net:8080/F19406/e4fccd99/2574
+#EXTINF:-1,TOP Channel
+http://iptvtree.net:8080/F19406/e4fccd99/1311
+#EXTINF:-1,TV 21 Macedonia
+http://iptvtree.net:8080/F19406/e4fccd99/298425
+#EXTINF:-1,Vizion Plus
+http://iptvtree.net:8080/F19406/e4fccd99/1299
+#EXTINF:-1,Zico TV
+http://iptvtree.net:8080/F19406/e4fccd99/301825
+#EXTINF:-1,ANIMAL PLANET
+http://iptvtree.net:8080/F19406/e4fccd99/15558
+#EXTINF:-1,Tring Planet
+http://iptvtree.net:8080/F19406/e4fccd99/1344
+#EXTINF:-1,Discovery Science
+http://iptvtree.net:8080/F19406/e4fccd99/166530
+#EXTINF:-1,DocuBox
+http://iptvtree.net:8080/F19406/e4fccd99/267033
+#EXTINF:-1,Explorer Histori
+http://iptvtree.net:8080/F19406/e4fccd99/1336
+#EXTINF:-1,Explorer Natyra
+http://iptvtree.net:8080/F19406/e4fccd99/4048
+#EXTINF:-1,Investigation Discovery
+http://iptvtree.net:8080/F19406/e4fccd99/290513
+#EXTINF:-1,NAT GEO
+http://iptvtree.net:8080/F19406/e4fccd99/6737
+#EXTINF:-1,Travel Channel
+http://iptvtree.net:8080/F19406/e4fccd99/5121
+#EXTINF:-1,Tring History
+http://iptvtree.net:8080/F19406/e4fccd99/1345
+#EXTINF:-1,Tring World
+http://iptvtree.net:8080/F19406/e4fccd99/1301
+#EXTINF:-1,8ova BBF
+http://iptvtree.net:8080/F19406/e4fccd99/263768
+#EXTINF:-1,8ova Drame
+http://iptvtree.net:8080/F19406/e4fccd99/263766
+#EXTINF:-1,8ova Gjurme Shqiptare
+http://iptvtree.net:8080/F19406/e4fccd99/193733
+#EXTINF:-1,8ova Humor
+http://iptvtree.net:8080/F19406/e4fccd99/263772
+#EXTINF:-1,8ova Komedi
+http://iptvtree.net:8080/F19406/e4fccd99/263767
+#EXTINF:-1,8ova Masha Bear
+http://iptvtree.net:8080/F19406/e4fccd99/299048
+#EXTINF:-1,8ova Muzik
+http://iptvtree.net:8080/F19406/e4fccd99/299047
+#EXTINF:-1,8ova Popullore
+http://iptvtree.net:8080/F19406/e4fccd99/263773
+#EXTINF:-1,8ova Thriller
+http://iptvtree.net:8080/F19406/e4fccd99/263765
+#EXTINF:-1,ABC Story
+http://iptvtree.net:8080/F19406/e4fccd99/169843
+#EXTINF:-1,ACTV
+http://iptvtree.net:8080/F19406/e4fccd99/281966
+#EXTINF:-1,AD TV
+http://iptvtree.net:8080/F19406/e4fccd99/282007
+#EXTINF:-1,Adria Net
+http://iptvtree.net:8080/F19406/e4fccd99/173470
+#EXTINF:-1,Alb Swiss
+http://iptvtree.net:8080/F19406/e4fccd99/12437
+#EXTINF:-1,Albanian TV Chicago
+http://iptvtree.net:8080/F19406/e4fccd99/297257
+#EXTINF:-1,Albkanale Muzik
+http://iptvtree.net:8080/F19406/e4fccd99/295858
+#EXTINF:-1,ALBSE
+http://iptvtree.net:8080/F19406/e4fccd99/297256
+#EXTINF:-1,Albuk
+http://iptvtree.net:8080/F19406/e4fccd99/4037
+#EXTINF:-1,Alpo
+http://iptvtree.net:8080/F19406/e4fccd99/278528
+#EXTINF:-1,Amol TV
+http://iptvtree.net:8080/F19406/e4fccd99/281387
+#EXTINF:-1,Apollon TV
+http://iptvtree.net:8080/F19406/e4fccd99/267037
+#EXTINF:-1,Art Doku 1
+http://iptvtree.net:8080/F19406/e4fccd99/146080
+#EXTINF:-1,Art Doku 2
+http://iptvtree.net:8080/F19406/e4fccd99/146081
+#EXTINF:-1,Art Kino 1
+http://iptvtree.net:8080/F19406/e4fccd99/146084
+#EXTINF:-1,Art Kino 2
+http://iptvtree.net:8080/F19406/e4fccd99/146085
+#EXTINF:-1,Art Kino 3
+http://iptvtree.net:8080/F19406/e4fccd99/146086
+#EXTINF:-1,Ashkali TV
+http://iptvtree.net:8080/F19406/e4fccd99/193769
+#EXTINF:-1,Atd TV
+http://iptvtree.net:8080/F19406/e4fccd99/278531
+#EXTINF:-1,Besa TV
+http://iptvtree.net:8080/F19406/e4fccd99/4042
+#EXTINF:-1,Blue Sky TV
+http://iptvtree.net:8080/F19406/e4fccd99/151757
+#EXTINF:-1,BTV Bulevard
+http://iptvtree.net:8080/F19406/e4fccd99/300155
+#EXTINF:-1,Cartoon Network
+http://iptvtree.net:8080/F19406/e4fccd99/1340
+#EXTINF:-1,Cifteli TV
+http://iptvtree.net:8080/F19406/e4fccd99/169874
+#EXTINF:-1,Cinema 1
+http://iptvtree.net:8080/F19406/e4fccd99/295552
+#EXTINF:-1,Dark Cka ka Shpia
+http://iptvtree.net:8080/F19406/e4fccd99/166521
+#EXTINF:-1,Dark Fara e Flliqt
+http://iptvtree.net:8080/F19406/e4fccd99/266416
+#EXTINF:-1,Dark Kafeneja jone
+http://iptvtree.net:8080/F19406/e4fccd99/188264
+#EXTINF:-1,Dark Popullore
+http://iptvtree.net:8080/F19406/e4fccd99/166533
+#EXTINF:-1,Dark Stupcat Skeçe
+http://iptvtree.net:8080/F19406/e4fccd99/166520
+#EXTINF:-1,Dark Tallava
+http://iptvtree.net:8080/F19406/e4fccd99/166536
+#EXTINF:-1,Dasma
+http://iptvtree.net:8080/F19406/e4fccd99/8288
+#EXTINF:-1,Digi Gold 1
+http://iptvtree.net:8080/F19406/e4fccd99/281904
+#EXTINF:-1,Digi Gold 2
+http://iptvtree.net:8080/F19406/e4fccd99/299060
+#EXTINF:-1,Digi Gold 4
+http://iptvtree.net:8080/F19406/e4fccd99/281907
+#EXTINF:-1,Discovery Channel
+http://iptvtree.net:8080/F19406/e4fccd99/301663
+#EXTINF:-1,Drita TV
+http://iptvtree.net:8080/F19406/e4fccd99/41318
+#EXTINF:-1,EB Festive
+http://iptvtree.net:8080/F19406/e4fccd99/297193
+#EXTINF:-1,EB Festive 1
+http://iptvtree.net:8080/F19406/e4fccd99/297194
+#EXTINF:-1,EB Festive 2
+http://iptvtree.net:8080/F19406/e4fccd99/297195
+#EXTINF:-1,EB Festive 3
+http://iptvtree.net:8080/F19406/e4fccd99/297196
+#EXTINF:-1,EB Festive 4
+http://iptvtree.net:8080/F19406/e4fccd99/297197
+#EXTINF:-1,EB Festive 5
+http://iptvtree.net:8080/F19406/e4fccd99/297198
+#EXTINF:-1,EB Festive 6
+http://iptvtree.net:8080/F19406/e4fccd99/297199
+#EXTINF:-1,EB Festive 7
+http://iptvtree.net:8080/F19406/e4fccd99/297200
+#EXTINF:-1,EB Festive 8
+http://iptvtree.net:8080/F19406/e4fccd99/297201
+#EXTINF:-1,EB Festive Sofra
+http://iptvtree.net:8080/F19406/e4fccd99/297202
+#EXTINF:-1,EB Hits
+http://iptvtree.net:8080/F19406/e4fccd99/297192
+#EXTINF:-1,Elkalem TV
+http://iptvtree.net:8080/F19406/e4fccd99/294445
+#EXTINF:-1,Episode
+http://iptvtree.net:8080/F19406/e4fccd99/169877
+#EXTINF:-1,Era TV
+http://iptvtree.net:8080/F19406/e4fccd99/13864
+#EXTINF:-1,Euro Al
+http://iptvtree.net:8080/F19406/e4fccd99/42818
+#EXTINF:-1,Fast&FunBox
+http://iptvtree.net:8080/F19406/e4fccd99/157151
+#EXTINF:-1,Film Mix
+http://iptvtree.net:8080/F19406/e4fccd99/301810
+#EXTINF:-1,FilmBox Stars
+http://iptvtree.net:8080/F19406/e4fccd99/281906
+#EXTINF:-1,Flutra
+http://iptvtree.net:8080/F19406/e4fccd99/280142
+#EXTINF:-1,Frame TV
+http://iptvtree.net:8080/F19406/e4fccd99/281967
+#EXTINF:-1,Globi TV
+http://iptvtree.net:8080/F19406/e4fccd99/280161
+#EXTINF:-1,Hetuesia
+http://iptvtree.net:8080/F19406/e4fccd99/301818
+#EXTINF:-1,Histori Shqiptare
+http://iptvtree.net:8080/F19406/e4fccd99/297048
+#EXTINF:-1,History
+http://iptvtree.net:8080/F19406/e4fccd99/278193
+#EXTINF:-1,HS Hore
+http://iptvtree.net:8080/F19406/e4fccd99/299063
+#EXTINF:-1,HS Tallava
+http://iptvtree.net:8080/F19406/e4fccd99/6715
+#EXTINF:-1,Istogu Channel
+http://iptvtree.net:8080/F19406/e4fccd99/41305
+#EXTINF:-1,Korca Plus
+http://iptvtree.net:8080/F19406/e4fccd99/294434
+#EXTINF:-1,KS Action
+http://iptvtree.net:8080/F19406/e4fccd99/23798
+#EXTINF:-1,KS Ciftelia
+http://iptvtree.net:8080/F19406/e4fccd99/301824
+#EXTINF:-1,KS Comedy
+http://iptvtree.net:8080/F19406/e4fccd99/23793
+#EXTINF:-1,KS Epic
+http://iptvtree.net:8080/F19406/e4fccd99/173475
+#EXTINF:-1,KS Festive
+http://iptvtree.net:8080/F19406/e4fccd99/301803
+#EXTINF:-1,KS Filma24 Hindi
+http://iptvtree.net:8080/F19406/e4fccd99/299062
+#EXTINF:-1,KS Filma24 Western
+http://iptvtree.net:8080/F19406/e4fccd99/297276
+#EXTINF:-1,KS Home Alone
+http://iptvtree.net:8080/F19406/e4fccd99/301802
+#EXTINF:-1,KS Popullore
+http://iptvtree.net:8080/F19406/e4fccd99/30180
+#EXTINF:-1,Ks Premiere 1
+http://iptvtree.net:8080/F19406/e4fccd99/294446
+#EXTINF:-1,Ks Premiere 2
+http://iptvtree.net:8080/F19406/e4fccd99/281898
+#EXTINF:-1,Ks Premiere 3
+http://iptvtree.net:8080/F19406/e4fccd99/173465
+#EXTINF:-1,Ks Premiere 4
+http://iptvtree.net:8080/F19406/e4fccd99/173479
+#EXTINF:-1,KS Thriller
+http://iptvtree.net:8080/F19406/e4fccd99/198667
+#EXTINF:-1,MCN 24
+http://iptvtree.net:8080/F19406/e4fccd99/301837
+#EXTINF:-1,Melody TV
+http://iptvtree.net:8080/F19406/e4fccd99/41326
+#EXTINF:-1,MetiTV Aksion
+http://iptvtree.net:8080/F19406/e4fccd99/297277
+#EXTINF:-1,MetiTV Cifteli
+http://iptvtree.net:8080/F19406/e4fccd99/297278
+#EXTINF:-1,MetiTV çka ka shpija 24/7
+http://iptvtree.net:8080/F19406/e4fccd99/297279
+#EXTINF:-1,MetiTV Comedy
+http://iptvtree.net:8080/F19406/e4fccd99/297280
+#EXTINF:-1,MetiTV Epic
+http://iptvtree.net:8080/F19406/e4fccd99/299900
+#EXTINF:-1,MetiTV Femije
+http://iptvtree.net:8080/F19406/e4fccd99/299902
+#EXTINF:-1,MetiTV Film
+http://iptvtree.net:8080/F19406/e4fccd99/299901
+#EXTINF:-1,MetiTV Folk
+http://iptvtree.net:8080/F19406/e4fccd99/297281
+#EXTINF:-1,MetiTV Gold
+http://iptvtree.net:8080/F19406/e4fccd99/297282
+#EXTINF:-1,MetiTV Horror
+http://iptvtree.net:8080/F19406/e4fccd99/297283
+#EXTINF:-1,MetiTV Humor
+http://iptvtree.net:8080/F19406/e4fccd99/297284
+#EXTINF:-1,MetiTV kids
+http://iptvtree.net:8080/F19406/e4fccd99/297285
+#EXTINF:-1,MetiTV lufte
+http://iptvtree.net:8080/F19406/e4fccd99/299899
+#EXTINF:-1,MetiTV Max
+http://iptvtree.net:8080/F19406/e4fccd99/297286
+#EXTINF:-1,MetiTV Mixha
+http://iptvtree.net:8080/F19406/e4fccd99/299903
+#EXTINF:-1,MetiTV Music
+http://iptvtree.net:8080/F19406/e4fccd99/297287
+#EXTINF:-1,MetiTV Shqip
+http://iptvtree.net:8080/F19406/e4fccd99/297288
+#EXTINF:-1,MetiTV Tallava
+http://iptvtree.net:8080/F19406/e4fccd99/297289
+#EXTINF:-1,Nat Geo Wild
+http://iptvtree.net:8080/F19406/e4fccd99/23753
+#EXTINF:-1,Netflix Aksion
+http://iptvtree.net:8080/F19406/e4fccd99/193772
+#EXTINF:-1,Netflix Arnold Schwarzenegger
+http://iptvtree.net:8080/F19406/e4fccd99/198444
+#EXTINF:-1,Netflix Aventure
+http://iptvtree.net:8080/F19406/e4fccd99/198437
+#EXTINF:-1,Netflix Bud Spencer
+http://iptvtree.net:8080/F19406/e4fccd99/301786
+#EXTINF:-1,Netflix Dwayne Johnson
+http://iptvtree.net:8080/F19406/e4fccd99/198448
+#EXTINF:-1,Netflix Epik
+http://iptvtree.net:8080/F19406/e4fccd99/198440
+#EXTINF:-1,Netflix Fantasy
+http://iptvtree.net:8080/F19406/e4fccd99/301789
+#EXTINF:-1,Netflix Femije
+http://iptvtree.net:8080/F19406/e4fccd99/198439
+#EXTINF:-1,Netflix Horror
+http://iptvtree.net:8080/F19406/e4fccd99/193771
+#EXTINF:-1,Netflix Jackie Chan
+http://iptvtree.net:8080/F19406/e4fccd99/198446
+#EXTINF:-1,Netflix Komedi
+http://iptvtree.net:8080/F19406/e4fccd99/193773
+#EXTINF:-1,Netflix Larva Kids
+http://iptvtree.net:8080/F19406/e4fccd99/301791
+#EXTINF:-1,Netflix Relaks
+http://iptvtree.net:8080/F19406/e4fccd99/198431
+#EXTINF:-1,Netflix Romance
+http://iptvtree.net:8080/F19406/e4fccd99/198660
+#EXTINF:-1,Netflix Spider-Man
+http://iptvtree.net:8080/F19406/e4fccd99/198445
+#EXTINF:-1,Netflix Sylvester stallone
+http://iptvtree.net:8080/F19406/e4fccd99/198442
+#EXTINF:-1,Netflix Van Damme
+http://iptvtree.net:8080/F19406/e4fccd99/198661
+#EXTINF:-1,ntv
+http://iptvtree.net:8080/F19406/e4fccd99/300160
+#EXTINF:-1,OnePlay Aksion
+http://iptvtree.net:8080/F19406/e4fccd99/297294
+#EXTINF:-1,OnePlay Classic
+http://iptvtree.net:8080/F19406/e4fccd99/297295
+#EXTINF:-1,OnePlay Collection
+http://iptvtree.net:8080/F19406/e4fccd99/297296
+#EXTINF:-1,OnePlay Extra
+http://iptvtree.net:8080/F19406/e4fccd99/297297
+#EXTINF:-1,OnePlay Family
+http://iptvtree.net:8080/F19406/e4fccd99/297298
+#EXTINF:-1,OnePlay Netflix
+http://iptvtree.net:8080/F19406/e4fccd99/297299
+#EXTINF:-1,OnePlay Premium
+http://iptvtree.net:8080/F19406/e4fccd99/297300
+#EXTINF:-1,OnePlay prime 1
+http://iptvtree.net:8080/F19406/e4fccd99/297290
+#EXTINF:-1,OnePlay prime 2
+http://iptvtree.net:8080/F19406/e4fccd99/297291
+#EXTINF:-1,OnePlay prime 3
+http://iptvtree.net:8080/F19406/e4fccd99/297292
+#EXTINF:-1,OnePlay prime 4
+http://iptvtree.net:8080/F19406/e4fccd99/297293
+#EXTINF:-1,Panorama TV
+http://iptvtree.net:8080/F19406/e4fccd99/300969
+#EXTINF:-1,Pollogu
+http://iptvtree.net:8080/F19406/e4fccd99/264836
+#EXTINF:-1,Rozafa
+http://iptvtree.net:8080/F19406/e4fccd99/6730
+#EXTINF:-1,RTV Fontana
+http://iptvtree.net:8080/F19406/e4fccd99/282006
+#EXTINF:-1,RTV Ilirida
+http://iptvtree.net:8080/F19406/e4fccd99/284743
+#EXTINF:-1,RTV Islam
+http://iptvtree.net:8080/F19406/e4fccd99/4089
+#EXTINF:-1,RTV Pendimi
+http://iptvtree.net:8080/F19406/e4fccd99/23783
+#EXTINF:-1,Saranda TV
+http://iptvtree.net:8080/F19406/e4fccd99/297316
+#EXTINF:-1,Shenja TV
+http://iptvtree.net:8080/F19406/e4fccd99/12414
+#EXTINF:-1,Shijak TV
+http://iptvtree.net:8080/F19406/e4fccd99/280164
+#EXTINF:-1,Shota TV
+http://iptvtree.net:8080/F19406/e4fccd99/151743
+#EXTINF:-1,Sky Aksion
+http://iptvtree.net:8080/F19406/e4fccd99/295515
+#EXTINF:-1,Sky Comedy
+http://iptvtree.net:8080/F19406/e4fccd99/295516
+#EXTINF:-1,Sky Drama
+http://iptvtree.net:8080/F19406/e4fccd99/295517
+#EXTINF:-1,Sky Max
+http://iptvtree.net:8080/F19406/e4fccd99/26127
+#EXTINF:-1,Sky Novela
+http://iptvtree.net:8080/F19406/e4fccd99/16496
+#EXTINF:-1,Sky Shqip
+http://iptvtree.net:8080/F19406/e4fccd99/188082
+#EXTINF:-1,Sky Star
+http://iptvtree.net:8080/F19406/e4fccd99/120818
+#EXTINF:-1,Sofia
+http://iptvtree.net:8080/F19406/e4fccd99/15539
+#EXTINF:-1,Spin TV
+http://iptvtree.net:8080/F19406/e4fccd99/6714
+#EXTINF:-1,Syri TV
+http://iptvtree.net:8080/F19406/e4fccd99/4099
+#EXTINF:-1,Syri Vizion
+http://iptvtree.net:8080/F19406/e4fccd99/120792
+#EXTINF:-1,T Channel
+http://iptvtree.net:8080/F19406/e4fccd99/4101
+#EXTINF:-1,TDC
+http://iptvtree.net:8080/F19406/e4fccd99/198057
+#EXTINF:-1,Tele One 1
+http://iptvtree.net:8080/F19406/e4fccd99/145897
+#EXTINF:-1,Tele One 2
+http://iptvtree.net:8080/F19406/e4fccd99/151734
+#EXTINF:-1,Tele One 3
+http://iptvtree.net:8080/F19406/e4fccd99/295522
+#EXTINF:-1,Tele One 4
+http://iptvtree.net:8080/F19406/e4fccd99/151732
+#EXTINF:-1,Tele One 5
+http://iptvtree.net:8080/F19406/e4fccd99/151737
+#EXTINF:-1,Tele One 6
+http://iptvtree.net:8080/F19406/e4fccd99/151733
+#EXTINF:-1,Tele One Aksion
+http://iptvtree.net:8080/F19406/e4fccd99/264853
+#EXTINF:-1,Tele One Crime
+http://iptvtree.net:8080/F19406/e4fccd99/295523
+#EXTINF:-1,Tele One Drama
+http://iptvtree.net:8080/F19406/e4fccd99/295524
+#EXTINF:-1,Tele One Epik
+http://iptvtree.net:8080/F19406/e4fccd99/299079
+#EXTINF:-1,Tele One Fantazi
+http://iptvtree.net:8080/F19406/e4fccd99/295525
+#EXTINF:-1,Tele One Gold Collection
+http://iptvtree.net:8080/F19406/e4fccd99/247862
+#EXTINF:-1,Televizija 5
+http://iptvtree.net:8080/F19406/e4fccd99/299081
+#EXTINF:-1,Televizioni TV R
+http://iptvtree.net:8080/F19406/e4fccd99/299080
+#EXTINF:-1,Tema TV
+http://iptvtree.net:8080/F19406/e4fccd99/4102
+#EXTINF:-1,Teuta
+http://iptvtree.net:8080/F19406/e4fccd99/169882
+#EXTINF:-1,Teve Aksion
+http://iptvtree.net:8080/F19406/e4fccd99/299051
+#EXTINF:-1,Teve Fantasy
+http://iptvtree.net:8080/F19406/e4fccd99/299052
+#EXTINF:-1,Teve Novela
+http://iptvtree.net:8080/F19406/e4fccd99/299050
+#EXTINF:-1,Teve Shqip
+http://iptvtree.net:8080/F19406/e4fccd99/299054
+#EXTINF:-1,Tirana
+http://iptvtree.net:8080/F19406/e4fccd99/4103
+#EXTINF:-1,Tom & Jerry
+http://iptvtree.net:8080/F19406/e4fccd99/15543
+#EXTINF:-1,TOP Estrada
+http://iptvtree.net:8080/F19406/e4fccd99/16502
+#EXTINF:-1,Tropoja
+http://iptvtree.net:8080/F19406/e4fccd99/266657
+#EXTINF:-1,Turbo Channel
+http://iptvtree.net:8080/F19406/e4fccd99/6717
+#EXTINF:-1,TV 7 Albania
+http://iptvtree.net:8080/F19406/e4fccd99/6762
+#EXTINF:-1,TV Diaspora
+http://iptvtree.net:8080/F19406/e4fccd99/281350
+#EXTINF:-1,TV Dielli
+http://iptvtree.net:8080/F19406/e4fccd99/12418
+#EXTINF:-1,TV Festina
+http://iptvtree.net:8080/F19406/e4fccd99/297260
+#EXTINF:-1,TV Kopliku
+http://iptvtree.net:8080/F19406/e4fccd99/173458
+#EXTINF:-1,TV Lobi Korç
+http://iptvtree.net:8080/F19406/e4fccd99/188077
+#EXTINF:-1,TV Mitrovica
+http://iptvtree.net:8080/F19406/e4fccd99/4118
+#EXTINF:-1,TV Opoja
+http://iptvtree.net:8080/F19406/e4fccd99/4119
+#EXTINF:-1,TV Uskana
+http://iptvtree.net:8080/F19406/e4fccd99/12421
+#EXTINF:-1,TV2 Gostivar
+http://iptvtree.net:8080/F19406/e4fccd99/169842
+#EXTINF:-1,Ulqini TV
+http://iptvtree.net:8080/F19406/e4fccd99/278582
+#EXTINF:-1,WebStar Aksion
+http://iptvtree.net:8080/F19406/e4fccd99/193709
+#EXTINF:-1,WebStar Baby
+http://iptvtree.net:8080/F19406/e4fccd99/299090
+#EXTINF:-1,WebStar ChuChu
+http://iptvtree.net:8080/F19406/e4fccd99/193708
+#EXTINF:-1,WebStar Film 1
+http://iptvtree.net:8080/F19406/e4fccd99/193704
+#EXTINF:-1,WebStar Film 2
+http://iptvtree.net:8080/F19406/e4fccd99/295534
+#EXTINF:-1,WebStar Film 3
+http://iptvtree.net:8080/F19406/e4fccd99/295535
+#EXTINF:-1,WebStar Film Cinema
+http://iptvtree.net:8080/F19406/e4fccd99/297311
+#EXTINF:-1,WebStar Film Drame
+http://iptvtree.net:8080/F19406/e4fccd99/297312
+#EXTINF:-1,WebStar Film Komedi
+http://iptvtree.net:8080/F19406/e4fccd99/297313
+#EXTINF:-1,WebStar Film Thriller
+http://iptvtree.net:8080/F19406/e4fccd99/297314
+#EXTINF:-1,WebStar Hisrori
+http://iptvtree.net:8080/F19406/e4fccd99/299085
+#EXTINF:-1,WebStar Music CH
+http://iptvtree.net:8080/F19406/e4fccd99/193698
+#EXTINF:-1,WebStar Muzic
+http://iptvtree.net:8080/F19406/e4fccd99/193697
+#EXTINF:-1,WebStar Natyr
+http://iptvtree.net:8080/F19406/e4fccd99/297315
+#EXTINF:-1,WebStar Popullore
+http://iptvtree.net:8080/F19406/e4fccd99/193694
+#EXTINF:-1,WebStar Qifteli
+http://iptvtree.net:8080/F19406/e4fccd99/193693
+#EXTINF:-1,X Premiere 2
+http://iptvtree.net:8080/F19406/e4fccd99/40535
+#EXTINF:-1,AL 24 News
+http://iptvtree.net:8080/F19406/e4fccd99/296523
