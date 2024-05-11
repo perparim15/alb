@@ -1,8 +1,8 @@
 #EXTINF:0 CUID="1095" tvg-name="✦●✦ ISLAME ✦●✦" tvg-logo="https://lo1.in/alb/flag.png" group-title="EU | ALBANIA ISLAME",✦●✦ ISLAME ✦●✦
-#EXTINF:-1,Dark Cka ka Shpia
-http://iptvtree.net:8080/F19406/e4fccd99/166521
-#EXTINF:-1,Dark Fara e Flliqt
-http://iptvtree.net:8080/F19406/e4fccd99/266416
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="AL: Top Channel FHD" tvg-logo="" group-title="Albanian",AL: Top Channel FHD
+http://iboxs.club:80/pYdm34jeyZ/X3SR7oE5xD/4031
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="AL: Top Channel HD" tvg-logo="" group-title="Albanian",AL: Top Channel HD
+http://iboxs.club:80/pYdm34jeyZ/X3SR7oE5xD/4055
 #EXTINF:-1,Dark Kafeneja jone
 http://iptvtree.net:8080/F19406/e4fccd99/188264
 #EXTINF:-1,Dark Popullore
