@@ -1,533 +1,493 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOP CHANNEL | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2536
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOP CHANNEL FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20828
-#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2545
-#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20829
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIZION PLUS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2558
-#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN KOSOVA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2534
-#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN KOSOVA FHD  | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20825
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOP NEWS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2560
-#EXTINF:0 tvg-id="ext" group-title="Channels",ABC NEWS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2561
-#EXTINF:0 tvg-id="ext" group-title="Channels",SYRI TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2604
-#EXTINF:0 tvg-id="ext" group-title="Channels",ORA NEWS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2564
-#EXTINF:0 tvg-id="ext" group-title="Channels",KANALI 7 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2600
-#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN NEWS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20820
-#EXTINF:0 tvg-id="ext" group-title="Channels",MCN TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/29701
-#EXTINF:0 tvg-id="ext" group-title="Channels",A2 CNN | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2581
-#EXTINF:0 tvg-id="ext" group-title="Channels",REPORT TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2582
-#EXTINF:0 tvg-id="ext" group-title="Channels",NEWS 24 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2562
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARTA NEWS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2563
-#EXTINF:0 tvg-id="ext" group-title="Channels",EURO NEWS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20959
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV ZICO | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2660
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOLK + | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2659
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SONIC | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20870
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV DANCE | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2676
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV HITS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2675
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV KOSOVA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2674
-#EXTINF:0 tvg-id="ext" group-title="Channels",MY MUSIC | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2667
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI 1 FHD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113610
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI 2 FHD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113611
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI 3 FHD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113612
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI 4 FHD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113613
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI 5 FHD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113614
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI MOVIE HD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113615
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI YOYO | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113617
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI GULP HD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113618
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI SCUOLA HD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113619
-#EXTINF:0 tvg-id="ext" group-title="Channels",RSI LA 1 HD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113620
-#EXTINF:0 tvg-id="ext" group-title="Channels",RSI LA2 HD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113621
-#EXTINF:0 tvg-id="ext" group-title="Channels",ITALIA 1 MEDIASET HD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113622
-#EXTINF:0 tvg-id="ext" group-title="Channels",ITALIA 2  MEDIASET | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113623
-#EXTINF:0 tvg-id="ext" group-title="Channels",MEDIASET EXTRA HD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113624
-#EXTINF:0 tvg-id="ext" group-title="Channels",MEDIASET EXTRA FHD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113625
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOP CRIME FHD | IT | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113626
-#EXTINF:0 tvg-id="ext" group-title="Channels",RETE 4 FHD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113627
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANALE 5 HD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113628
-#EXTINF:0 tvg-id="ext" group-title="Channels",LA 5 FHD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113629
-#EXTINF:0 tvg-id="ext" group-title="Channels",LA 7 HD | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/113630
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOP ESTRADA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2661
-#EXTINF:0 tvg-id="ext" group-title="Channels",BALKANIKA MUSIC | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2651
-#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN MUSIC | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20821
-#EXTINF:0 tvg-id="ext" group-title="Channels",JOLLY HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2542
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARTI TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2543
-#EXTINF:0 tvg-id="ext" group-title="Channels",FIRST CHANNEL | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2544
-#EXTINF:0 tvg-id="ext" group-title="Channels",KOHA TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2548
-#EXTINF:0 tvg-id="ext" group-title="Channels",ISTOGU CHANNEL | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2549
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTV FONTANA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2550
-#EXTINF:0 tvg-id="ext" group-title="Channels",CHANNEL ONE | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2552
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRO1 TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2566
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV 1 SHKODER | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2568
-#EXTINF:0 tvg-id="ext" group-title="Channels",FAX NEWS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2569
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV TEMA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2570
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV SHENJA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2584
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV ROZAFA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2585
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV USKANA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2592
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV MITROVICA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2594
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIELLI | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2597
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV LIRIA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2598
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR PLUS HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2599
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADRIANET | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2601
-#EXTINF:0 tvg-id="ext" group-title="Channels",SYRI VISION | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2606
-#EXTINF:0 tvg-id="ext" group-title="Channels",FX MEDIA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2639
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV ERA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20809
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTV 21 FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20824
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIZION PLUS FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20834
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIUM CHANNEL  | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/25067
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV TEUTA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/25117
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEVE 1 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/25337
-#EXTINF:0 tvg-id="ext" group-title="Channels",FLUTURA TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/26300
-#EXTINF:0 tvg-id="ext" group-title="Channels",LLAPI TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31271
-#EXTINF:0 tvg-id="ext" group-title="Channels",TLC | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2596
-#EXTINF:0 tvg-id="ext" group-title="Channels",E SHKENCA HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2709
-#EXTINF:0 tvg-id="ext" group-title="Channels",E NATYRA HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2710
-#EXTINF:0 tvg-id="ext" group-title="Channels",E HISTORI HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2711
-#EXTINF:0 tvg-id="ext" group-title="Channels",EXP SHKENCË | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2712
-#EXTINF:0 tvg-id="ext" group-title="Channels",EXP NATYRA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2713
-#EXTINF:0 tvg-id="ext" group-title="Channels",EXP HISTORI | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2714
-#EXTINF:0 tvg-id="ext" group-title="Channels",CLUB TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2652
-#EXTINF:0 tvg-id="ext" group-title="Channels",T HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4814
-#EXTINF:0 tvg-id="ext" group-title="Channels",FAST & FUN BOX | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4831
-#EXTINF:0 tvg-id="ext" group-title="Channels",FIGHT BOX | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4833
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV OPINION | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2593
-#EXTINF:0 tvg-id="ext" group-title="Channels",E ACTION HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4844
-#EXTINF:0 tvg-id="ext" group-title="Channels",E THRILLER HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4845
-#EXTINF:0 tvg-id="ext" group-title="Channels",E SCI-FI HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4846
-#EXTINF:0 tvg-id="ext" group-title="Channels",E COMEDY HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4847
-#EXTINF:0 tvg-id="ext" group-title="Channels",E ROMANCE HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4848
-#EXTINF:0 tvg-id="ext" group-title="Channels",E DRAMA HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4849
-#EXTINF:0 tvg-id="ext" group-title="Channels",E DARK HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4850
-#EXTINF:0 tvg-id="ext" group-title="Channels",E WESTERN HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4851
-#EXTINF:0 tvg-id="ext" group-title="Channels",E FAMILY HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4852
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 1 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20534
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 2 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20535
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 3 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20536
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 4 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20537
-#EXTINF:0 tvg-id="ext" group-title="Channels",E PREMIERE 1 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20567
-#EXTINF:0 tvg-id="ext" group-title="Channels",E PREMIERE 2 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20568
-#EXTINF:0 tvg-id="ext" group-title="Channels",E PREMIERE 3 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20569
-#EXTINF:0 tvg-id="ext" group-title="Channels",E PREMIERE 4 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20570
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20529
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD 1 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20530
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD 2 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20531
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD 3 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20532
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD 4 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20533
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM AKSION | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4802
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM AKSION FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4803
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM AUTOR | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4807
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM GOLD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4800
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM DRAME | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4808
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM HITS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4804
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM HITS FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4805
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM KOMEDI | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4809
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM THRILLER | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4806
-#EXTINF:0 tvg-id="ext" group-title="Channels",FAMILY HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4812
-#EXTINF:0 tvg-id="ext" group-title="Channels",FAMILY FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4813
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM STINET | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4811
-#EXTINF:0 tvg-id="ext" group-title="Channels",EURO FILM | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4810
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM MAX | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4801
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUS TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2603
-#EXTINF:0 tvg-id="ext" group-title="Channels",KANAL D DRAMA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2556
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING TURKISH STORIES | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2595
-#EXTINF:0 tvg-id="ext" group-title="Channels",TDC SERIALE TURKE | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2555
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING 3+ | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2541
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING AKSION | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4855
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SHQIP | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4857
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SMILE | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4856
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING LIFE | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4859
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SUPER | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4853
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING FANTASY | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4861
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING FAMILY | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4862
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING COMEDY | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4863
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING NOVELAS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/25314
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING COLLECTION | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/25315
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING CLASSIC | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/25316
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING MUSE | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4858
-#EXTINF:0 tvg-id="ext" group-title="Channels",KAFENEJA JONE | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2682
-#EXTINF:0 tvg-id="ext" group-title="Channels",PORTOKALLI | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20810
-#EXTINF:0 tvg-id="ext" group-title="Channels",STUPCAT | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2681
-#EXTINF:0 tvg-id="ext" group-title="Channels",HETUESIA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20872
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIVING FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2609
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALSAT M FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20827
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALSAT M | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2537
-#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN MACEDONIA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2547
-#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN PLUS FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20830
-#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN PLUS HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2546
-#EXTINF:0 tvg-id="ext" group-title="Channels",PËRALLA FËMIJË | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2616
-#EXTINF:0 tvg-id="ext" group-title="Channels",TIP TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2617
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTV 21 JUNIOR | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2626
-#EXTINF:0 tvg-id="ext" group-title="Channels",BABY TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2627
-#EXTINF:0 tvg-id="ext" group-title="Channels",BANG BANG | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2611
-#EXTINF:0 tvg-id="ext" group-title="Channels",ÇUFO TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2612
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING KIDS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2613
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING TRING | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2614
-#EXTINF:0 tvg-id="ext" group-title="Channels",MR.BEAN KIDS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2628
-#EXTINF:0 tvg-id="ext" group-title="Channels",MASHA DHE ARIU | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2629
-#EXTINF:0 tvg-id="ext" group-title="Channels",E KIDS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2630
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMA TE ANIMUAR | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4870
-#EXTINF:0 tvg-id="ext" group-title="Channels",BABY BUS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20564
-#EXTINF:0 tvg-id="ext" group-title="Channels",PIKABOO | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20565
-#EXTINF:0 tvg-id="ext" group-title="Channels",TAO TAO | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20566
-#EXTINF:0 tvg-id="ext" group-title="Channels",JUNIOR TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2618
-#EXTINF:0 tvg-id="ext" group-title="Channels",SOFIA HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2619
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOM & JERRY | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2620
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH FEMIJE | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2621
-#EXTINF:0 tvg-id="ext" group-title="Channels",DUCK TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2622
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOOMERANG | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2624
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2625
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING PLANET | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2730
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING HISTORI | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2731
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING WORLD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2732
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRING ORIGINAL | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4860
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL GEOGRAPHIC | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2722
-#EXTINF:0 tvg-id="ext" group-title="Channels",24 KITCHEN | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2726
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZJARR TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2640
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALB UK | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2649
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 1 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2571
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 2 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2572
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 3 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2573
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 24 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2574
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH SHQIP | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2575
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH PLUS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2576
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH KORCA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2577
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH FILM | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2578
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH GJIROKASTRA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2588
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH MUSIC | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2663
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV KOPLIKU | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2670
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTK 1 FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20822
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTK 1 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2525
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2525
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTK 2 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2526
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2526
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTK 3 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2527
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2527
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTK 4 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2528
-#EXTINF:0 tvg-id="ext" group-title="Channels",KTV FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20823
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2528
 #EXTINF:0 tvg-id="ext" group-title="Channels",KTV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2529
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV BESA | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2590
-#EXTINF:0 tvg-id="ext" group-title="Channels",ATV FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20826
-#EXTINF:0 tvg-id="ext" group-title="Channels",ATV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2539
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2529
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTV 21 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2530
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTV 21 MK | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2532
-#EXTINF:0 tvg-id="RTV21.al" group-title="Channels",RTV 21 MIX | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2533
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2530
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN KOSOVA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2534
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTV DUKAGJINI | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2535
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTV DUKAGJINI FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20833
-#EXTINF:0 tvg-id="ext" group-title="Channels",T7 FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20831
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2535
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOP CHANNEL | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2536
 #EXTINF:0 tvg-id="ext" group-title="Channels",T7 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2538
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2538
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2539
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANAL 10 HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2540
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING 3+ | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2541
+#EXTINF:0 tvg-id="ext" group-title="Channels",JOLLY HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2542
+#EXTINF:0 tvg-id="ext" group-title="Channels",FIRST CHANNEL | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2544
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALSAT M | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2537
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALSAT M FHD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20827
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2545
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN PLUS HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2546
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN MACEDONIA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2547
+#EXTINF:0 tvg-id="ext" group-title="Channels",KOHA TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2548
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHANNEL ONE | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2552
+#EXTINF:0 tvg-id="ext" group-title="Channels",T HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2554
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANAL D DRAMA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2556
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIZION PLUS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2558
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOP NEWS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2560
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABC NEWS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2561
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEWS 24 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2562
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARTA NEWS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2563
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORA NEWS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2564
+#EXTINF:0 tvg-id="ext" group-title="Channels",FAX NEWS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2569
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV TEMA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2570
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 1 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2571
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 2 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2572
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 24 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2574
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH SHQIP | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2575
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH PLUS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2576
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 3 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2573
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH FILM | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2578
+#EXTINF:0 tvg-id="ext" group-title="Channels",A2 CNN | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2581
+#EXTINF:0 tvg-id="ext" group-title="Channels",REPORT TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2582
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV SHENJA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2584
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV ROZAFA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2585
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV BESA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2590
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV OPINION | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2593
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV MITROVICA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2594
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING TURKISH STORIES | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2595
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIELLI | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2597
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV LIRIA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2598
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR PLUS HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2599
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANALI 7 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2600
+#EXTINF:0 tvg-id="ext" group-title="Channels",SYRI TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2604
+#EXTINF:0 tvg-id="ext" group-title="Channels",SYRI VISION | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2606
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIVING FHD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2609
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXP SHKENCË | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2712
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXP NATYRA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2713
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXP HISTORI | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2714
+#EXTINF:0 tvg-id="ext" group-title="Channels",TËVË DOKU 2 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2715
+#EXTINF:0 tvg-id="ext" group-title="Channels",TËVË DOKU 1 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2716
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRAVEL CHANNEL | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2718
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL PLANET | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2724
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY CHANNEL | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2725
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING PLANET | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2730
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING HISTORI | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2731
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING WORLD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2732
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOKU BOX | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4829
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART DOKU 1 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4867
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART DOKU 2 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4868
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTV 21 POPULLORE | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2633
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTV PENDIMI | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/17506
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2633
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV 21 PLUS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2634
+#EXTINF:0 tvg-id="ext" group-title="Channels",TURBO CHANNEL | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2637
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZJARR TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2640
+#EXTINF:0 tvg-id="ext" group-title="Channels",DTV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2642
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIASPORA TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2643
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB UK | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2649
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBF MUSIC | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2650
+#EXTINF:0 tvg-id="ext" group-title="Channels",E CIFTELI HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2646
+#EXTINF:0 tvg-id="ext" group-title="Channels",BALKANIKA MUSIC | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2651
+#EXTINF:0 tvg-id="ext" group-title="Channels",ON TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2654
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOLK + | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2659
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV ZICO | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2660
+#EXTINF:0 tvg-id="ext" group-title="Channels",SHOTA TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2664
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY MUSIC | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2667
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV OPOJA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2669
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV KOSOVA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2674
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV HITS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2675
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV DANCE | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2676
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLAN MUSIC | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20821
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SONIC | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20870
+#EXTINF:0 tvg-id="ext" group-title="Channels",E 2XL | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2610
+#EXTINF:0 tvg-id="ext" group-title="Channels",CKA KA SHPIJA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2678
+#EXTINF:0 tvg-id="ext" group-title="Channels",O SA MIRE | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2679
+#EXTINF:0 tvg-id="ext" group-title="Channels",E HUMOR HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2680
+#EXTINF:0 tvg-id="ext" group-title="Channels",STUPCAT | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2681
+#EXTINF:0 tvg-id="ext" group-title="Channels",KAFENEJA JONE | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2682
+#EXTINF:0 tvg-id="ext" group-title="Channels",FC LATA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20575
+#EXTINF:0 tvg-id="ext" group-title="Channels",PORTOKALLI | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20810
+#EXTINF:0 tvg-id="ext" group-title="Channels",FARA E FLLIQT | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20576
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLANIFORNIA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20871
+#EXTINF:0 tvg-id="ext" group-title="Channels",HETUESIA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20872
+#EXTINF:0 tvg-id="ext" group-title="Channels",QUMILI | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20956
+#EXTINF:0 tvg-id="ext" group-title="Channels",MIXHA BIB | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/25275
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM GOLD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4800
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM MAX | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4801
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM AKSION | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4802
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM HITS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4804
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM THRILLER | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4806
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM AUTOR | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4807
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM DRAME | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4808
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM KOMEDI | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4809
+#EXTINF:0 tvg-id="ext" group-title="Channels",EURO FILM | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4810
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM STINET | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4811
+#EXTINF:0 tvg-id="ext" group-title="Channels",FAMILY HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4812
+#EXTINF:0 tvg-id="ext" group-title="Channels",FAMILY FHD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4813
+#EXTINF:0 tvg-id="ext" group-title="Channels",T HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4814
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX CRIME | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4817
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX MOVIES | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4818
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX LIFE | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4819
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 1 FHD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4820
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 FHD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4821
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 3 FHD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4822
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX FHD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4823
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX 2 FHD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4824
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX PLUS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4825
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX EXTRA | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4826
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX PREMIUM | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4827
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX ARTHOUSE | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4828
+#EXTINF:0 tvg-id="ext" group-title="Channels",FAST & FUN BOX | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4831
+#EXTINF:0 tvg-id="ext" group-title="Channels",FIGHT BOX | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4833
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA 1 HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4835
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA 2 HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4836
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIFE HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4837
+#EXTINF:0 tvg-id="ext" group-title="Channels",E ACTION HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4844
+#EXTINF:0 tvg-id="ext" group-title="Channels",E THRILLER HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4845
+#EXTINF:0 tvg-id="ext" group-title="Channels",E SCI-FI HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4846
+#EXTINF:0 tvg-id="ext" group-title="Channels",E COMEDY HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4847
+#EXTINF:0 tvg-id="ext" group-title="Channels",E ROMANCE HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4848
+#EXTINF:0 tvg-id="ext" group-title="Channels",E DARK HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4850
+#EXTINF:0 tvg-id="ext" group-title="Channels",E WESTERN HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4851
+#EXTINF:0 tvg-id="ext" group-title="Channels",E FAMILY HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4852
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SUPER | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4853
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING AKSION | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4855
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SMILE | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4856
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SHQIP | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4857
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING MUSE | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4858
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING LIFE | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4859
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING FANTASY | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4861
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING FAMILY | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4862
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING COMEDY | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4863
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 1 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4864
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 2 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4865
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 3 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/4866
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20529
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD 1 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20530
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD 2 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20531
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD 3 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20532
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI GOLD 4 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20533
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 1 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20534
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 2 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20535
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 3 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20536
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 4 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20537
+#EXTINF:0 tvg-id="ext" group-title="Channels",E FILMA24 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20538
+#EXTINF:0 tvg-id="ext" group-title="Channels",E PREMIERE 1 HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20567
+#EXTINF:0 tvg-id="ext" group-title="Channels",E PREMIERE 2 HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20568
+#EXTINF:0 tvg-id="ext" group-title="Channels",E PREMIERE 3 HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20569
+#EXTINF:0 tvg-id="ext" group-title="Channels",E PREMIERE 4 HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20570
+#EXTINF:0 tvg-id="ext" group-title="Channels",EPISODE HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/20811
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING NOVELAS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/25314
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING COLLECTION | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/25315
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING CLASSIC | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/25316
+#EXTINF:0 tvg-id="ext" group-title="Channels",BANG BANG | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2611
+#EXTINF:0 tvg-id="ext" group-title="Channels",ÇUFO TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2612
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING KIDS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2613
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING TRING | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2614
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRINCE KIDS | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2615
+#EXTINF:0 tvg-id="ext" group-title="Channels",JUNIOR TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2618
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIP TV | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2617
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOM & JERRY | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2620
+#EXTINF:0 tvg-id="ext" group-title="Channels",SOFIA HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2619
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOOMERANG | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2624
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2625
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV 21 JUNIOR | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2626
+#EXTINF:0 tvg-id="ext" group-title="Channels",MASHA DHE ARIU | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2629
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTV ISLAM | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/17507
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELVIS NAÇI | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/17508
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHEFQET KRASNIQI | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/17509
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/17507
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV PENDIMI | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/17506
 #EXTINF:0 tvg-id="ext" group-title="Channels",PEACE TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/17510
-#EXTINF:0 tvg-id="ext" group-title="Channels",APOLLON NEWS TV | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2565
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELE 5 HD | DE
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2804
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER RTL HD | DE
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2812
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOGGO HD | DE
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2813
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF NEO | DE
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20571
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF INFO | DE
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20572
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF HD | DE
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2783
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAI SPORT | IT
-http://portalinbucks.com:80/eri@stambolliu/eri1234/4180
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH SPORT | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2700
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/17510
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTI ISLAM | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/17512
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT NEWS | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2694
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2694
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT 1 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2695
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2695
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT 2 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2696
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2696
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT 3 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2697
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2697
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT 4 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2698
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2698
 #EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 1 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2683
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2683
 #EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 2 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2684
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2684
 #EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 3 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2685
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2685
 #EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 4 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2686
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 6 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2688
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2686
 #EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 5 HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2687
-#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 1 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2701
-#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 2 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2702
-#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 3 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2703
-#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 4 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2704
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2687
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 6 HD | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2688
 #EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 1 FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2706
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2706
 #EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 2 FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2707
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2707
 #EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 3 FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2708
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2708
 #EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 4 FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31120
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/31120
 #EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 5 FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31121
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/31121
 #EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 6 FHD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31122
-#EXTINF:0 tvg-id="ext" group-title="Channels",EURO SPORT 1 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2690
-#EXTINF:0 tvg-id="ext" group-title="Channels",EURO SPORT 2 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2691
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/31122
+#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 1 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2701
+#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 2 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2702
+#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 3 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2703
+#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 4 | AL
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2704
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARENA SPORT 1 | RS
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2282
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARENA SPORT 2 | RS
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2280
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARENA SPORT 3 | RS
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2278
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARENA SPORT 4 | RS
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2276
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARENA SPORT 5 | RS
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2274
 #EXTINF:0 tvg-id="ext" group-title="Channels",ARENA 1 PREMIUM | RS
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31042
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/31042
 #EXTINF:0 tvg-id="ext" group-title="Channels",ARENA 2 PREMIUM | RS
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31043
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/31043
 #EXTINF:0 tvg-id="ext" group-title="Channels",ARENA 3 PREMIUM | RS
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31044
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA SPORTS PRIME | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31038
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA SPORTS 1 | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20863
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA SPORTS 2 | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20864
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA SPORTS 3 | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20865
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA SPORTS 4 | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20866
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOVA SPORTS 5 | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20867
-#EXTINF:0 tvg-id="ext" group-title="Channels",COSMOTE SPORT 1 HD | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20874
-#EXTINF:0 tvg-id="ext" group-title="Channels",COSMOTE SPORT 2 HD | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20875
-#EXTINF:0 tvg-id="ext" group-title="Channels",COSMOTE SPORT 3 HD | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20876
-#EXTINF:0 tvg-id="ext" group-title="Channels",COSMOTE SPORT 4 HD | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20877
-#EXTINF:0 tvg-id="ext" group-title="Channels",COSMOTE SPORT 5 HD | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20878
-#EXTINF:0 tvg-id="ext" group-title="Channels",COSMOTE SPORT 6 HD | GR
-http://portalinbucks.com:80/eri@stambolliu/eri1234/20879
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/31044
+#EXTINF:0 tvg-id="ext" group-title="Channels",3SAT HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2781
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAS ERSTE HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2782
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2783
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOX HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2784
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2785
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL 2 HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2786
+#EXTINF:0 tvg-id="ext" group-title="Channels",KABEL HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2794
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAT 1 GOLD HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2798
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRO 7 HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2802
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRO 7 MAXX HD | DE
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/2803
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRT 1 HD | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111257
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRT 1 FHD | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111258
+#EXTINF:0 tvg-id="ext" group-title="Channels",Show HD | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111259
+#EXTINF:0 tvg-id="ext" group-title="Channels",Show Turk | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111261
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal D HD | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111262
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV HD | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111265
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star HD | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111268
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euro Star | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111270
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox HD | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111271
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox TV FHD | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111272
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV8 HD | TR
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/111273
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS 1 HDD | RS
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/110736
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS 2 HDD | RS
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/110738
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS 3 HDD | RS
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/110740
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRVAD | RS
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/110751
+#EXTINF:0 tvg-id="ext" group-title="Channels",OBN | BIH
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/110573
+#EXTINF:0 tvg-id="ext" group-title="Channels",BHT 1 | BIH
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/110571
+#EXTINF:0 tvg-id="ext" group-title="Channels",BN | BIH
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/110577
 #EXTINF:0 tvg-id="ext" group-title="Channels",BB VIP KOSOVA 1 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31046
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/31046
 #EXTINF:0 tvg-id="ext" group-title="Channels",BB VIP KOSOVA 2 | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/31047
+http://portalinbucks.com:80/ekrem@halimaj@pos/ekrem@halimaj@pos/31047
