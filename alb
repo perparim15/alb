@@ -1,1276 +1,830 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",*****SHQIP TV*****
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/988
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Big Brother Kosova 1 ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84677
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Big Brother Kosova 2 ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84676
-#EXTINF:0 tvg-id="RTK.al" group-title="SHQIP TV",AL: Rtk 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/3
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: RTK SERIAL 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/69326
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtk 1 Sat HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57351
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtk1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/32738
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtk 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/4
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtk 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/5
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtk 4 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/6
-#EXTINF:0 tvg-id="RTV21HD.al" group-title="SHQIP TV",AL: Rtv 21 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1632
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv 21 HD TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8398
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Pro 1  ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/80234
-#EXTINF:0 tvg-id="21Popullore.al" group-title="SHQIP TV",AL: Rtv 21 Popullore HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/17110
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv Rapsodi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61998
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Shqiponja TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/83717
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv Arti TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33408
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv 21 Plus HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2577
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv 21 MIX HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1629
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv 21 Maqedonis HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1633
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv 21 Junior HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1630
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: First Channel TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2573
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Ktv TV FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1400
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Ktv TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8399
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="SHQIP TV",AL: Klan Kosova HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/80868
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="SHQIP TV",AL: Klan Kosova SD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2601
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv Dukagjini TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2280
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv Dukagjini TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/17034
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: DUKAGJINI TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/42353
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TV 7 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/17030
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: T 7 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1738
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Kanal 10 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/29241
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Atv TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34205
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Alsat TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47191
-#EXTINF:0 tvg-id="AlsatM.al" group-title="SHQIP TV",AL: ALSAT M  HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33348
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Alsat TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/9895
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Alsat Macedonija HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2595
-#EXTINF:0 tvg-id="AlsatM.al" group-title="SHQIP TV",AL: Alsat M HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1423
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv Fontana HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2427
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: RTV Festina HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/55450
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TV TEUTA ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58850
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Noli TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84811
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Ura TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84812
-#EXTINF:0 tvg-id="ONTV.al" group-title="SHQIP TV",AL: On TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84823
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: HS Tregim Popullor
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57348
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Dasma TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1438
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: L-Star Popullore FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84689
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: L-Star Dasma ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84688
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: LionTv Music FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84714
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TV Tema Ferizaj HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8299
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL:  Alb’swiss TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43690
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Flutra HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33406
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Ulqin TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33410
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Jehaniter Gold HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43687
-#EXTINF:0 tvg-id="STVFolk.al" group-title="SHQIP TV",AL: Stv Folk
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2296
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL:  Diasport TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62389
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Tëvë 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/42672
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Tëvë Novela ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58178
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Tring 3 Plus HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1403
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Tring Stories Turkish ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62045
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Tring Novelas HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47192
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Tring Series HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1393
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Kanal D Drama
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/41739
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Kanal D Drama HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/17067
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Kanal D Drame HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/24986
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TDC Seriale turke SD/HD Shqip
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/42674
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TDC HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/7780
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Fieri TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85950
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Mrtv 2 HD TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47154
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Mcn TV  HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/71307
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Partizani Channel ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62486
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="SHQIP TV",AL: Vizion Plus HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/22705
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="SHQIP TV",AL: Vizion Plus HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2281
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="SHQIP TV",AL: Klan HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1396
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="SHQIP TV",AL: Klan TV FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/17046
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TV Klan Plus HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/12426
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Klan Plus HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1398
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Klan Macedonia HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1399
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Klan TV Music
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/10221
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="SHQIP TV",AL: Top Channel HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1401
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="SHQIP TV",AL: Top Channel HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/17178
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Frame TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84059
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Hell’s Kitchen Albania Sezoni 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/69381
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: HS Tallava Ashkali TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/7741
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: HS Tallava Roma TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/83769
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: HS Tallava Shqip TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/83927
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: HS Tallava Klasik TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/51412
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: HS Ashkali Tv ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/7740
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: HS Horë International ♫ █▬█ █ ▀█▀ ♫
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62383
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Ashk TV 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84824
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Ashk TV 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84825
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Dark Instrumentale INT FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/69378
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Fen HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84767
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Ballkanika TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/80485
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Roma TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62344
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TV Vushtria Muzik HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62482
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Dark Tallava FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33331
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TV Prizreni HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63078
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Televizioni TV R HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63079
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Tropoja Tv HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33349
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Istogu Channel HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1887
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Dark Hip-Hop HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33332
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: EB Popullore FHD ♫
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/38603
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Podujeva TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59734
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Tirana 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84766
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: EB Festive 1 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33329
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: EB Festive 2 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33330
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: EB Festive 3 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33325
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: EB Festive 4 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33326
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: EB Festive 5 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33337
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: EB Festive 6 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33333
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: EB Festive 7 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34307
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: EB Festive 8 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34306
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL:  Rtv Arberia 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33366
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Llapi TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/32342
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Folk Plus HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2592
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Shota TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2636
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TV Sharri HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1612
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Opoja HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1610
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Ura  TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33409
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: BBF HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/24987
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Top Estrada HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1621
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Blue Sky TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2584
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Alb UK HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1614
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Rtv Iliridadokumentar HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/55451
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: WebStar Music HD.
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/23984
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Turbo Channel HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/3303
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: TV Dielli HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1617
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Elrodi TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1618
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Syri Vizion HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1890
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Syri Blue HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1888
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Newst  MK ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62000
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL:TV Mitrovica HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2580
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Folklorit TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2587
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Mtv Kosova HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2428
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Noli  TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2596
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Supersonic TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2590
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL:  Melody TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34084
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Amol TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/3589
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Era TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2582
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Shenja  TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2581
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Koha HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1609
-#EXTINF:0 tvg-id="ext" group-title="SHQIP TV",AL: Mfm TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62388
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",****** SHQIP - AL ******
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/113796
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTK 1 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2525
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTK 1 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20822
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTK 2 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2526
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTK 3 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2527
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTK 4 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2528
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KTV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2529
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KTV FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20823
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTV 21 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2530
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTV 21 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20824
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",T7 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2538
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",T7 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20831
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KLAN KOSOVA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2534
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KLAN KOSOVA FHD  | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20825
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",BB VIP KOSOVA 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/31046
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",BB VIP KOSOVA 2 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/31047
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TOP CHANNEL | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2536
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TOP CHANNEL FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20828
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TEVE 1 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/25337
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KLAN MACEDONIA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2547
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ALSAT M | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2537
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ALSAT M FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20827
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTV DUKAGJINI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2535
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTV DUKAGJINI FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20833
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ATV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2539
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ATV FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20826
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KANAL 10 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2540
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KLAN HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2545
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KLAN FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20829
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KLAN PLUS HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2546
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KLAN PLUS FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20830
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TRING 3+ | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2541
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KANAL D DRAMA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2556
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TDC SERIALE TURKE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2555
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTV 21 MK | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2532
+#EXTINF:0 tvg-id="RTV21.al" group-title="SHQIP - AL",RTV 21 MIX | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2533
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",JOLLY HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2542
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",FIRST CHANNEL | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2544
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",VIZION PLUS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2558
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",VIZION PLUS FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20834
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KLAN NEWS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20820
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",NEWS 24 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2562
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",EURO NEWS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20959
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TOP NEWS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2560
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ABC NEWS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2561
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ORA NEWS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2564
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ARTA NEWS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2563
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",FAX NEWS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2569
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ISTOGU CHANNEL | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2549
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TRING ORIGINAL | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4860
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TRING TURKISH STORIES | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2595
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",PRO1 TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2566
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",REPORT TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2582
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",A2 CNN | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2581
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",SYRI TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2604
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",STAR PLUS HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2599
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV 1 SHKODER | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2568
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",FX MEDIA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2639
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV KOPLIKU | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2670
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",APOLLON NEWS TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2565
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV ROZAFA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2585
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",MCN TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/29701
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",T HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2554
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTSH 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2571
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTSH 2 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2572
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTSH 3 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2573
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTSH 24 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2574
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTSH PLUS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2576
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTSH FILM | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2578
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTSH SHQIP | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2575
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTSH KORCA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2577
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTSH GJIROKASTRA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2588
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",LIVING FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2609
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",24 KITCHEN | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2726
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ARTI TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2543
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ADRIANET | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2601
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",CHANNEL ONE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2552
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KANALI 7 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2600
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV KOHA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2548
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",PLUS TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2603
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTV FONTANA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2550
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",LLAPI TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/31271
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",SYRI VISION | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2606
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV BESA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2590
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV DIELLI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2597
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV LIRIA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2598
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV MITROVICA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2594
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV OPINION | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2593
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV SHENJA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2584
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV ERA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20809
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV TEMA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2570
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV TEUTA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/25117
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TV USKANA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2592
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",FLUTURA TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/26300
+#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",PREMIUM CHANNEL  | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/25067
 
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",*****HS SELECT SHQIP*****
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59348
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Select HD Shqip Info
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59337
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 1
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59344
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 2
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59345
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 3
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59346
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 4
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59347
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 5
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/83733
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 6
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/83734
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 7
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/83735
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 8
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/83738
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 9
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/83739
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HS Shqip Cinemaᴴᴰ 10
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/83741
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Gold HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63092
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Max HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63093
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Gold HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1424
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Max HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1425
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Aksion HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1426
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Action HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62480
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Thriller HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1427
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Hits HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1428
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Gold HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43723
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Max HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43691
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Dram HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/9894
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Komedi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1611
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Autor HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1429
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Stinet HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1430
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Euro Film HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1431
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Famyly HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1432
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Aksion HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1404
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Family HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84768
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Collectio HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47151
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Fantasy HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1405
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Histori HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1406
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Comedy HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1408
-#EXTINF:0 tvg-id="TringLife.al" group-title="HS SELECT SHQIP",AL: Tring Life HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1409
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Original HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33278
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Tip TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/12395
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Classic HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/32573
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Planet HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1410
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Shqip HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1411
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Smile HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1412
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Super HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1416
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Tring HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1417
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring World HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1418
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tring Muse HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62385
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL:T-HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1433
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Junior HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1394
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Exp-Shkence HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1436
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Explorer Histori TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1437
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: E Explorer HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/79707
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: T-Prime 1
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84827
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: T-Prime 2
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84828
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: T-Action
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84829
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: T-Comedy
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84830
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: T-Drama
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84831
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: T-Thriller
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84832
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: ISP Hits
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84833
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: ISP Aksion
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84834
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: ISP Komedi
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84835
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: ISP Drame
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84836
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: ISP Mrekulli
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84837
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: ISP Pikepytje
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84838
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 aksion HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63229
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 horror HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63221
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 hits HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63223
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 fantazi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63226
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 thriller HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63191
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 sci-fi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63192
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 romance HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63193
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 premium + HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63216
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 premier HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63217
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 mystery HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63218
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 komedi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63219
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 history HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63224
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 adventure HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63190
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 hindi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63225
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 family HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63227
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 biografi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63228
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 drame ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58869
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  PREMIUM 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85992
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  PREMIUM 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85993
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  PREMIUM 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85994
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  PREMIUM 4 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85995
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  ACTION HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85996
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  COMEDY HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85997
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  SCI-FI HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85998
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  ROMANCE HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85999
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  FAMILY HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86000
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  FILMA 24 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86001
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  DRAMA
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86002
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  DARK HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86003
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  WESTERN HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86004
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  HISTORI HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86005
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  NATYRA HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86006
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  SHKENCA HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86007
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  HUMOR HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86008
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  STUPCAT HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86009
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  OSA MIR
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86010
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  2XL COMEDI HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86011
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  KAFENEJA JONE
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86012
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  GJUERMET SHQIPTARE HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86013
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  ÇKA KA SHPIA
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86014
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  POPULLORE HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86015
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  MUSIC HITS HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86016
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: X  ÇIFTELI HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/86017
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Popcorn 1 ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84680
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Popcorn 2 ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84681
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star NETFLIX 1  ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84697
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star NETFLIX 2 ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84698
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star NETFLIX 3  ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84699
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Halo HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84692
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Kryetari UHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84682
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Fara e Flliqt FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84683
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Film Shqip  HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84684
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Hetuesia FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84685
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Mixha Bibe & Martin FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84686
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Qumili 2022 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84687
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: LionTv Humor HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84713
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: LionTv Shqip  HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84711
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star La Casa de Papel  HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84690
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Peacemaker HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84691
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star  Superman & Lois  HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84693
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Kids ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84701
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: LionTv Parlamenti FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84712
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: L-Star Masha & Bear  HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84700
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: 4+Shqip HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84060
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: FX MEDIA
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84774
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: T Doc 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63089
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Episode TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63090
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Prime TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63091
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Korca + HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58264
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Prime 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63097
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Prime 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63098
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Prime 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63099
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Prime 4 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63100
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Extra HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63101
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Premium HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63102
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Netflix HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63103
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Best Of HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63104
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Collection HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63105
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Aksion HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63106
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Komedi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63108
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Classic HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63109
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Family HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63110
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Horror HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63111
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: OnePlay Filma Shqip HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63112
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Premium 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63139
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Premium 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63140
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Premium 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63141
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Premium 4 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63142
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Premium 5 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63143
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Premium 6 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63144
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Aksion FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85954
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Sci Fi FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85955
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Komedi FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85956
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Horror FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85957
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Thriller FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85958
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Western FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85959
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Classic FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85960
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Family FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85961
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Fantazi FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85962
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Romance FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85963
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Krimi FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85964
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Drame FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85965
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Mistery FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85966
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Hindi FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85967
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark War FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85968
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Action FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85969
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Aventur FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85970
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Drame FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85971
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Hindi FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85972
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Netflix FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85973
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Horror FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85974
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Lufte FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85975
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Family FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85976
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Fantazi FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85977
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Komedi FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85978
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Fantashkence FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85979
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Western FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85980
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Animuar FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85981
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Shqip FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85982
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Aziatik FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85983
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Gjerman FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85984
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Francez FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85985
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Turk FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85986
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Ruse FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85987
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Italian FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85988
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: D Filma24 Spanjoll FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85989
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Filma Shqip FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/85990
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Special FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34302
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Deluxe FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34301
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Netflix 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34296
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Netflix 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34297
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Netflix 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34298
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Netflix 4 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34299
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark PRIME 1 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33338
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark PRIME 2 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33339
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark PRIME 3 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33340
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark PRIME 4 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33341
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark GOLD 1 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33342
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL:  Dark GOLD 2 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33343
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark GOLD 3 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33344
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark GOLD 4 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33345
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Aktion FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43655
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Gold FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43646
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Gold 2 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/67225
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Horror HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63146
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Horror FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43650
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Horror 24 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43651
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL Falcon Cinema Horror 24 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63145
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Sci-Fi FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43647
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Thriller FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43649
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Romance FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43648
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Drama FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43652
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Comedy FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43653
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Falcon Cinema Adventure FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43654
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 turk HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/71780
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 western HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63117
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 lufte HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63118
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 krim HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63119
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 dokumentar HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63120
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 aziatik HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63121
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: filma24 animation HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63122
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: KS Filma24 Family HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/46966
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: KS Filma24 Romance HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/46972
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: KS Filma24 Krim HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/46973
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: KS Filma24 Triller HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/46974
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: KS Filma24 Mister HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/46975
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: KS Filma24 SCI-Fi  HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/46977
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: KS Filma24 Western HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/46978
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: KS Filma24 Biografi
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/46982
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: FILMA24.Aventure HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33397
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: FILMA24.Romance HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33398
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: FILMA24.Mister HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33401
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Art Kino 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8227
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Art Kino 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8228
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Art Kino 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8229
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Art Doku 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8230
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Art Doku 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8231
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tëvë Duko 2 ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58916
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Aksion HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84778
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Max HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84779
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Komedi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84780
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Drame HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84781
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Novela HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84782
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Shqip HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84783
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Planet HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84784
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: HI Shqip ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62477
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: 8ova Thriller
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58025
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: 8ova Drame
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58021
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: 8ova Gjurme Shqiptare TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58022
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: 8ova Humor
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58023
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: 8ova Komedi
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58024
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL:  Cine Star Premiere 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/55459
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Cine Star Premiere 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/55460
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Cine Star Comedy HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59320
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Aksion ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57264
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Gold  ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57268
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Max  ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57269
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Max ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62873
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV cinema ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57266
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Horror ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57267
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Comedy ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57270
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Luftë ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62874
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Epic ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62875
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Music ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57260
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Folk ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57261
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Çifteli  ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57262
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Tallava  ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57263
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Film ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57265
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Shqip ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57271
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV Humor ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57272
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV çka ka shpija 24/7 ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57273
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: MetiTV kids ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57274
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: FilmBox Extra HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43686
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Explorer Natyra HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/57637
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Cinema 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33304
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Shqip
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43610
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Aksion
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43611
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Max
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43612
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Classics
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43613
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Drame
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43614
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Gold
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43615
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Family
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43616
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Duck
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43617
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema 24
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43618
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Premier
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43619
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Milenium 1
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43620
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Milenium 2
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43621
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Milenium 3
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43622
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Milenium 4
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43623
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Republika
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43624
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Partizani
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43625
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema 17 Nëntori
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43626
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Agimi
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43627
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Kinema Dajti
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43628
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: StatiON Cine
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43641
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: StatiON Prime
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43642
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: StatiON Box
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43643
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: StatiON Top
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43644
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: StatiON Stars
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43645
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one 1
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43656
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one 2
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43657
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one 3
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43658
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one 4
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43659
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one 5
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43660
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one 6
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43661
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one Aksion HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43662
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one Aventure
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43663
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one Crime HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43664
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one Drama HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43665
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one Epik HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43666
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one fantazi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43668
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TELE one GOLD Collection HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43669
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Film 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43719
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Film 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43720
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Film 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43721
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Aksion HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43670
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Cinema HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43671
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Drame HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43672
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Histori Shqip HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43673
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Komedi HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43674
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Thriller HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43675
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Cinema DE HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43676
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar ChuChu TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43677
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Music CH HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43679
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Muzik HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43680
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Popullore HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43681
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Qifteli HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43682
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Cinemax HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/42355
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL:  X Gold 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/42372
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Tele One Gags HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/42375
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Dark Kryetari i mire me shok HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33316
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Film Box Action
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34292
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Fox Albania HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2574
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Fox Crime  Albania HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2575
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Fox Life HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2599
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="HS SELECT SHQIP",AL: Sky Aksion
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2618
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Comedy
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2619
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Drama
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2620
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Planet
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2622
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Novela HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2623
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Sky Max HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2627
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Star Plus HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2578
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Plus TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33359
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: TV2 Gostivar HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/55520
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: WebStar Natyr 4k
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/23986
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: 24 Kitchen TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2591
-#EXTINF:0 tvg-id="Living.al" group-title="HS SELECT SHQIP",AL: Living HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2600
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: National Geographic HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2597
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Rtsh 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1596
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Rtsh 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1597
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL:Rtsh 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1598
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Rtsh Plus 24 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1599
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Rtsh Shqip HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1600
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Rtsh Muzike HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1602
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Rtsh Korca HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1603
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Rtsh Film HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1605
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Rtsh Gjirokastra HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33273
-#EXTINF:0 tvg-id="ext" group-title="HS SELECT SHQIP",AL: Rtsh Plus HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33276
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",==== DOKUMENTARE | AL ====
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4930
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",EXP SHKENCË | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2712
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",EXP HISTORI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2714
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",EXP NATYRA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2713
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",TRING PLANET | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2730
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",TRING HISTORI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2731
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",TRING WORLD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2732
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",E SHKENCA HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2709
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",E HISTORI HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2711
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",E NATYRA HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2710
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",TËVË DOKU 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2716
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",TËVË DOKU 2 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2715
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",ART DOKU 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4867
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",ART DOKU 2 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4868
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",GJURME SHQIPTARE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2729
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",HISTORY CHANNEL | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2725
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",ANIMAL PLANET | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2724
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",NATIONAL GEOGRAPHIC | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2722
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",DISCOVERY SCIENCE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2721
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",TRAVEL CHANNEL | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2718
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",ID XTRA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2727
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",TLC | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2596
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",DTX | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2728
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTARE | AL",DOKU BOX | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4829
 
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",*****PËR FËMIJE*****
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/55401
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay-Kids Shqip HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63167
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay-Kids Dhelpera HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63168
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Vlad&Niki HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63169
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Diana Show HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63170
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Nastya HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63171
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Paw Patrol HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63172
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Pj Masks HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63173
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Mickey Mouse HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63175
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Peppa Pig HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63176
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Tom&Jerry HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63177
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Bloopies HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63178
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay SpongeBob HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63179
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Pets HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63180
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Spidey HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63181
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Oddbods HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63182
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Larva HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63183
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Bob The Builder HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63185
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay BabyShark HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63186
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay CloudBabies HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63187
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay Cocomelon HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63188
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: OnePlay BabyTV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63189
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: MetiTV Fëmije ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62878
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: Bubble TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/80308
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: Tring Kids HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1419
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: Bang Bang HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1434
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: WebStar Baby HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/23987
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: Tring Bubble TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84769
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: WebStar Masha Orso
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/43678
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: Cufo TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1435
-#EXTINF:0 tvg-id="ext" group-title="PËR FËMIJE",AL: Baby TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/29114
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",==== MUZIKE | AL  ====
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4928
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",DIASPORA TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2643
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",E CIFTELI HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2646
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",E POPULLORE HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2645
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",RTV 21 POPULLORE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2633
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",RTV 21 PLUS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2634
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",KLAN MUSIC | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20821
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",E MUSIC HITS HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2644
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",MTV DANCE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2676
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",MTV HITS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2675
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",MTV KOSOVA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2674
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",DTV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2642
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",ASHK TV 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20558
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",ASHK TV 2 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20559
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",ASHK TV 3 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20560
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",TV OPOJA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2669
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",TV SHARRI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2668
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",MY MUSIC | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2667
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",SCAN TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2665
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",SHOTA TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2664
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",SUPER SONIC | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20870
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",BBF MUSIC | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2650
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",RTSH MUSIC | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2663
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",TOP ESTRADA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2661
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",TV ZICO | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2660
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",FOLK + | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2659
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",EURO AL | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2658
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",TIRANA TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2656
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",SYRI BLUE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2655
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",ON TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2654
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",CLUB TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2652
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",BALKANIKA MUSIC | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2651
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",ALB UK | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2649
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",ZJARR TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2640
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",TURBO CHANNEL | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2637
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE | AL",360 TUNE BOX | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4832
 
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",*****HUMOR SHQIP*****
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/34070
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: HS Kurafte ti turbo
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/73524
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: HS Egjeli HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/73522
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: Zhunica Humor ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84058
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: MetiTV  Mixha Bibe
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62876
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: MetiTV Portokalli 24/7 ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62877
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL:  Dark Mixha BiB HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33318
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: Dark UJQIT HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33315
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: Dark Stupcat Egjeli HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33305
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: Dark Stupcat Skeçe HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33306
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: Dark Fara e Flliqt HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33314
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: Dark Cka ka Shpia  HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33310
-#EXTINF:0 tvg-id="ext" group-title="HUMOR SHQIP",AL: Dark Kafeneja jone HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33311
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",==== HUMOR | AL ====
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4956
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",KAFENEJA JONE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2682
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",PORTOKALLI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20810
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",KLANIFORNIA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20871
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",STUPCAT | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2681
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",E HUMOR HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2680
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",HETUESIA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20872
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",O SA MIRE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2679
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",CKA KA SHPIJA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2678
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",E 2XL | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2610
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",MIXHA BIB | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/25275
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",FARA E FLLIQT | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20576
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",FC LATA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20575
+#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",QUMILI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20956
 
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",*****LAJME TV*****
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59349
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: INFO 24 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/55449
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Klan News HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/63166
-#EXTINF:0 tvg-id="ORANEWSHD.al" group-title="LAJME TV",AL: Ora news HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1606
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: A2 CC TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2583
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: cna news ᴴᴰ
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84057
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Top News HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1402
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL:News 24 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1607
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Euro News Albania
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8307
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Euronews ( AL )
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/80870
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Al Jazeera Balkans HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/55491
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Panorama TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84061
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Fox News HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/62390
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL;ABC NEWS
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/7907
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: CLUB TV
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2594
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Kanali 7-News HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1395
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Report TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1608
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Arta Lajme TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2149
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Syri News HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8305
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL: Ora TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2585
-#EXTINF:0 tvg-id="ext" group-title="LAJME TV",AL; Ntv HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/84770
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",==== FILMA | AL ====
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4931
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E PREMIERE 1 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20567
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E PREMIERE 2 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20568
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E PREMIERE 3 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20569
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E PREMIERE 4 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20570
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",EURO FILM | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4810
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM AKSION | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4802
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM AKSION FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4803
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM HITS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4804
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM HITS FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4805
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM GOLD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4800
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM MAX | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4801
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM THRILLER | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4806
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM AUTOR | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4807
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM DRAME | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4808
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM KOMEDI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4809
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILM STINET | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4811
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FAMILY HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4812
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FAMILY FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4813
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",T HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4814
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",T FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4815
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",EPISODE HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20811
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING AKSION | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4855
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING COMEDY | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4863
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING SUPER | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4853
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING FAMILY | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4862
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING FANTASY | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4861
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING CLASSIC | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/25316
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING NOVELAS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/25314
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING LIFE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4859
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING SMILE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4856
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING MUSE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4858
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING SHQIP | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4857
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",TRING COLLECTION | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/25315
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",CINE 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20534
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",CINE 2 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20535
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",CINE 3 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20536
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",CINE 4 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20537
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",DIGI GOLD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20529
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",DIGI GOLD 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20530
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",DIGI GOLD 2 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20531
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",DIGI GOLD 3 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20532
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",DIGI GOLD 4 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20533
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E FAMILY HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4852
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E WESTERN HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4851
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E DARK HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4850
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E DRAMA HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4849
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E ROMANCE HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4848
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E COMEDY HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4847
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E SCI-FI HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4846
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E THRILLER HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4845
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E ACTION HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4844
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",E FILMA24 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20538
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 ACTION FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4869
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 THRILLER FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4883
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 ROMANCE FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4882
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 MISTER FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4879
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 KRIM FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4878
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 HISTORI FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4876
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 FANTASY FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4875
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 FAMILY | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4874
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 DRAMA FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4873
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMA24 AVENTUR FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4871
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",ART KINO 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4864
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",ART KINO 2 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4865
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",ART KINO 3 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4866
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",LIFE HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4837
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",CINEMA 1 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4835
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",CINEMA 2 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4836
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FIGHT BOX | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4833
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FAST & FUN BOX | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4831
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMBOX ARTHOUSE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4828
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMBOX PREMIUM | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4827
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMBOX EXTRA | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4826
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FILMBOX PLUS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4825
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",CINEMAX FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4823
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",CINEMAX 2 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4824
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",HBO 1 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4820
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",HBO 2 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4821
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",HBO 3 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4822
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FOX LIFE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4819
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FOX MOVIES | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4818
+#EXTINF:0 tvg-id="ext" group-title="FILMA | AL",FOX CRIME | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4817
 
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",*****SHQIP SPORT*****
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/7085
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: SS Kosova 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58864
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: SS Kosova 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58865
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: SS Kosova 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58866
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Rtsh Sport HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/1601
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="SHQIP SPORT",AL: Super  Sport 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33493
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="SHQIP SPORT",AL: Super Sport 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47165
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 1 SD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47166
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47167
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 2 SD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47168
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport  2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33494
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47169
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 3 SD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47170
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33495
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 4 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47171
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 4 SD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47172
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport  4 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33496
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 5 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47173
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 5 SD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47174
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 6 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47175
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Super Sport 6 SD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47176
-#EXTINF:0 tvg-id="TringSportNewsHD.al" group-title="SHQIP SPORT",AL: Tring  Sport News HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33503
-#EXTINF:0 tvg-id="TringSportNewsHD.al" group-title="SHQIP SPORT",AL: Tring Sport News HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47178
-#EXTINF:0 tvg-id="TS1HD.al" group-title="SHQIP SPORT",AL: Tring Sport 1 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47179
-#EXTINF:0 tvg-id="TS1HD.al" group-title="SHQIP SPORT",AL: Tring Sport 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33504
-#EXTINF:0 tvg-id="TS2HD.al" group-title="SHQIP SPORT",AL: Tring Sport 2 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47180
-#EXTINF:0 tvg-id="TS2HD.al" group-title="SHQIP SPORT",AL: Tring Sport 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33505
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Tring Sport 3 FHD only match time
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47181
-#EXTINF:0 tvg-id="TS3HD.al" group-title="SHQIP SPORT",AL: Tring Sport 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33506
-#EXTINF:0 tvg-id="TS4HD.al" group-title="SHQIP SPORT",AL: Tring Sport 4 FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47182
-#EXTINF:0 tvg-id="TS4HD.al" group-title="SHQIP SPORT",AL: Tring Sport 4 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33507
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Art Sport 1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/80867
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Art Sport 2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8233
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Art Sport 3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/8234
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Art Sport 4 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/51085
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Art Sport 5 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/51084
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Art Sport 6 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/51083
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Kujtesa Sport 1
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47183
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Kujtesa  1 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33498
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Kujtesa Sport 2
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47184
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Kujtesa  2 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33499
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Kujtesa Sport 3
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47185
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Kujtesa  3 HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/33500
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Kujtesa Sport 4
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/47186
-#EXTINF:0 tvg-id="ext" group-title="SHQIP SPORT",AL: Fight Box HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/42357
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",==== FEMIJE | AL ====
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4929
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",BANG BANG | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2611
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",ÇUFO TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2612
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",JUNIOR TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2618
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",TRING KIDS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2613
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",TRING TRING | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2614
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",PRINCE KIDS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2615
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",E KIDS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2630
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",TAO TAO | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20566
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",TIP TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2617
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",TOM & JERRY | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2620
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",PËRALLA FËMIJË | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2616
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",BOOBA CARTOON | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20862
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",MASHA DHE ARIU | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2629
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",MR.BEAN KIDS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2628
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",RTV 21 JUNIOR | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2626
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",RTSH FEMIJE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2621
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",FILMA TE ANIMUAR | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4870
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",SOFIA HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2619
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",DUCK TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2622
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",BOOMERANG | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2624
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",BABY TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2627
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",CARTOON NETWORK | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2625
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",PIKABOO | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20565
+#EXTINF:0 tvg-id="ext" group-title="FEMIJE | AL",BABY BUS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20564
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",*****ISLAM SHQIP*****
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/7086
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: Mekka LIVE TV HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2641
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: Medina TV Islam HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/2643
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS ISLAM 2023
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58012
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS ISLAM Ramadan 2024
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/69070
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: XHAMIA IKRA KÖLN
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/69071
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS HOXHË DR. SHEFQET KRASNIQI
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61465
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS HOXHË DR. ZEKERIJA BAJRAMI
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61469
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS HOXHË SADULLAH BAJRAMI
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61527
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS HOXHË ENIS RAMA
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61529
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS HOXHË MAZLLAM MAZLLAMI
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61530
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS HOXHË IRFAN SALIHU
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61232
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS HOXHË ELVIS NAÇI
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61470
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS HOXHË FADIL MUSLIU
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61526
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS HOXHË OMER BAJRAMI
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/61528
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS ISLAM Fëmijët
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/58013
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: HS ISLAM GERMANY
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/59863
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: Dark Ilahi Mix HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/82486
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: Dark Ilahi list FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/82485
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: Dark ILAHI FHD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/82484
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: Rti Islam HD
-http://premium-ks.net:88/Zaja/80:8a:bd:bb:f2:bc/55358
-#EXTINF:0 tvg-id="ext" group-title="ISLAM SHQIP",AL: Rtv Ahireti HD
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",==== FETARE | AL ====
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17516
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",RTV PENDIMI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17506
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",RTV ISLAM | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17507
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",RTV ELKALEM | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20573
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",RTV AHIRETI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/20574
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",RTI ISLAM | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17512
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",PEACE TV | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17510
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",ILAHI SHQIP | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/31268
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",ELVIS NAÇI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17508
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",SHEFQET KRASNIQI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17509
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",LUGINA KURAN | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17513
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",LUGINA ILAHI | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17511
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",MEKKA LIVE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17515
+#EXTINF:0 tvg-id="ext" group-title="FETARE | AL",MEDINA LIVE | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/17514
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",==== SPORT | ALL ====
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/4912
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",TRING SPORT NEWS | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2694
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",TRING SPORT 1 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2695
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",TRING SPORT 2 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2696
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",TRING SPORT 3 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2697
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",TRING SPORT 4 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2698
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",SUPER SPORT 1 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2683
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",SUPER SPORT 2 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2684
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",SUPER SPORT 3 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2685
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",SUPER SPORT 4 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2686
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",SUPER SPORT 5 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2687
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",SUPER SPORT 6 HD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2688
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",KUJTESA SPORT 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2701
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",KUJTESA SPORT 2 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2702
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",KUJTESA SPORT 3 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2703
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",KUJTESA SPORT 4 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2704
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",ART SPORT 1 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2706
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",ART SPORT 2 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2707
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",ART SPORT 3 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2708
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",ART SPORT 4 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/31120
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",ART SPORT 5 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/31121
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",ART SPORT 6 FHD | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/31122
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",RTSH SPORT | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2700
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",EURO SPORT 1 | AL
+http://portalinbucks.com:80/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/2690
+#EXTINF:0 tvg-id="ext" group-title="SPORT | ALL",EURO SPORT 2 | AL
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  NjÃ« shoqe nga fshati
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128815.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  NjÃ« vonesÃ« e vogÃ«l
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128816.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Odiseja e Tifozave
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128817.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Operacioni zjarri
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128818.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Oshetime ne Bregdet
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128819.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Parullat
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128820.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Pas fasadÃ«s
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128821.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Pas Gjurmeve
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128822.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Pas takimit tÃ« fundit
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128823.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Pas vdekjes
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128824.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Peng
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128825.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Perballimi
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128826.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Perdhunuesit
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128827.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  PÃ«rrallÃ« nga e kaluara
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128828.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  PÃ«rse Bie Kjo Daulle
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128829.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  PÃ«rtej mureve tÃ« gurta
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128830.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Pesha e kohÃ«s
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128831.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  PlagÃ« tÃ« vjetra
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128832.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Pranvera S'erdhi VetÃ«m
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128833.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Prita
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128834.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Pylli i lirisÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128835.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Qortimet e vjeshtÃ«s
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128836.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Qyteti mÃ« i ri nÃ« botÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128837.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Radiostacioni
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128838.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Rrethi i kujtesÃ«s
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128839.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Rrethimi i vogÃ«l
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128840.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Rruge te bardha
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128841.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Rruget e Lirise
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128842.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Rrugicat qÃ« kÃ«rkonin diell
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128843.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Saimir
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128844.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Si gjithÃ« tÃ« tjerÃ«t
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128845.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Sinjali i dashurisÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128846.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Skenderbeu
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128847.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  SkÃ«terrÃ« '43
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128848.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Streha e re
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128849.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  ShÃ«mbja e idhujve
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128850.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Shirat e vjeshtÃ«s
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128851.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Shtigje Lufte
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128852.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Shoku ynÃ« Tili
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128853.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Shperthimi
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128854.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Shpresa
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128855.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Shqiptari
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128856.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  ShtÃ«pia jonÃ« e pÃ«rbashkÃ«t
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128857.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Tana
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128858.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Taulanti kÃ«rkon njÃ« motÃ«r
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128859.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Te mos heshtesh
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128860.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Tela pÃ«r violinÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128861.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Tinguj Lufte
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128862.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Tirana viti 0
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128863.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Toka jonÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128864.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  TokÃ« e pÃ«rgjakur
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128865.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Tomka dhe shokÃ«t e tij
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128866.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Tre njerÃ«z me guna
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128867.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Treni niset nÃ« 7 pa pesÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128868.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Trishtimi i zonjÃ«s Shnajder
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128869.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Thirrja
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128870.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Udha e shkronjave
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128871.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  UdhÃ«tim nÃ« pranverÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128872.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  UnÃ« e dua ErÃ«n
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128873.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Ura pranÃ« kÃ«shtjellÃ«s
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128874.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Vajzat me kordele tÃ« kuqe
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128875.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Vdekja e burrit
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128876.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Vendimi
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128877.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Vetmia
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128878.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Vitet e pritjes
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128879.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  VÃ«llezÃ«r dhe shokÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128880.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Vrasje NÃ« Gjueti
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128881.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Yje mbi Drin
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128882.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Yjet e netÃ«ve tÃ« gjata
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128883.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Zemra QÃ« Nuk Plaken
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128884.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Zevendesi i grave
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128885.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Zonja nga qyteti
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128886.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Ã‡ifti i Lumtur
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128887.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Ã‹ndÃ«rr pÃ«r njÃ« karrige
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128888.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Eja
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128889.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Estrada nÃ« ekran
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128890.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Dashuria e fundit
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128891.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Dasma e Sakos
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128892.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Dasma e shtyrÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128893.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Debatik
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128894.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  DetyrÃ« e posaÃ§me
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128895.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Dimri i fundit
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128896.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Dita e parÃ« e emÃ«rimit
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128897.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Djali Elastik
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128898.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Dora e ngrohtÃ«
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128899.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Dritat e qytezÃ«s
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128900.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Duaje emrin tend
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128901.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Duel i Heshtur
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128902.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Dy here mat
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128904.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Dhe vjen nje dite
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128905.avi
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  EGO
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128906.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Policë për kokë (2023)
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128907.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Në kuadër të dashurisë (2023)
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128908.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  5 Herë Jo (2023)
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128909.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Ofshama (2023)
+http://portalinbucks.com:80/movie/AgimNdrecaj12/nWfJ8SMg6NeawDZ111sEhghg/128910.mp4
+#EXTINF:0 tvg-id="avi" group-title="BELGIUM | BE",VOD AL |  Tryeza e zeze (2024)
