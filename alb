@@ -1,25 +1,122 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",****** SHQIP - AL ******
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/113796
-A 1 | AL
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/31046
-#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",BB VIP KOSOVA 2 | AL
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/31047
-#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TOP CHANNEL | AL
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/2536
-#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TOP CHANNEL FHD | AL
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/20828
-#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",TEVE 1 HD | AL
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/25337
-#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",KLAN MACEDONIA | AL
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/2547
-#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ALSAT M | AL
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/2537
-#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",ALSAT M FHD | AL
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/20827
-#EXTINF:0 tvg-id="ext" group-title="SHQIP - AL",RTV DUKAGJINI | AL
-http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/2535
-#EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",==== HUMOR | AL ====
+#EXTINF:-1,##### SUPER SPORTS #####
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53771
+#EXTINF:-1,ALB - SUPER SPORT 1 4K
+http://pwr55.xyz:80/shahinpeja/541A128F8566/473293
+#EXTINF:-1,ALB - SUPER SPORT 1 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/491819
+#EXTINF:-1,ALB - SUPER SPORT 1 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026336
+#EXTINF:-1,ALB - SUPER SPORT 1 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53770
+#EXTINF:-1,ALB - SUPER SPORT 2 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/762534
+#EXTINF:-1,ALB - SUPER SPORT 2 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53769
+#EXTINF:-1,ALB - SUPER SPORT 3 4K
+http://pwr55.xyz:80/shahinpeja/541A128F8566/473294
+#EXTINF:-1,ALB - SUPER SPORT 3 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026337
+#EXTINF:-1,ALB - SUPER SPORT 3 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53767
+#EXTINF:-1,ALB - SUPER SPORT 4 4K
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026338
+#EXTINF:-1,ALB - SUPER SPORT 4 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/491810
+#EXTINF:-1,ALB - SUPER SPORT 4 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026339
+#EXTINF:-1,ALB - SUPER SPORT 4 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/326620
+#EXTINF:-1,ALB - SUPER SPORT 5 4K
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026340
+#EXTINF:-1,ALB - SUPER SPORT 5 HEVC
+http://pwr55.xyz:80/shahinpeja/541A128F8566/891021
+#EXTINF:-1,ALB - SUPER SPORT 5 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026341
+#EXTINF:-1,ALB - SUPER SPORT 5 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53763
+#EXTINF:-1,ALB - SUPER SPORT 6 4K
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026342
+#EXTINF:-1,ALB - SUPER SPORT 6 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53762
+#EXTINF:-1,ALB - SUPER SPORT 6 HEVC
+http://pwr55.xyz:80/shahinpeja/541A128F8566/891020
+#EXTINF:-1,ALB - SUPER SPORT 6 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/491809
+#EXTINF:-1,ALB - SUPER SPORT 6 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026476
+#EXTINF:-1,ALB - SUPER SPORT 7 4K
+http://pwr55.xyz:80/shahinpeja/541A128F8566/491808
+#EXTINF:-1,ALB - SUPER SPORT 7 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53761
+#EXTINF:-1,ALB - SUPER SPORT KOSOVA 1
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026343
+#EXTINF:-1,##### TRING SPORTS #####
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53760
+#EXTINF:-1,ALB - TRING SPORT NEWS
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53759
+#EXTINF:-1,ALB - TRING SPORT 1 4K
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026345
+#EXTINF:-1,ALB - TRING SPORT 1 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026346
+#EXTINF:-1,ALB - TRING SPORT 1 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53757
+#EXTINF:-1,ALB - TRING SPORT 2 4K
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026347
+#EXTINF:-1,ALB - TRING SPORT 2 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026348
+#EXTINF:-1,ALB - TRING SPORT 2 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53756
+#EXTINF:-1,ALB - TRING SPORT 3 4K
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026349
+#EXTINF:-1,ALB - TRING SPORT 3 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/150350
+#EXTINF:-1,ALB - TRING SPORT 4 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/150351
+#EXTINF:-1,ALB - TRING SPORT 5 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1069672
+#EXTINF:-1,##### KUJTESA SPORT #####
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53753
+#EXTINF:-1,ALB - K SPORT 1 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026353
+#EXTINF:-1,ALB - K SPORT 1 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53752
+#EXTINF:-1,ALB - K SPORT 2 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026354
+#EXTINF:-1,ALB - K SPORT 2 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53751
+#EXTINF:-1,ALB - K SPORT 3 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026355
+#EXTINF:-1,ALB - K SPORT 3 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53750
+#EXTINF:-1,ALB - K SPORT 4 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026356
+#EXTINF:-1,ALB - K SPORT 4 HD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53749
+#EXTINF:-1,##### ART MOTION SPORT #####
+http://pwr55.xyz:80/shahinpeja/541A128F8566/53747
+#EXTINF:-1,ALB - ART SPORT 1 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/473300
+#EXTINF:-1,ALB - ART SPORT 2 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026466
+#EXTINF:-1,ALB - ART SPORT 2 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026454
+#EXTINF:-1,ALB - ART SPORT 3 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1026467
+#EXTINF:-1,ALB - ART SPORT 3 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1016329
+#EXTINF:-1,ALB - ART SPORT 4 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1016184
+#EXTINF:-1,ALB - ART SPORT 4 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1016330
+#EXTINF:-1,ALB - ART SPORT 5 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/326621
+#EXTINF:-1,ALB - ART SPORT 5 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1016331
+#EXTINF:-1,ALB - ART SPORT 6 FHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/762488
+#EXTINF:-1,ALB - ART SPORT 6 UHD
+http://pwr55.xyz:80/shahinpeja/541A128F8566/1016332
 http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/4956
 #EXTINF:0 tvg-id="ext" group-title="HUMOR | AL",KAFENEJA JONE | AL
 http://portalinbucks.com:80/NaimHasanmetaj/rZdgzJBFqApMxFrZ5Y4Fasdffg/2682
