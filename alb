@@ -1127,6 +1127,17 @@ http://663318444147770102.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770102.ts
 http://663318444147770103.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770103.ts
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUPER SPORTS 5 FHD
 http://663318444147770104.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770104.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 1 HD
+http://954904344448769929.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769929.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 2 HD
+http://954904344448769930.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769930.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 3 HD
+http://954904344448770648.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770648.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 1 FHD
+http://954904344448769715.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769715.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 2 FHD
+http://954904344448769716.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769716.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 3 FHD
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUPER SPORTS NEWS FHD
 http://663318444147770105.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770105.ts
 #EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Albania",AL: SUPERSONIC SD
