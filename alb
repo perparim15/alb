@@ -1,1316 +1,589 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBA VIP3 ALBANIA 1 FHD
-http://663318444147769730.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769730.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBA VIP3 ALBANIA 2 HD
-http://663318444147769732.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769732.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER 1 FHD
-http://663318444147769735.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769735.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER 2 FHD
-http://663318444147769736.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769736.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER ALBANIA 2 HD
-http://663318444147769737.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769737.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER KOSOVA 2 HD
-http://663318444147769738.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769738.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER KOSOVA HD
-http://663318444147769739.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769739.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB VIP KS 2 HD
-http://663318444147769729.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769729.ts
-#EXTINF:0 tvg-id="TopChannel.al" group-title="Albania",AL: TOP CHANNEL SD
-http://663318444147737829.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/737829.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALSAT M+ SD
-http://663318444147732634.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/732634.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN + FHD
-http://663318444147769911.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769911.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN PLUS FHD
-http://663318444147769563.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769563.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN MAQEDONI SD
-http://663318444147769912.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769912.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN MACEDONIA HD
-http://663318444147765719.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765719.ts
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",AL: KLAN TV FHD
-http://663318444147769915.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769915.ts
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",AL: KLAN FHD+ FHD
-http://663318444147769916.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769916.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AL-L: KLAN K. TOKSOR FHD
-http://663318444147769700.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769700.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AL-L: KLAN K. FHD
-http://663318444147769701.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769701.ts
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",AL: KLAN FHD
-http://663318444147747628.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/747628.ts
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: KLAN KOSOVA HD
-http://663318444147726622.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/726622.ts
-#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania",AL: EXPLORER NATYRE SD
-http://663318444147769840.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769840.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EXPLORER NATYRE HD (BACKUP) SD
-http://663318444147769839.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769839.ts
-#EXTINF:0 tvg-id="EXPShkence.al" group-title="Albania",AL: EXPLORER SHKENCE SD
-http://663318444147769841.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769841.ts
-#EXTINF:0 tvg-id="EXPHistori.al" group-title="Albania",AL: EXPLORER HISTORI SD
-http://663318444147749646.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749646.ts
-#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania",AL: EXPLORER NATYRA SD
-http://663318444147749647.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749647.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 1 HD
-http://663318444147769929.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769929.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 2 HD
-http://663318444147769930.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769930.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 3 HD
-http://663318444147770648.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770648.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 1 FHD
-http://663318444147769715.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769715.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 2 FHD
-http://663318444147769716.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769716.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 3 FHD
-http://663318444147769717.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769717.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KANAL D DRAMA FHD
-http://663318444147260129.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/260129.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH MUZIKë SD
-http://663318444147359659.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/359659.ts
-#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania",AL: JOLLY FHD
-http://663318444147577223.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/577223.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SHQIP SD
-http://663318444147648274.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/648274.ts
-#EXTINF:0 tvg-id="RTK.al" group-title="Albania",AL: RTK 1 SD
-http://663318444147650634.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/650634.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 4 FHD
-http://663318444147691301.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/691301.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV DUKAGJINI FHD
-http://663318444147693576.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/693576.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH FILM SD
-http://663318444147696141.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/696141.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ANTENA HD
-http://663318444147726516.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/726516.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 1 SD
-http://663318444147727627.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/727627.ts
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",AL: VIZION PLUS FHD
-http://663318444147727660.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/727660.ts
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania",AL: RTK 1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4935
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania",AL: RTK 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/180
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 3 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/181
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 4 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/182
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TeVe 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: Klan Kosova HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/827
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: Klan Kosova
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5692
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania",AL: KTV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania",AL: KTV HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/826
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanal 10 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/32
+#EXTINF:0 tvg-id="RTV21.al" group-title="Albania",AL: RTV 21
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/2
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: ATV HD
-http://663318444147729555.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/729555.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TëVë1 FHD
-http://663318444147733445.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/733445.ts
-#EXTINF:0 tvg-id="ORANEWSHD.al" group-title="Albania",AL: ORA NEWS HD
-http://663318444147735197.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/735197.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH FëMIJë SD
-http://663318444147740002.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/740002.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH KUKëSI SD
-http://663318444147740004.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/740004.ts
-#EXTINF:0 tvg-id="KTV.al" group-title="Albania",AL: KTV SD
-http://663318444147743999.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/743999.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 MAQEDONIA FHD
-http://663318444147745058.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/745058.ts
-#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania",AL: TRING FANTASY SD
-http://663318444147745076.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/745076.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TURBO CHANNEL FHD
-http://663318444147745079.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/745079.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: A2 CNN HD
-http://663318444147746986.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/746986.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ARTA NEWS SD
-http://663318444147749617.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749617.ts
-#EXTINF:0 tvg-id="BangBang.al" group-title="Albania",AL: BANG BANG SD
-http://663318444147749622.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749622.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBF MUSIC SD
-http://663318444147749623.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749623.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: CUFO FHD
-http://663318444147749630.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749630.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DASMA TV FHD
-http://663318444147749632.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749632.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ELRODI TV SD
-http://663318444147749637.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749637.ts
-#EXTINF:0 tvg-id="ETV.al" group-title="Albania",AL: ERA TV SD
-http://663318444147749640.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749640.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EURO FILM SD
-http://663318444147749642.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749642.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FAX NEWS SD
-http://663318444147749651.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749651.ts
-#EXTINF:0 tvg-id="FilmAutor.al" group-title="Albania",AL: FILM AUTOR SD
-http://663318444147749653.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749653.ts
-#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",AL: FILM DRAMë SD
-http://663318444147749655.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749655.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM GOLD FHD
-http://663318444147749657.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749657.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM HITS HD
-http://663318444147749658.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749658.ts
-#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania",AL: FILM THRILLER SD
-http://663318444147749662.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749662.ts
-#EXTINF:0 tvg-id="FirstChannel.al" group-title="Albania",AL: FIRST TV SD
-http://663318444147749664.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749664.ts
-#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania",AL: FOLK + SD
-http://663318444147749666.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749666.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FOLKLORIT FHD
-http://663318444147749667.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749667.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FOX CRIME HD
-http://663318444147749669.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749669.ts
-#EXTINF:0 tvg-id="FoxLife.al" group-title="Albania",AL: FOX LIFE SD
-http://663318444147749670.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749670.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FOX MOVIES SD
-http://663318444147749671.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749671.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KANAL 10 SD
-http://663318444147749679.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749679.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KANALI 7 NEWS SD
-http://663318444147749684.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749684.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MTV KOSOVA FHD
-http://663318444147749723.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749723.ts
-#EXTINF:0 tvg-id="MyMusic.al" group-title="Albania",AL: MY MUSIC SD
-http://663318444147749725.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749725.ts
-#EXTINF:0 tvg-id="News24.al" group-title="Albania",AL: NEWS 24 SD
-http://663318444147749730.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749730.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 2 FHD
-http://663318444147749736.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749736.ts
-#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",AL: PEACE TV SD
-http://663318444147749739.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749739.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PIKABOO FHD
-http://663318444147749742.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749742.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PREMIUM TRAVEL FHD
-http://663318444147749746.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749746.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: REPORT TV HD
-http://663318444147749747.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749747.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ROZAFA TV HD
-http://663318444147749748.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749748.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 2 SD
-http://663318444147749759.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749759.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 24 SD
-http://663318444147749760.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749760.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 3 SD
-http://663318444147749763.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749763.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH KORçA SD
-http://663318444147749767.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749767.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH PLUS SD
-http://663318444147749770.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749770.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SHKOLLë SD
-http://663318444147749773.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749773.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 MACEDONIA FHD
-http://663318444147749779.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749779.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 MIX SD
-http://663318444147749781.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749781.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 PLUS FHD
-http://663318444147749783.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749783.ts
-#EXTINF:0 tvg-id="21Popullore.al" group-title="Albania",AL: RTV 21 POPULLORE SD
-http://663318444147749784.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749784.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ARBëRIA 1 HD
-http://663318444147749787.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749787.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV PENDIMI HD
-http://663318444147749790.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749790.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SOFIA FHD
-http://663318444147749797.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749797.ts
-#EXTINF:0 tvg-id="Stinet.al" group-title="Albania",AL: STINET SD
-http://663318444147749798.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749798.ts
-#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Albania",AL: SUPERSONIC TV SD
-http://663318444147749801.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749801.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SYRI TV HD
-http://663318444147749803.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749803.ts
-#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",AL: TIP TV SD
-http://663318444147749812.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749812.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TOP ESTRADA TV FHD
-http://663318444147749815.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749815.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TOP NEWS FHD
-http://663318444147749816.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749816.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING CLASSIC HD
-http://663318444147749825.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749825.ts
-#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania",AL: TRING COMEDY SD
-http://663318444147749827.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749827.ts
-#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",AL: TRING HISTORY SD
-http://663318444147749831.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749831.ts
-#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",AL: TRING LIFE SD
-http://663318444147749835.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749835.ts
-#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania",AL: TRING PLANET SD
-http://663318444147749839.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749839.ts
-#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania",AL: TRING SHQIP SD
-http://663318444147749841.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749841.ts
-#EXTINF:0 tvg-id="Smile.al" group-title="Albania",AL: TRING SMILE SD
-http://663318444147749843.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749843.ts
-#EXTINF:0 tvg-id="TringTring.al" group-title="Albania",AL: TRING TRING SD
-http://663318444147749850.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749850.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV KOPLIKU FHD
-http://663318444147749865.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749865.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV LIRIA SD
-http://663318444147749866.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749866.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV MITROVICA SD
-http://663318444147749868.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749868.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV SHENJA SD
-http://663318444147749872.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749872.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV TEUTA HD
-http://663318444147749877.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749877.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: UK: PEACE TV ENGLISH HD
-http://663318444147749884.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749884.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ZICO TV SD
-http://663318444147749889.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749889.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ZJARR TV HD
-http://663318444147749890.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/749890.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 3 HD
-http://663318444147761237.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/761237.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PLANET SD
-http://663318444147761238.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/761238.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EPISODE TV FHD
-http://663318444147761514.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/761514.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TDC FHD (MULTISUB) FHD
-http://663318444147761545.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/761545.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BESA TV SD
-http://663318444147762254.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/762254.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH GJIROKASTRA SD
-http://663318444147762269.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/762269.ts
-#EXTINF:0 tvg-id="STVFolk.al" group-title="Albania",AL: STV FOLK SD
-http://663318444147762273.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/762273.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING COLLECTION SD
-http://663318444147762275.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/762275.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV DIASPORA FHD
-http://663318444147762278.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/762278.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EURO AL HD
-http://663318444147763125.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/763125.ts
-#EXTINF:0 tvg-id="JuniorTV.al" group-title="Albania",AL: JUNIOR TV SD
-http://663318444147763131.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/763131.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 3 FHD
-http://663318444147763136.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/763136.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING ACTION HD
-http://663318444147763144.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/763144.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 2 SD
-http://663318444147764243.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/764243.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ISLAM HD
-http://663318444147764247.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/764247.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EURONEWS FHD
-http://663318444147764586.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/764586.ts
-#EXTINF:0 tvg-id="RTV21.al" group-title="Albania",AL: RTV 21 SD
-http://663318444147764592.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/764592.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T7 SD
-http://663318444147764593.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/764593.ts
-#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania",AL: TRING WORLD SD
-http://663318444147764596.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/764596.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ABC FHD
-http://663318444147765577.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765577.ts
-#EXTINF:0 tvg-id="AnimalPlanetHD.al" group-title="Albania",AL: ANIMAL PLANET FHD
-http://663318444147765581.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765581.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ASHKALI FHD
-http://663318444147765588.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765588.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BLUE SKY TV (SHKODER) SD
-http://663318444147765594.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765594.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DRITA TV ZVICER FHD
-http://663318444147765656.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765656.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ELVIS NACI CHANNEL FHD
-http://663318444147765671.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765671.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FAMILY FHD
-http://663318444147765677.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765677.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HUDA TV SD
-http://663318444147765704.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765704.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ISTOGU CHANNEL FHD
-http://663318444147765705.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765705.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KITCHEN 24 SD
-http://663318444147765718.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765718.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN MUSIC SD
-http://663318444147765722.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765722.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN NEWS SD
-http://663318444147765723.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765723.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KURANI FISNIK ARABISHT-SHQIP HD
-http://663318444147765731.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765731.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KURANI FISNIK SHQIP HD (A.I.I.T.C) FHD
-http://663318444147765732.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765732.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NATIONAL GEOGRAPHIC HD
-http://663318444147765770.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765770.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX FEMIJE FHD
-http://663318444147765779.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765779.ts
-#EXTINF:0 tvg-id="ONTV.al" group-title="Albania",AL: ON TV SD
-http://663318444147765787.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765787.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 1 FHD
-http://663318444147765789.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765789.ts
-#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",AL: PEACE TV SHQIP SD
-http://663318444147765791.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765791.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PLUS TV VITIJA HD
-http://663318444147765793.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765793.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SATELIT SD
-http://663318444147765805.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765805.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SPORT SD
-http://663318444147765807.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765807.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 1 ALBANIA SD
-http://663318444147765808.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765808.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV FONTANA SD
-http://663318444147765813.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765813.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ORA HD
-http://663318444147765814.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765814.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SHOTA TV FHD
-http://663318444147765816.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765816.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRAVEL CHANNEL FHD
-http://663318444147765853.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765853.ts
-#EXTINF:0 tvg-id="3Plus.al" group-title="Albania",AL: TRING 3+ SD
-http://663318444147765855.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765855.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING NOVELAS HD
-http://663318444147765858.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765858.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV ASHKALI ISLAM FHD
-http://663318444147765862.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765862.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV DIELLI HD
-http://663318444147765863.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765863.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV FESTINA FHD
-http://663318444147765864.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765864.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV KOHA FHD
-http://663318444147765867.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765867.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV SHARRI FHD
-http://663318444147765871.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765871.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV TEMA FERIZAJ FHD
-http://663318444147765872.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765872.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV USKANA SD
-http://663318444147765874.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765874.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: UK: ISLAM CHANNEL SD
-http://663318444147765876.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765876.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ÇIFTELI TV HD
-http://663318444147765895.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/765895.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SCAN TV SD
-http://663318444147766189.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/766189.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV ULQINI SD
-http://663318444147766202.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/766202.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MALISHEVA TV SD
-http://663318444147767648.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/767648.ts
-#EXTINF:0 tvg-id="Fox.al" group-title="Albania",AL: FOX SD
-http://663318444147767986.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/767986.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ZëRI TV SD
-http://663318444147768013.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/768013.ts
-#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania",AL: FILM KOMEDI SD
-http://663318444147768766.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/768766.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV 2 GOSTIVAR FHD
-http://663318444147768784.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/768784.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ASHKALI TALLAVA FHD
-http://663318444147769558.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769558.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM AKSION FHD
-http://663318444147769559.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769559.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM MAX SD
-http://663318444147769560.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769560.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: GJOLLI KURAN 24/7 FHD
-http://663318444147769561.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769561.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KIDS HD
-http://663318444147769562.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769562.ts
-#EXTINF:0 tvg-id="Living.al" group-title="Albania",AL: LIVING HD
-http://663318444147769564.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769564.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH KUVEND SD
-http://663318444147769566.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769566.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ELKALEM HD
-http://663318444147769567.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769567.ts
-#EXTINF:0 tvg-id="T.al" group-title="Albania",AL: T FHD
-http://663318444147769568.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769568.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING SUPER FHD
-http://663318444147769569.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769569.ts
-#EXTINF:0 tvg-id="21Popullore.al" group-title="Albania",AL: 21 POPULLORE SD
-http://663318444147769690.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769690.ts
-#EXTINF:0 tvg-id="24Kitchen.al" group-title="Albania",AL: 24 KITCHEN SD
-http://663318444147769691.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769691.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 7 NEWS SD
-http://663318444147769692.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769692.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8OVA HUMOR HD
-http://663318444147769693.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769693.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8OVA MASHA BEAR FHD
-http://663318444147769694.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769694.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: A1 REPORT FHD
-http://663318444147769695.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769695.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AA NEW YORK SD
-http://663318444147769696.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769696.ts
-#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",AL: ABC NEWS FHD
-http://663318444147769697.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769697.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AL ALB MUSIC FHD
-http://663318444147769699.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769699.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALBMUZIK HD
-http://663318444147769702.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769702.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALBUK FHD
-http://663318444147769703.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769703.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALSAT M+ PLUS++ FHD
-http://663318444147769704.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769704.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALSAT M+ TOKSOR FHD
-http://663318444147769705.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769705.ts
-#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",AL: ALSAT SD
-http://663318444147769706.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769706.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AMOL TV FHD
-http://663318444147769707.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769707.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART DOKU 1 HD (BACKUP) SD
-http://663318444147769708.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769708.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART DOKU 1 FHD
-http://663318444147769709.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769709.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART DOKU 2 HD ( BACKUP) FHD
-http://663318444147769710.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769710.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART DOKU 2 FHD
-http://663318444147769711.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769711.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART KINO 1 FHD
-http://663318444147769712.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769712.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART KINO 2 FHD
-http://663318444147769713.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769713.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART KINO 3 HD
-http://663318444147769714.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769714.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ARTA SD
-http://663318444147769718.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769718.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ARTI TV FHD
-http://663318444147769719.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769719.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ASHK 1 FHD
-http://663318444147769720.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769720.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ASHK 2 FHD
-http://663318444147769721.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769721.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ASHK 3 FHD
-http://663318444147769722.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769722.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ASHKALI TV 1 FHD
-http://663318444147769723.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769723.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ASHKALI TV 2 FHD
-http://663318444147769724.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769724.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ASHKALI TV 3 FHD
-http://663318444147769725.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769725.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ATD FHD
-http://663318444147769726.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769726.ts
-#EXTINF:0 tvg-id="BabyTV.al" group-title="Albania",AL: BABY TV FHD
-http://663318444147769727.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769727.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BALKANIKA AL FHD
-http://663318444147769728.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769728.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBF MUSIC TV SD
-http://663318444147769733.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769733.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BG: FEN TV FHD
-http://663318444147769734.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769734.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: C1 CHANNEL FHD
-http://663318444147769741.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769741.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: CINEMA 1 FHD
-http://663318444147769742.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769742.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: CINEMA2 FHD
-http://663318444147769743.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769743.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: CITY TV FHD
-http://663318444147769744.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769744.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: CLUB TV SD
-http://663318444147769745.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769745.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK AKSION FHD
-http://663318444147769746.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769746.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK ASHKALI FHD
-http://663318444147769747.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769747.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK BALADA FHD
-http://663318444147769748.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769748.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK BARBIE FHD
-http://663318444147769749.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769749.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK BASKIA FHD
-http://663318444147769750.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769750.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK BUFI PARLAMENTI FHD
-http://663318444147769751.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769751.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK CIFTELI FHD
-http://663318444147769752.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769752.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK CKA KA SHPIA FHD
-http://663318444147769753.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769753.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK CLASSIC FHD
-http://663318444147769754.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769754.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK DELUXE FHD
-http://663318444147769755.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769755.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK DIANA SHOWS FHD
-http://663318444147769756.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769756.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK DRAGON BALL FHD
-http://663318444147769757.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769757.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK FAMILY FHD
-http://663318444147769758.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769758.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK FANTAZI FHD
-http://663318444147769759.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769759.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK FARA E FLIQT FHD
-http://663318444147769760.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769760.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK FILMA SHQIP FHD
-http://663318444147769761.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769761.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK GEZUAR 2023 FHD
-http://663318444147769762.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769762.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK GOLD 1 FHD
-http://663318444147769763.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769763.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK GOLD 2 FHD
-http://663318444147769764.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769764.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK GOLD 3 FHD
-http://663318444147769765.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769765.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK GOLD 4 FHD
-http://663318444147769766.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769766.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK HAMDIU & SHYRETJA +16 FHD
-http://663318444147769767.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769767.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK HINDI FHD
-http://663318444147769768.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769768.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK HITET FHD
-http://663318444147769769.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769769.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK ICH BIN ALBANER FHD
-http://663318444147769770.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769770.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK INSTRUMENTALE INT FHD
-http://663318444147769771.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769771.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK KAFENEJA JONE FHD
-http://663318444147769772.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769772.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK KOMEDI FHD
-http://663318444147769773.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769773.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK KRYETARI I MIRE ME SHOK FHD
-http://663318444147769774.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769774.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK LAVRA FHD
-http://663318444147769775.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769775.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK MIXHA BIB FHD
-http://663318444147769776.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769776.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK NETFLIX 1 FHD
-http://663318444147769777.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769777.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK NETFLIX 2 FHD
-http://663318444147769778.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769778.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK NETFLIX 3 FHD
-http://663318444147769779.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769779.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK NETFLIX 4 FHD
-http://663318444147769780.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769780.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK PERRALLA FHD
-http://663318444147769781.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769781.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK POPULLORE FHD+ FHD
-http://663318444147769782.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769782.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK PRIME 1 FHD
-http://663318444147769783.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769783.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK PRIME 2 FHD
-http://663318444147769784.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769784.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK PRIME 3 FHD
-http://663318444147769785.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769785.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK PRIME 4 FHD
-http://663318444147769786.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769786.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK RICKY ZOOM FHD
-http://663318444147769787.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769787.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK ROMANCE FHD
-http://663318444147769788.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769788.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK SCHENGEN VISA FHD
-http://663318444147769789.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769789.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK SPECIAL FHD
-http://663318444147769790.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769790.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK STUPCAT EGJELI FHD
-http://663318444147769791.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769791.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK STUPCAT SKECE FHD
-http://663318444147769792.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769792.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK SUPERWINGS FHD
-http://663318444147769793.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769793.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK TALLAVA FHD
-http://663318444147769794.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769794.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK THRILLER FHD
-http://663318444147769795.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769795.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK TIGRAT FHD
-http://663318444147769796.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769796.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK TOM & JERRY FHD
-http://663318444147769797.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769797.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK UJQIT FHD
-http://663318444147769798.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769798.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK VLAD & NIKI FHD
-http://663318444147769799.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769799.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK WESTERN FHD
-http://663318444147769800.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769800.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK | QUMILI FHD
-http://663318444147769801.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769801.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DASMA FHD
-http://663318444147769802.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769802.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DIASPORA TV FHD
-http://663318444147769803.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769803.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DIELLI TV FHD+ HD
-http://663318444147769804.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769804.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DIELLI HD
-http://663318444147769805.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769805.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DIGI GOLD 1 HD
-http://663318444147769806.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769806.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DIGI GOLD 2 HD
-http://663318444147769807.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769807.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DIGI GOLD 3 HD
-http://663318444147769808.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769808.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DIGI GOLD 4 HD
-http://663318444147769809.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769809.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DISCOVERY CHANNEL FHD
-http://663318444147769810.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769810.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DISCOVERY CHANNEL SHOWCSE HD
-http://663318444147769812.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769812.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DIVA SD
-http://663318444147769813.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769813.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DRITA TV SD
-http://663318444147769814.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769814.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DRITA FHD
-http://663318444147769815.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769815.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB FESTIVE 1 FHD
-http://663318444147769816.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769816.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB FESTIVE 2 FHD
-http://663318444147769817.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769817.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB FESTIVE 3 FHD
-http://663318444147769818.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769818.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB FESTIVE 4 FHD
-http://663318444147769819.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769819.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB FESTIVE 5 FHD
-http://663318444147769820.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769820.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB FESTIVE 6 FHD
-http://663318444147769821.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769821.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB FESTIVE 7 FHD
-http://663318444147769822.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769822.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB FESTIVE SOFRA 2021 FHD
-http://663318444147769823.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769823.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB HITS SD
-http://663318444147769824.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769824.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB KIDS BABY BUS FHD
-http://663318444147769825.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769825.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB KIDS PINK FONG FHD
-http://663318444147769826.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769826.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB POPULLORE FHD ♫ FHD
-http://663318444147769827.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769827.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB QIFTELI FHD
-http://663318444147769828.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769828.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ELRODI SD
-http://663318444147769829.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769829.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EPISODE FHD
-http://663318444147769830.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769830.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EURO FILM 1 SD
-http://663318444147769832.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769832.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EURO NEWS ALBANIA SD
-http://663318444147769833.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769833.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EUROFILM SD
-http://663318444147769834.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769834.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EURONEWS ALBANIA SD
-http://663318444147769835.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769835.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EUROSPORT 1 HD
-http://663318444147769836.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769836.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EUROSPORT 2 FHD
-http://663318444147769837.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769837.ts
-#EXTINF:0 tvg-id="EXPShkence.al" group-title="Albania",AL: EXP SHKENCE SD
-http://663318444147769838.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769838.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EXTREAM SPORTS CHANNEL SD
-http://663318444147769842.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769842.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EXYU | BALKANIKA SD
-http://663318444147769843.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769843.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM BOX ARTHOUSE SD
-http://663318444147769844.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769844.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM BOX PLUS SD
-http://663318444147769845.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769845.ts
-#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",AL: FILM DRAM SD
-http://663318444147769846.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769846.ts
-#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",AL: FILM DRAME SD
-http://663318444147769847.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769847.ts
-#EXTINF:0 tvg-id="FilmDyHD.al" group-title="Albania",AL: FILM DY FHD
-http://663318444147769848.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769848.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM FAMILY FHD
-http://663318444147769849.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769849.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM GOLD FHD+ FHD
-http://663318444147769850.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769850.ts
-#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="Albania",AL: FILM NJE FHD
-http://663318444147769852.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769852.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM PREMIUM 1 HD
-http://663318444147769853.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769853.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM STINE SD
-http://663318444147769854.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769854.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM STINET SD
-http://663318444147769855.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769855.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILMA24.FAMILY FHD
-http://663318444147769856.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769856.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILMBOX EXTRA SD
-http://663318444147769857.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769857.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FIRST CHANNEL SD/HD SD
-http://663318444147769858.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769858.ts
-#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania",AL: FOLK PLUS SD
-http://663318444147769859.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769859.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FOLK+ SD
-http://663318444147769860.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769860.ts
-#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania",AL: FOLK SD
-http://663318444147769861.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769861.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FOX NEWS SD
-http://663318444147769863.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769863.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FREE SPORTS HD
-http://663318444147769864.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769864.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: GEO FHD
-http://663318444147769865.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769865.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: GJURME SHQIPTARE FHD
-http://663318444147769866.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769866.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: GOLD 4 HD
-http://663318444147769867.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769867.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HELL’S KITCHEN ALBANIA SEZONI 3 FHD
-http://663318444147769868.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769868.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS ASHKALI TV HD
-http://663318444147769869.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769869.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HORE INTERNATIONAL HD
-http://663318444147769870.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769870.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË DR. SHEFQET KRASNIQI HD
-http://663318444147769871.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769871.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË DR. ZEKERIJA BAJRAMI HD
-http://663318444147769872.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769872.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË ELVIS NAÇI HD
-http://663318444147769873.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769873.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË ENIS RAMA HD
-http://663318444147769874.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769874.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË FADIL MUSLIU HD
-http://663318444147769875.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769875.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË IRFAN SALIHU HD
-http://663318444147769876.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769876.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË MAZLLAM MAZLLAMI HD
-http://663318444147769877.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769877.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË SADULLAH BAJRAMI HD
-http://663318444147769878.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769878.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS TALLAVA CLASSICS HD
-http://663318444147769879.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769879.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS TALLAVA HD
-http://663318444147769880.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769880.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS TREGIM POPULLOR HD
-http://663318444147769881.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769881.ts
-#EXTINF:0 tvg-id="JuniorTV.al" group-title="Albania",AL: JUNIOR SD
-http://663318444147769882.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769882.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K SPORT 1 HD
-http://663318444147769884.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769884.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K SPORT 2 HD
-http://663318444147769885.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769885.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K SPORT 3 HD
-http://663318444147769886.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769886.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K SPORT 4 HD
-http://663318444147769887.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769887.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KANAL 10 SD/HD SD
-http://663318444147769888.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769888.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KANAL 7 NEWS SD
-http://663318444147769889.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769889.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KANAL D DRAMA SD/HD FHD
-http://663318444147769890.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769890.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KIN.KIDS TOM&JERRY HD
-http://663318444147769891.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769891.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA 17 NëNTORI HD
-http://663318444147769892.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769892.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA AGIMI HD
-http://663318444147769893.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769893.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA AKSION MAX HD
-http://663318444147769894.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769894.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA AKSION HD
-http://663318444147769895.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769895.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA CLASSICS HD
-http://663318444147769896.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769896.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA COMEDY HD
-http://663318444147769897.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769897.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA DAJTI SD
-http://663318444147769898.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769898.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA FAMILY HD
-http://663318444147769899.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769899.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA FANTAZY HD
-http://663318444147769900.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769900.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA GOLD HD
-http://663318444147769901.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769901.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA HITS HD
-http://663318444147769902.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769902.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA MAX HD
-http://663318444147769903.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769903.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA MILENIUM 1 HD
-http://663318444147769904.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769904.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA MILENIUM 2 HD
-http://663318444147769905.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769905.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA MILENIUM 3 HD
-http://663318444147769906.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769906.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA MILENIUM 4 HD
-http://663318444147769907.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769907.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA PARTIZANI HD
-http://663318444147769908.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769908.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA REPUBLIKA SD
-http://663318444147769909.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769909.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINEMA SUPER HD
-http://663318444147769910.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769910.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN MK SD
-http://663318444147769913.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769913.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN SD/HD FHD
-http://663318444147769914.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769914.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KOMEDI SD
-http://663318444147769917.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769917.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM ACTION FHD
-http://663318444147769918.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769918.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: METITV EPIC HD
-http://663318444147769920.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769920.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS POPULLORE FHD
-http://663318444147769921.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769921.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS PREMIER 1 SD
-http://663318444147769922.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769922.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS PREMIER 2 FHD
-http://663318444147769923.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769923.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS PREMIER 3 SD
-http://663318444147769924.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769924.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS PREMIER 4 FHD
-http://663318444147769925.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769925.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KSA: QURAN MAKKAH TV ` SD
-http://663318444147769926.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769926.ts
-#EXTINF:0 tvg-id="KTV.al" group-title="Albania",AL: KTV FHD+ FHD
-http://663318444147769927.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769927.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KTV SD/HD FHD
-http://663318444147769928.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769928.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR DASMA HD
-http://663318444147769931.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769931.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR FARA E FLLIQT HD
-http://663318444147769932.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769932.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR FILM SHQIP FHD
-http://663318444147769933.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769933.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR HETUESIA HD
-http://663318444147769934.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769934.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR KRYETARI HD
-http://663318444147769935.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769935.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR LA CASA DE PAPEL FHD
-http://663318444147769936.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769936.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR MASHA & BEAR FHD
-http://663318444147769937.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769937.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR MIXHA BIBE & MARTIN FHD
-http://663318444147769938.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769938.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR NETFLIX 1 FHD
-http://663318444147769939.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769939.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR NETFLIX 2 FHD
-http://663318444147769940.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769940.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR PEACEMAKER FHD
-http://663318444147769941.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769941.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR POPULLORE FHD
-http://663318444147769942.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769942.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR QUMILI 2022 HD
-http://663318444147769943.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769943.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-STAR SUPERMAN & LOIS FHD
-http://663318444147769944.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769944.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: LIONTV MUSIC HD
-http://663318444147769945.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769945.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: LIONTV PARLAMENTI HD
-http://663318444147769946.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769946.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: LIONTV SHQIP HD
-http://663318444147769947.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769947.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: LIRIA FHD
-http://663318444147769948.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769948.ts
-#EXTINF:0 tvg-id="Living.al" group-title="Albania",AL: LIVING FHD+ FHD
-http://663318444147769949.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769949.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MAX PREMIER 2 HD
-http://663318444147769950.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769950.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MAX PREMIER 3 HD
-http://663318444147769951.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769951.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MAX PREMIER 4 HD
-http://663318444147769952.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769952.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MAXCINE HD
-http://663318444147769953.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769953.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MAXELITE HD
-http://663318444147769954.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769954.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MAXENERGI HD
-http://663318444147769955.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769955.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MAXRED HD
-http://663318444147769956.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769956.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MAXSTAR SD
-http://663318444147769957.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769957.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MCN TV HD
-http://663318444147769958.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769958.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MEDINA LIVE SD
-http://663318444147769960.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769960.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MEKKE ISLAM TV SD
-http://663318444147769961.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769961.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MEKKE LIVE SD
-http://663318444147769962.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769962.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MFM MUZIKE FHD
-http://663318444147769963.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769963.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MK: VIASAT EXPLORER HD
-http://663318444147769964.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769964.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MPT2 SAT SD
-http://663318444147769965.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769965.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MUSIC: BALKANIKA TV SD
-http://663318444147769966.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769966.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MUSIC: BARAZA TV FHD
-http://663318444147769967.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769967.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MUSIC: IBIZA GLOBAL TV SD
-http://663318444147769968.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769968.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MUSIC: KRONEHIT TV HD
-http://663318444147769969.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769969.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MUSIC: MAGIC TV SD
-http://663318444147769970.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769970.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MUSIC: SPIRIT TV HD
-http://663318444147769971.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769971.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MY MUSIC FHD
-http://663318444147769972.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769972.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MYSLIMANET E VEGJEL FHD
-http://663318444147769973.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769973.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX AKSION AL FHD
-http://663318444147769975.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769975.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX ARNOLD SCHWARZENEGGER AL FHD
-http://663318444147769976.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769976.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX AVENTURE AL FHD
-http://663318444147769977.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769977.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX BUD SPENCER & TERENCE HILL AL FHD
-http://663318444147769978.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769978.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX DWAYNE JOHNSON AL FHD
-http://663318444147769979.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769979.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX EPIK AL FHD
-http://663318444147769980.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769980.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX FANTAZI AL FHD
-http://663318444147769981.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769981.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX FEMIJE AL FHD
-http://663318444147769982.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769982.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX HORROR AL FHD
-http://663318444147769983.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769983.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX JACKIE CHAN AL FHD
-http://663318444147769984.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769984.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX KOMEDI AL FHD
-http://663318444147769985.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769985.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX ROMANCE AL FHD
-http://663318444147769986.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769986.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX SPIDER-MAN AL FHD
-http://663318444147769987.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769987.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX SYLVESTER STALLONE AL FHD
-http://663318444147769988.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769988.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NETFLIX VAN DAMME AL FHD
-http://663318444147769989.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769989.ts
-#EXTINF:0 tvg-id="News24.al" group-title="Albania",AL: NEWS 24 FHD+ SD
-http://663318444147769990.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769990.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NEWS24 SD
-http://663318444147769991.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769991.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. AKSION FHD
-http://663318444147769993.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769993.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. BABYSHARK FHD
-http://663318444147769994.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769994.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. BABYTV FHD
-http://663318444147769995.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769995.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. BEST OF FHD
-http://663318444147769996.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769996.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. BLOOPIES FHD
-http://663318444147769997.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769997.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. BOB THE BUILDER FHD
-http://663318444147769998.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769998.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. CLASSIC FHD
-http://663318444147769999.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769999.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. CLOUDBABIES FHD
-http://663318444147770000.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770000.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. COCOMELON FHD
-http://663318444147770001.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770001.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. COLLECTION FHD
-http://663318444147770002.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770002.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. DIANA SHOW FHD
-http://663318444147770003.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770003.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. DOKU. MUHAMMEDI A.S FHD
-http://663318444147770004.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770004.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. DR.SHEFQET KRASNIQI LIGJERATA FHD
-http://663318444147770005.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770005.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. ELVIS NACI LIGJERATA FHD
-http://663318444147770006.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770006.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. EXTRA FHD
-http://663318444147770007.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770007.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. FAMILY FHD
-http://663318444147770008.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770008.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. FILMA SHQIP FHD
-http://663318444147770009.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770009.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. GRIZZY FHD
-http://663318444147770010.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770010.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. HISTORI MOTIVUESE ISLAME 1 FHD
-http://663318444147770011.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770011.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. HISTORI MOTIVUESE ISLAME 2 FHD
-http://663318444147770012.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770012.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. HOXHE AHMED KALAJA FHD
-http://663318444147770013.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770013.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. HOXHE ENIS RAMA FHD
-http://663318444147770014.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770014.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. HOXHE FATMIR LATIFAJ FHD
-http://663318444147770015.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770015.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. ILAHI FHD
-http://663318444147770016.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770016.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. KOMEDI FHD
-http://663318444147770017.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770017.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. LARVA FHD
-http://663318444147770018.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770018.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. MASHA&BEAR FHD
-http://663318444147770019.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770019.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. MICKEY MOUSE FHD
-http://663318444147770020.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770020.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. NASTYA FHD
-http://663318444147770021.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770021.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. NETFLIX FHD
-http://663318444147770022.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770022.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. ODDBODS FHD
-http://663318444147770023.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770023.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. PAW PATROL FHD
-http://663318444147770024.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770024.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. PEPPA PIG FHD
-http://663318444147770025.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770025.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. PETS FHD
-http://663318444147770026.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770026.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. PJ MASKS FHD
-http://663318444147770027.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770027.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. PREMIUM FHD
-http://663318444147770028.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770028.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. PRIME 1 FHD
-http://663318444147770029.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770029.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. PRIME 3 FHD
-http://663318444147770030.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770030.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. PRIME 4 FHD
-http://663318444147770031.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770031.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. PYETJE&PERGJIGJE SHEFQET KRASNIQI FHD
-http://663318444147770032.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770032.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. RRUGA E NDRIçUAR FHD
-http://663318444147770033.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770033.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. SPIDEY FHD
-http://663318444147770034.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770034.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. SPONGEBOB FHD
-http://663318444147770035.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770035.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. TOM&JERRY FHD
-http://663318444147770036.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770036.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP. VLAD&NIKI FHD
-http://663318444147770037.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770037.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP.-KIDS DHELPERA FHD
-http://663318444147770038.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770038.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP.-KIDS RRITU DHE MESO FHD
-http://663318444147770039.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770039.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ONEP.-KIDS SHQIP FHD
-http://663318444147770040.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770040.ts
-#EXTINF:0 tvg-id="ORANEWSHD.al" group-title="Albania",AL: ORA NEWS FHD+ HD
-http://663318444147770041.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770041.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 2 [LIVE DURING EVENTS ONLY] FHD
-http://663318444147770042.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770042.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PANORAMA FHD
-http://663318444147770043.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770043.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PEACE TV ANGLISHT SD
-http://663318444147770044.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770044.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PEACE TV HD
-http://663318444147770045.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770045.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PENDIMI HD
-http://663318444147770046.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770046.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PLUS TV HD
-http://663318444147770047.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770047.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PODUJEVA TV FHD
-http://663318444147770048.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770048.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: POLLOGU SD
-http://663318444147770049.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770049.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PREMIUM CHANNEL HD
-http://663318444147770050.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770050.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PRIME FHD
-http://663318444147770051.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770051.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PRINCE KIDS FHD
-http://663318444147770052.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770052.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ROMA TV FHD
-http://663318444147770053.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770053.ts
-#EXTINF:0 tvg-id="RrokumTV.al" group-title="Albania",AL: RROKUM TV SD
-http://663318444147770054.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770054.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 1 SAT SD
-http://663318444147770055.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770055.ts
-#EXTINF:0 tvg-id="RTK.al" group-title="Albania",AL: RTK 1 FHD+ FHD
-http://663318444147770056.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770056.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK SAT FHD
-http://663318444147770058.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770058.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK TOKSOR FHD
-http://663318444147770059.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770059.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTP PRESHEVA SD
-http://663318444147770060.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770060.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH FEMIJE SD
-http://663318444147770061.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770061.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH KORCA HD
-http://663318444147770062.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770062.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH MUSIC SD
-http://663318444147770063.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770063.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH MUZIKE SD
-http://663318444147770064.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770064.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SAT SD
-http://663318444147770066.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770066.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SHKOLLE FHD
-http://663318444147770067.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770067.ts
-#EXTINF:0 tvg-id="RTV21HD.al" group-title="Albania",AL: RTV 21 FHD+ FHD
-http://663318444147770068.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770068.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 JUNIOR FHD+ FHD
-http://663318444147770069.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770069.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 JUNIOR FHD
-http://663318444147770070.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770070.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 M FHD
-http://663318444147770071.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770071.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 MIX FHD+ FHD
-http://663318444147770072.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770072.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 MK FHD
-http://663318444147770073.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770073.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 NEWBIZ FHD
-http://663318444147770074.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770074.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 PLUS FHD+ FHD
-http://663318444147770075.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770075.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ALDI HD
-http://663318444147770077.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770077.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ARBERIA 1 SD
-http://663318444147770078.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770078.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ARBERIA 2 HD
-http://663318444147770079.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770079.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ARBERIA 3 HD
-http://663318444147770080.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770080.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ARBERIA 4 HD
-http://663318444147770081.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770081.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ARBERIA 5 HD
-http://663318444147770082.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770082.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ARBëRIA 3 HD
-http://663318444147770083.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770083.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV MALISHEVA FHD
-http://663318444147770084.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770084.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV SHARRI FHD
-http://663318444147770086.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770086.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SHA JE BE TU FOLEN FHD
-http://663318444147770087.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770087.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SPORT KOSOVA 1 FHD
-http://663318444147770092.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770092.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SPORT KOSOVA 2 FHD
-http://663318444147770094.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770094.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: STATION BOX HD
-http://663318444147770095.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770095.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: STATION PRIME SD
-http://663318444147770096.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770096.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: STATION TOP HD
-http://663318444147770097.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770097.ts
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",AL: SUPER SPORT 1 FHD
-http://663318444147770098.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770098.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUPER SPORT 2 HD
-http://663318444147770099.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770099.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUPER SPORT 3 HD
-http://663318444147770100.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770100.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUPER SPORT 4 FHD
-http://663318444147770101.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770101.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUPER SPORT 6 [LIVE DURING EVENTS ONLY] FHD
-http://663318444147770102.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770102.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUPER SPORT 6 FHD
-http://663318444147770103.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770103.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUPER SPORTS 5 FHD
-http://663318444147770104.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770104.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 1 HD
-http://954904344448769929.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769929.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 2 HD
-http://954904344448769930.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769930.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 3 HD
-http://954904344448770648.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770648.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 1 FHD
-http://954904344448769715.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769715.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 2 FHD
-http://954904344448769716.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/769716.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 3 FHD
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUPER SPORTS NEWS FHD
-http://663318444147770105.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770105.ts
-#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Albania",AL: SUPERSONIC SD
-http://663318444147770107.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770107.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SYRI NEWS FHD
-http://663318444147770108.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770108.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SYRI VIZION SD
-http://663318444147770109.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770109.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T 7 FHD
-http://663318444147770110.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770110.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T SD/HD FHD
-http://663318444147770111.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770111.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T7 FHD+ FHD
-http://663318444147770112.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770112.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TDC SERIALE TURKE SD/HD FHD
-http://663318444147770115.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770115.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TDC TELENOVELA FHD
-http://663318444147770116.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770116.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TDC FHD
-http://663318444147770117.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770117.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE 1 FHD
-http://663318444147770118.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770118.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE 2 FHD
-http://663318444147770119.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770119.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE 4 FHD
-http://663318444147770120.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770120.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE 5 HD
-http://663318444147770121.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770121.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE 6 FHD
-http://663318444147770122.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770122.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE AKSION HD
-http://663318444147770123.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770123.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE CRIME HD
-http://663318444147770124.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770124.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE DRAMA HD
-http://663318444147770125.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770125.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE EPIK HD
-http://663318444147770126.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770126.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE FANTASY HD
-http://663318444147770127.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770127.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE GAGS HD
-http://663318444147770128.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770128.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE ONE GOLD COLLECTION HD
-http://663318444147770129.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770129.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TETOVA BBF HD
-http://663318444147770130.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770130.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TETOVA CIFTELI FHD
-http://663318444147770131.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770131.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TETOVA DRAME HD
-http://663318444147770132.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770132.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TETOVA ILAHI HD
-http://663318444147770133.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770133.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TETOVA KOMEDI HD
-http://663318444147770134.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770134.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TETOVA MUZIK HD
-http://663318444147770135.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770135.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TETOVA POPULLORE HD
-http://663318444147770136.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770136.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TETOVA THRILLER HD
-http://663318444147770137.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770137.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TEVE DOKU 1 FHD
-http://663318444147770138.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770138.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TEVE DOKU 2 FHD
-http://663318444147770139.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770139.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TEVE NOVELA HD
-http://663318444147770140.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770140.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TEVE1 FHD
-http://663318444147770141.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770141.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TOP CHANNAL FHD
-http://663318444147770142.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770142.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TOP ESTRADA FHD
-http://663318444147770144.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770144.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TOP NEWS FHD+ FHD
-http://663318444147770145.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770145.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TR: POWERTURK HD
-http://663318444147770146.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770146.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TR: TRTMUZIK HD
-http://663318444147770147.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770147.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRAVEL CHANNAL HD
-http://663318444147770148.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770148.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING 3 + SD
-http://663318444147770150.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770150.ts
-#EXTINF:0 tvg-id="3Plus.al" group-title="Albania",AL: TRING 3 PLUS SD
-http://663318444147770151.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770151.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING 3 SD
-http://663318444147770152.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770152.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING AKSION FHD+ FHD
-http://663318444147770154.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770154.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING FAMILY FHD
-http://663318444147770155.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770155.ts
-#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",AL: TRING HISTORI SD
-http://663318444147770157.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770157.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING HISTORY HD (BACKUP) SD
-http://663318444147770158.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770158.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING INTERNATIONAL FHD
-http://663318444147770159.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770159.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING KIDS HD
-http://663318444147770161.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770161.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING MAX FHD
-http://663318444147770163.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770163.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING MUSE SD
-http://663318444147770164.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770164.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING PLANET HD (BACKUP) SD
-http://663318444147770165.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770165.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING SERIES SD/HD FHD
-http://663318444147770166.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770166.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING SOFIA FHD
-http://663318444147770168.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770168.ts
-#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania",AL: TRING SPORT 1 FHD
-http://663318444147770169.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770169.ts
-#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania",AL: TRING SPORT 2 FHD
-http://663318444147770170.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770170.ts
-#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania",AL: TRING SPORT 3 FHD
-http://663318444147770171.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770171.ts
-#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania",AL: TRING SPORT 4 SD
-http://663318444147770172.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770172.ts
-#EXTINF:0 tvg-id="TringSportNewsHD.al" group-title="Albania",AL: TRING SPORT NEWS FHD
-http://663318444147770173.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770173.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING SUPER FHD+ FHD
-http://663318444147770174.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770174.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING TURKISH FHD
-http://663318444147770175.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770175.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING WORLD HD (BACKUP) SD
-http://663318444147770176.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770176.ts
-#EXTINF:0 tvg-id="TVArta.al" group-title="Albania",AL: TV ARTA SD
-http://663318444147770177.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770177.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV BESA PRIZREN SD
-http://663318444147770178.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770178.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV ILIRIDA HD
-http://663318444147770180.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770180.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV KOHA TETOV FHD
-http://663318444147770181.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770181.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV KOHA TETOVE FHD
-http://663318444147770182.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770182.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV LLAPI FHD
-http://663318444147770183.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770183.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV OPINION SD
-http://663318444147770184.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770184.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV OPINJONI SD
-http://663318444147770185.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770185.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV OPOJA HD
-http://663318444147770186.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770186.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV POLLOGU SD
-http://663318444147770188.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770188.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV SHARRI FHD+ FHD
-http://663318444147770190.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770190.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV SHENJA SD/HD SD
-http://663318444147770192.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770192.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV TEMA SD
-http://663318444147770193.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770193.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV ULQINI FHD
-http://663318444147770194.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770194.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV VALI FHD
-http://663318444147770195.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770195.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV VUSHTRRIA FHD
-http://663318444147770196.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770196.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TëVë AKSION FHD
-http://663318444147770197.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770197.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TëVë COMEDY FHD
-http://663318444147770198.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770198.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TëVë DRAME FHD
-http://663318444147770199.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770199.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TëVë DUKO 1 FHD
-http://663318444147770200.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770200.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TëVë FANTASY FHD
-http://663318444147770201.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770201.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TëVë SHQIP FHD
-http://663318444147770202.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770202.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: VIZION + FHD+ FHD
-http://663318444147770203.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770203.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: VIZION PLUS SD/HD FHD
-http://663318444147770204.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770204.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WEBSTAR AKSION FHD
-http://663318444147770205.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770205.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WEBSTAR CINEMA HEVC
-http://663318444147770208.ofd1206.xyz:80/live/te912998/uW@xpWnCC9Rv/770208.ts
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/234
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T7
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/578
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="Albania",AL: TV Dukagjini
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/100
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",AL: Alsat-M
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/34
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",AL: Alsat M HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3269
+#EXTINF:0 tvg-id="TopChannel.al" group-title="Albania",AL: Top Channel SD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/147
+#EXTINF:0 tvg-id="TopChannel.al" group-title="Albania",AL: Top Channel
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Albania",AL: Klan SD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/148
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Albania",AL: Klan
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/7
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan Plus HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3285
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan+
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4903
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KanalD Drama
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/2856
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB Vip Kosova 1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6097
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB Vip Kosova 2
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6098
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB Vip Kosova 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6099
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB Vip Kosova 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6100
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TDC
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1022
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DTV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/91
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN Maqedonia
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/2868
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan News
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5691
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Vision Plus HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/8
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV21 M
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/209
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3298
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FirstChannel
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/163
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PRO 1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5860
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Televizioni R
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/185
+#EXTINF:0 tvg-id="Kanali7.al" group-title="Albania",AL: Kanal 7
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/31
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arta News HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3270
+#EXTINF:0 tvg-id="TopNews.al" group-title="Albania",AL: Top News
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/37
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: A2 CNN
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3618
+#EXTINF:0 tvg-id="News24.al" group-title="Albania",AL: News 24
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/950
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FAX News
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3275
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",AL: ABC News
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/39
+#EXTINF:0 tvg-id="OraNews.al" group-title="Albania",AL: OraNews
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/241
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Euronews Albania
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4931
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINO 1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1626
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINO 2
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1627
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINO 3
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1628
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania",AL: Jolly HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/69
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Action
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/10
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Albania",AL: Tring Super
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/11
+#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",AL: Tring Life
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/12
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL : Tring Collection
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5208
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Novelas HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5596
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania",AL: Tring Comedy
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/13
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania",AL: Tring Shqip
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/14
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania",AL: Tring Fantasy
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/15
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Family
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5599
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Classic
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5188
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING Turkish Stories
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5914
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Premium Channel
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5912
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 3Plus HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/54
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Max HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/49
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Gold HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/50
+#EXTINF:0 tvg-id="FilmHits+1.al" group-title="Albania",AL: Film Hits
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/47
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Albania",AL: Film Aksion
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/45
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania",AL: Film Thriller
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/48
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Albania",AL: Film Autor
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/43
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania",AL: Film Comedy
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/46
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",AL: Film Drame
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/44
+#EXTINF:0 tvg-id="Stinet.al" group-title="Albania",AL: Stinet
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/166
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EuroFilm
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/67
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/40
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="Albania",AL: Explorer Shkence
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/52
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Albania",AL: Explorer History
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/51
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania",AL: Explorer Natyra
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/53
+#EXTINF:0 tvg-id="ext" group-title="Albania",X Shkence HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3616
+#EXTINF:0 tvg-id="ext" group-title="Albania",X Natyra HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3615
+#EXTINF:0 tvg-id="ext" group-title="Albania",X Histori HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3614
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Family HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/905
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Doku 1 FHD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5823
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Doku 2 FHD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5824
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK Gold 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5240
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK Gold 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5241
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK Gold 3 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5242
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK Gold 4 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5243
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Netflix 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5981
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Netflix 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5982
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Netflix 3 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5983
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Netflix 4 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5984
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Aksion
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5999
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Sci Fi
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5998
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Deluxe
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5997
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Special
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5996
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Komedi
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5995
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Horror
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5994
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Thriller
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5993
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Western
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5992
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Classic
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5991
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Family
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5990
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Fantazi
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5989
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Romance
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5988
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Krim
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5987
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Hindi
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5985
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Drame
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5986
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Prime Kids 1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6000
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Prime Kids 2
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6001
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Prime Kids 3
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6002
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",AL: Tring History
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/24
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania",AL: Tring World
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/26
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania",AL: Tring Planet
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/25
+#EXTINF:0 tvg-id="Living.al" group-title="Albania",AL: Living
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/21
+#EXTINF:0 tvg-id="24Kitchen.al" group-title="Albania",AL: 24 Kitchen
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5582
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Gjurme Shqiptare
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5820
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Discovery Showcase FHD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3218
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NatGeo ALB
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/373
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Planet AL
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/325
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Histori AL
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/326
+#EXTINF:0 tvg-id="TravelChannel.al" group-title="Albania",AL: Travel Channel
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4965
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Dragon Ball
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6005
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Tom & Jerry
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6004
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Pink Panther
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6003
+#EXTINF:0 tvg-id="BangBang.al" group-title="Albania",AL: Bang Bang
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/41
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Albania",AL: Cufo
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/42
+#EXTINF:0 tvg-id="TringTring.al" group-title="Albania",AL: Tring Tring
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/18
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING Origjinal
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5915
+#EXTINF:0 tvg-id="BabyTV.al" group-title="Albania",AL: Baby Tv
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/519
+#EXTINF:0 tvg-id="JuniorTV.al" group-title="Albania",AL: Junior TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/235
+#EXTINF:0 tvg-id="ext" group-title="Albania",Al: Sofia HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4926
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Macoku me cizme
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5798
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Masha dhe Ariu
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5629
+#EXTINF:0 tvg-id="KIDS.al" group-title="Albania",AL: KIDS
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/517
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 Junior
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/633
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TomJerry
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5658
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Bubble TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5668
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SAT
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3490
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3489
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3488
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 3 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3487
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 24 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3486
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH FILM
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3485
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH PLUS
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3484
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SHQIP
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3483
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SHKOLLE
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3481
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH KORÇA
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3478
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH KUKESI
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3477
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH GJIROKASTRA
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3476
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Netflix Femije
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3346
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Madagascar 3
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5710
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: The Queen's Corgi
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5821
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Nickledon
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5846
+#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",AL: Tip TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/19
+#EXTINF:0 tvg-id="FoxCrime.al" group-title="Albania",AL: Fox Crime
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/29
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Report TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4785
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ROZAFA TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4962
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV1 Shkoder
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5681
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri TV Zvicer
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5694
+#EXTINF:0 tvg-id="opoja.tv" group-title="Albania",AL: TV Opoja
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/212
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tv Pollogu HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4999
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri Vision
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6035
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Mitrovica
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/101
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Prizreni
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5601
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Besa
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/102
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tv Ulqini
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4993
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Star Plus Shkoder
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5630
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV21Mix
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/188
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Shkence AL
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/324
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Gold
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5244
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Premiere 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3607
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Premiere 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3606
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Premiere 3 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3605
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Premiere 4 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3604
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Dark HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3603
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Western HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3602
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Action HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3601
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Comedy HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3600
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Drama HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3599
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Family HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3598
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Romance HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3597
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Sci-Fi HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3596
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Thriller HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3595
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Extrem Gold 1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5589
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Extrem Gold 2
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5590
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Extrem Gold 3
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5591
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Extrem Gold 4
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5592
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Filmbox-Extra
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1635
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Humor Ujqit HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6062
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Mixha BIBI
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6061
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ShqipTV Humor HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1214
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ShqipTv  Stupcat HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/391
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cka ka shpija 24/7 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/395
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: O Sa Mire
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5168
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Kafeneja Jone
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3274
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Uskana
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5001
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TROPOJA TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5666
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: POSITIVE GOLD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1231
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUITE TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1233
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TravelINGO
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1232
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ALDI
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1021
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Bujanoci
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/93
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Presheva
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/92
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tv Podguri
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5661
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV DIELLI
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/721
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",AL: Peace TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/82
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTI HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5669
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS Film Religjion
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5612
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv nje HD Islam
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/58
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Pendimi
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1011
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ISLAM
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/716
+#EXTINF:0 tvg-id="ext" group-title="Albania",Al: Filmi Umeri r.a
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4922
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Mekke TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/714
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Medina TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/715
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ligjerata Islame
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4961
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Alb Myslim
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5660
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Esat Ilahi
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5818
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5819
+#EXTINF:0 tvg-id="Muse.al" group-title="Albania",AL: Muse
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/61
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 7 TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3627
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PRIME
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3626
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Shenja TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/55
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ATD TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/2854
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Star TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/334
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DISCOVERY SCIENCE
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/2853
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV koha
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/90
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BULEVARD TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3281
+#EXTINF:0 tvg-id="ETV.al" group-title="Albania",AL: ERA TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3282
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALB UK
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/720
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Kopliku HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/397
+#EXTINF:0 tvg-id="Smile.al" group-title="Albania",AL: Smile
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/17
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Teuta
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5438
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BOIN TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5437
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  ILIRIDA DOCU TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3267
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Panorama TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5911
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Neser TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5910
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: CLUB TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5909
+#EXTINF:0 tvg-id="ext" group-title="Albania",SE: MTV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1052
+#EXTINF:0 tvg-id="ext" group-title="Albania",TR: NR1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5650
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Radio Tirana 2
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5758
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Radio Tirana 1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5757
+
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: TV Llapi
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/538
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Folk+
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/27
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Turbo Channel
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/261
+#EXTINF:0 tvg-id="BBF.al" group-title="Music",AL: BBF
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6010
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Klan Music
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4970
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: RTSH MUZIKE
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3482
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: ELRODI
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/23
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: RTV21 Popullore
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/22
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: MTV Kosova
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/262
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Music",AL: My Music
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/219
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Dark Festive 1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6006
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Dark Festive 2
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6007
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Dark Festive 3
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6008
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Dark Festive 4
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6009
+#EXTINF:0 tvg-id="ClickTV.al" group-title="Music",AL: CLICK TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5799
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Program Festiv Muzike 2 ⁴ᴷ
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5855
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Flutra TV ⁴k
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5434
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Cifteli HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3078
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Ballkanika
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6060
+#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Music",AL: Supersonic TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5487
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: RTV Fontana
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1001
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: ISTOGU CHANNEL
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/1003
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: RTV Malisheva
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3261
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: TV Zico
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/210
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: ASHK  TV  ⁴ᴷ
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/4966
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Zjarr TV
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5439
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: RTV Festina
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5755
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: RTSH Sport
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5651
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",AL: Super Sport 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/63
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/64
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 3 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/65
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 4 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/66
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 5 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/360
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 6 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/361
+#EXTINF:0 tvg-id="SSKosova1.al" group-title="Sport",AL: Super Sport Kosova 1
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5602
+#EXTINF:0 tvg-id="SSKosova2.al" group-title="Sport",AL: Super Sport Kosova 2
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5603
+#EXTINF:0 tvg-id="TringSportNewsHD.al" group-title="Sport",AL: Tring Sport News HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/28
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Sport",AL: Tring Sport 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/96
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Sport",AL: Tring Sport 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/97
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Sport",AL: Tring Sport 3 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/98
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Sport",AL: Tring Sport 4 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3248
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3555
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3554
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 3 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/3553
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 4 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5165
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 5 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5166
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 6 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/5167
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Kujtesa Sport 1 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/883
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Kujtesa Sport 2 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/884
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Kujtesa Sport 3 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/885
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Kujtesa Sport 4 HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/886
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Sport",ES: Real Madrid HD
+http://cm1.portaltv.info:777/Makinshpimiratoc/z2FQKXyqST/6095
