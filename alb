@@ -1,1932 +1,267 @@
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Albania",*****SHQIP TV*****
-http://premium-rks.net:88/Qamil-CH/St.Gallen/988
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Big Brother Kosova 1 ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84677
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Big Brother Kosova 2 ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84676
-#EXTINF:0 tvg-id="RTK.al" group-title="Albania",AL: Rtk 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/3
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK SERIAL 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/69326
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtk 1 Sat HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57351
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtk1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/32738
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtk 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/4
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtk 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/5
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtk 4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/6
-#EXTINF:0 tvg-id="RTV21HD.al" group-title="Albania",AL: Rtv 21 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1632
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv 21 HD TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8398
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Pro 1  ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/80234
-#EXTINF:0 tvg-id="21Popullore.al" group-title="Albania",AL: Rtv 21 Popullore HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/17110
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Rapsodi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61998
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Shqiponja TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/83717
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Arti TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33408
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv 21 Plus HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2577
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv 21 MIX HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1629
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv 21 Maqedonis HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1633
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv 21 Junior HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1630
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: First Channel TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2573
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ktv TV FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1400
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ktv TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8399
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: Klan Kosova HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/80868
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: Klan Kosova SD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2601
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Dukagjini TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2280
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Dukagjini TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/17034
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DUKAGJINI TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/42353
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV 7 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/17030
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T 7 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1738
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanal 10 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/29241
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Atv TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34205
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Alsat TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47191
-#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",AL: ALSAT M  HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33348
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Alsat TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/9895
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Alsat Macedonija HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2595
-#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",AL: Alsat M HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1423
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Fontana HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2427
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Festina HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/55450
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV TEUTA ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58850
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Noli TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84811
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ura TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84812
-#EXTINF:0 tvg-id="ONTV.al" group-title="Albania",AL: On TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84823
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Tregim Popullor
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57348
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dasma TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1438
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Popullore FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84689
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Dasma ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84688
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: LionTv Music FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84714
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Tema Ferizaj HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8299
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Alb’swiss TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43690
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Flutra HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33406
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ulqin TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33410
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Jehaniter Gold HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43687
-#EXTINF:0 tvg-id="STVFolk.al" group-title="Albania",AL: Stv Folk
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2296
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Diasport TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62389
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tëvë 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/42672
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tëvë Novela ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58178
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring 3 Plus HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1403
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Stories Turkish ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62045
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Novelas HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47192
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Series HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1393
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanal D Drama
-http://premium-rks.net:88/Qamil-CH/St.Gallen/41739
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanal D Drama HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/17067
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanal D Drame HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/24986
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TDC Seriale turke SD/HD Shqip
-http://premium-rks.net:88/Qamil-CH/St.Gallen/42674
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TDC HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/7780
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fieri TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85950
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Mrtv 2 HD TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47154
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Mcn TV  HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71307
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Partizani Channel ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62486
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",AL: Vizion Plus HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/22705
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",AL: Vizion Plus HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2281
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",AL: Klan HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1396
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",AL: Klan TV FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/17046
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Klan Plus HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/12426
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan Plus HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1398
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan Macedonia HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1399
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan TV Music
-http://premium-rks.net:88/Qamil-CH/St.Gallen/10221
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL: Top Channel HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1401
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL: Top Channel HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/17178
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Frame TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84059
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Hell’s Kitchen Albania Sezoni 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/69381
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Tallava Ashkali TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/7741
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Tallava Roma TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/83769
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Tallava Shqip TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/83927
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Tallava Klasik TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/51412
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Ashkali Tv ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/7740
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Horë International ♫ █▬█ █ ▀█▀ ♫
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62383
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ashk TV 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84824
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ashk TV 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84825
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Instrumentale INT FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/69378
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fen HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84767
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ballkanika TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/80485
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Roma TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62344
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Vushtria Muzik HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62482
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Tallava FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33331
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Prizreni HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63078
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Televizioni TV R HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63079
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tropoja Tv HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33349
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Istogu Channel HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1887
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Hip-Hop HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33332
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB Popullore FHD ♫
-http://premium-rks.net:88/Qamil-CH/St.Gallen/38603
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Podujeva TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59734
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tirana 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84766
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB Festive 1 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33329
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB Festive 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33330
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB Festive 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33325
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB Festive 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33326
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB Festive 5 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33337
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB Festive 6 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33333
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB Festive 7 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34307
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EB Festive 8 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34306
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Rtv Arberia 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33366
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Llapi TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/32342
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Folk Plus HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2592
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Shota TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2636
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Sharri HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1612
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Opoja HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1610
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ura  TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33409
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBF HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/24987
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Top Estrada HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1621
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Blue Sky TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2584
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Alb UK HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1614
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Iliridadokumentar HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/55451
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Music HD.
-http://premium-rks.net:88/Qamil-CH/St.Gallen/23984
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Turbo Channel HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/3303
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Dielli HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1617
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Elrodi TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1618
-#EXTINF:0 tvg-id="SyriTV.al" group-title="Albania",AL: Syri Vizion HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1890
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri Blue HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1888
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Newst  MK ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62000
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:TV Mitrovica HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2580
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Folklorit TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2587
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Mtv Kosova HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2428
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Noli  TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2596
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Supersonic TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2590
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Melody TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34084
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Amol TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/3589
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Era TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2582
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Shenja  TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2581
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Koha HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1609
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Mfm TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62388
-#EXTINF:0 tvg-id="ext" group-title="Albania",*****HS SELECT SHQIP*****
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59348
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Select HD Shqip Info
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59337
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 1
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59344
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 2
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59345
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 3
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59346
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 4
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59347
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 5
-http://premium-rks.net:88/Qamil-CH/St.Gallen/83733
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 6
-http://premium-rks.net:88/Qamil-CH/St.Gallen/83734
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 7
-http://premium-rks.net:88/Qamil-CH/St.Gallen/83735
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 8
-http://premium-rks.net:88/Qamil-CH/St.Gallen/83738
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 9
-http://premium-rks.net:88/Qamil-CH/St.Gallen/83739
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Shqip Cinemaᴴᴰ 10
-http://premium-rks.net:88/Qamil-CH/St.Gallen/83741
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Gold HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63092
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Max HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63093
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Gold HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1424
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Max HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1425
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Aksion HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1426
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Action HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62480
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Thriller HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1427
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Hits HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1428
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Gold HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43723
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Max HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43691
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Dram HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/9894
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Komedi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1611
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Autor HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1429
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Stinet HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1430
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Euro Film HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1431
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Famyly HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1432
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Aksion HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1404
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Family HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84768
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Collectio HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47151
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Fantasy HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1405
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Histori HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1406
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Comedy HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1408
-#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",AL: Tring Life HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1409
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Original HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33278
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Tip TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/12395
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Classic HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/32573
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Planet HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1410
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Shqip HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1411
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Smile HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1412
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Super HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1416
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Tring HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1417
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring World HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1418
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Muse HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62385
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:T-HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1433
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Junior HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1394
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Exp-Shkence HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1436
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Explorer Histori TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1437
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: E Explorer HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/79707
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 aksion HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63229
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 horror HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63221
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 hits HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63223
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 fantazi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63226
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 thriller HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63191
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 sci-fi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63192
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 romance HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63193
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 premium + HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63216
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 premier HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63217
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 mystery HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63218
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 komedi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63219
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 history HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63224
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 adventure HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63190
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 hindi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63225
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 family HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63227
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 biografi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63228
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 drame ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58869
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  PREMIUM 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85992
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  PREMIUM 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85993
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  PREMIUM 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85994
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  PREMIUM 4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85995
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  ACTION HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85996
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  COMEDY HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85997
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  SCI-FI HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85998
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  ROMANCE HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85999
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  FAMILY HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86000
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  FILMA 24 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86001
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  DRAMA
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86002
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  DARK HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86003
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  WESTERN HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86004
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  HISTORI HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86005
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  NATYRA HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86006
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  SHKENCA HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86007
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  HUMOR HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86008
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  STUPCAT HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86009
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  OSA MIR
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86010
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  2XL COMEDI HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86011
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  KAFENEJA JONE
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86012
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  GJUERMET SHQIPTARE HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86013
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  ÇKA KA SHPIA
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86014
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  POPULLORE HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86015
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  MUSIC HITS HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86016
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X  ÇIFTELI HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86017
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Popcorn 1 ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84680
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Popcorn 2 ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84681
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star NETFLIX 1  ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84697
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star NETFLIX 2 ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84698
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star NETFLIX 3  ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84699
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Halo HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84692
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Kryetari UHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84682
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Fara e Flliqt FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84683
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Film Shqip  HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84684
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Hetuesia FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84685
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Mixha Bibe & Martin FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84686
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Qumili 2022 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84687
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: LionTv Humor HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84713
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: LionTv Shqip  HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84711
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star La Casa de Papel  HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84690
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Peacemaker HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84691
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star  Superman & Lois  HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84693
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Kids ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84701
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: LionTv Parlamenti FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84712
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: L-Star Masha & Bear  HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84700
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 4+Shqip HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84060
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FX MEDIA
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84774
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T Doc 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63089
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Episode TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63090
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Prime TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63091
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Korca + HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58264
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Prime 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63097
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Prime 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63098
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Prime 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63099
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Prime 4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63100
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Extra HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63101
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Premium HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63102
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Netflix HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63103
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Best Of HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63104
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Collection HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63105
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Aksion HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63106
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Komedi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63108
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Classic HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63109
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Family HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63110
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Horror HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63111
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Filma Shqip HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63112
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Premium 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63139
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Premium 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63140
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Premium 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63141
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Premium 4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63142
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Premium 5 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63143
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Premium 6 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63144
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Aksion FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85954
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Sci Fi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85955
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Komedi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85956
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Horror FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85957
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Thriller FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85958
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Western FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85959
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Classic FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85960
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Family FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85961
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Fantazi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85962
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Romance FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85963
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Krimi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85964
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Drame FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85965
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Mistery FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85966
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Hindi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85967
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark War FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85968
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Action FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85969
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Aventur FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85970
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Drame FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85971
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Hindi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85972
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Netflix FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85973
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Horror FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85974
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Lufte FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85975
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Family FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85976
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Fantazi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85977
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Komedi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85978
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Fantashkence FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85979
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Western FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85980
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Animuar FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85981
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Shqip FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85982
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Aziatik FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85983
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Gjerman FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85984
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Francez FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85985
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Turk FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85986
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Ruse FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85987
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Italian FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85988
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: D Filma24 Spanjoll FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85989
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Filma Shqip FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/85990
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Special FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34302
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Deluxe FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34301
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Netflix 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34296
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Netflix 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34297
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Netflix 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34298
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Netflix 4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34299
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark PRIME 1 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33338
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark PRIME 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33339
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark PRIME 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33340
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark PRIME 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33341
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark GOLD 1 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33342
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Dark GOLD 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33343
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark GOLD 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33344
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark GOLD 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33345
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Aktion FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43655
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Gold FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43646
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Gold 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/67225
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Horror HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63146
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Horror FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43650
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Horror 24 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43651
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL Falcon Cinema Horror 24 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63145
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Sci-Fi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43647
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Thriller FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43649
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Romance FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43648
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Drama FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43652
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Comedy FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43653
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Falcon Cinema Adventure FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43654
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 turk HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71780
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 western HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63117
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 lufte HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63118
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 krim HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63119
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 dokumentar HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63120
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 aziatik HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63121
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: filma24 animation HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63122
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS Filma24 Family HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/46966
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS Filma24 Romance HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/46972
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS Filma24 Krim HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/46973
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS Filma24 Triller HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/46974
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS Filma24 Mister HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/46975
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS Filma24 SCI-Fi  HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/46977
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS Filma24 Western HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/46978
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KS Filma24 Biografi
-http://premium-rks.net:88/Qamil-CH/St.Gallen/46982
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILMA24.Aventure HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33397
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILMA24.Romance HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33398
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILMA24.Mister HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33401
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Kino 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8227
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Kino 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8228
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Kino 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8229
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Doku 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8230
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Doku 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8231
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tëvë Duko 2 ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58916
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Aksion HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84778
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Max HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84779
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Komedi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84780
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Drame HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84781
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Novela HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84782
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Shqip HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84783
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Planet HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84784
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HI Shqip ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62477
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Thriller
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58025
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Drame
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58021
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Gjurme Shqiptare TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58022
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Humor
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58023
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Komedi
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58024
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Cine Star Premiere 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/55459
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cine Star Premiere 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/55460
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cine Star Comedy HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59320
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Aksion ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57264
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Gold  ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57268
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Max  ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57269
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Max ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62873
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV cinema ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57266
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Horror ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57267
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Comedy ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57270
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Luftë ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62874
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Epic ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62875
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Music ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57260
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Folk ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57261
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Çifteli  ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57262
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Tallava  ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57263
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Film ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57265
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Shqip ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57271
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Humor ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57272
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV çka ka shpija 24/7 ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57273
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV kids ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57274
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FilmBox Extra HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43686
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Explorer Natyra HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/57637
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cinema 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33304
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Shqip
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43610
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Aksion
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43611
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Max
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43612
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Classics
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43613
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Drame
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43614
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Gold
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43615
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Family
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43616
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Duck
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43617
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema 24
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43618
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Premier
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43619
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Milenium 1
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43620
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Milenium 2
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43621
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Milenium 3
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43622
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Milenium 4
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43623
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Republika
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43624
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Partizani
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43625
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema 17 Nëntori
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43626
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Agimi
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43627
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kinema Dajti
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43628
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: StatiON Cine
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43641
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: StatiON Prime
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43642
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: StatiON Box
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43643
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: StatiON Top
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43644
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: StatiON Stars
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43645
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 1
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43656
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 2
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43657
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 3
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43658
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 4
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43659
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 5
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43660
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 6
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43661
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one Aksion HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43662
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one Aventure
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43663
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one Crime HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43664
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one Drama HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43665
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one Epik HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43666
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one fantazi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43668
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one GOLD Collection HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43669
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Film 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43719
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Film 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43720
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Film 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43721
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Aksion HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43670
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Cinema HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43671
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Drame HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43672
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Histori Shqip HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43673
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Komedi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43674
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Thriller HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43675
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Cinema DE HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43676
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar ChuChu TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43677
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Music CH HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43679
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Muzik HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43680
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Popullore HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43681
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Qifteli HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43682
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cinemax HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/42355
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  X Gold 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/42372
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tele One Gags HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/42375
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Kryetari i mire me shok HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33316
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Box Action
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34292
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fox Albania HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2574
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fox Crime  Albania HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2575
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fox Life HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2599
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="Albania",AL: Sky Aksion
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2618
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Comedy
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2619
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Drama
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2620
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Planet
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2622
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Novela HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2623
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Max HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2627
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Star Plus HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2578
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Plus TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33359
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV2 Gostivar HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/55520
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Natyr 4k
-http://premium-rks.net:88/Qamil-CH/St.Gallen/23986
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 24 Kitchen TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2591
-#EXTINF:0 tvg-id="Living.al" group-title="Albania",AL: Living HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2600
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: National Geographic HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2597
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1596
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1597
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Rtsh 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1598
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Plus 24 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1599
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Shqip HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1600
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Muzike HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1602
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Korca HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1603
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Film HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1605
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Gjirokastra HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33273
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Plus HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33276
-#EXTINF:0 tvg-id="ext" group-title="Albania",*****PËR FËMIJE*****
-http://premium-rks.net:88/Qamil-CH/St.Gallen/55401
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay-Kids Shqip HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63167
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay-Kids Dhelpera HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63168
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Vlad&Niki HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63169
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Diana Show HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63170
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Nastya HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63171
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Paw Patrol HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63172
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Pj Masks HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63173
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Mickey Mouse HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63175
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Peppa Pig HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63176
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Tom&Jerry HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63177
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Bloopies HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63178
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay SpongeBob HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63179
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Pets HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63180
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Spidey HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63181
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Oddbods HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63182
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Larva HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63183
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Bob The Builder HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63185
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay BabyShark HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63186
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay CloudBabies HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63187
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay Cocomelon HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63188
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OnePlay BabyTV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63189
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Fëmije ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62878
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Bubble TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/80308
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Kids HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1419
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Bang Bang HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1434
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Baby HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/23987
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Bubble TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84769
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Masha Orso
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43678
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cufo TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1435
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Baby TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/29114
-#EXTINF:0 tvg-id="ext" group-title="Albania",*****HUMOR SHQIP*****
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34070
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Kurafte ti turbo
-http://premium-rks.net:88/Qamil-CH/St.Gallen/73524
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Egjeli HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/73522
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Zhunica Humor ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84058
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV  Mixha Bibe
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62876
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MetiTV Portokalli 24/7 ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62877
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Dark Mixha BiB HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33318
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark UJQIT HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33315
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Stupcat Egjeli HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33305
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Stupcat Skeçe HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33306
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Fara e Flliqt HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33314
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Cka ka Shpia  HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33310
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Kafeneja jone HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33311
-#EXTINF:0 tvg-id="ext" group-title="Albania",*****LAJME TV*****
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59349
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: INFO 24 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/55449
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan News HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63166
-#EXTINF:0 tvg-id="ORANEWSHD.al" group-title="Albania",AL: Ora news HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1606
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: A2 CC TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2583
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: cna news ᴴᴰ
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84057
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Top News HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1402
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:News 24 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1607
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Euro News Albania
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8307
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Euronews ( AL )
-http://premium-rks.net:88/Qamil-CH/St.Gallen/80870
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Al Jazeera Balkans HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/55491
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Panorama TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84061
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fox News HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/62390
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL;ABC NEWS
-http://premium-rks.net:88/Qamil-CH/St.Gallen/7907
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: CLUB TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2594
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanali 7-News HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1395
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Report TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1608
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arta Lajme TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2149
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri News HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8305
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ora TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2585
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL; Ntv HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/84770
-#EXTINF:0 tvg-id="ext" group-title="Albania",*****SHQIP SPORT*****
-http://premium-rks.net:88/Qamil-CH/St.Gallen/7085
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SS Kosova 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58864
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SS Kosova 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58865
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SS Kosova 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58866
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Sport HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1601
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",AL: Super  Sport 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33493
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",AL: Super Sport 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47165
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 1 SD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47166
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47167
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 2 SD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47168
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport  2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33494
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47169
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 3 SD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47170
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33495
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47171
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 4 SD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47172
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport  4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33496
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 5 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47173
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 5 SD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47174
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 6 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47175
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Super Sport 6 SD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47176
-#EXTINF:0 tvg-id="TringSportNewsHD.al" group-title="Albania",AL: Tring  Sport News HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33503
-#EXTINF:0 tvg-id="TringSportNewsHD.al" group-title="Albania",AL: Tring Sport News HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47178
-#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania",AL: Tring Sport 1 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47179
-#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania",AL: Tring Sport 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33504
-#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania",AL: Tring Sport 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47180
-#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania",AL: Tring Sport 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33505
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Sport 3 FHD only match time
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47181
-#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania",AL: Tring Sport 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33506
-#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania",AL: Tring Sport 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47182
-#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania",AL: Tring Sport 4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33507
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Sport 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/80867
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Sport 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8233
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Sport 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8234
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Sport 4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/51085
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Sport 5 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/51084
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Sport 6 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/51083
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa Sport 1
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47183
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa  1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33498
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa Sport 2
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47184
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa  2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33499
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa Sport 3
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47185
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa  3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33500
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa Sport 4
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47186
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fight Box HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/42357
-#EXTINF:0 tvg-id="ext" group-title="Albania",*****ISLAM SHQIP*****
-http://premium-rks.net:88/Qamil-CH/St.Gallen/7086
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Mekka LIVE TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2641
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Medina TV Islam HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2643
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS ISLAM 2023
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58012
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS ISLAM Ramadan 2024
-http://premium-rks.net:88/Qamil-CH/St.Gallen/69070
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: XHAMIA IKRA KÖLN
-http://premium-rks.net:88/Qamil-CH/St.Gallen/69071
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË DR. SHEFQET KRASNIQI
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61465
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË DR. ZEKERIJA BAJRAMI
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61469
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË SADULLAH BAJRAMI
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61527
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË ENIS RAMA
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61529
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË MAZLLAM MAZLLAMI
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61530
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË IRFAN SALIHU
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61232
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË ELVIS NAÇI
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61470
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË FADIL MUSLIU
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61526
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS HOXHË OMER BAJRAMI
-http://premium-rks.net:88/Qamil-CH/St.Gallen/61528
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS ISLAM Fëmijët
-http://premium-rks.net:88/Qamil-CH/St.Gallen/58013
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS ISLAM GERMANY
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59863
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Ilahi Mix HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/82486
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Ilahi list FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/82485
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark ILAHI FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/82484
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rti Islam HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/55358
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Ahireti HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/38600
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Elkalem Islam TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47152
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Pendimi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/25662
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Pendimi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1626
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dobra Islamska HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/59654
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Radio 1 Rtv Pendimi
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47571
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Radio 2 Rtv Pendimi
-http://premium-rks.net:88/Qamil-CH/St.Gallen/47572
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Skampa TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/38594
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Islam HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43683
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: WebStar Islam 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/43684
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Peace Tv HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/1625
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Islam HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/8119
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Besa TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/18518
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Liria
-http://premium-rks.net:88/Qamil-CH/St.Gallen/86031
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv Islam TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2635
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AL anwar
-http://premium-rks.net:88/Qamil-CH/St.Gallen/34083
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AL Zahra TV
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2632
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Zahra 2 TV Islam HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33351
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Salaam TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/33268
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Imam Ali TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/63080
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Imam Hussein 1 TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2628
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Imam  Hussein 2 TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2629
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Imam  Hussein 3 TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2630
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Imam  Hussein 4 TV HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/2631
-#EXTINF:0 tvg-id="ext" group-title="Albania",*****FILMA ISLAM*****
-http://premium-rks.net:88/Qamil-CH/St.Gallen/7745
-
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Thirrja e All-llahut
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/67245.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Thirrja e All-llahut_ pjesa e dytë - Teil 2
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/67248.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Durimtari
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/67244.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Muhammed The Massenger of God 2015
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/18524.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Babai i te Derguarit A.S
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/10066.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Muhamedi A.S Mesazhi
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/10070.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Ibrahimi A.S
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/10067.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Sylejmani A.S
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/10068.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Ejubi A.S
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/10069.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Isa A.S
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/10071.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Kalifat S01 E01
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17080.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Kalifat S01 E02
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17081.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Kalifat S01 E03
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17082.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Kalifat S01 E04
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17083.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Kalifat S01 E05
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17084.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Kalifat S01 E06
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17085.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Kalifat S01 E07
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17086.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Kalifat S01 E08
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17087.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 1
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17184.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 2
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17185.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 3
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17186.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 4
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17187.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 5
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17188.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 6
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17189.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 7
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17190.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 8
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17191.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 9
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17192.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. -  Pjesa 10
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17193.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 11
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17197.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 12
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17198.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 13
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17199.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 14
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17200.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 15
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17201.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 16
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17202.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 17
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17203.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 18
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17204.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 19
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17205.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 20
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17206.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 21
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17208.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 22
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17209.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 23
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17210.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 24
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17211.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 25
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17212.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 26
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17213.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 27
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17214.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 28
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17215.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 30
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17217.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 31
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/17218.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 1
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42261.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 2
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42262.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 3
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42264.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 4
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42265.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 5
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42266.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 6
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42267.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 7
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42268.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 8
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42269.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 9
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42270.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 10
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42271.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 11
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42285.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 12
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42286.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 13
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42287.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 14
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42288.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 14 Pjesa 2
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42289.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 15
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42290.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 16
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42755.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 17
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42756.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 18
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42757.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 19
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42758.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 20
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42759.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 21
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43197.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 22
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43198.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 23
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43199.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 24
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43200.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 25
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43201.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 26
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43202.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 27
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43203.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 28
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43204.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 29
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43205.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 30
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43206.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 31
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43207.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 32
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43208.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 33
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43209.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 34
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43210.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 35
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43211.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 36
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43693.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 37
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43694.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 38
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43695.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 39
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43696.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 40
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43697.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 41
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43698.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 42
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43699.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 43
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43700.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 44
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43701.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",JUSUFI a.s 45
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/43702.mp4
-#EXTINF:0 tvg-id="avi" group-title="FILMA ISLAM",Omeri r.a. - Pjesa 29
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/38681.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",*****FILMA SHQIP VOD*****
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34124.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",2 gisht mjalt 2
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/84209.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Pathaan!!(2023)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69474.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",चोर निकल के भागा (2023)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69473.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Zori (2014)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69475.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Tokak (2013)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69476.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Lufta Mbaroi
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69477.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Kodi i Jetës
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69478.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Të Mjerët
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69484.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",HARAQI
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69479.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Gjergj Kastrioti
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69480.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Teuta nuk jeton më këtu
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69481.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",The end of Balkan
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69482.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Kaseta e dasmës
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69483.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",65! (2023)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69466.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Battle for Saipan (2022)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69467.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Deinfluencer (2022)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69468.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",The Whale! (2022)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69470.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Supercell (2023)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/69469.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Kolona
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/67197.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Shoka (2010)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/67198.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Pranvera e paharruar ne fshatin e harruar.mp4
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/62034.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Red Dot (2021)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/55512.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Outside the Wire (2021)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/55513.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Skanderbeg - Ritter der Berge (1953)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/55514.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Don't Tell a Soul (2020)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/55515.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Army of One 2020
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/55516.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Der Albaner (2010)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34126.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Dead Reckoning (2020)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34127.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",AK vs AK (2020)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34128.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",गिन्नी वेड्स सन्नी (2020)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34129.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Just another Christmas (2020)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34130.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Ludo (2020)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34131.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Öteki Taraf (2017)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34132.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Synchronic -  Zeit ist eine Illusion (2020)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34133.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Mucize 2: Aşk (2019)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34134.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",鎗王之王 (2010)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34135.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",2 Gisht Mjaltë (2019)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34137.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Azemi (2014)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34138.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",FALCO
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34139.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Dear Albania (2015)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34140.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Dashuria S'mjafton (2018)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34141.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Annem (2019)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34143.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Battle of Empires - Fetih 1453 (2012)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34144.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Honest Thief (2020)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34145.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Fatman (2020)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34147.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Siccîn (2014)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34194.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Siccîn 2 (2015)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34195.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Siccîn 3: Cürmü Aşk (2016)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34196.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Më fal (2018)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34202.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Një tregim Prishtine (2018)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34203.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Pig (2021)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/39039.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Godzilla vs. Kong (2021)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/38592.mkv
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Saw: Spiral (2021)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/42711.mkv
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Tom & Jerry (2021)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/38593.mkv
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Red Dot (2021)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34217.mkv
-#EXTINF:0 tvg-id="avi" group-title="VOD - SHQIP",Army of One (2016)
-http://premium-rks.net:88/movie/Qamil-CH/St.Gallen/34123.mkv
-
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",*****VIP-SHQIP TV*****
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70979
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Serial H.O.T FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70980
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Fc Latta FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70981
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Serial Hetuesia FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70982
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Sha je be tu folen FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70983
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kryetari i mire me shok shum FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70984
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Qka ka Shpija FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70985
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Schengen Visa FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70986
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB O Sa Mire FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70987
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Serial Fara e Flliqt FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70988
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB SHPK Nazi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70989
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Oda e Stupcave FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70990
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Stupcat Egjeli 1 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70991
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Stupcat Egjeli 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70992
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Stupcat Egjeli 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70993
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB PËRALLA HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70994
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Animuar 1 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70995
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Animuar 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70996
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Animuar 3 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70997
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Animuar 4 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70998
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Dave and Ava FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/70999
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Vlada&Niki FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71000
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Super Simple Songs FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71001
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Masha and the Bear FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71002
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Diana Show FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71003
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kids Cocomelon FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71004
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Tom and Jerry HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71005
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Pasqyra e Filmave
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71006
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 1 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71007
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71008
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71009
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71010
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 5 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71011
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 6 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71012
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 7 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71013
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 8 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71014
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 9 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71015
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 10 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71016
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 11 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71017
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 12 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71018
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 13 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71019
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 14 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71020
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 15 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71021
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 16 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71022
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 17 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71023
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere Select 18 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71024
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere 1 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71025
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71026
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71027
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Premiere 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71028
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Netflix CInema FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71029
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Netflix CInema 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71030
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Netflix CInema 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71031
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Netflix CInema 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71032
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB La casa de papel FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71033
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB  Prison Break Season FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71034
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Breaking Bad FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71035
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Narcos FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71036
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Collection Rambo FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71038
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Premium 1 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71039
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Premium 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71040
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Premium 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71041
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Premium 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71042
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Premium 5 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71043
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Premium 6 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71044
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Adventure FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71045
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Aktion FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71046
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Comedy FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71047
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Drama FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71048
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Horror 24 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71049
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Horror FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71050
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Thriller FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71051
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Romance FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71052
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Sci-Fi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71053
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Gold FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71054
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: Falcon Cinema Gold 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71055
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Islame Shefqet Krasniqi HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71056
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Islame Elvic Naci HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71057
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kurani Fisnik Arabisht-Shqip HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71058
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Kurani Fisnik Shqip HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71059
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Islame Omeri r.a HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71060
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Die Schlumpfe FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71061
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Bob der Baumeister HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71062
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Paw Patrol HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71063
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Paw Patrol 2 HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71064
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Mascha und der Bär
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71065
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Peppa Wutz HD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71066
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Abenteuer FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71067
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Action FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71068
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Bollywood FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71069
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Comedy FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71070
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Crime FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71071
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Drama FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71072
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Familie FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71073
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Fantasy FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71074
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Horror FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71075
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Mystery FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71076
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Premiere HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71077
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Romance FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71078
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Cinema Sci-Fi FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71079
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB X-Mas Filme FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71080
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Netflix Cinema FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71082
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Netflix Cinema 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71083
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Netflix Cinema 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71084
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Netflix Cinema 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71085
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Netflix Cinema 5 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71086
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Netflix Cinema 6 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71087
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Netflix Cinema 7 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71088
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Netflix Cinema 8 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71089
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Sylvester Stallone Collection FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71090
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Happy Madison Productions FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71091
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Jason Statham Collection FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71092
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Tom Cruise Collection FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71093
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Will Smith Collection FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71094
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection 007 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71095
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Bud Spencer & Terence Hill FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71096
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Bruce Lee FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71097
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Chucky FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71098
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Dick und Doof FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71099
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Eberhofer FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71100
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Fast and Furious FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71101
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Final Destination FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71102
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Jackie Chan FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71103
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Indiana Jones FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71104
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Ice Age FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71105
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Rambo FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71106
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Rocky Balboa FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71107
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Marvel's FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71108
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Marvel's 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71109
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection IP Man FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71110
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Kung Fu Panda FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71111
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Men in Black FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71112
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Pirates of the Caribbean FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71113
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Police Academy FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71114
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Star Wars FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71115
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Spider-Man FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71116
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Terminator FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71117
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Transformers FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71118
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Zurück in die Zukunft FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71119
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Marvel DC Collection 4K
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71120
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Fast and Furious 4K
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71121
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Collection Transformers 4K
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71122
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Game of Thrones Staffel 8 4K
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71123
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB The Mandalorian Staffel 1 4K
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71124
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB The Mandalorian Staffel 2 4K
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71125
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Disney+ FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71126
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Disney+ 4K
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71127
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere 1 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71128
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere 2 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71129
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere 3 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71130
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere 4 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71131
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere 5 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71132
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere 6 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71133
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere 7 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71134
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere 8 FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71135
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere Select 9 HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71136
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere Select 10 HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71137
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere Select 11 HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71138
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere Select 12 HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71139
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere Select 14 HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71140
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere Select 15 HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71141
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere Select 16 HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71142
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere Select 17 HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71143
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",DE: EB Premiere Select 18 HEVC+
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71144
-#EXTINF:0 tvg-id="ext" group-title="VIP SHQIP TV",AL: EB Collection Rocky FHD
-http://premium-rks.net:88/Qamil-CH/St.Gallen/71037
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBA VIP3 ALBANIA 1 FHD
+http://757521560225769730.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769730.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBA VIP3 ALBANIA 2 HD
+http://757521560225769732.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769732.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER 1 FHD
+http://757521560225769735.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769735.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER 2 FHD
+http://757521560225769736.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769736.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER ALBANIA 2 HD
+http://757521560225769737.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769737.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER KOSOVA 2 HD
+http://757521560225769738.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769738.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER KOSOVA HD
+http://757521560225769739.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769739.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB VIP KS 2 HD
+http://757521560225769729.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769729.ts
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL: TOP CHANNEL HD
+http://757521560225737829.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/737829.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALSAT M+ SD
+http://757521560225732634.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/732634.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN + SD
+http://757521560225769911.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769911.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN PLUS FHD
+http://757521560225769563.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769563.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN MAQEDONI FHD
+http://757521560225769912.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769912.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN MACEDONIA HD
+http://757521560225765719.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/765719.ts
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",AL: KLAN TV FHD
+http://757521560225769915.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769915.ts
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",AL: KLAN FHD+ FHD
+http://757521560225769916.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769916.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AL-L: KLAN K. TOKSOR FHD
+http://757521560225769700.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769700.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AL-L: KLAN K. FHD
+http://757521560225769701.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769701.ts
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",AL: KLAN HD
+http://757521560225747628.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/747628.ts
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: KLAN KOSOVA HD
+http://757521560225726622.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/726622.ts
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania",AL: EXPLORER NATYRE SD
+http://757521560225769840.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769840.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EXPLORER NATYRE HD (BACKUP) SD
+http://757521560225769839.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769839.ts
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="Albania",AL: EXPLORER SHKENCE SD
+http://757521560225769841.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769841.ts
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Albania",AL: EXPLORER HISTORI SD
+http://757521560225749646.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749646.ts
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania",AL: EXPLORER NATYRA SD
+http://757521560225749647.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749647.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 1 HD
+http://757521560225769929.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769929.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 2 HD
+http://757521560225769930.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769930.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KUJTESA SPORT 3 HD
+http://757521560225770648.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/770648.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 1 FHD
+http://757521560225769715.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769715.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 2 FHD
+http://757521560225769716.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769716.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART SPORT 3 FHD
+http://757521560225769717.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769717.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KANAL D DRAMA FHD
+http://757521560225260129.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/260129.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH MUZIKë SD
+http://757521560225359659.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/359659.ts
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania",AL: JOLLY FHD
+http://757521560225577223.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/577223.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SHQIP SD
+http://757521560225648274.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/648274.ts
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania",AL: RTK 1 SD
+http://757521560225650634.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/650634.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 4 FHD
+http://757521560225691301.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/691301.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV DUKAGJINI FHD
+http://757521560225693576.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/693576.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH FILM SD
+http://757521560225696141.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/696141.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ANTENA HD
+http://757521560225726516.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/726516.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 1 SD
+http://757521560225727627.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/727627.ts
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",AL: VIZION PLUS HD
+http://757521560225727660.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/727660.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ATV HD
+http://757521560225729555.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/729555.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TëVë1 FHD
+http://757521560225733445.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/733445.ts
+#EXTINF:0 tvg-id="ORANEWSHD.al" group-title="Albania",AL: ORA NEWS HD
+http://757521560225735197.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/735197.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH FëMIJë SD
+http://757521560225740002.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/740002.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH KUKëSI SD
+http://757521560225740004.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/740004.ts
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania",AL: KTV SD
+http://757521560225743999.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/743999.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 MAQEDONIA SD
+http://757521560225745058.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/745058.ts
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania",AL: TRING FANTASY SD
+http://757521560225745076.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/745076.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TURBO CHANNEL HD
+http://757521560225745079.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/745079.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: A2 CNN HD
+http://757521560225746986.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/746986.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ARTA NEWS SD
+http://757521560225749617.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749617.ts
+#EXTINF:0 tvg-id="BangBang.al" group-title="Albania",AL: BANG BANG SD
+http://757521560225749622.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749622.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBF MUSIC SD
+http://757521560225749623.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749623.ts
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Albania",AL: CUFO SD
+http://757521560225749630.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749630.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DASMA TV SD
+http://757521560225749632.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749632.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ELRODI TV SD
+http://757521560225749637.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749637.ts
+#EXTINF:0 tvg-id="ETV.al" group-title="Albania",AL: ERA TV SD
+http://757521560225749640.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749640.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EURO FILM SD
+http://757521560225749642.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749642.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FAX NEWS SD
+http://757521560225749651.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749651.ts
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Albania",AL: FILM AUTOR SD
+http://757521560225749653.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749653.ts
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",AL: FILM DRAMë SD
+http://757521560225749655.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749655.ts
+#EXTINF:0 tvg-id="DigiGold.al" group-title="Albania",AL: FILM GOLD SD
+http://757521560225749657.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749657.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILM HITS HD
+http://757521560225749658.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749658.ts
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania",AL: FILM THRILLER SD
+http://757521560225749662.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749662.ts
+#EXTINF:0 tvg-id="FirstChannel.al" group-title="Albania",AL: FIRST TV SD
+http://757521560225749664.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749664.ts
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania",AL: FOLK + SD
+http://757521560225749666.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749666.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FOLKLORIT FHD
+http://757521560225749667.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749667.ts
+#EXTINF:0 tvg-id="FoxCrime.al" group-title="Albania",AL: FOX CRIME SD
+http://757521560225749669.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749669.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FOX LIFE HD
+http://757521560225749670.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749670.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FOX MOVIES SD
+http://757521560225749671.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749671.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KANAL 10 SD
+http://757521560225749679.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749679.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KANALI 7 NEWS SD
+http://757521560225749684.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749684.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MTV KOSOVA FHD
+http://757521560225749723.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749723.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MY MUSIC HD
+http://757521560225749725.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749725.ts
+#EXTINF:0 tvg-id="News24.al" group-title="Albania",AL: NEWS 24 SD
+http://757521560225749730.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749730.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 2 FHD
+http://757521560225749736.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749736.ts
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",AL: PEACE TV SD
+http://757521560225749739.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749739.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PIKABOO FHD
+http://757521560225749742.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749742.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PREMIUM TRAVEL FHD
+http://757521560225749746.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749746.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: REPORT TV SD
+http://757521560225749747.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749747.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ROZAFA TV HD
+http://757521560225749748.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749748.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 2 SD
+http://757521560225749759.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749759.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 24 HD
+http://757521560225749760.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749760.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 3 SD
+http://757521560225749763.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749763.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH KORçA SD
+http://757521560225749767.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749767.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH PLUS SD
+http://757521560225749770.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749770.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SHKOLLë SD
+http://757521560225749773.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749773.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 MACEDONIA FHD
+http://757521560225749779.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749779.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 MIX SD
+http://757521560225749781.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749781.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 PLUS HD
+http://757521560225749783.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749783.ts
+#EXTINF:0 tvg-id="21Popullore.al" group-title="Albania",AL: RTV 21 POPULLORE SD
+http://757521560225749784.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749784.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ARBëRIA 1 HD
+http://757521560225749787.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749787.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV PENDIMI HD
+http://757521560225749790.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749790.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SOFIA FHD
+http://757521560225749797.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749797.ts
+#EXTINF:0 tvg-id="Stinet.al" group-title="Albania",AL: STINET SD
+http://757521560225749798.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749798.ts
+#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Albania",AL: SUPERSONIC TV SD
+http://757521560225749801.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749801.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SYRI TV HD
+http://757521560225749803.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749803.ts
+#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",AL: TIP TV SD
+http://757521560225749812.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749812.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TOP ESTRADA TV FHD
+http://757521560225749815.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749815.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TOP NEWS FHD
+http://757521560225749816.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749816.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING CLASSIC HD
+http://757521560225749825.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749825.ts
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania",AL: TRING COMEDY SD
+http://757521560225749827.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749827.ts
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",AL: TRING HISTORY SD
+http://757521560225749831.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749831.ts
+#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",AL: TRING LIFE SD
+http://757521560225749835.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749835.ts
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania",AL: TRING PLANET SD
+http://757521560225749839.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749839.ts
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania",AL: TRING SHQIP SD
+http://757521560225749841.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749841.ts
+#EXTINF:0 tvg-id="Smile.al" group-title="Albania",AL: TRING SMILE SD
+http://757521560225749843.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749843.ts
+#EXTINF:0 tvg-id="TringTring.al" group-title="Albania",AL: TRING TRING SD
+http://757521560225749850.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749850.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV KOPLIKU SD
+http://757521560225749865.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749865.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV LIRIA FHD
+http://757521560225749866.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749866.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV MITROVICA SD
+http://757521560225749868.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749868.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV SHENJA SD
+http://757521560225749872.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749872.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV TEUTA SD
+http://757521560225749877.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749877.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: UK: PEACE TV ENGLISH SD
+http://757521560225749884.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749884.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ZICO TV HD
+http://757521560225749889.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749889.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ZJARR TV HD
+http://757521560225749890.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/749890.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 3 HD
+http://757521560225761237.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/761237.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PLANET SD
+http://757521560225761238.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/761238.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EPISODE TV FHD
+http://757521560225761514.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/761514.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TDC FHD (MULTISUB) FHD
+http://757521560225761545.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/761545.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BESA TV SD
+http://757521560225762254.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/762254.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH GJIROKASTRA SD
+http://757521560225762269.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/762269.ts
+#EXTINF:0 tvg-id="STVFolk.al" group-title="Albania",AL: STV FOLK SD
+http://757521560225762273.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/762273.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING COLLECTION SD
+http://757521560225762275.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/762275.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV DIASPORA FHD
+http://757521560225762278.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/762278.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EURO AL HD
+http://757521560225763125.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/763125.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: JUNIOR TV FHD
+http://757521560225763131.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/763131.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 3 FHD
+http://757521560225763136.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/763136.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING ACTION HD
+http://757521560225763144.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/763144.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 2 SD
+http://757521560225764243.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/764243.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ISLAM HD
+http://757521560225764247.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/764247.ts
+#EXTINF:0 tvg-id="ext" group-tit
