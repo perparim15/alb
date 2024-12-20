@@ -16,8 +16,8 @@ http://757521560225769739.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769739.ts
 http://757521560225769729.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769729.ts
 #EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL: TOP CHANNEL HD
 http://757521560225737829.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/737829.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALSAT M+ SD
-http://757521560225732634.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/732634.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Horgosh LIVE
+https://fra1.angelthump.com/hls/MjAyNC0xMi0xN1QyMDowMzo1Mi44ODZabmFkeWplZGE=_nadyjeda/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN + SD
 http://757521560225769911.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769911.ts
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN PLUS FHD
