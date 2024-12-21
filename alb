@@ -10,12 +10,18 @@ http://757521560225769736.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769736.ts
 http://757521560225769737.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769737.ts
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER KOSOVA 2 HD
 http://757521560225769738.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769738.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: live 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734755575/ei/l_BlZ7fGLMqmi9oPlb_skAI/ip/2a03%3A4b80%3Ac71f%3Af630%3A4888%3A79e0%3Aa316%3Ae9df/id/8M0AvPvPg0A.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/zz/spc/x-caUOROhf3B7-RW8MBGKefGzkuoL_czZ-eEqcoexLTY_p5lWaYyCgRTJrBYrKk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKgqHJx9lv5StT8CN_6eA59ltjYwAFEebR6yoOW3Jx-SAiEAsqnuMywmZjPsFLhq5-0RuoJl23aSMCEef9BQY-xZ7x8%3D/file/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: live 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734754972/ei/PO5lZ9j_BsHs6dsPmsK0qAg/ip/2a03%3A4b80%3Ac71f%3Af630%3A4888%3A79e0%3Aa316%3Ae9df/id/36YnV9STBqc.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUIJzFgRYU44gM-YdWfAKl74Kz-8iH_wsdLlkIDZDDtqsXI7H_xaeuSb7jkA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgV54h_7HNBtAI1yiu3hVD4RSaGo4MPRBUnRr7ns2JeYoCIDVKKUb52erYjWFde4wiuCBmNY5AycWWrMZdBuX_xqrU/file/index.m3u8
 #EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL: TOP CHANNEL HD
 http://757521560225737829.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/737829.ts
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL: TOP CHANNEL HD
+http://60578226091737829.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/737829.ts
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",TOP CHANNEL | AL
+http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/2536
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",TOP CHANNEL FHD | AL
+http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/20828
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",BB VIP ALBANIA 1 | AL
+http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/130125
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",BB VIP ALBANIA 2 | AL
+http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/130126
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: Horgosh LIVE
 https://kamere.amss.org.rs/horgos1/horgos1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN + SD
