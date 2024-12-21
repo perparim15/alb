@@ -17,7 +17,7 @@ http://60578226091737829.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/737829.ts
 #EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",TOP CHANNEL | AL
 http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/2536
 #EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",TOP CHANNEL FHD | AL
-http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/20828
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734835800/ei/-ClnZ_msE_636dsPgarI0AQ/ip/2a03%3A4b80%3Ac71f%3Af630%3A9401%3A3f3d%3Aacbf%3Abaf2/id/Hb5IVUQoa7s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357436/txs/51357435%2C51357436%2C51357437/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUCZ_P6wFvAJpSSt2CfgiT1-Uf3_9SkfwvYjhqm54Sz8hHypY4hD2yE23qXk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK54xP3wP954WfZteJyFFB8jvSNIXkoXt1_3aIJzkgdHAiEAihRw9Vdd_W25B-MsdWzX85DbTIbx_X0uDFDL_b5sWRw%3D/file/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",BB VIP ALBANIA 1 | AL
 http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/130125
 #EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",BB VIP ALBANIA 2 | AL
