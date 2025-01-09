@@ -2,26 +2,49 @@
 https://hls.robotstreamer.com/tv/8970.m3u8?token=YXNsbGFuaWRhc2hhbWlyNDdAZ21haWwuY29t
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBA VIP3 ALBANIA 2 HD
 https://fra1.angelthump.com/hls/MjAyNC0xMi0xN1QyMDowMzo1Mi44ODZabmFkeWplZGE=_nadyjeda/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER 1 FHD
-http://757521560225769735.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769735.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER 2 FHD
-http://757521560225769736.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769736.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER ALBANIA 2 HD
-http://757521560225769737.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769737.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BIG BROTHER KOSOVA 2 HD
-http://757521560225769738.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/769738.ts
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL: TOP CHANNEL HD
-http://757521560225737829.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/737829.ts
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL: TOP CHANNEL HD
-http://60578226091737829.ofd1206.xyz:80/live/CHUS230908/GAFQR254638/737829.ts
-#EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",TOP CHANNEL | AL
-http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/2536
-#EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",TOP CHANNEL FHD | AL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734835800/ei/-ClnZ_msE_636dsPgarI0AQ/ip/2a03%3A4b80%3Ac71f%3Af630%3A9401%3A3f3d%3Aacbf%3Abaf2/id/Hb5IVUQoa7s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357436/txs/51357435%2C51357436%2C51357437/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUCZ_P6wFvAJpSSt2CfgiT1-Uf3_9SkfwvYjhqm54Sz8hHypY4hD2yE23qXk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK54xP3wP954WfZteJyFFB8jvSNIXkoXt1_3aIJzkgdHAiEAihRw9Vdd_W25B-MsdWzX85DbTIbx_X0uDFDL_b5sWRw%3D/file/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",BB VIP ALBANIA 1 | AL
-http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/130125
-#EXTINF:0 tvg-id="ext" group-title="KOMBETARE | AL",BB VIP ALBANIA 2 | AL
-http://vcxy.me:80/ArdjanSelmani/gdDSY3u3wMnJcXc4dH2p1K45ayy7dsQfW/130126
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT NEWS | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2694
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT 1 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2695
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT 2 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2696
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT 3 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2697
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT 4 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2698
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 1 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2683
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 2 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2684
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 3 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2685
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 4 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2686
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 6 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2688
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORT 5 HD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2687
+#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 1 | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2701
+#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 2 | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2702
+#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 3 | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2703
+#EXTINF:0 tvg-id="ext" group-title="Channels",KUJTESA SPORT 4 | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2704
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 1 FHD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2706
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 2 FHD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2707
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 3 FHD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/2708
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 4 FHD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/31120
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 5 FHD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/31121
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART SPORT 6 FHD | AL
+http://portalinbucks.com:80/eri@stambolliu/eri1234/31122
+#EXTINF:0 tvg-id="ext" group-title="Channels",EURO SPORT 1 | AL
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: Horgosh LIVE
 https://kamere.amss.org.rs/horgos1/horgos1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN + SD
