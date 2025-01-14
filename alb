@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,TOP CHANNEL | AL
 http://portalinbucks.com:80/eri@stambolliu/eri1234/2536
-#EXTINF:-1,KLAN HD | AL
-http://portalinbucks.com:80/eri@stambolliu/eri1234/2545
-#EXTINF:-1,KLAN KOSOVA | AL
-https://hls.robotstreamer.com/tv/9027.m3u8?token=YXNsbGFuaWRhc2hhbWlyNDdAZ21haWwuY29t
+#EXTINF:-1,BBVA| AL
+https://2e903eeb2c9ce4f1eaf222c6a6c16c5b.angelthump.com/hls/MjAyNS0wMS0xNFQyMToxMjoxNy40NjJaemFuaXN5bGk=_zanisyli/index.m3u8
+#EXTINF:-1,TOP CH | AL
+https://play.0webtools.com:2083/TopChannel/tracks-v1a1/mono.m3u8?id=YXNsbGFuaWRhc2hhbWlyNDdAZ21haWwuY29t&ip=2a03:4b80:c71f:d4d0:bcf6:8745:e170:78d&time=14:01:2025%2021:14:47&token=vWX_1ZuJrdAny0
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRING SPORT 1 HD | AL
 http://portalinbucks.com:80/eri@stambolliu/eri1234/2695
 #EXTINF:0 tvg-id="ext" group-title="Channels",S SPORT 2 HD | AL
