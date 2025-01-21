@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,AL:  BigBrother Vip Kosova 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/403
+#EXTINF:-1,AL: BigBrother Vip Kosova 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/404
+#EXTINF:-1,AL:BigBrother VIP Albania 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/411
+#EXTINF:-1,AL:BigBrother VIP Albania 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/412
 #EXTINF:-1,AL: RTK
 http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/1
 #EXTINF:-1,AL: RTV 21 HD
