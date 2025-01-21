@@ -1,701 +1,611 @@
 #EXTM3U
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260651.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AL| BB VIP ALBANIA 1" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|AL| BB VIP ALBANIA 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737252891/ei/uwuMZ8GIG8ji6dsPl6Hy8QU/ip/2a03%3A4b80%3Ac71f%3Ad4d0%3A822%3A7d38%3Ac403%3A3610/id/LWsHMztOh28.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51379625/txs/51379623%2C51379624%2C51379625%2C51379626/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AY2Et-PaB69Nlc2PQ9vBkatpdA-y-LBM7fknEu1luFsmEXM7RHuVhwB2vlX0My49Ecq9stKWvw/spc/9kzgDeeaS_Z67MVTiT6JEt5g80mLO7Qxdf13JmBLfRtLvn-G1i6YUMJhTIlxDjdxBnux97OH6-5K/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgaFFWi-exVKvKzJHJ-ynsUzy_f9dAWfZJImmmnfXingQCIHayLUNDTvbHYjmbdbca2gf6hjqUsgcLXCNSjGDszPhf/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AL| BB VIP ALBANIA 2" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|AL| BB VIP ALBANIA 2
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260653.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AL| Klan News" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|AL| Klan News
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260654.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AL| BIG BROTHER 2 VIP Kosova" tvg-logo="https://cdn.pamfleti.net/pamfleti.net/media3/-900-0-1692039497xscreenshot-1-66-1-365.png" group-title="ALB • ALBANIA GENERAL",|AL| BIG BROTHER 2 VIP Kosova
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260655.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AL| BIG BROTHER 1 VIP Kosova" tvg-logo="https://cdn.pamfleti.net/pamfleti.net/media3/-900-0-1692039497xscreenshot-1-66-1-365.png" group-title="ALB • ALBANIA GENERAL",|AL| BIG BROTHER 1 VIP Kosova
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260656.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| HS Tallava Classics" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| HS Tallava Classics
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260657.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| HS Tallava HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| HS Tallava HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260658.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| HS Hore International HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| HS Hore International HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260659.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| DARK Instrumentale INT FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| DARK Instrumentale INT FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260660.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| DARK POPULLORE FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| DARK POPULLORE FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260661.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| DARK HITET FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| DARK HITET FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260662.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| DARK GEZUAR 2023 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| DARK GEZUAR 2023 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260663.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| DARK ASHKALI FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| DARK ASHKALI FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260664.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| TRING SERIES" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| TRING SERIES
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260665.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| TRING COLLECTION HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| TRING COLLECTION HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260666.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| TRING TURKISH STORIES" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| TRING TURKISH STORIES
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260667.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Top Channel HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Top Channel HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260668.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| Klan TV HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| Klan TV HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260669.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTK 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTK 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260670.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV 21 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV 21 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260671.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  KTV HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  KTV HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260672.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Klan Kosova" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Klan Kosova
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260673.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Kanal 10 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Kanal 10 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260674.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV Dukagjini" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV Dukagjini
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260675.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  T7 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  T7 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260676.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  ATV TV HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  ATV TV HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260677.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Koha TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Koha TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260678.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Arta News HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Arta News HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260679.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  First Channel HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  First Channel HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260680.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Rrokum  HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Rrokum  HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260681.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  First Kosova" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  First Kosova
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260682.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Era Tv" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Era Tv
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260683.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Alsat M" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Alsat M
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260684.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Klan Macedonia" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Klan Macedonia
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260685.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV 21 MK HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV 21 MK HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260686.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTK 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTK 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260687.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTK 3 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTK 3 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260688.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTK 4 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTK 4 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260689.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV Fontana" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV Fontana
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260690.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Club TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Club TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260691.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  ABC News" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  ABC News
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260692.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tema TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tema TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260693.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Kanali 7" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Kanali 7
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260694.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH 1" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH 1
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260695.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260696.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH 3" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH 3
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260697.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH 24" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH 24
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260698.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Shqip" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Shqip
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260699.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Kuvend" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Kuvend
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260700.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Satelit" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Satelit
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260701.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH SHKOLLE" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH SHKOLLE
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260702.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Korca" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Korca
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260703.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Gjirokastra" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Gjirokastra
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260704.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Plus" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Plus
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260705.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Sport HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Sport HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260706.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Femije" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Femije
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260707.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Muzike" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Muzike
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260708.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH Film" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH Film
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260709.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTSH SAT" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTSH SAT
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260710.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  News 24" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  News 24
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260711.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tirana" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tirana
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260712.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  KTV  telekom" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  KTV  telekom
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260713.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Report TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Report TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260714.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  FAX News" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  FAX News
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260715.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV Aldi" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV Aldi
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260716.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV 21 NewsBiz" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV 21 NewsBiz
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260717.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  ALB UK" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  ALB UK
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260718.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Arti TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Arti TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260719.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  E Gjurmet Shqiptare" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  E Gjurmet Shqiptare
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260720.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Antena Shkoder" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Antena Shkoder
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260721.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Dukagjini" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Dukagjini
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260722.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Liria" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Liria
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260723.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Syri TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Syri TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260724.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  City TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  City TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260725.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Fox" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Fox
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260726.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Fox Crime" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Fox Crime
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260727.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Fox Life" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Fox Life
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260728.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Dasma TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Dasma TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260729.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  A2 CNN" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  A2 CNN
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260730.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  News TV MK" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  News TV MK
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260731.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Channel One" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Channel One
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260732.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Syri Vision" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Syri Vision
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260733.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV 1 Shkodër" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV 1 Shkodër
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260734.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Kopliku" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Kopliku
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260735.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Besa" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Besa
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260736.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Scan TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Scan TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260737.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Drita" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Drita
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260738.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Fontana" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Fontana
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260739.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Mitrovica" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Mitrovica
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260740.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Sofia HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Sofia HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260741.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Istogu Channel" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Istogu Channel
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260742.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Ulqini" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Ulqini
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260743.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Uskana" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Uskana
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260744.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Dielli" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Dielli
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260745.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV Arbëri" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV Arbëri
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260746.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Panorama TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Panorama TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260747.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  MRT 2" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  MRT 2
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260748.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  ACTV Michigan" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  ACTV Michigan
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260749.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Apollon News TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Apollon News TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260750.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  AA NewYork TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  AA NewYork TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260751.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Shenja" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Shenja
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260752.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Channel 7" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Channel 7
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260753.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  24 Kitchen" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  24 Kitchen
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260754.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Boin" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Boin
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260755.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Frame TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Frame TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260756.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Star+ Shkodra" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Star+ Shkodra
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260757.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Nat Geo FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Nat Geo FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260758.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Discovery Channel HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Discovery Channel HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260759.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Discovery Science" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Discovery Science
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260760.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  E Histori HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  E Histori HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260761.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  E Natyra HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  E Natyra HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260762.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  E Popullore HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  E Popullore HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260763.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  E Shkenca HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  E Shkenca HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260764.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Explorer Natyra HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Explorer Natyra HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260765.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Explorer Shkenca" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Explorer Shkenca
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260766.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Explorer Histori" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Explorer Histori
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260767.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Animal Planet HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Animal Planet HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260768.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Popullore 21 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Popullore 21 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260769.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV 21 Mix" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV 21 Mix
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260770.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV 21 Plus HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV 21 Plus HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260771.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Top Estrada" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Top Estrada
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260772.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  E Cifteli HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  E Cifteli HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260773.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Super Sonic Tv" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Super Sonic Tv
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260774.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  ON TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  ON TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260775.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  My Music" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  My Music
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260776.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Shqip" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Shqip
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260777.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  A-Mol TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  A-Mol TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260778.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  BBF Music" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  BBF Music
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260779.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  STV Folk" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  STV Folk
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260780.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  E Music Hits HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  E Music Hits HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260781.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TV Sharri HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TV Sharri HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260782.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Shota TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Shota TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260783.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Folk" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Folk
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260784.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Music Al" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Music Al
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260785.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  MTV Kosova" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  MTV Kosova
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260786.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Diaspora TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Diaspora TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260787.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Syri Blue" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Syri Blue
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260788.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Melody TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Melody TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260789.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV ILIRIDA" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV ILIRIDA
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260790.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV ILIRIDA Music" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV ILIRIDA Music
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260791.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Klan Plus HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Klan Plus HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260792.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Vizion Plus HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Vizion Plus HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260793.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV 21 Junior" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV 21 Junior
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260794.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Baby TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Baby TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260795.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Tring" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Tring
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260796.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Cartoonito HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Cartoonito HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260797.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tom & Jerry HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tom & Jerry HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260798.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Boomerang" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Boomerang
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260799.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Bang Bang" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Bang Bang
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260800.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Cufo" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Cufo
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260801.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Junior TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Junior TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260802.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Kids" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Kids
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260803.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  KS Humor HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  KS Humor HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260804.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  T FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  T FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260805.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Living FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Living FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260806.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Jolly HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Jolly HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260807.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Jolly HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Jolly HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260808.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TDC" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TDC
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260809.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Max HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Max HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260810.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Kanal D Drama" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Kanal D Drama
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260811.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Stinet" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Stinet
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260812.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tip TV HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tip TV HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260813.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Family HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Family HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260814.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Dy" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Dy
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260815.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Aksion" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Aksion
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260816.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Komedi" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Komedi
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260817.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Hits" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Hits
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260818.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Autor" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Autor
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260819.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Stinet" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Stinet
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260820.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Max" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Max
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260821.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Drame" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Drame
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260822.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Thriller" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Thriller
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260823.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Gold HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Gold HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260824.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film Gold" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film Gold
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260825.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  DIGI Gold HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  DIGI Gold HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260826.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  DIGI Gold 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  DIGI Gold 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260827.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Digi Gold 3" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Digi Gold 3
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260828.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Digi Gold 4" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Digi Gold 4
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260829.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  FilmBox Plus" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  FilmBox Plus
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260830.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  FilmBox Extra" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  FilmBox Extra
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260831.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Aksion" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Aksion
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260832.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Super" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Super
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260833.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring International" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring International
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260834.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Novelas" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Novelas
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260835.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring History" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring History
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260836.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Comedy" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Comedy
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260837.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Fantasy" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Fantasy
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260838.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Planet" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Planet
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260839.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring World" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring World
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260840.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Smile" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Smile
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260841.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Classic" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Classic
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260842.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Muse" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Muse
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260843.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring 3" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring 3
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260844.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Life" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Life
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260845.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Shqip" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tring Shqip
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260846.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Smile HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Smile HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260847.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  TLC" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  TLC
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260848.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  X Dark" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  X Dark
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260849.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  X Premium 1" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  X Premium 1
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260850.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  X Premium 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  X Premium 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260851.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  X Gold 2" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  X Gold 2
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260852.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  X Cifteli HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  X Cifteli HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260853.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  X Kids" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  X Kids
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260854.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Filma 24 Premiere" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Filma 24 Premiere
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260855.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Filma 24 Horror" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Filma 24 Horror
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260856.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Filma 24 Aksion" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Filma 24 Aksion
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260857.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Filma 24 Mister" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Filma 24 Mister
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260858.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Film24 Histori" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Film24 Histori
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260859.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Filma 24 Aksion 2" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Filma 24 Aksion 2
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260860.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Filma 24 Aksion 3" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Filma 24 Aksion 3
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260861.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Filma 24 Aventure" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Filma 24 Aventure
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260862.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Filma 24 Aziatik" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Filma 24 Aziatik
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260863.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Filma 24 Fantashkence" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Filma 24 Fantashkence
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260864.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  KS Filma24 Triller" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  KS Filma24 Triller
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260865.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Ks Thriller HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Ks Thriller HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260866.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Ks Romance HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Ks Romance HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260867.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tele One 3 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tele One 3 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260868.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tele One 4 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tele One 4 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260869.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tele One 5 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Tele One 5 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260870.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Big Brother 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Big Brother 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260871.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Big Brother 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Big Brother 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260872.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Sky Shqip" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Sky Shqip
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260873.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Sky Aksion" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Sky Aksion
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260874.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Sky Novela" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Sky Novela
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260875.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Sky Max" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Sky Max
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260876.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Sky Shkenc" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Sky Shkenc
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260877.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Sky Histori" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Sky Histori
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260878.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Sky Planet" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SKYPLANET.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Sky Planet
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260879.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Sky Drame" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Sky Drame
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260880.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Fox Movies" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Fox Movies
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260881.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Euro" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Euro
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260882.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Euronews Albania" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Euronews Albania
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260883.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Kino 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Art Kino 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260884.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Kino 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Art Kino 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260885.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Kino 3 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Art Kino 3 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260886.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Doku 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Art Doku 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260887.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV Elkalem" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV Elkalem
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260888.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  RTV PENDIMI" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  RTV PENDIMI
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260889.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Peace TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Peace TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260890.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Peace TV Anglisht" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Peace TV Anglisht
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260891.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Mekka Live" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Mekka Live
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260892.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Medina Live" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB|  Medina Live
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260893.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| RTV ISLAM" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA GENERAL",|ALB| RTV ISLAM
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260894.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema One   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/8418.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema One   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260896.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Aksion   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/195.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Aksion   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260897.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Max   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/256.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Max   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260898.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Classics   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/255.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Classics   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260899.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Drame   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/193.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Drame   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260900.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Gold   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/206.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Gold   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260901.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Shqip   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/196.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Shqip   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260902.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Premier   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/254.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Premier   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260903.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Milenium 1   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/258.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Milenium 1   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260904.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Milenium 2   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/259.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Milenium 2   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260905.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Milenium 3   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/260.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Milenium 3   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260906.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Kinema Milenium 4   FHD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/261.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Kinema Milenium 4   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260907.ts
-#EXTINF:-1 tvg-id="" tvg-name="----Te Tjera ----" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",----Te Tjera ----
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260908.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Shqip 1" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/8431.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Shqip 1
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260909.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Shqip 2" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/8432.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Shqip 2
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260910.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Shqip 3" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/8433.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Shqip 3
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260911.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Shqip 4" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/8434.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Shqip 4
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260912.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  StatiON Cine" tvg-logo="https://iot.ttu.ee/wp-content/uploads/2020/10/kinema_logo.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  StatiON Cine
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260913.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  StatiON Prime" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  StatiON Prime
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260914.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  StatiON Box" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  StatiON Box
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260915.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  StatiON Top" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  StatiON Top
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260916.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  StatiON Stars" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  StatiON Stars
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260917.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one 1" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one 1
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260918.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one 2" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one 2
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260919.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one 3" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one 3
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260920.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one 4" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one 4
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260921.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one 5" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one 5
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260922.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one 6" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one 6
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260923.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one Aksion HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one Aksion HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260924.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one Aventure" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one Aventure
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260925.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one Crime HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one Crime HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260926.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one Drama HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one Drama HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260927.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one Epik HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one Epik HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260928.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one fantazi HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one fantazi HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260929.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  TELE one GOLD Collection HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  TELE one GOLD Collection HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260930.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Filma Shqip FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Filma Shqip FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260931.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|   Dark PRIME 1 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|   Dark PRIME 1 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260932.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark PRIME 2 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark PRIME 2 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260933.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark PRIME 3 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark PRIME 3 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260934.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark PRIME 4 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark PRIME 4 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260935.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|   Dark GOLD 1 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|   Dark GOLD 1 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260936.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|   Dark GOLD 2 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|   Dark GOLD 2 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260937.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark GOLD 3 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark GOLD 3 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260938.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|   Dark GOLD 4 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|   Dark GOLD 4 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260939.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|   Dark Netflix 1 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|   Dark Netflix 1 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260940.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|   Dark Netflix 2 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|   Dark Netflix 2 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260941.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|   Dark Netflix 3 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|   Dark Netflix 3 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260942.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|   Dark Netflix 4 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|   Dark Netflix 4 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260943.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Aksion FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Aksion FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260944.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Deluxe FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Deluxe FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260945.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Special FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Special FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260946.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Komedi FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Komedi FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260947.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Horror FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Horror FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260948.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Thriller FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Thriller FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260949.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Western FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Western FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260950.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Classic FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Classic FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260951.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Family FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Family FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260952.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Fantazi FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Fantazi FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260953.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Romance FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Romance FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260954.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  Dark Hindi FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  Dark Hindi FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260955.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Prime 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Prime 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260956.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Prime 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Prime 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260957.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Prime 3 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Prime 3 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260958.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Prime 4 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Prime 4 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260959.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Extra HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Extra HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260960.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Premium HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Premium HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260961.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Netflix HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Netflix HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260962.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Best Of HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Best Of HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260963.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Collection HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Collection HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260964.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Aksion HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Aksion HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260965.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Komedi HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Komedi HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260966.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Classic HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Classic HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260967.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Family HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Family HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260968.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Horror HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Horror HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260969.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB.VIP|  OneP. Filma Shqip HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",|ALB.VIP|  OneP. Filma Shqip HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260970.ts
-#EXTINF:-1 tvg-id="" tvg-name=" EuroBest Netflix   FHD" tvg-logo="http://falcon.ac:5000/images/created123/netflix.png" group-title="ALB • ALBANIA KINEMASHQIP", EuroBest Netflix   FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260971.ts
-#EXTINF:-1 tvg-id="" tvg-name="Meti Cinema" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",Meti Cinema
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260972.ts
-#EXTINF:-1 tvg-id="" tvg-name="B -TV Bilaçi TV" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA KINEMASHQIP",B -TV Bilaçi TV
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260973.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Eurosport 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Eurosport 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260974.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Eurosport 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Eurosport 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260975.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Super Sport 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Super Sport 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260976.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Super Sport 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Super Sport 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260977.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Super Sport 3" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Super Sport 3
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260978.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Super Sport  4 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Super Sport  4 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260979.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Super Sport 5 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Super Sport 5 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260980.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Super Sport 6 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Super Sport 6 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260981.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Super Sport Kosova 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Super Sport Kosova 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260982.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Super Sport Kosova 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Super Sport Kosova 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260983.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Sport News" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Tring Sport News
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260984.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Sport 1" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Tring Sport 1
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260985.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Sport 2" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Tring Sport 2
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260986.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Sport 3" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Tring Sport 3
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260987.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Tring Sport 4" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Tring Sport 4
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260988.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Kujtesa Sport 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Kujtesa Sport 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260989.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Kujtesa Sport 2" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Kujtesa Sport 2
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260990.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Kujtesa Sport 3" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Kujtesa Sport 3
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260991.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Kujtesa Sport 4 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Kujtesa Sport 4 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260992.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Sport 1 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Art Sport 1 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260993.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Sport 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Art Sport 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260994.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Sport 3 FHD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Art Sport 3 FHD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260995.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Sport 4" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Art Sport 4
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260996.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Sport 5" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Art Sport 5
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260997.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB|  Art Sport 6" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB|  Art Sport 6
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260998.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| OVERSPORT 1 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB| OVERSPORT 1 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/260999.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| OVERSPORT 2 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB| OVERSPORT 2 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/261000.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| OVERSPORT 3 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB| OVERSPORT 3 HD
-http://rs1986p.xyz:80/live/Datcca1610/16c10v21/261001.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ALB| OVERSPORT 4 HD" tvg-logo="https://i.hizliresim.com/jjzf38s.png" group-title="ALB • ALBANIA SPORTS",|ALB| OVERSPORT 4 HD
+#EXTINF:-1,AL: RTK
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/1
+#EXTINF:-1,AL: RTV 21 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/2
+#EXTINF:-1,AL: KTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/3
+#EXTINF:-1,AL: Klan Kosova
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/4
+#EXTINF:-1,AL: Alsat M
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/5
+#EXTINF:-1,AL: Klan TV HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/6
+#EXTINF:-1,AL: Top Channel HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/7
+#EXTINF:-1,AL: T7 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/8
+#EXTINF:-1,AL:DTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/464
+#EXTINF:-1,AL: Kanali 10
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/10
+#EXTINF:-1,AL: Top News
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/13
+#EXTINF:-1,AL: TV Dukagjini
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/11
+#EXTINF:-1,AL: ATV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/233
+#EXTINF:-1,AL:Tëvë 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/355
+#EXTINF:-1,AL: TV Dielli
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/9
+#EXTINF:-1,AL: Arta News HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/12
+#EXTINF:-1,AL: Klan News
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/373
+#EXTINF:-1,AL: News 24
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/374
+#EXTINF:-1,AL: EuroNews Albania
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/184
+#EXTINF:-1,AL: ReportTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/325
+#EXTINF:-1,AL: TV Mitrovica
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/298
+#EXTINF:-1,AL: Peace TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/234
+#EXTINF:-1,AL: RTV ISLAM
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/257
+#EXTINF:-1,AL:RTI Islam
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/316
+#EXTINF:-1,AL:TV BESA
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/438
+#EXTINF:-1,AL: 3 Plus
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/14
+#EXTINF:-1,AL: Vizion Plus
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/50
+#EXTINF:-1,AL: KanalD Drama
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/202
+#EXTINF:-1,AL: Klan Plus HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/79
+#EXTINF:-1,AL: Tring Tring
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/15
+#EXTINF:-1,AL: Kids
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/16
+#EXTINF:-1,AL:Tring TIP TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/437
+#EXTINF:-1,AL: Digi Sofia
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/17
+#EXTINF:-1,AL: Bang Bang
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/18
+#EXTINF:-1,AL: Cufo TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/19
+#EXTINF:-1,AL: Baby TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/20
+#EXTINF:-1,AL: Prince Kids
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/21
+#EXTINF:-1,AL:TaoTao
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/461
+#EXTINF:-1,AL:Kids ART
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/178
+#EXTINF:-1,AL:Pro 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/660
+#EXTINF:-1,AL: EXP Shkence
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/22
+#EXTINF:-1,AL: EXP Natyra
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/23
+#EXTINF:-1,AL: EXP Histori
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/24
+#EXTINF:-1,AL: ART Doku 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/36
+#EXTINF:-1,AL: ART Doku 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/37
+#EXTINF:-1,AL:ID Discovery
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/442
+#EXTINF:-1,AL: Film Aksion
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/25
+#EXTINF:-1,AL: Film Hits
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/26
+#EXTINF:-1,AL: Film Autor
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/27
+#EXTINF:-1,AL: Film Thriller
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/28
+#EXTINF:-1,AL: Film Komedi
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/29
+#EXTINF:-1,AL: Film Drame
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/30
+#EXTINF:-1,AL: Film MAX HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/31
+#EXTINF:-1,AL: Film Gold HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/32
+#EXTINF:-1,AL: EuroFilm
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/207
+#EXTINF:-1,AL: Family
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/208
+#EXTINF:-1,AL: ART Kino 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/33
+#EXTINF:-1,AL: ART Kino 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/34
+#EXTINF:-1,AL: ART Kino 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/35
+#EXTINF:-1,AL: Stinët
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/209
+#EXTINF:-1,AL: Prime
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/51
+#EXTINF:-1,AL: Episode
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/52
+#EXTINF:-1,AL: BeatTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/53
+#EXTINF:-1,AL: Guromania
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/80
+#EXTINF:-1,AL: Tring Fantazi
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/38
+#EXTINF:-1,AL: Tring Shqip
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/368
+#EXTINF:-1,AL: Tring Max
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/39
+#EXTINF:-1,AL: Tring Super
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/40
+#EXTINF:-1,AL: Tring Komedi
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/347
+#EXTINF:-1,AL: Tring Classic
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/367
+#EXTINF:-1,AL:Tring Collection
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/441
+#EXTINF:-1,AL: Tring Planet
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/42
+#EXTINF:-1,AL: Tring Smile
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/43
+#EXTINF:-1,AL: Tring Life
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/44
+#EXTINF:-1,AL: Tring Histori
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/45
+#EXTINF:-1,AL: Tring World
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/46
+#EXTINF:-1,AL: Tring Series HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/48
+#EXTINF:-1,AL: Living
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/49
+#EXTINF:-1,AL: DigiGold Film 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/370
+#EXTINF:-1,AL: DigiGold Film 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/371
+#EXTINF:-1,AL: DigiGold Film 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/372
+#EXTINF:-1,AL: DigiGold Film 4
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/376
+#EXTINF:-1,AL: DigiGold Film 5
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/377
+#EXTINF:-1,AL: 7HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/185
+#EXTINF:-1,AL: Cinema 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/194
+#EXTINF:-1,AL: Cinema 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/195
+#EXTINF:-1,AL: Premier 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/174
+#EXTINF:-1,AL: Premier 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/175
+#EXTINF:-1,AL: Premier 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/176
+#EXTINF:-1,AL: Premier 4
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/177
+#EXTINF:-1,AL:Tibo Action
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/664
+#EXTINF:-1,AL:Tibo Comedy
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/665
+#EXTINF:-1,AL:Tibo Drama
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/666
+#EXTINF:-1,AL:Tibo Thriller
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/667
+#EXTINF:-1,AL:Tibo Serial
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/668
+#EXTINF:-1,AL:Tibo Prime1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/669
+#EXTINF:-1,AL:Tibo Prime 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/670
+#EXTINF:-1,AL:Tibo Doc1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/671
+#EXTINF:-1,AL:Tibo Doc2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/672
+#EXTINF:-1,AL: Sky Planet
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/55
+#EXTINF:-1,AL: Galaxy HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/56
+#EXTINF:-1,AL: Sky MAX
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/57
+#EXTINF:-1,AL: Sky Aksion
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/58
+#EXTINF:-1,AL: Sky Komedi
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/60
+#EXTINF:-1,AL: Sky Shkence
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/61
+#EXTINF:-1,AL: Sky Drame
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/62
+#EXTINF:-1,AL:Sky Shqip
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/457
+#EXTINF:-1,AL:Sky Novela
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/458
+#EXTINF:-1,AL:Novela HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/479
+#EXTINF:-1,Al: RTV 21 Popullore
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/318
+#EXTINF:-1,AL: ZicoTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/64
+#EXTINF:-1,AL: ON TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/65
+#EXTINF:-1,AL: FirstTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/66
+#EXTINF:-1,AL: BBF 
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/67
+#EXTINF:-1,AL: Elrodi
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/68
+#EXTINF:-1,AL: Folk +
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/69
+#EXTINF:-1,AL:OpojaTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/436
+#EXTINF:-1,AL:ALB See
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/440
+#EXTINF:-1,MTV Kosova
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/71
+#EXTINF:-1,AL: Kanali 7
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/63
+#EXTINF:-1,AL: AmolTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/72
+#EXTINF:-1,AL: Tv D
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/73
+#EXTINF:-1,AL: TV LLapi
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/390
+#EXTINF:-1,AL: ALB Qifteli
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/77
+#EXTINF:-1,AL:Tëvë Novela
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/275
+#EXTINF:-1,AL: TV Tema
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/74
+#EXTINF:-1,AL:RTSH Muzik
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/301
+#EXTINF:-1,AL: RTSH 24
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/302
+#EXTINF:-1,AL: RTSH 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/299
+#EXTINF:-1,AL: RTSH Shqip
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/193
+#EXTINF:-1,AL: RTK3 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/75
+#EXTINF:-1,AL: RTK4
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/76
+#EXTINF:-1,AL: Gjurmë Shqipetare
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/290
+#EXTINF:-1,AL: ALB UK
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/78
+#EXTINF:-1,AL: SS-1 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/81
+#EXTINF:-1,AL: SS2 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/82
+#EXTINF:-1,AL: SS3 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/83
+#EXTINF:-1,AL: SS4 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/84
+#EXTINF:-1,AL: SS 5 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/326
+#EXTINF:-1,AL: SS 6 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/327
+#EXTINF:-1,AL: SS 7 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/328
+#EXTINF:-1,AL: SS Kosova 1 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/258
+#EXTINF:-1,AL: SS Kosova 2 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/329
+#EXTINF:-1,AL: SS Kosova 3 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/259
+#EXTINF:-1,AL: ArtSport 1 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/93
+#EXTINF:-1,AL: ArtSport 2 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/94
+#EXTINF:-1,AL: Artsport 3 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/95
+#EXTINF:-1,AL: Artsport 4 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/322
+#EXTINF:-1,AL:Artsport 5 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/323
+#EXTINF:-1,AL:OverSport 1 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/385
+#EXTINF:-1,AL:OverSport 2 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/386
+#EXTINF:-1,AL:OverSport 3 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/387
+#EXTINF:-1,A:OverSport 4 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/388
+#EXTINF:-1,AL:Tring Sport News
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/600
+#EXTINF:-1,AL: TringSport 1 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/85
+#EXTINF:-1,AL: TringSport 2 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/86
+#EXTINF:-1,AL: TringSport 3 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/88
+#EXTINF:-1,AL: TringSport 4 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/89
+#EXTINF:-1,AL: Kujtesa Sport 1 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/90
+#EXTINF:-1,AL: Kujtesa Sport 2 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/91
+#EXTINF:-1,AL: Kujtesa Sport 3 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/92
+#EXTINF:-1,AL: Kujtesa Sport 4 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/97
+#EXTINF:-1,SRB: Arena Sport 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/102
+#EXTINF:-1,SRB: Arenasport 5
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/113
+#EXTINF:-1,SRB: ArenaSport Premium 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/494
+#EXTINF:-1,SRB: ArenaSport Premium 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/495
+#EXTINF:-1,SRB:ArenaSport Premium 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/496
+#EXTINF:-1,DE: DAZN 1 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/100
+#EXTINF:-1,DE: DAZN 2 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/101
+#EXTINF:-1,AR:beIN Sport 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/650
+#EXTINF:-1,AR:beIN Sport 4
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/649
+#EXTINF:-1,AR:beIN Sport 5
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/648
+#EXTINF:-1,AR:beIN Sport 7
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/646
+#EXTINF:-1,AR:beIN Sport 6
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/647
+#EXTINF:-1,TR:TIVIBU Sport 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/642
+#EXTINF:-1,TR:TIVIBU Sport 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/643
+#EXTINF:-1,TR:TIVIBU Sport 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/644
+#EXTINF:-1,FR:Bein Sport 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/610
+#EXTINF:-1,FR:Bein Sport 2 
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/611
+#EXTINF:-1,FR:Bein Sport 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/612
+#EXTINF:-1,FR:Bein Sport 4
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/613
+#EXTINF:-1,Eurosport1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/98
+#EXTINF:-1,Eurosport2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/99
+#EXTINF:-1,DE: Sky Sport Bundesliga 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/128
+#EXTINF:-1,DE: Sky Sport Bundesliga 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/129
+#EXTINF:-1,DE: Sky Sport Bundesliga 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/130
+#EXTINF:-1,DE: Sky Sport Bundesliga 4
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/131
+#EXTINF:-1,DE: Sky Sport Bundesliga 6
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/133
+#EXTINF:-1,DE: Sky Sport Bundesliga 5
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/132
+#EXTINF:-1,DE: Sky Sport Bundesliga 7
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/134
+#EXTINF:-1,DE: Sky Sport Bundesliga 8
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/135
+#EXTINF:-1,DE: Sky Sport Bundesliga 9
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/136
+#EXTINF:-1,DE: Sky Sport Bundesliga 10
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/137
+#EXTINF:-1,DE: Sky Sport Austria
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/127
+#EXTINF:-1,DE: Sky Sport 1 
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/121
+#EXTINF:-1,DE: Sky Sport 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/122
+#EXTINF:-1,DE: Sky Sport 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/123
+#EXTINF:-1,DE: Sky Sport 4
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/124
+#EXTINF:-1,DE: Sky Sport 5
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/125
+#EXTINF:-1,DE: Sky Sport 6
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/126
+#EXTINF:-1,NL: FOX Sports 1 
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/253
+#EXTINF:-1,NL: Fox Sports 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/254
+#EXTINF:-1,NL: Fox Sports 3
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/255
+#EXTINF:-1,FR: RMC Sport 2 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/274
+#EXTINF:-1,DE: Delux Music
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/356
+#EXTINF:-1,DE:Toggo
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/445
+#EXTINF:-1,DE: Super RTL
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/138
+#EXTINF:-1,DE:Disney XD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/633
+#EXTINF:-1,DE: Nickelodeon
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/590
+#EXTINF:-1,DE: ARD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/226
+#EXTINF:-1,DE: ZDF
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/227
+#EXTINF:-1,DE: Sat.1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/152
+#EXTINF:-1,DE: RTL
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/144
+#EXTINF:-1,DE: RTL II
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/145
+#EXTINF:-1,DE: ProSieben
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/148
+#EXTINF:-1,DE:Prosiben MAX
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/674
+#EXTINF:-1,DE: VOX
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/150
+#EXTINF:-1,DE: kabel eins
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/146
+#EXTINF:-1,DE:Kable 1 Doc
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/673
+#EXTINF:-1,DE: Tagesschau 24 
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/335
+#EXTINF:-1,DE:N24 Doku HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/637
+#EXTINF:-1,DE: DMAX HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/288
+#EXTINF:-1,DE: n-tv
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/151
+#EXTINF:-1,DE: RTL Nitro
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/252
+#EXTINF:-1,DE: Kabel Eins Doku
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/330
+#EXTINF:-1,History
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/169
+#EXTINF:-1,DE: Discovery Channel
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/315
+#EXTINF:-1,DE: Animal Planet
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/236
+#EXTINF:-1,DE: Nat Geo Wild
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/170
+#EXTINF:-1,DE: Nat Geographic HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/171
+#EXTINF:-1,DE: Kabel Eins Classics
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/662
+#EXTINF:-1,DE: 13th Street HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/159
+#EXTINF:-1,Sky Replay HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/160
+#EXTINF:-1,Warner Film
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/702
+#EXTINF:-1,Warner Serie
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/167
+#EXTINF:-1,Warner Comedy
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/619
+#EXTINF:-1,DE: Syfy 
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/162
+#EXTINF:-1,DE: Sky Action
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/286
+#EXTINF:-1,DE: Sky Cinema Thriller
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/384
+#EXTINF:-1,DE: Sky Atlantic HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/246
+#EXTINF:-1,DE: Sky Cinema Classics
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/173
+#EXTINF:-1,DE:Sky Cinema Premieren
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/614
+#EXTINF:-1,DE:Sky Cinema Best of Hits
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/615
+#EXTINF:-1,DE: Motorvision
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/406
+#EXTINF:-1,AL:  BigBrother Vip Kosova 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/403
+#EXTINF:-1,AL: BigBrother Vip Kosova 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/404
+#EXTINF:-1,AL:BigBrother VIP Albania 1
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/411
+#EXTINF:-1,AL:BigBrother VIP Albania 2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/412
+#EXTINF:-1,AL:TerraHD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/456
+#EXTINF:-1,AL:21 Plus
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/459
+#EXTINF:-1,AL:TV Fontana
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/460
+#EXTINF:-1,AL:21 Mix
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/462
+#EXTINF:-1,AL:TurboChannel
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/463
+#EXTINF:-1,FashionTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/465
+#EXTINF:-1,AL:GameTon
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/466
+#EXTINF:-1,AL:FilmBox Premium
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/469
+#EXTINF:-1,AL:Xtream Sport
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/470
+#EXTINF:-1,AL:Fox
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/471
+#EXTINF:-1,AL:FoxCrime
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/472
+#EXTINF:-1,AL:Fox Life
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/473
+#EXTINF:-1,AL:StarTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/474
+#EXTINF:-1,AL:FilmBox Family
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/475
+#EXTINF:-1,AL:FilmBox Stars
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/476
+#EXTINF:-1,AL:FilmBox Extra
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/477
+#EXTINF:-1,AL:FilmBox Arthous
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/478
+#EXTINF:-1,AL:Fax News
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/480
+#EXTINF:-1,AL:RTV Pendimi
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/481
+#EXTINF:-1,MK:MPT2
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/482
+#EXTINF:-1,AL:OpinionTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/483
+#EXTINF:-1,Ballkanika
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/485
+#EXTINF:-1,DE:MTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/487
+#EXTINF:-1,DE:DW-TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/467
+#EXTINF:-1,DE:MTV Hits
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/488
+#EXTINF:-1,DE:VH1 Hits
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/489
+#EXTINF:-1,DE:VH1 Classic
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/490
+#EXTINF:-1,Euronews
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/491
+#EXTINF:-1,FR:France24
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/492
+#EXTINF:-1,TR:TRT World
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/493
+#EXTINF:-1,TR: Star TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/183
+#EXTINF:-1,SR:B92
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/439
+#EXTINF:-1,DE:Positive GOLD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/529
+#EXTINF:-1,DE:Suite TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/531
+#EXTINF:-1,DE:360 TuneBOX
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/532
+#EXTINF:-1,TR:TRT Turk
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/591
+#EXTINF:-1,TR:ShowTurk
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/592
+#EXTINF:-1,TR:ATV HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/593
+#EXTINF:-1,TR:Kanal 7 Turk
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/594
+#EXTINF:-1,TR:TV 8 HD
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/595
+#EXTINF:-1,TR:Dost TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/596
+#EXTINF:-1,TR:Tek Rumeli
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/597
+#EXTINF:-1,TR:Kral TV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/599
+#EXTINF:-1,TR:NTV
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/645
+#EXTINF:-1,AL:ISP AKsion
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/681
+#EXTINF:-1,AL:ISP Comedy
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/682
+#EXTINF:-1,AL:ISP Dokumentar
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/683
+#EXTINF:-1,AL:ISP Drame
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/684
+#EXTINF:-1,AL:ISP Film
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/685
+#EXTINF:-1,AL:ISP Hits
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/686
+#EXTINF:-1,AL:ISP Kalamanjt
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/687
+#EXTINF:-1,AL:ISP Sport
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/689
+#EXTINF:-1,AL:ISP Premier
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/690
+#EXTINF:-1,AL:ISP Thirller
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/691
+#EXTINF:-1,Canal + Sport
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/692
+#EXTINF:-1,KikaTEST
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/694
+#EXTINF:-1,DE: DokuSat
+http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/704
