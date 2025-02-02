@@ -1,619 +1,907 @@
 #EXTM3U
-#EXTINF:-1,AL:  BigBrother Vip Kosova 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/403
-#EXTINF:-1,AL: BigBrother Vip Kosova 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/404
-#EXTINF:-1,AL:BigBrother VIP Albania 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/411
-#EXTINF:-1,AL:BigBrother VIP Albania 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/412
-#EXTINF:-1,AL: RTK
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/1
-#EXTINF:-1,AL: RTV 21 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/2
-#EXTINF:-1,AL: KTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/3
-#EXTINF:-1,AL: Klan Kosova
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/4
-#EXTINF:-1,AL: Alsat M
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/5
-#EXTINF:-1,AL: Klan TV HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/6
-#EXTINF:-1,AL: Top Channel HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738463226/ei/moOeZ6zRHqaF6dsP5KSeoQM/ip/2a03%3A4b80%3Ac71f%3Ad4d0%3A348a%3Af176%3A1619%3Ad809/id/GVd9PQLkQao.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51356811/txs/51356811%2C51356812/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PUXEc6Fqg-hMvUWJ8yDJprCyB3o4n7N_dTyGXRkg6z-gkDa-WfuSLGtCM592n0g2bu4GTkOhk7/spc/9kzgDdCsFIM58HfkDGHaSQJwStzQBJ6t8cTcmcOyLav19vHg0VaM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbwzzidlWYd4C7RM_9SzJJD5nHHvpEwtYYUAtckmQ2sACIBhv_8syRe9-rVW10K1c15Z2yKoSbwDH36sSfHbIaE07/file/index.m3u8
-#EXTINF:-1,AL: T7 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/8
-#EXTINF:-1,AL:DTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/464
-#EXTINF:-1,AL: Kanali 10
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/10
-#EXTINF:-1,AL: Top News
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/13
-#EXTINF:-1,AL: TV Dukagjini
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/11
-#EXTINF:-1,AL: ATV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/233
-#EXTINF:-1,AL:Tëvë 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/355
-#EXTINF:-1,AL: TV Dielli
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/9
-#EXTINF:-1,AL: Arta News HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/12
-#EXTINF:-1,AL: Klan News
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/373
-#EXTINF:-1,AL: News 24
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/374
-#EXTINF:-1,AL: EuroNews Albania
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/184
-#EXTINF:-1,AL: ReportTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/325
-#EXTINF:-1,AL: TV Mitrovica
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/298
-#EXTINF:-1,AL: Peace TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/234
-#EXTINF:-1,AL: RTV ISLAM
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/257
-#EXTINF:-1,AL:RTI Islam
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/316
-#EXTINF:-1,AL:TV BESA
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/438
-#EXTINF:-1,AL: 3 Plus
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/14
-#EXTINF:-1,AL: Vizion Plus
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/50
-#EXTINF:-1,AL: KanalD Drama
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/202
-#EXTINF:-1,AL: Klan Plus HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/79
-#EXTINF:-1,AL: Tring Tring
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/15
-#EXTINF:-1,AL: Kids
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/16
-#EXTINF:-1,AL:Tring TIP TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/437
-#EXTINF:-1,AL: Digi Sofia
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/17
-#EXTINF:-1,AL: Bang Bang
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/18
-#EXTINF:-1,AL: Cufo TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/19
-#EXTINF:-1,AL: Baby TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/20
-#EXTINF:-1,AL: Prince Kids
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/21
-#EXTINF:-1,AL:TaoTao
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/461
-#EXTINF:-1,AL:Kids ART
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/178
-#EXTINF:-1,AL:Pro 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/660
-#EXTINF:-1,AL: EXP Shkence
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/22
-#EXTINF:-1,AL: EXP Natyra
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/23
-#EXTINF:-1,AL: EXP Histori
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/24
-#EXTINF:-1,AL: ART Doku 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/36
-#EXTINF:-1,AL: ART Doku 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/37
-#EXTINF:-1,AL:ID Discovery
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/442
-#EXTINF:-1,AL: Film Aksion
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/25
-#EXTINF:-1,AL: Film Hits
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/26
-#EXTINF:-1,AL: Film Autor
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/27
-#EXTINF:-1,AL: Film Thriller
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/28
-#EXTINF:-1,AL: Film Komedi
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/29
-#EXTINF:-1,AL: Film Drame
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/30
-#EXTINF:-1,AL: Film MAX HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/31
-#EXTINF:-1,AL: Film Gold HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/32
-#EXTINF:-1,AL: EuroFilm
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/207
-#EXTINF:-1,AL: Family
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/208
-#EXTINF:-1,AL: ART Kino 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/33
-#EXTINF:-1,AL: ART Kino 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/34
-#EXTINF:-1,AL: ART Kino 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/35
-#EXTINF:-1,AL: Stinët
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/209
-#EXTINF:-1,AL: Prime
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/51
-#EXTINF:-1,AL: Episode
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/52
-#EXTINF:-1,AL: BeatTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/53
-#EXTINF:-1,AL: Guromania
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/80
-#EXTINF:-1,AL: Tring Fantazi
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/38
-#EXTINF:-1,AL: Tring Shqip
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/368
-#EXTINF:-1,AL: Tring Max
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/39
-#EXTINF:-1,AL: Tring Super
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/40
-#EXTINF:-1,AL: Tring Komedi
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/347
-#EXTINF:-1,AL: Tring Classic
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/367
-#EXTINF:-1,AL:Tring Collection
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/441
-#EXTINF:-1,AL: Tring Planet
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/42
-#EXTINF:-1,AL: Tring Smile
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/43
-#EXTINF:-1,AL: Tring Life
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/44
-#EXTINF:-1,AL: Tring Histori
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/45
-#EXTINF:-1,AL: Tring World
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/46
-#EXTINF:-1,AL: Tring Series HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/48
-#EXTINF:-1,AL: Living
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/49
-#EXTINF:-1,AL: DigiGold Film 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/370
-#EXTINF:-1,AL: DigiGold Film 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/371
-#EXTINF:-1,AL: DigiGold Film 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/372
-#EXTINF:-1,AL: DigiGold Film 4
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/376
-#EXTINF:-1,AL: DigiGold Film 5
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/377
-#EXTINF:-1,AL: 7HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/185
-#EXTINF:-1,AL: Cinema 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/194
-#EXTINF:-1,AL: Cinema 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/195
-#EXTINF:-1,AL: Premier 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/174
-#EXTINF:-1,AL: Premier 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/175
-#EXTINF:-1,AL: Premier 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/176
-#EXTINF:-1,AL: Premier 4
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/177
-#EXTINF:-1,AL:Tibo Action
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/664
-#EXTINF:-1,AL:Tibo Comedy
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/665
-#EXTINF:-1,AL:Tibo Drama
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/666
-#EXTINF:-1,AL:Tibo Thriller
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/667
-#EXTINF:-1,AL:Tibo Serial
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/668
-#EXTINF:-1,AL:Tibo Prime1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/669
-#EXTINF:-1,AL:Tibo Prime 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/670
-#EXTINF:-1,AL:Tibo Doc1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/671
-#EXTINF:-1,AL:Tibo Doc2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/672
-#EXTINF:-1,AL: Sky Planet
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/55
-#EXTINF:-1,AL: Galaxy HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/56
-#EXTINF:-1,AL: Sky MAX
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/57
-#EXTINF:-1,AL: Sky Aksion
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/58
-#EXTINF:-1,AL: Sky Komedi
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/60
-#EXTINF:-1,AL: Sky Shkence
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/61
-#EXTINF:-1,AL: Sky Drame
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/62
-#EXTINF:-1,AL:Sky Shqip
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/457
-#EXTINF:-1,AL:Sky Novela
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/458
-#EXTINF:-1,AL:Novela HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/479
-#EXTINF:-1,Al: RTV 21 Popullore
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/318
-#EXTINF:-1,AL: ZicoTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/64
-#EXTINF:-1,AL: ON TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/65
-#EXTINF:-1,AL: FirstTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/66
-#EXTINF:-1,AL: BBF 
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/67
-#EXTINF:-1,AL: Elrodi
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/68
-#EXTINF:-1,AL: Folk +
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/69
-#EXTINF:-1,AL:OpojaTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/436
-#EXTINF:-1,AL:ALB See
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/440
-#EXTINF:-1,MTV Kosova
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/71
-#EXTINF:-1,AL: Kanali 7
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/63
-#EXTINF:-1,AL: AmolTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/72
-#EXTINF:-1,AL: Tv D
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/73
-#EXTINF:-1,AL: TV LLapi
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/390
-#EXTINF:-1,AL: ALB Qifteli
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/77
-#EXTINF:-1,AL:Tëvë Novela
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/275
-#EXTINF:-1,AL: TV Tema
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/74
-#EXTINF:-1,AL:RTSH Muzik
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/301
-#EXTINF:-1,AL: RTSH 24
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/302
-#EXTINF:-1,AL: RTSH 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/299
-#EXTINF:-1,AL: RTSH Shqip
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/193
-#EXTINF:-1,AL: RTK3 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/75
-#EXTINF:-1,AL: RTK4
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/76
-#EXTINF:-1,AL: Gjurmë Shqipetare
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/290
-#EXTINF:-1,AL: ALB UK
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/78
-#EXTINF:-1,AL: SS-1 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/81
-#EXTINF:-1,AL: SS2 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/82
-#EXTINF:-1,AL: SS3 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/83
-#EXTINF:-1,AL: SS4 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/84
-#EXTINF:-1,AL: SS 5 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/326
-#EXTINF:-1,AL: SS 6 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/327
-#EXTINF:-1,AL: SS 7 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/328
-#EXTINF:-1,AL: SS Kosova 1 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/258
-#EXTINF:-1,AL: SS Kosova 2 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/329
-#EXTINF:-1,AL: SS Kosova 3 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/259
-#EXTINF:-1,AL: ArtSport 1 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/93
-#EXTINF:-1,AL: ArtSport 2 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/94
-#EXTINF:-1,AL: Artsport 3 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/95
-#EXTINF:-1,AL: Artsport 4 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/322
-#EXTINF:-1,AL:Artsport 5 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/323
-#EXTINF:-1,AL:OverSport 1 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/385
-#EXTINF:-1,AL:OverSport 2 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/386
-#EXTINF:-1,AL:OverSport 3 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/387
-#EXTINF:-1,A:OverSport 4 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/388
-#EXTINF:-1,AL:Tring Sport News
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/600
-#EXTINF:-1,AL: TringSport 1 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/85
-#EXTINF:-1,AL: TringSport 2 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/86
-#EXTINF:-1,AL: TringSport 3 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/88
-#EXTINF:-1,AL: TringSport 4 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/89
-#EXTINF:-1,AL: Kujtesa Sport 1 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/90
-#EXTINF:-1,AL: Kujtesa Sport 2 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/91
-#EXTINF:-1,AL: Kujtesa Sport 3 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/92
-#EXTINF:-1,AL: Kujtesa Sport 4 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/97
-#EXTINF:-1,SRB: Arena Sport 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/102
-#EXTINF:-1,SRB: Arenasport 5
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/113
-#EXTINF:-1,SRB: ArenaSport Premium 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/494
-#EXTINF:-1,SRB: ArenaSport Premium 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/495
-#EXTINF:-1,SRB:ArenaSport Premium 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/496
-#EXTINF:-1,DE: DAZN 1 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/100
-#EXTINF:-1,DE: DAZN 2 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/101
-#EXTINF:-1,AR:beIN Sport 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/650
-#EXTINF:-1,AR:beIN Sport 4
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/649
-#EXTINF:-1,AR:beIN Sport 5
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/648
-#EXTINF:-1,AR:beIN Sport 7
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/646
-#EXTINF:-1,AR:beIN Sport 6
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/647
-#EXTINF:-1,TR:TIVIBU Sport 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/642
-#EXTINF:-1,TR:TIVIBU Sport 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/643
-#EXTINF:-1,TR:TIVIBU Sport 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/644
-#EXTINF:-1,FR:Bein Sport 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/610
-#EXTINF:-1,FR:Bein Sport 2 
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/611
-#EXTINF:-1,FR:Bein Sport 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/612
-#EXTINF:-1,FR:Bein Sport 4
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/613
-#EXTINF:-1,Eurosport1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/98
-#EXTINF:-1,Eurosport2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/99
-#EXTINF:-1,DE: Sky Sport Bundesliga 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/128
-#EXTINF:-1,DE: Sky Sport Bundesliga 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/129
-#EXTINF:-1,DE: Sky Sport Bundesliga 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/130
-#EXTINF:-1,DE: Sky Sport Bundesliga 4
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/131
-#EXTINF:-1,DE: Sky Sport Bundesliga 6
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/133
-#EXTINF:-1,DE: Sky Sport Bundesliga 5
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/132
-#EXTINF:-1,DE: Sky Sport Bundesliga 7
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/134
-#EXTINF:-1,DE: Sky Sport Bundesliga 8
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/135
-#EXTINF:-1,DE: Sky Sport Bundesliga 9
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/136
-#EXTINF:-1,DE: Sky Sport Bundesliga 10
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/137
-#EXTINF:-1,DE: Sky Sport Austria
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/127
-#EXTINF:-1,DE: Sky Sport 1 
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/121
-#EXTINF:-1,DE: Sky Sport 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/122
-#EXTINF:-1,DE: Sky Sport 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/123
-#EXTINF:-1,DE: Sky Sport 4
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/124
-#EXTINF:-1,DE: Sky Sport 5
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/125
-#EXTINF:-1,DE: Sky Sport 6
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/126
-#EXTINF:-1,NL: FOX Sports 1 
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/253
-#EXTINF:-1,NL: Fox Sports 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/254
-#EXTINF:-1,NL: Fox Sports 3
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/255
-#EXTINF:-1,FR: RMC Sport 2 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/274
-#EXTINF:-1,DE: Delux Music
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/356
-#EXTINF:-1,DE:Toggo
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/445
-#EXTINF:-1,DE: Super RTL
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/138
-#EXTINF:-1,DE:Disney XD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/633
-#EXTINF:-1,DE: Nickelodeon
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/590
-#EXTINF:-1,DE: ARD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/226
-#EXTINF:-1,DE: ZDF
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/227
-#EXTINF:-1,DE: Sat.1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/152
-#EXTINF:-1,DE: RTL
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/144
-#EXTINF:-1,DE: RTL II
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/145
-#EXTINF:-1,DE: ProSieben
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/148
-#EXTINF:-1,DE:Prosiben MAX
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/674
-#EXTINF:-1,DE: VOX
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/150
-#EXTINF:-1,DE: kabel eins
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/146
-#EXTINF:-1,DE:Kable 1 Doc
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/673
-#EXTINF:-1,DE: Tagesschau 24 
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/335
-#EXTINF:-1,DE:N24 Doku HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/637
-#EXTINF:-1,DE: DMAX HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/288
-#EXTINF:-1,DE: n-tv
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/151
-#EXTINF:-1,DE: RTL Nitro
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/252
-#EXTINF:-1,DE: Kabel Eins Doku
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/330
-#EXTINF:-1,History
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/169
-#EXTINF:-1,DE: Discovery Channel
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/315
-#EXTINF:-1,DE: Animal Planet
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/236
-#EXTINF:-1,DE: Nat Geo Wild
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/170
-#EXTINF:-1,DE: Nat Geographic HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/171
-#EXTINF:-1,DE: Kabel Eins Classics
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/662
-#EXTINF:-1,DE: 13th Street HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/159
-#EXTINF:-1,Sky Replay HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/160
-#EXTINF:-1,Warner Film
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/702
-#EXTINF:-1,Warner Serie
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/167
-#EXTINF:-1,Warner Comedy
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/619
-#EXTINF:-1,DE: Syfy 
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/162
-#EXTINF:-1,DE: Sky Action
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/286
-#EXTINF:-1,DE: Sky Cinema Thriller
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/384
-#EXTINF:-1,DE: Sky Atlantic HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/246
-#EXTINF:-1,DE: Sky Cinema Classics
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/173
-#EXTINF:-1,DE:Sky Cinema Premieren
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/614
-#EXTINF:-1,DE:Sky Cinema Best of Hits
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/615
-#EXTINF:-1,DE: Motorvision
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/406
-#EXTINF:-1,AL:  BigBrother Vip Kosova 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/403
-#EXTINF:-1,AL: BigBrother Vip Kosova 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/404
-#EXTINF:-1,AL:BigBrother VIP Albania 1
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/411
-#EXTINF:-1,AL:BigBrother VIP Albania 2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/412
-#EXTINF:-1,AL:TerraHD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/456
-#EXTINF:-1,AL:21 Plus
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/459
-#EXTINF:-1,AL:TV Fontana
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/460
-#EXTINF:-1,AL:21 Mix
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/462
-#EXTINF:-1,AL:TurboChannel
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/463
-#EXTINF:-1,FashionTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/465
-#EXTINF:-1,AL:GameTon
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/466
-#EXTINF:-1,AL:FilmBox Premium
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/469
-#EXTINF:-1,AL:Xtream Sport
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/470
-#EXTINF:-1,AL:Fox
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/471
-#EXTINF:-1,AL:FoxCrime
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/472
-#EXTINF:-1,AL:Fox Life
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/473
-#EXTINF:-1,AL:StarTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/474
-#EXTINF:-1,AL:FilmBox Family
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/475
-#EXTINF:-1,AL:FilmBox Stars
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/476
-#EXTINF:-1,AL:FilmBox Extra
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/477
-#EXTINF:-1,AL:FilmBox Arthous
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/478
-#EXTINF:-1,AL:Fax News
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/480
-#EXTINF:-1,AL:RTV Pendimi
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/481
-#EXTINF:-1,MK:MPT2
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/482
-#EXTINF:-1,AL:OpinionTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/483
-#EXTINF:-1,Ballkanika
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/485
-#EXTINF:-1,DE:MTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/487
-#EXTINF:-1,DE:DW-TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/467
-#EXTINF:-1,DE:MTV Hits
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/488
-#EXTINF:-1,DE:VH1 Hits
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/489
-#EXTINF:-1,DE:VH1 Classic
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/490
-#EXTINF:-1,Euronews
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/491
-#EXTINF:-1,FR:France24
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/492
-#EXTINF:-1,TR:TRT World
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/493
-#EXTINF:-1,TR: Star TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/183
-#EXTINF:-1,SR:B92
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/439
-#EXTINF:-1,DE:Positive GOLD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/529
-#EXTINF:-1,DE:Suite TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/531
-#EXTINF:-1,DE:360 TuneBOX
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/532
-#EXTINF:-1,TR:TRT Turk
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/591
-#EXTINF:-1,TR:ShowTurk
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/592
-#EXTINF:-1,TR:ATV HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/593
-#EXTINF:-1,TR:Kanal 7 Turk
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/594
-#EXTINF:-1,TR:TV 8 HD
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/595
-#EXTINF:-1,TR:Dost TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/596
-#EXTINF:-1,TR:Tek Rumeli
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/597
-#EXTINF:-1,TR:Kral TV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/599
-#EXTINF:-1,TR:NTV
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/645
-#EXTINF:-1,AL:ISP AKsion
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/681
-#EXTINF:-1,AL:ISP Comedy
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/682
-#EXTINF:-1,AL:ISP Dokumentar
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/683
-#EXTINF:-1,AL:ISP Drame
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/684
-#EXTINF:-1,AL:ISP Film
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/685
-#EXTINF:-1,AL:ISP Hits
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/686
-#EXTINF:-1,AL:ISP Kalamanjt
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/687
-#EXTINF:-1,AL:ISP Sport
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/689
-#EXTINF:-1,AL:ISP Premier
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/690
-#EXTINF:-1,AL:ISP Thirller
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/691
-#EXTINF:-1,Canal + Sport
-http://iptv3.kbc.al:25461/Xoni/H8AVV5tnfsxB/692
-#EXTINF:-1,KikaTEST
-https://1c3ed9b946c.muchasgraciasaficion.one/live/TRE7nsE_en.m3u8
-#EXTINF:-1,DE: DokuSat
-https://1c3ed9b946c.muchasgraciasaficion.one/live/a2GGtO_sd.m3u8
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: RTK 1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4935
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: RTK 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/180
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 3 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/181
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 4 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/182
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TeVe 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Channels",AL: Klan Kosova HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/827
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Channels",AL: Klan Kosova
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5692
+#EXTINF:0 tvg-id="KTV.al" group-title="Channels",AL: KTV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3
+#EXTINF:0 tvg-id="KTV.al" group-title="Channels",AL: KTV HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/826
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kanal 10 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/32
+#EXTINF:0 tvg-id="RTV21.al" group-title="Channels",AL: RTV 21
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/2
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ATV HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/234
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: T7
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/578
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="Channels",AL: TV Dukagjini
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/100
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Channels",AL: Alsat-M
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/34
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Channels",AL: Alsat M HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3269
+#EXTINF:0 tvg-id="TopChannel.al" group-title="Channels",AL: Top Channel SD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/147
+#EXTINF:0 tvg-id="TopChannel.al" group-title="Channels",AL: Top Channel
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Channels",AL: Klan SD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/148
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Channels",AL: Klan
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/7
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Klan Plus HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3285
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Klan+
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4903
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KanalD Drama
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/2856
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: BB Vip Albania 1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6110
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: BB Vip Albania 2
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6111
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: BB Vip Albania 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6108
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: BB Vip Albania 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6109
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TDC
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1022
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: DTV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/91
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KLAN Maqedonia
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/2868
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Klan News
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5691
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Vision Plus HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV21 M
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/209
+#EXTINF:0 tvg-id="RTV21Plus.al" group-title="Channels",AL: RTV 21 Plus
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/334
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Syri TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3298
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: FirstChannel
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/163
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: PRO 1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5860
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Televizioni R
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/185
+#EXTINF:0 tvg-id="Kanali7.al" group-title="Channels",AL: Kanal 7
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/31
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Arta News HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3270
+#EXTINF:0 tvg-id="TopNews.al" group-title="Channels",AL: Top News
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/37
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: A2 CNN
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3618
+#EXTINF:0 tvg-id="News24.al" group-title="Channels",AL: News 24
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/950
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: FAX News
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3275
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Channels",AL: ABC News
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/39
+#EXTINF:0 tvg-id="OraNews.al" group-title="Channels",AL: OraNews
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/241
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Euronews Albania
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4931
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KINO 1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1626
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KINO 2
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1627
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KINO 3
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1628
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Channels",AL: Jolly HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/69
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tring Action
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/10
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Channels",AL: Tring Super
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/11
+#EXTINF:0 tvg-id="TringLife.al" group-title="Channels",AL: Tring Life
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/12
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL : Tring Collection
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5208
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tring Novelas HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5596
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Channels",AL: Tring Comedy
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/13
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Channels",AL: Tring Shqip
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/14
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Channels",AL: Tring Fantasy
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/15
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tring Family
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5599
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tring Classic
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5188
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TRING Turkish Stories
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5914
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tring Premium Channel
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5912
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: 3Plus HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/54
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Film Max HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/49
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Film Gold HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/50
+#EXTINF:0 tvg-id="FilmHits+1.al" group-title="Channels",AL: Film Hits
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/47
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Channels",AL: Film Aksion
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/45
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Channels",AL: Film Thriller
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/48
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Channels",AL: Film Autor
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/43
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Channels",AL: Film Comedy
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/46
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Channels",AL: Film Drame
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/44
+#EXTINF:0 tvg-id="Stinet.al" group-title="Channels",AL: Stinet
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/166
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: EuroFilm
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/67
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: T
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/40
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="Channels",AL: Explorer Shkence
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/52
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Channels",AL: Explorer History
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/51
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Channels",AL: Explorer Natyra
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/53
+#EXTINF:0 tvg-id="ext" group-title="Channels",X Shkence HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3616
+#EXTINF:0 tvg-id="ext" group-title="Channels",X Natyra HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3615
+#EXTINF:0 tvg-id="ext" group-title="Channels",X Histori HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3614
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Family HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/905
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ART Doku 1 FHD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5823
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ART Doku 2 FHD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5824
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: DARK Gold 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5240
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: DARK Gold 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5241
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: DARK Gold 3 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5242
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: DARK Gold 4 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5243
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Netflix 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5981
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Netflix 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5982
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Netflix 3 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5983
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Netflix 4 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5984
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Aksion
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5999
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Sci Fi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5998
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Deluxe
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5997
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Special
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5996
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Komedi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5995
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Horror
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5994
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Thriller
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5993
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Western
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5992
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Classic
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5991
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Family
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5990
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Fantazi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5989
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Romance
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5988
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Krim
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5987
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Hindi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5985
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Drame
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5986
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Prime Kids 1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6000
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Prime Kids 2
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6001
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Prime Kids 3
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6002
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Channels",AL: Tring History
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/24
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Channels",AL: Tring World
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/26
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Channels",AL: Tring Planet
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/25
+#EXTINF:0 tvg-id="Living.al" group-title="Channels",AL: Living
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/21
+#EXTINF:0 tvg-id="24Kitchen.al" group-title="Channels",AL: 24 Kitchen
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5582
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Gjurme Shqiptare
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5820
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Discovery Showcase FHD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3218
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: NatGeo ALB
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/373
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Planet AL
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/325
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Histori AL
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/326
+#EXTINF:0 tvg-id="TravelChannel.al" group-title="Channels",AL: Travel Channel
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4965
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Dragon Ball
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6005
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Tom & Jerry
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6004
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Pink Panther
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6003
+#EXTINF:0 tvg-id="BangBang.al" group-title="Channels",AL: Bang Bang
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/41
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Channels",AL: Cufo
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/42
+#EXTINF:0 tvg-id="TringTring.al" group-title="Channels",AL: Tring Tring
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/18
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TRING Origjinal
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5915
+#EXTINF:0 tvg-id="BabyTV.al" group-title="Channels",AL: Baby Tv
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/519
+#EXTINF:0 tvg-id="JuniorTV.al" group-title="Channels",AL: Junior TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/235
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al: Sofia HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4926
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Macoku me cizme
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5798
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Masha dhe Ariu
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5629
+#EXTINF:0 tvg-id="KIDS.al" group-title="Channels",AL: KIDS
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/517
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV 21 Junior
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/633
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TomJerry
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5658
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Bubble TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5668
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH SAT
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3490
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3489
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3488
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 3 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3487
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 24 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3486
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH FILM
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3485
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH PLUS
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3484
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH SHQIP
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3483
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH SHKOLLE
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3481
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH KORÇA
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3478
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH KUKESI
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3477
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH GJIROKASTRA
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3476
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Femije
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3346
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Madagascar 3
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5710
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: The Queen's Corgi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5821
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Nickledon
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5846
+#EXTINF:0 tvg-id="TipTv.al" group-title="Channels",AL: Tip TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/19
+#EXTINF:0 tvg-id="FoxCrime.al" group-title="Channels",AL: Fox Crime
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/29
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Report TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4785
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ROZAFA TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4962
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV1 Shkoder
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5681
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Syri TV Zvicer
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5694
+#EXTINF:0 tvg-id="opoja.tv" group-title="Channels",AL: TV Opoja
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/212
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tv Pollogu HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4999
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Syri Vision
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6035
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Mitrovica
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/101
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Prizreni
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5601
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Besa
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/102
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tv Ulqini
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4993
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Star Plus Shkoder
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5630
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV21Mix
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/188
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Llapi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/538
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Folk+
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/27
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Turbo Channel
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/261
+#EXTINF:0 tvg-id="BBF.al" group-title="Channels",AL: BBF
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6010
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Klan Music
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4970
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH MUZIKE
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3482
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ELRODI
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/23
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV21 Popullore
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/22
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: MTV Kosova
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/262
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Channels",AL: My Music
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/219
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Festive 1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6006
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Festive 2
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6007
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Festive 3
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6008
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dark Festive 4
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6009
+#EXTINF:0 tvg-id="ClickTV.al" group-title="Channels",AL: CLICK TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5799
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Program Festiv Muzike 2 ⁴ᴷ
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5855
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Flutra TV ⁴k
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5434
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Cifteli HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3078
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Ballkanika
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6060
+#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Channels",AL: Supersonic TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5487
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV Fontana
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1001
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ISTOGU CHANNEL
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1003
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TOP Estrada
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6107
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV Malisheva
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3261
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Zico
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/210
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ASHK  TV  ⁴ᴷ
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4966
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Zjarr TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5439
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV Festina
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5755
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH Sport
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5651
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Channels",AL: Super Sport 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/63
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/64
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 3 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/65
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 4 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/66
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 5 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/360
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 6 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/361
+#EXTINF:0 tvg-id="SSKosova1.al" group-title="Channels",AL: Super Sport Kosova 1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5602
+#EXTINF:0 tvg-id="SSKosova2.al" group-title="Channels",AL: Super Sport Kosova 2
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5603
+#EXTINF:0 tvg-id="TringSportNewsHD.al" group-title="Channels",AL: Tring Sport News HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/28
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Channels",AL: Tring Sport 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/96
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Channels",AL: Tring Sport 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/97
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Channels",AL: Tring Sport 3 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/98
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Channels",AL: Tring Sport 4 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3248
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ART Sport 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3555
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ART Sport 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3554
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ART Sport 3 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3553
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ART Sport 4 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5165
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ART Sport 5 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5166
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ART Sport 6 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5167
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kujtesa Sport 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/883
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kujtesa Sport 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/884
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kujtesa Sport 3 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/885
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kujtesa Sport 4 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/886
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Channels",ES: Real Madrid HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6095
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Barca TV HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6094
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Mcn Tv ᶠᴴᴰ
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5845
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Mcn 24 Tv ᶠᴴᴰ
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5859
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Shkence AL
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/324
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: 365 Aksion HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6101
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: 365 Netflix HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6103
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: 365 Komedi HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6102
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: 365 Thirriler & Horror HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6106
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: 365 Shqip HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6105
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: 365 Romance HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6104
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Ks Premier 1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3328
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Ks Premier 2
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3327
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Ks Premier 3
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3326
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Ks Premier 4
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3325
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Aksion AL
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/328
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Max AL
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/329
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Novela
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/327
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Komedi AL
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/330
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Aksion
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3353
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Arnold Schwarzenegger
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3352
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Aventure
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3351
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Bud Spencer
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3350
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Dwayne Johnson
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3349
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Fantazi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3347
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Jackie Chan
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3344
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Komedi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3343
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Relaks FHD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3342
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Romance
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3341
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Spider-Man
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3340
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Sylvester Stallone
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3339
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Netflix Van Damme
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3338
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Aziatika
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3320
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Hindi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3319
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Animacion
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3318
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Western
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3317
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 SCI-Fi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3316
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Horror
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3315
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Mister
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3314
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Triller
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3313
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Krim
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3312
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Biografi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3311
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Romance
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3310
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Aventure
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3309
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Drame
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3308
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Aksion
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3307
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Oscars
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3306
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Premiere
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3305
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Filma24 Family
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3304
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kinema Gold
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5244
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Premiere 1 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3607
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Premiere 2 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3606
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Premiere 3 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3605
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Premiere 4 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3604
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Dark HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3603
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Western HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3602
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Action HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3601
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Comedy HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3600
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Drama HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3599
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Family HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3598
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Romance HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3597
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Sci-Fi HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3596
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kino Thriller HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3595
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Extrem Gold 1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5589
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Extrem Gold 2
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5590
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Extrem Gold 3
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5591
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Extrem Gold 4
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5592
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TELEONE 5
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3048
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Filmbox-Extra
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1635
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:  Humor Ujqit HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6062
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Mixha BIBI
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/6061
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ShqipTV Humor HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1214
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ShqipTv  Stupcat HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/391
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Cka ka shpija 24/7 HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/395
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: O Sa Mire
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5168
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Kafeneja Jone
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3274
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Uskana
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5001
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TROPOJA TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5666
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: POSITIVE GOLD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1231
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: SUITE TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1233
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TravelINGO
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1232
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV ALDI
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1021
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV Bujanoci
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/93
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV Presheva
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/92
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tv Podguri
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5661
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV DIELLI
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/721
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Channels",AL: Peace TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/82
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTI HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5669
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KS Film Religjion
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5612
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Rtv nje HD Islam
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/58
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV Pendimi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/1011
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV ISLAM
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/716
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al: Filmi Umeri r.a
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4922
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Mekke TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/714
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Medina TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/715
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Ligjerata Islame
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/4961
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Alb Myslim
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5660
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Esat Ilahi
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5818
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Rtv1
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5819
+#EXTINF:0 tvg-id="Muse.al" group-title="Channels",AL: Muse
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/61
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: 7 TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3627
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: PRIME
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3626
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Shenja TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/55
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ATD TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/2854
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: DISCOVERY SCIENCE
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/2853
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV koha
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/90
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: BULEVARD TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3281
+#EXTINF:0 tvg-id="ETV.al" group-title="Channels",AL: ERA TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3282
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ALB UK
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/720
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Kopliku HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/397
+#EXTINF:0 tvg-id="Smile.al" group-title="Channels",AL: Smile
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/17
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Teuta
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5438
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: BOIN TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5437
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:  ILIRIDA DOCU TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3267
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Panorama TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5911
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Neser TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5910
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: CLUB TV
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/5909
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",DE: Das Erste HD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3524
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",DE: Das Erste SD
+http://cmskos.bekaks.net:777/LeutrimTerholli/OL1ZxcfHnE/3525
+#EXTINF:0 tvg-id="avi" group-title="Videos",Cash Out (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6093.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Gunner (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6092.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Hard Home (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6091.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Escape (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6090.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Arthur The King (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6089.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Civil War (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6088.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Jack Daw (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6087.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Polis Evo (2023)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6074.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Twisters (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6046.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Instigators (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6045.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Wrong (2012)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6049.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Beast Within (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6042.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Bad Boys Ride or Die (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6021.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",One Fast Move (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6040.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",My Spy The Eternal City (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6038.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Deadpool And Wolverine (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6029.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Lockdown (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6028.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Beekeeper (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6027.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Detained (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6032.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",American Star (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6023.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Captain Miller (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6022.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Wonder Woman
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5805.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Top Gun: Maverick
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5801.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Spider Man
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5791.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Terminator
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5792.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Guardians Of Galaxy
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5788.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",X-Men DFP
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5810.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Bourne Ultimatum
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5814.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Mechanic
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5809.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Tomorrow War
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5797.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Guardians Of The Galaxy Vol  2
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5790.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Alita: Battle Angel
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5749.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Aladdin
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5750.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",6 Underground
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5751.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Aquaman
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5753.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Avengers: Age Of Ultron
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5754.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",After Earth
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5752.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",65
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5748.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Ant Man And The Wasp: Quantumania
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5747.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Plane
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5736.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Spider-Man : Lotus
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5851.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Guy Ritchie's The Covenant
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5852.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Lost City
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5853.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Ride On
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5850.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Ego
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5829.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Deadpool
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5817.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Terminator Genisys
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5811.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Black Adam
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5816.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Bourne Legacy
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5815.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",M3GAN
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5793.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Bourne Identity
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5812.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Gladiator
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5782.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Devotion
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5778.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Rebel Ridge (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6073.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Crow (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6069.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Self Reliance (2023)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6072.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Out Come The Wolves (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6041.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Monkey Man (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6039.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Kingdom Of The Planet Of The Apes (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6037.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Horizon An American Saga Chapter 1 (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6036.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Amazing Spider-Man
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5803.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Venom: Let There Be Carnage
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5802.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Free Guy
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5781.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Eternals
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5780.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Doctor Strange In The Multiverse Of Madness
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5779.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Jurassic World Fallen Kingdom
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5783.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Hotel Transylvania Transformania
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5786.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Godzilla X Kong TheNewEmpire (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6033.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Crakk Jeetegaa TohJiyegaa (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6031.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Sympathy For The Devil
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5848.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Iron Man 2
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5785.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Black Widow
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5806.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",F9: The Fast Saga
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5796.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Oblivion
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5794.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Jurassic World: Dominion
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5784.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Final Heat (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6075.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Bike Riders (2023)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6071.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Irishman (2019)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6070.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Under Paris (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6048.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Union (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6047.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Trap (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6044.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Star Abyss (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6043.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Furiosa A Madmax Saga (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6034.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Thirteen Lives
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5854.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Bourne Supremacy
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5813.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Captain Marvel
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5808.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Shazam! Fury Of The Gods
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5795.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Mulan
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5804.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lamborghini: The Man Behind The Legend
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5789.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",E PAMUNDUR (2012)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6076.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Beverly Hills Cop Axel (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6030.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Beautiful Wedding (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6024.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Captain America: Civil War
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5807.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Cult Killer (2024)
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/6025.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",AL: Minions: The Rise Of Gru
+http://cmskos.bekaks.net:777/movie/LeutrimTerholli/OL1ZxcfHnE/5883.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Selena  S01 E01
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5892.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Selena  S01 E02
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5893.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Selena  S01 E03
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5894.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Selena  S02 E01
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5895.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Selena  S02 E02
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5897.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Selena  S02 E03
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5898.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Fantasy Island S01 E01
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5900.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Fantasy Island S01 E02
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5901.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Fantasy Island S01 E03
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5902.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Ten Pound Poms S01 E01
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5903.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Ten Pound Poms S01 E02
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5904.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Ten Pound Poms S01 E03
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5905.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Ten Pound Poms S01 E04
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5906.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Ten Pound Poms S01 E05
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/5907.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Burrni e Miqasi S01 E01
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/6083.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Burrni e Miqasi S01 E02
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/6084.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Rruget Lirise S01 E01
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/6085.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Rruget Lirise S01 E02
+http://cmskos.bekaks.net:777/series/LeutrimTerholli/OL1ZxcfHnE/6086.mp4
