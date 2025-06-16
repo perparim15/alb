@@ -1,137 +1,586 @@
-#EXTM3U
-#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: RTK 1
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v2a1/mono.ts.m3u8
-#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: Rtv 21
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: KTV
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: ATV
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v1a1/mono.ts.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="PeaceTVAlbanian.xk",Peace TV Albanian (360p) [Not 24/7]
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-id="TVArberia1.xk",TV Arbëria 1 (720p)
-https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArberia2.xk",TV Arbëria 2 (720p)
-https://ssh101.bozztv.com/ssh101/rtvarberia2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArberia3Femije.xk",TV Arbëria 3 Fëmijë (720p)
-https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArberia4Muzike.xk",TV Arbëria 4 Muzikë (720p)
-https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArberia5.xk",TV Arbëria 5 (700p)
-https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArberiaRetroHits.xk",TV Arbëria Retro Hits (720p)
-https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDielli.xk",TV Dielli (720p) [Not 24/7]
-http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1 tvg-id="TVOpoja.xk",TV Opoja (720p) [Not 24/7]
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSyri.xk",TV Syri (720p)
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
-#EXTINF:-1 tvg-id="T7.xk",T7
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
-#EXTINF:-1 tvg-id="TVArta.xk",TV Arta
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
-#EXTINF:-1 tvg-id="RTK3.xk",RTK 3
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:-1 tvg-id="RTK2.xk",RTK 2
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
-#EXTINF:-1 tvg-id="RTK1.xk",RTK 1
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="Kohavision.xk",Kohavision
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="TVPrizreni.xk",TV Prizreni
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
-#EXTINF:-1 tvg-id="RTV21.xk",RTV21
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="RTVDukagjini.xk",RTV Dukagjini (1080i)
-http://77.83.120.135:8001/play/a032
-#EXTINF:-1 tvg-id="Kanal10.xk",Kanal 10 (1080i)
-http://77.83.120.135:8001/play/a165
-#EXTINF:-1 tvg-id="TVLlapi.xk",TV Llapi (1080i)
-http://77.83.120.135:8001/play/a04z
-#EXTINF:-1 tvg-id="TVOpoja.xk",TV Opoja (1080p)
-http://77.83.120.135:8001/play/a0hx
-#EXTINF:-1 tvg-id="TVMitrovica.xk",TV Mitrovica (576i)
-http://77.83.120.135:8001/play/a0jx
-#EXTINF:-1 tvg-id="21Popullore.xk",21 Popullore (576i)
-http://77.83.120.135:8001/play/a0i9
-#EXTINF:-1 tvg-id="21Plus.xk",21 Plus (1080i)
-http://77.83.120.135:8001/play/a03j
-#EXTINF:-1 tvg-id="TVPrizreni.xk",TV Prizreni (1080i)
-http://77.83.120.135:8001/play/a01p
-#EXTINF:-1 tvg-id="21Junior.xk",21 Junior (1080i)
-http://77.83.120.135:8001/play/a112
-#EXTINF:-1 tvg-id="RTK3.xk",RTK 3 (1080i)
-http://77.83.120.135:8001/play/a0o6
-#EXTINF:-1 tvg-id="Kohavision.xk",Kohavision (1080i)
-http://77.83.120.135:8001/play/a00a
-#EXTINF:-1 tvg-id="21Mix.xk",21 Mix (1080i)
-http://77.83.120.135:8001/play/a0jq
-#EXTINF:-1 tvg-id="RTK2.xk",RTK 2 (1080i)
-http://77.83.120.135:8001/play/RTK2
-#EXTINF:-1 tvg-id="RTVFontana.xk",RTV Fontana (1080p)
-http://77.83.120.135:8001/play/a160
-#EXTINF:-1 tvg-id="IstoguChannel.xk",Istogu Channel (1080i)
-http://77.83.120.135:8001/play/a15z
-#EXTINF:-1 tvg-id="RTK1.xk",RTK 1 (1080i)
-http://77.83.120.135:8001/play/a0r5
-#EXTINF:-1 tvg-id="TVDielli.xk",TV Dielli (720p)
-http://77.83.120.135:8001/play/a05f
-#EXTM3U
-#EXTINF:-1 tvg-id="A2CNN.al",A2 CNN (720p)
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al",AlbKanale Music TV (720p)
-https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-id="CNA.al",CNA (1080p)
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-id="FolkloritTV.al",Folklorit TV (1080p) [Not 24/7]
-https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
-#EXTINF:-1 tvg-id="MCNTV.al",MCN TV (1080p) [Not 24/7]
-http://141.95.145.70:8088/hls/mcn.m3u8
-#EXTINF:-1 tvg-id="News24.al",News 24 (392p) [Not 24/7]
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.al",News 24 Albania (392p)
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="OraNews.al",Ora News (720p)
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-id="PanoramaTV.al",Panorama TV (720p) [Not 24/7]
-http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ReportTV.al",Report TV (720p)
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Syri.al",Syri (720p) [Not 24/7]
-https://stream.syritv.al/SyriTV/index.m3u8
-#EXTINF:-1 tvg-id="TopChannel.al",Top News (720p)
-https://trueodin.serv00.net/?t=topnewsal
-#EXTINF:-1 tvg-id="TropojaTelevizion.al",Tropoja TV (1080p)
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VizionPlus.al",Vizion Plus (1080p)
-https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
-#EXTINF:-1 tvg-id="ZjarrTV.al",Zjarr TV (720p) [Not 24/7]
-https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8
-#EXTINF:-1 tvg-id="EuronewsAlbania.al",Euronews Albania
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
-#EXTINF:-1 tvg-id="3Plus.al",3 Plus (1080i)
-http://77.83.120.135:8001/play/a19e
-#EXTINF:-1 tvg-id="KlanPlus.al",Klan Plus (1080i)
-http://77.83.120.135:8001/play/a0w9
-#EXTINF:-1 tvg-id="RTSHMuzike.al",RTSH Muzike (576i)
-http://77.83.120.135:8001/play/a1a0
-#EXTINF:-1 tvg-id="FaxNews.al",Fax News (576i)
-http://77.83.120.135:8001/play/FaxNews
-#EXTINF:-1 tvg-id="RTSH24.al",RTSH 24 (1080i)
-http://77.83.120.135:8001/play/RTSH24
-#EXTINF:-1 tvg-id="ABCNews.al",ABC News (1080i)
-http://77.83.120.135:8001/play/a00c
-#EXTINF:-1 tvg-id="TVKlan.al",TV Klan (1080i)
-http://77.83.120.135:8001/play/a16b
-#EXTINF:-1 tvg-id="RTSHShqip.al",RTSH Shqip (576i)
-http://77.83.120.135:8001/play/a19y
-#EXTINF:-1 tvg-id="Syri.al",Syri (720p)
-http://77.83.120.135:8001/play/Sportalb
-#EXTINF:-1 tvg-id="Syri.al",Syri (720p)
-http://77.83.120.135:8001/play/SyriTV
-#EXTINF:-1 tvg-id="RTSHShqip.al",RTSH Shqip (576i)
-http://77.83.120.135:8001/play/a10m
-#EXTINF:-1 tvg-id="RTSH3.al",RTSH 3 (576i)
-http://77.83.120.135:8001/play/a0qo
+#EXTINF:-1 tvg-ID="" tvg-name="AL ▎FERMA VIP 1 FHD" tvg-logo="https://lo1.in/alb/Ferma.png" group-title="|AL| KOSOVO",AL ▎FERMA VIP 1 FHD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/1318181
+#EXTINF:-1 tvg-ID="" tvg-name="AL ▎FERMA VIP 2 FHD" tvg-logo="https://lo1.in/alb/Ferma.png" group-title="|AL| KOSOVO",AL ▎FERMA VIP 2 FHD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/1318182
+#EXTINF:-1 tvg-ID="" tvg-name="ALB - BIG BROTHER VIP 1 FHD" tvg-logo="https://www.spreekbuis.nl/wp-content/uploads/2023/12/BB-PB-1024x586.png" group-title="|AL| KOSOVO",ALB - BIG BROTHER VIP 1 FHD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/1253968
+#EXTINF:-1 tvg-ID="" tvg-name="ALB - BIG BROTHER VIP 2 FHD" tvg-logo="https://www.spreekbuis.nl/wp-content/uploads/2023/12/BB-PB-1024x586.png" group-title="|AL| KOSOVO",ALB - BIG BROTHER VIP 2 FHD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/1253979
+#EXTINF:-1 tvg-ID="" tvg-name="ALB - Big Brother VIP Kosova 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Big_Brother_US_2020_Logo.png" group-title="|AL| KOSOVO",ALB - Big Brother VIP Kosova 1 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/1237044
+#EXTINF:-1 tvg-ID="" tvg-name="ALB - Big Brother VIP Kosova 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Big_Brother_US_2020_Logo.png" group-title="|AL| KOSOVO",ALB - Big Brother VIP Kosova 2 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/1237043
+#EXTINF:-1 tvg-ID="" tvg-name="AL:  DTV TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11010.png?4735" group-title="|AL| KOSOVO",AL:  DTV TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/1231939
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| STINET" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMSTINET.png" group-title="|AL| KOSOVO",|ALB| STINET
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279876
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| A1 REPORT" tvg-logo="http://138.199.27.237:8080/ALBANIA/A1RAPORT1.png" group-title="|AL| KOSOVO",|ALB| A1 REPORT
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33405
+#EXTINF:-1 tvg-ID="abcnews.al" tvg-name="|ALB| ABC NEWS" tvg-logo="http://138.199.27.237:8080/0tv_logo/3504.png" group-title="|AL| KOSOVO",|ALB| ABC NEWS
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33407
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| MCN 24" tvg-logo="https://lo1.in/alb/mcn.png" group-title="|AL| KOSOVO",|ALB| MCN 24
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/482854
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BESA TV" tvg-logo="http://138.199.27.237:8080/ALBANIA/TVBESA.png" group-title="|AL| KOSOVO",|ALB| BESA TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33415
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| CLUB TV ᴴᴰ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/club_tv_al.jpg" group-title="|AL| KOSOVO",|ALB| CLUB TV ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33418
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ALBSE" tvg-logo="http://albse.tv/wp-content/uploads/2018/11/1.png" group-title="|AL| KOSOVO",|ALB| ALBSE
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139755
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| EURONEWS ALBANIA ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="|AL| KOSOVO",|ALB| EURONEWS ALBANIA ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279825
+#EXTINF:-1 tvg-ID="eurosport.al" tvg-name="|ALB| EURONEWS ALBANIA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="|AL| KOSOVO",|ALB| EURONEWS ALBANIA ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279826
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DIELLI TV" tvg-logo="http://vipotv.com/wp-content/uploads/2020/07/tv-dielli.png" group-title="|AL| KOSOVO",|ALB| DIELLI TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33425
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB|  DIGI GOLD 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/DIGIGOLD2.png" group-title="|AL| KOSOVO",|ALB|  DIGI GOLD 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/142076
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DIGI GOLD 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/DIGIGOLD3.png" group-title="|AL| KOSOVO",|ALB| DIGI GOLD 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33423
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DIGI GOLD 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/DIGIGOLD4.png" group-title="|AL| KOSOVO",|ALB| DIGI GOLD 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/142075
+#EXTINF:-1 tvg-ID="tvdukagjini.al" tvg-name="|ALB| DUKAGJINI ᵁᴴᴰ" tvg-logo="https://dracarys.gjirafa.com/api/storage/gjvideo/images/channel/desktop/dukagjini.jpg" group-title="|AL| KOSOVO",|ALB| DUKAGJINI ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33426
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FIRST CHANNEL" tvg-logo="http://138.199.27.237:8080/ALBANIA/FIRSTCHANEL.png" group-title="|AL| KOSOVO",|ALB| FIRST CHANNEL
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33440
+#EXTINF:-1 tvg-ID="juniortv.al" tvg-name="|ALB| Junior TV" tvg-logo="http://138.199.27.237:8080/ALBANIA/JUNIOR.png" group-title="|AL| FEMIJE",|ALB| Junior TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33420
+#EXTINF:-1 tvg-ID="klankosova.al" tvg-name="|ALB| KLAN KOSOVA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/KLAN.png" group-title="|AL| KOSOVO",|ALB| KLAN KOSOVA ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33454
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KLAN KOSOVA TOKSOR" tvg-logo="http://138.199.27.237:8080/ALBANIA/KLANKOSOVA.png" group-title="|AL| KOSOVO",|ALB| KLAN KOSOVA TOKSOR
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33455
+#EXTINF:-1 tvg-ID="klankosova.al" tvg-name="|ALB| KLAN PLUS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/KLANPLUS.png" group-title="|AL| KOSOVO",|ALB| KLAN PLUS ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33456
+#EXTINF:-1 tvg-ID="klankosova.al" tvg-name="|ALB| KLAN TV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/KLAN.png" group-title="|AL| KOSOVO",|ALB| KLAN TV ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33453
+#EXTINF:-1 tvg-ID="klankosova.al" tvg-name="|ALB| KLAN NEWS" tvg-logo="http://138.199.27.237:8080/ALBANIA/KLAN.png" group-title="|AL| KOSOVO",|ALB| KLAN NEWS
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279847
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KLAN MACEDONIA" tvg-logo="http://138.199.27.237:8080/ALBANIA/KLAN.png" group-title="|AL| KOSOVO",|ALB| KLAN MACEDONIA
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279845
+#EXTINF:-1 tvg-ID="ktv.al" tvg-name="|ALB| KTV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/KTVHD.png" group-title="|AL| KOSOVO",|ALB| KTV ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33461
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KTV TOKSOR" tvg-logo="http://138.199.27.237:8080/ALBANIA/KTVHD.png" group-title="|AL| KOSOVO",|ALB| KTV TOKSOR
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33460
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ATV ᴴᴰ" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/32/f2/d3/32f2d3d8-9214-94ad-fcd8-e16519738a2b/source/200x200bb.jpg" group-title="|AL| KOSOVO",|ALB| ATV ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139625
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KANAL 10" tvg-logo="https://kanal10.live/public/assets/images/10_r.png" group-title="|AL| KOSOVO",|ALB| KANAL 10
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139626
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KANAL D DRAMA" tvg-logo="http://138.199.27.237:8080/ALBANIA/KLAN.png" group-title="|AL| KOSOVO",|ALB| KANAL D DRAMA
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139648
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Living ᵁᴴᴰ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_living.jpg" group-title="|AL|  MUSIC",|ALB| Living ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33462
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Muse" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGMUSE.png" group-title="|AL|  MUSIC",|ALB| Muse
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33469
+#EXTINF:-1 tvg-ID="news24.al" tvg-name="|ALB| NEWS 24 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/NEWS24.png" group-title="|AL| KOSOVO",|ALB| NEWS 24 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33470
+#EXTINF:-1 tvg-ID="ontv.al" tvg-name="|ALB| ON TV" tvg-logo="https://image.winudf.com/v2/image/YWwub250di5hcmxpbmRfaWNvbl8xNTE4NzQ1OTI0XzA3Mw/icon.png?w=170&fakeurl=1" group-title="|AL| KOSOVO",|ALB| ON TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33521
+#EXTINF:-1 tvg-ID="oranews.al" tvg-name="|ALB| ORA NEWS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/ORANEWS.png" group-title="|AL| KOSOVO",|ALB| ORA NEWS ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33471
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RROKUM TV" tvg-logo="http://138.199.27.237:8080/ALBANIA/RROKUM.png" group-title="|AL| KOSOVO",|ALB| RROKUM TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33451
+#EXTINF:-1 tvg-ID="rtk.al" tvg-name="|ALB| RTK 1" tvg-logo="http://138.199.27.237:8080/ALBANIA/rtk1.png" group-title="|AL| KOSOVO",|ALB| RTK 1
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33483
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 2" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTK3.png" group-title="|AL| KOSOVO",|ALB| RTK 2
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33484
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 3" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTK3.png" group-title="|AL| KOSOVO",|ALB| RTK 3
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33485
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 4" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTK4.png" group-title="|AL| KOSOVO",|ALB| RTK 4
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33486
+#EXTINF:-1 tvg-ID="rtsh24.al" tvg-name="|ALB| RTSH 24 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSH24.png" group-title="|AL| KOSOVO",|ALB| RTSH 24 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139639
+#EXTINF:-1 tvg-ID="rtsh1.al" tvg-name="|ALB| RTSH 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSH1.png" group-title="|AL| KOSOVO",|ALB| RTSH 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139636
+#EXTINF:-1 tvg-ID="rtsh2.al" tvg-name="|ALB| RTSH 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSH2.png" group-title="|AL| KOSOVO",|ALB| RTSH 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33482
+#EXTINF:-1 tvg-ID="rtsh3.al" tvg-name="|ALB| RTSH 3" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSH3.png" group-title="|AL| KOSOVO",|ALB| RTSH 3
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33450
+#EXTINF:-1 tvg-ID="rtshsport.al" tvg-name="|ALB| RTSH Sport ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSHSPORT.png" group-title="|AL| SPORTI",|ALB| RTSH Sport ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33487
+#EXTINF:-1 tvg-ID="rtshfemijë.al" tvg-name="|ALB| RTSH FEMIJE" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSHFEMIJE.png" group-title="|AL| KOSOVO",|ALB| RTSH FEMIJE
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139635
+#EXTINF:-1 tvg-ID="rtshgjirokastra.al" tvg-name="|ALB| RTSH GJIROKASTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/RTSH_Gjirokastra_%282020_Logo%29.svg" group-title="|AL| KOSOVO",|ALB| RTSH GJIROKASTRA
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139638
+#EXTINF:-1 tvg-ID="rtshplus.al" tvg-name="|ALB| RTSH PLUS" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSHPLUS.png" group-title="|AL| KOSOVO",|ALB| RTSH PLUS
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139640
+#EXTINF:-1 tvg-ID="rtshshqip.al" tvg-name="|ALB| RTSH SHQIP" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSHSHQIP.png" group-title="|AL| KOSOVO",|ALB| RTSH SHQIP
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139637
+#EXTINF:-1 tvg-ID="rtshshkollë.al" tvg-name="|ALB| RTSH SHKOLLE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSHPLUS.png" group-title="|AL| KOSOVO",|ALB| RTSH SHKOLLE ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279859
+#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTV21HD.png" group-title="|AL| KOSOVO",|ALB| RTV21 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33475
+#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21M ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTV21HD.png" group-title="|AL| KOSOVO",|ALB| RTV21M ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279860
+#EXTINF:-1 tvg-ID="21junior.al" tvg-name="|ALB| RTV21 Junior" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTV21JUNIOR.png" group-title="|AL| FEMIJE",|ALB| RTV21 Junior
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33476
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTV21 MAQEDONIA" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTV21HD.png" group-title="|AL| KOSOVO",|ALB| RTV21 MAQEDONIA
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33477
+#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21 MIX" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTV21MIX.png" group-title="|AL| KOSOVO",|ALB| RTV21 MIX
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33478
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTV21 TOKSOR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTV21HD.png" group-title="|AL| KOSOVO",|ALB| RTV21 TOKSOR ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33481
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SYRI Tv" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/al-syri-tv-2431.jpg" group-title="|AL| KOSOVO",|ALB| SYRI Tv
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139633
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SYRI BLUE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SYRIVISION.png" group-title="|AL| KOSOVO",|ALB| SYRI BLUE ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33540
+#EXTINF:-1 tvg-ID="alsatm.al" tvg-name="|ALB| ALSAT M ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/ALSATM.png" group-title="|AL| KOSOVO",|ALB| ALSAT M ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139627
+#EXTINF:-1 tvg-ID="arenasport1.al" tvg-name="|ALB| KLAN MACEDONIA" tvg-logo="http://138.199.27.237:8080/ALBANIA/KLAN.png" group-title="|AL| KOSOVO",|ALB| KLAN MACEDONIA
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139628
+#EXTINF:-1 tvg-ID="ktv.al" tvg-name="|ALB| KTV KOHAVISION" tvg-logo="http://138.199.27.237:8080/ALBANIA/KTVHD.png" group-title="|AL| KOSOVO",|ALB| KTV KOHAVISION
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139624
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SHENJA TV" tvg-logo="http://138.199.27.237:8080/ALBANIA/TVSHENJA.png" group-title="|AL| KOSOVO",|ALB| SHENJA TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139644
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| STAR PLUS SHKODER ᴴᴰ" tvg-logo="https://i1.wp.com/www.starplus-tv.com/wp-content/uploads/2018/07/image-21.jpg?fit=960%2C960&ssl=1" group-title="|AL| ARGETIM",|ALB| STAR PLUS SHKODER ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139643
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TDC" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tdc_logo.png" group-title="|AL| KOSOVO",|ALB| TDC
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139632
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TEMA TV" tvg-logo="http://138.199.27.237:8080/ALBANIA/TEMATVAL.png" group-title="|AL| KOSOVO",|ALB| TEMA TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139650
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV CHANNEL SHOKDER" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni6wQl7mU_xhp_xaSdSzfD6wvz7ywsplmrjAIA=s900-c-k-c0x00ffffff-no-rj" group-title="|AL| ARGETIM",|ALB| TV CHANNEL SHOKDER
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139642
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV ERA" tvg-logo="http://138.199.27.237:8080/ALBANIA/TVERA.png" group-title="|AL| KOSOVO",|ALB| TV ERA
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139645
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV GLOBI" tvg-logo="http://138.199.27.237:8080/ALBANIA/TVGLOBI.png" group-title="|AL| KOSOVO",|ALB| TV GLOBI
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139646
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV KOPLIKU ᴴᴰ" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/al-kopliku-tv-5681.jpg" group-title="|AL| KOSOVO",|ALB| TV KOPLIKU ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139647
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV2 GOSTIVAR" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0VePQX-A5V7bRgG2JPIbSDEPSZk0h7j_mjA=s240-mo-c-c0xffffffff-rj-k-no" group-title="|AL| KOSOVO",|ALB| TV2 GOSTIVAR
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/139630
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| T ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/T.png" group-title="|AL| KOSOVO",|ALB| T ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33518
+#EXTINF:-1 tvg-ID="t7.al" tvg-name="|ALB| T7" tvg-logo="http://138.199.27.237:8080/ALBANIA/T7.png" group-title="|AL| KOSOVO",|ALB| T7
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33447
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TIP TV" tvg-logo="http://138.199.27.237:8080/ALBANIA/TIPTV.png" group-title="|AL| KOSOVO",|ALB| TIP TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33489
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TIRANA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tirana_TV.svg/1024px-Tirana_TV.svg.png" group-title="|AL| KOSOVO",|ALB| TIRANA TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33491
+#EXTINF:-1 tvg-ID="topchannel.al" tvg-name="|ALB| TOP CHANNEL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TOPCHANNEL.png" group-title="|AL| KOSOVO",|ALB| TOP CHANNEL ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33490
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TOP ESTRADA TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TOPCHANNEL.png" group-title="|AL| KOSOVO",|ALB| TOP ESTRADA TV ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33466
+#EXTINF:-1 tvg-ID="topchannel.al" tvg-name="|ALB| TOP NEWS" tvg-logo="http://138.199.27.237:8080/ALBANIA/TOPNEWS.png" group-title="|AL| KOSOVO",|ALB| TOP NEWS
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33519
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV KOHA" tvg-logo="http://138.199.27.237:8080/ALBANIA/KOHATVMK.png" group-title="|AL| KOSOVO",|ALB| TV KOHA
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33515
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV MITROVICA" tvg-logo="http://okruzenje.net/tvshow/sites/default/files/inline-images/TV%20Mitrovica.png" group-title="|AL| KOSOVO",|ALB| TV MITROVICA
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33511
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV SYRI VISION" tvg-logo="http://138.199.27.237:8080/ALBANIA/SYRIVISION.png" group-title="|AL| KOSOVO",|ALB| TV SYRI VISION
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33516
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV USKANA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TVUSKANA.png" group-title="|AL| KOSOVO",|ALB| TV USKANA ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33514
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| VIZION PLUS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/VIZIONPLUS.png" group-title="|AL| KOSOVO",|ALB| VIZION PLUS ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33537
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| VIZION PLUS TOKSOR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/VIZIONPLUS.png" group-title="|AL| KOSOVO",|ALB| VIZION PLUS TOKSOR ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33538
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ZICO TV" tvg-logo="https://www.seekpng.com/png/full/376-3763959_zico-tv-television.png" group-title="|AL| KOSOVO",|ALB| ZICO TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33536
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Baby Tv" tvg-logo="http://138.199.27.237:8080/ALBANIA/BABYTV.png" group-title="|AL| FEMIJE",|ALB| Baby Tv
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33416
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Bang Bang" tvg-logo="http://138.199.27.237:8080/ALBANIA/BANGBANG.png" group-title="|AL| FEMIJE",|ALB| Bang Bang
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33413
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Bang Bang ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/BANGBANG.png" group-title="|AL| FEMIJE",|ALB| Bang Bang ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62675
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Cufo" tvg-logo="http://138.199.27.237:8080/ALBANIA/CUFO.png" group-title="|AL| FEMIJE",|ALB| Cufo
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33417
+#EXTINF:-1 tvg-ID="sofia.al" tvg-name="|ALB| Sofia ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SOFIA.png" group-title="|AL| FEMIJE",|ALB| Sofia ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62674
+#EXTINF:-1 tvg-ID="sofia.al" tvg-name="|ALB| Sofia TV" tvg-logo="http://138.199.27.237:8080/ALBANIA/SOFIA.png" group-title="|AL| FEMIJE",|ALB| Sofia TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33523
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Kids" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGKIDS.png" group-title="|AL| FEMIJE",|ALB| Tring Kids
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33499
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Super Sport 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| Super Sport 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62632
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Super Sport 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| Super Sport 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62633
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Super Sport 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| Super Sport 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33532
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSPORT 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT5.png" group-title="|AL| SPORTI",|ALB| SUPERSPORT 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62634
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Super Sport 3 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| Super Sport 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33533
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSPORT 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT5.png" group-title="|AL| SPORTI",|ALB| SUPERSPORT 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62635
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Super Sport 4 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| Super Sport 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33534
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSPORT 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT5.png" group-title="|AL| SPORTI",|ALB| SUPERSPORT 5 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62636
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Super Sport 5 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| Super Sport 5 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33535
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT KOSOVA 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORTKOSOVA2.png" group-title="|AL| SPORTI",|ALB| SUPER SPORT KOSOVA 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62655
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Super Sport News ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| Super Sport News ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33531
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSONIC TV" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png" group-title="|AL| KOSOVO",|ALB| SUPERSONIC TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33530
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSPORT 1" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT5.png" group-title="|AL| SPORTI",|ALB| SUPERSPORT 1
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62637
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SuperSport 1 ˢᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SuperSport 1 ˢᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62627
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSPORT 2" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT5.png" group-title="|AL| SPORTI",|ALB| SUPERSPORT 2
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62638
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SuperSport 2 ˢᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SuperSport 2 ˢᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62628
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSPORT 3" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT5.png" group-title="|AL| SPORTI",|ALB| SUPERSPORT 3
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62639
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SuperSport 3 ˢᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SuperSport 3 ˢᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62629
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSPORT 4" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT5.png" group-title="|AL| SPORTI",|ALB| SUPERSPORT 4
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62640
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SuperSport 4 ˢᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SuperSport 4 ˢᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62631
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSPORT 5" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT5.png" group-title="|AL| SPORTI",|ALB| SUPERSPORT 5
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62641
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SuperSport 5 ˢᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SuperSport 5 ˢᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62630
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPERSPORT 6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT5.png" group-title="|AL| SPORTI",|ALB| SUPERSPORT 6 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62642
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT 1 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62643
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Sport 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="|AL| SPORTI",|ALB| Tring Sport 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33505
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT 2 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62644
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Sport 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="|AL| SPORTI",|ALB| Tring Sport 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33506
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT 3 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62645
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Sport 3 ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="|AL| SPORTI",|ALB| Tring Sport 3 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33507
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT 4 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62646
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Sport 4 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="|AL| SPORTI",|ALB| Tring Sport 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33508
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Sport News" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="|AL| SPORTI",|ALB| Tring Sport News
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33509
+#EXTINF:-1 tvg-ID="k-sport2.al" tvg-name="|ALB| K SPORT 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT2.png" group-title="|AL| SPORTI",|ALB| K SPORT 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62647
+#EXTINF:-1 tvg-ID="k-sport3.al" tvg-name="|ALB| K SPORT 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT1.png" group-title="|AL| SPORTI",|ALB| K SPORT 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33457
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| K SPORT 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT1.png" group-title="|AL| SPORTI",|ALB| K SPORT 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62652
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KUJTESA SPORT 2" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT2.png" group-title="|AL| SPORTI",|ALB| KUJTESA SPORT 2
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62648
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Kujtesa Sport 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="|AL| SPORTI",|ALB| Kujtesa Sport 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33458
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KUJTESA SPORT 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT2.png" group-title="|AL| SPORTI",|ALB| KUJTESA SPORT 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62653
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KUJTESA SPORT 3" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="|AL| SPORTI",|ALB| KUJTESA SPORT 3
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62649
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KUJTESA SPORT 4" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT4.png" group-title="|AL| SPORTI",|ALB| KUJTESA SPORT 4
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62650
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KUJTESA SPORT 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT1.png" group-title="|AL| SPORTI",|ALB| KUJTESA SPORT 5 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62651
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART Sport 1 ᴴᴰ" tvg-logo="https://i.pinimg.com/originals/0c/4c/ce/0c4cce090968740942de1de4e0bd0a93.png" group-title="|AL| SPORTI",|ALB| ART Sport 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62656
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART Sport 2 ᴴᴰ" tvg-logo="https://i.pinimg.com/originals/0c/4c/ce/0c4cce090968740942de1de4e0bd0a93.png" group-title="|AL| SPORTI",|ALB| ART Sport 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62657
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 1 ᵁᴴᴰ" tvg-logo="https://www.artekinofestival.com/assets/img/open_graph_image.png" group-title="|AL| SPORTI",|ALB| ART SPORT 1 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156719
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 2 ᵁᴴᴰ" tvg-logo="https://www.artekinofestival.com/assets/img/open_graph_image.png" group-title="|AL| SPORTI",|ALB| ART SPORT 2 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156720
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 3 ᵁᴴᴰ" tvg-logo="https://www.artekinofestival.com/assets/img/open_graph_image.png" group-title="|AL| SPORTI",|ALB| ART SPORT 3 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156721
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FIGHT BOX" tvg-logo="http://103.161.34.238/dreamtv/tv/FIGHTBOX%20RAW.png" group-title="|AL| SPORTI",|ALB| FIGHT BOX
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156736
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KUJTESA SPORT 1" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT1.png" group-title="|AL| SPORTI",|ALB| KUJTESA SPORT 1
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156714
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KUJTESA SPORT 2" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT2.png" group-title="|AL| SPORTI",|ALB| KUJTESA SPORT 2
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156715
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KUJTESA SPORT 3" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT4.png" group-title="|AL| SPORTI",|ALB| KUJTESA SPORT 3
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156716
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KUJTESA SPORT 4" tvg-logo="http://138.199.27.237:8080/ALBANIA/KUJTESASPORT4.png" group-title="|AL| SPORTI",|ALB| KUJTESA SPORT 4
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156717
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 1 ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SUPER SPORT 1 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156708
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT-1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT6.png" group-title="|AL| SPORTI",|ALB| SUPER SPORT-1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/304656
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 2 ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SUPER SPORT 2 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156709
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT-2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT6.png" group-title="|AL| SPORTI",|ALB| SUPER SPORT-2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/304657
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 3 ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SUPER SPORT 3 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156710
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT-3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT6.png" group-title="|AL| SPORTI",|ALB| SUPER SPORT-3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/304658
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 4 ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SUPER SPORT 4 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156711
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT-4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT6.png" group-title="|AL| SPORTI",|ALB| SUPER SPORT-4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/304659
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 5 ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SUPER SPORT 5 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156712
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT-5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT6.png" group-title="|AL| SPORTI",|ALB| SUPER SPORT-5 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/304660
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 6 ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="|AL| SPORTI",|ALB| SUPER SPORT 6 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156713
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT-6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT6.png" group-title="|AL| SPORTI",|ALB| SUPER SPORT-6 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/304661
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT-7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/SUPERSPORT7.png" group-title="|AL| SPORTI",|ALB| SUPER SPORT-7 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/304662
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156704
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156705
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156706
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT 4 ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156735
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156707
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT NEWS" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSPORT.png" group-title="|AL| SPORTI",|ALB| TRING SPORT NEWS
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156703
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| GOLD ᴴᴰ" tvg-logo="" group-title="|AL| DOKUMENTAR",|ALB| GOLD ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279838
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Zjarr TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/zjarr-tv-4694.webp" group-title="|AL| DOKUMENTAR",|ALB| Zjarr TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279880
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FOX" tvg-logo="http://138.199.27.237:8080/ALBANIA/FOXAL.png" group-title="|AL| ARGETIM",|ALB| FOX
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279836
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| MAX ᴴᴰ" tvg-logo="" group-title="|AL| KOSOVO",|ALB| MAX ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279848
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Report TV" tvg-logo="http://shqiptarja.com/template/img/mobilelivetv.png" group-title="|AL| DOKUMENTAR",|ALB| Report TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279857
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| 24 Kitchen" tvg-logo="http://138.199.27.237:8080/ALBANIA/KITCHEN24.png" group-title="|AL| ARGETIM",|ALB| 24 Kitchen
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279808
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Discovery Channel" tvg-logo="http://138.199.27.237:8080/PORTUGAL/DISCOVERYHD.png" group-title="|AL| DOKUMENTAR",|ALB| Discovery Channel
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62667
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Discovery Channel AL" tvg-logo="http://138.199.27.237:8080/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png" group-title="|AL| DOKUMENTAR",|ALB| Discovery Channel AL
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62668
+#EXTINF:-1 tvg-ID="natgeo.al" tvg-name="|ALB| Nat Geo ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/NATIONALGRAPHIC.png" group-title="|AL| DOKUMENTAR",|ALB| Nat Geo ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279852
+#EXTINF:-1 tvg-ID="natgeo.al" tvg-name="|ALB| Nat Geo ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/NATIONALGRAPHIC.png" group-title="|AL| DOKUMENTAR",|ALB| Nat Geo ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279853
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Explorer Histori" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_histori.jpg" group-title="|AL| DOKUMENTAR",|ALB| Explorer Histori
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33430
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Explorer Natyra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg" group-title="|AL| DOKUMENTAR",|ALB| Explorer Natyra
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33428
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Explorer Shkenc" tvg-logo="http://logodmtv.ddns.net/VOD/logo/Explorer-Shkence.jpg" group-title="|AL| DOKUMENTAR",|ALB| Explorer Shkenc
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33429
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring History" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGHISTORY.png" group-title="|AL| DOKUMENTAR",|ALB| Tring History
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33496
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Planet" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGPLANET.png" group-title="|AL| DOKUMENTAR",|ALB| Tring Planet
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33500
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring World" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGWORLD.png" group-title="|AL| KINEMA",|ALB| Tring World
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33504
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Turbo Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="|AL| DOKUMENTAR",|ALB| Turbo Channel
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33510
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Alb Action ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGAKSION.png" group-title="|AL| KINEMA",|ALB| Alb Action ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33408
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Alb Thriller ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMTHRILLER.png" group-title="|AL| KINEMA",|ALB| Alb Thriller ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33412
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART Doku 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/ARTANEWS.png" group-title="|AL| KINEMA",|ALB| ART Doku 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62720
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART Doku 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/ARTANEWS.png" group-title="|AL| KINEMA",|ALB| ART Doku 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62721
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART Kino 3 ᴴᴰ" tvg-logo="https://www.artekinofestival.com/assets/img/open_graph_image.png" group-title="|AL| KINEMA",|ALB| ART Kino 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62727
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Comedy Central Extra" tvg-logo="http://138.199.27.237:8080/ALBANIA/COMEDYCENTRALEXTRA.png" group-title="|AL| KINEMA",|ALB| Comedy Central Extra
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62725
+#EXTINF:-1 tvg-ID="filmaksion.al" tvg-name="|ALB| Film Aksion ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMAKSION.png" group-title="|AL| KINEMA",|ALB| Film Aksion ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33433
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Film Autor" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMAUTOR.png" group-title="|AL| KINEMA",|ALB| Film Autor
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33432
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FilmBox Premium ᴴᴰ" tvg-logo="https://filmboxassets.tv2zcdn.com/images/99b9174cc9204b83eae22cd2f2bf02eb269c3ce8.png" group-title="|AL| KINEMA",|ALB| FilmBox Premium ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279835
+#EXTINF:-1 tvg-ID="filmdrame.al" tvg-name="|ALB| Film Drame" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMDRAME.png" group-title="|AL| KINEMA",|ALB| Film Drame
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33435
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Film DY ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMDY.png" group-title="|AL| KINEMA",|ALB| Film DY ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33434
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Film Hits ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMHITS.png" group-title="|AL| KINEMA",|ALB| Film Hits ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33437
+#EXTINF:-1 tvg-ID="filmkomedi.al" tvg-name="|ALB| Film Komedi" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMKOMEDI.png" group-title="|AL| KINEMA",|ALB| Film Komedi
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/279833
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Film Nje ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMNJE.png" group-title="|AL| KINEMA",|ALB| Film Nje ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33438
+#EXTINF:-1 tvg-ID="filmthriller.al" tvg-name="|ALB| Film Thriller" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMTHRILLER.png" group-title="|AL| KINEMA",|ALB| Film Thriller
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33436
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Fox Crime" tvg-logo="http://138.199.27.237:8080/ALBANIA/FOXCRIME.png" group-title="|AL| KINEMA",|ALB| Fox Crime
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33443
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Fox Movies" tvg-logo="http://138.199.27.237:8080/ALBANIA/FOXMOVIES.png" group-title="|AL| KINEMA",|ALB| Fox Movies
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33445
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring 3+" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGTRING.png" group-title="|AL| KINEMA",|ALB| Tring 3+
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33493
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Comedy" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGCOMEDY.png" group-title="|AL| KINEMA",|ALB| Tring Comedy
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33494
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Fantasy" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGFANTASY.png" group-title="|AL| KINEMA",|ALB| Tring Fantasy
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33495
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Jolly ᵁᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| Tring Jolly ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33497
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Life" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGLIFE.png" group-title="|AL| KINEMA",|ALB| Tring Life
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33498
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Shqip" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSHQIP.png" group-title="|AL| KINEMA",|ALB| Tring Shqip
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33501
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Smile" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSMILE.png" group-title="|AL| KINEMA",|ALB| Tring Smile
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33503
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tring Super ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGSUPER.png" group-title="|AL| KINEMA",|ALB| Tring Super ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33502
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Sky Aksion" tvg-logo="http://138.199.27.237:8080/ALBANIA/TRINGAKSION.png" group-title="|AL| KINEMA",|ALB| Sky Aksion
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33524
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Sky AL Aksion" tvg-logo="https://loadhog.com/wp-content/uploads/2019/06/Sky-logo2.png" group-title="|AL| KINEMA",|ALB| Sky AL Aksion
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62687
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Sky AL Drame" tvg-logo="https://loadhog.com/wp-content/uploads/2019/06/Sky-logo2.png" group-title="|AL| KINEMA",|ALB| Sky AL Drame
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62689
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Sky AL Komedi" tvg-logo="https://loadhog.com/wp-content/uploads/2019/06/Sky-logo2.png" group-title="|AL| KINEMA",|ALB| Sky AL Komedi
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62688
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Sky AL Max" tvg-logo="https://loadhog.com/wp-content/uploads/2019/06/Sky-logo2.png" group-title="|AL| KINEMA",|ALB| Sky AL Max
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62686
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Sky Dramë" tvg-logo="https://loadhog.com/wp-content/uploads/2019/06/Sky-logo2.png" group-title="|AL| KINEMA",|ALB| Sky Dramë
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33525
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Sky Komedi" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMKOMEDI.png" group-title="|AL| KINEMA",|ALB| Sky Komedi
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33526
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| X Family ᴴᴰ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_x.jpg" group-title="|AL| KINEMA",|ALB| X Family ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62681
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| X Western ᴴᴰ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_x.jpg" group-title="|AL| KINEMA",|ALB| X Western ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/62685
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB|  MAX PREMIER 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/MAX-PREMIER.png" group-title="|AL| BOX OFFICE",|ALB|  MAX PREMIER 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/142059
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB|  MAX PREMIER 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/MAX-PREMIER.png" group-title="|AL| BOX OFFICE",|ALB|  MAX PREMIER 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/142060
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB|  MAX PREMIER 3 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/MAX-PREMIER.png" group-title="|AL| BOX OFFICE",|ALB|  MAX PREMIER 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/142061
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB|  MAX PREMIER 4 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/MAX-PREMIER.png" group-title="|AL| BOX OFFICE",|ALB|  MAX PREMIER 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/142062
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| LionTV Gold 1 ᴴᴰ" tvg-logo="https://slms.lsr7.org/wp-content/uploads/sites/36/2020/06/cropped-Falcon-Logo-White-Background-1.png" group-title="|AL| KINEMA",|ALB| LionTV Gold 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/142064
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| EURO FILM 4 ᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| EURO FILM 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156653
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| EURO FILM ᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| EURO FILM ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156649
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FAMILY ᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| FAMILY ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156654
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 ACTION ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 ACTION ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156673
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 ANIMUAR ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 ANIMUAR ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156674
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 AVENTUR ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 AVENTUR ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156675
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 BIOGRAFI ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 BIOGRAFI ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156676
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 DRAMA ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 DRAMA ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156677
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 FAMILJAR ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 FAMILJAR ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156678
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 FANTASY ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 FANTASY ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156679
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 HISTORI ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 HISTORI ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156680
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 KRIM ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 KRIM ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156682
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 MISTER ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 MISTER ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156683
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 ROMANCE ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 ROMANCE ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156686
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILMA24 THRILLER ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| FILMA24 THRILLER ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156687
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TELE ONE 4" tvg-logo="http://103.161.34.238/dreamtv/tv/TELE-ONE.png" group-title="|AL| BOX OFFICE",|ALB| TELE ONE 4
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156700
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TELE ONE 5" tvg-logo="http://103.161.34.238/dreamtv/tv/TELE-ONE.png" group-title="|AL| BOX OFFICE",|ALB| TELE ONE 5
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/156701
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK AKSION ᴴᴰ" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmaksion.png" group-title="|AL| BOX OFFICE",|ALB| DARK AKSION ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170710
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK GOLD 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DARK-GOLD.png" group-title="|AL| BOX OFFICE",|ALB| DARK GOLD 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170702
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK GOLD 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DARK-GOLD.png" group-title="|AL| BOX OFFICE",|ALB| DARK GOLD 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170703
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK GOLD 3 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DARK-GOLD.png" group-title="|AL| BOX OFFICE",|ALB| DARK GOLD 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170704
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK GOLD 4 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DARK-GOLD.png" group-title="|AL| BOX OFFICE",|ALB| DARK GOLD 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170705
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK GOLD 5 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DARK-GOLD.png" group-title="|AL| BOX OFFICE",|ALB| DARK GOLD 5 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170706
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK GOLD 6 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DARK-GOLD.png" group-title="|AL| BOX OFFICE",|ALB| DARK GOLD 6 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170707
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK GOLD 7 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DARK-GOLD.png" group-title="|AL| BOX OFFICE",|ALB| DARK GOLD 7 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170708
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK GOLD 8 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DARK-GOLD.png" group-title="|AL| BOX OFFICE",|ALB| DARK GOLD 8 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170709
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DARK THRILLER ᴴᴰ" tvg-logo="" group-title="|AL| BOX OFFICE",|ALB| DARK THRILLER ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170711
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KINEMA24 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/kinema.png" group-title="|AL| BOX OFFICE",|ALB| KINEMA24 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170699
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KINEMA24 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/kinema.png" group-title="|AL| BOX OFFICE",|ALB| KINEMA24 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170700
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KINEMA24 3 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/kinema.png" group-title="|AL| BOX OFFICE",|ALB| KINEMA24 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170696
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KINEMA24 4 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/kinema.png" group-title="|AL| BOX OFFICE",|ALB| KINEMA24 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170697
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KS FILMA24 FAMIY" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMA24.jpg" group-title="|AL| BOX OFFICE",|ALB| KS FILMA24 FAMIY
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170701
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tele One 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3089.jpg?9785" group-title="|AL| KINEMA",|ALB| Tele One 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170766
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tele One 2 ᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| Tele One 2 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170767
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tele One 3 ᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| Tele One 3 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170768
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tele One 4 ᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| Tele One 4 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170769
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tele One 5 ᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| Tele One 5 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170770
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Tele One 6 ᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| Tele One 6 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/170771
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ MUSIC ✦●✦" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-button-round-250.png" group-title="|AL|  MUSIC",✦●✦ MUSIC ✦●✦
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/114672
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Alb Folk" tvg-logo="https://ewsat.com/img/FOLK_PLUS.png" group-title="|AL|  MUSIC",|ALB| Alb Folk
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33409
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ALB HITS" tvg-logo="http://138.199.27.237:8080/ALBANIA/FILMHITS.png" group-title="|AL| KOSOVO",|ALB| ALB HITS
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33411
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Alb Music ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/MUSICBOX.png" group-title="|AL|  MUSIC",|ALB| Alb Music ᵁᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33410
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BBF Music ᴴᴰ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_bbf_music_tv.jpg" group-title="|AL|  MUSIC",|ALB| BBF Music ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33414
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ELRODI TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/elrodi_tv_al.jpg" group-title="|AL| KOSOVO",|ALB| ELRODI TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33427
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Folk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/folk_plus.jpg" group-title="|AL|  MUSIC",|ALB| Folk
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33442
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Music" tvg-logo="http://138.199.27.237:8080/ALBANIA/CLIKMUSIC.png" group-title="|AL|  MUSIC",|ALB| Music
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33449
+#EXTINF:-1 tvg-ID="mymusic.al" tvg-name="|ALB| My Music" tvg-logo="http://138.199.27.237:8080/ALBANIA/CLIKMUSIC.png" group-title="|AL|  MUSIC",|ALB| My Music
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33468
+#EXTINF:-1 tvg-ID="rtshmuzikë.al" tvg-name="|ALB| RTSH Muzike" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTSHPLUS.png" group-title="|AL|  MUSIC",|ALB| RTSH Muzike
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33488
+#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21 POPULLORE" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTV21HD.png" group-title="|AL| KOSOVO",|ALB| RTV21 POPULLORE
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33480
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Sky Music ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/MUSICBOX.png" group-title="|AL| KINEMA",|ALB| Sky Music ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33527
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| STV Folk" tvg-logo="https://static.wixstatic.com/media/09f151_5263ba3b411a4f43bdb014603e5a1ca0.png/v1/fill/w_223,h_180,al_c,q_85,usm_0.66_1.00_0.01/09f151_5263ba3b411a4f43bdb014603e5a1ca0.webp" group-title="|AL| ARGETIM",|ALB| STV Folk
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33522
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ ISLAM ✦●✦-" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-button-round-250.png" group-title="|AL| FETARE",✦●✦ ISLAM ✦●✦-
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/114680
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| MEKKE LIVE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ALBANIA/MEKKALIVE.png" group-title="|AL| KOSOVO",|ALB| MEKKE LIVE ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33465
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| PEACE TV" tvg-logo="https://tvtvtv.ru/icons/logo_3939.png" group-title="|AL| KOSOVO",|ALB| PEACE TV
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33452
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTV ISLAM" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTV21HD.png" group-title="|AL| KOSOVO",|ALB| RTV ISLAM
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33472
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTV PENDIMI" tvg-logo="http://138.199.27.237:8080/ALBANIA/RTV21HD.png" group-title="|AL| KOSOVO",|ALB| RTV PENDIMI
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/33473
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DISCOVERY+ MAX 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",|ALB| DISCOVERY+ MAX 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511933
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DISCOVERY+ 1 ᴴᴰ" tvg-logo="" group-title="|AL| KINEMA",|ALB| DISCOVERY+ 1 ᴴᴰ
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511921
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ MAX 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ MAX 2 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511934
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ 2 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511922
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ MAX 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ MAX 3 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511935
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ 3 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511923
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ MAX 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ MAX 4 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511936
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ 4 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511924
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ MAX 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ MAX 5 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511937
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ 5 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511925
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ MAX 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ MAX 5 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511938
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ 6 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ 6 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511926
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ 7 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ 7 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511927
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ 8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ 8 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511928
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ 9 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ 9 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511929
+#EXTINF:-1 tvg-ID="" tvg-name="AL: DISCOVERY+ 10 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1952.png?ver=46795" group-title="|AL| KINEMA",AL: DISCOVERY+ 10 HD
+http://670148805859.cdn-plus.com:80/wndu5izv4s/amvhsmnyyu/511930
