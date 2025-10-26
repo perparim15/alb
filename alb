@@ -1,963 +1,935 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ALBANIA.png" group-title="|ALB| GENERAL",##### Unikatil & Cyanide Veq edhe niher #####
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761512272/ei/8Db-aIGON96Cp-oPr-izmAU/ip/2a03%3A4b80%3Ac71f%3Ad740%3Aa941%3A436e%3A7ee3%3A30bc/id/bfebb27a039c4b9b/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-p23v-2go6.googlevideo.com/met/1761490672%2C/mh/3J/mm/31%2C29/mn/sn-p23v-2go6%2Csn-nv47zn7r/ms/au%2Crdu/mv/m/mvi/1/pl/33/rms/au%2Cau/tx/51631264/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/2596250/bui/AdEuB5SC6STV_poMD_gIbpE8Us8S00liCHzYATpimtYka4yAJnU9Azmk92J5-2JJBQ6rIOc2Dle8xodW/spc/6b0G_D5Qzmm8Yvs3UtGH71oFwNtke0ZWJn5l2SGiNbm0h5i-W9tRPcRG7B97HcFy/vprv/1/go/1/rqh/5/mt/1761490150/fvip/2/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaWG2oMA_rZwOTcfBwuwvXBIZVMklzXKo7ywHR_-GCdACIQD4S-Rq_Z2eceKpRVR8ZRUiF9YulZ9NYB3zGKY8297J7Q%3D%3D/lsparams/playback_host%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/APaTxxMwRAIgfAu2_IxLPUOHOZYPptDLk0tKv_frptkfUazXJNIuHboCIGk_hphwMFTECvcpYgFBMreecIJTkV8k9VVbxdnvE8e3/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/topchannel.png" group-title="|ALB| GENERAL",ALB - Tu kacafyt me jet
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761512612/ei/RDj-aOyUK4rM6dsPk5CFwQg/ip/2a03%3A4b80%3Ac71f%3Ad740%3Aa941%3A436e%3A7ee3%3A30bc/id/aac78bd8e2d6eaa6/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-p23v-2gok.googlevideo.com/met/1761491012%2C/mh/l8/mm/31%2C29/mn/sn-p23v-2gok%2Csn-nv47znee/ms/au%2Crdu/mv/m/mvi/1/pl/33/rms/au%2Cau/tx/51631264/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/2925000/bui/AdEuB5T_4qknVxZ0kkm8Wplo1Zk7nmfTtR2l4DF5KI4Xbn-02uQd54_QFwDJeYHsWiAQm9RVKfRgMVIi/spc/6b0G_JmwhJjuLtqLyc_23H1t2jBFU_C3aU5JRKE-31fIEzc1GejlB5d473lmAHp7/vprv/1/go/1/rqh/5/mt/1761490618/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALRrg77BkwAvE0GI12qm-f10sSo-D8spokI_fpGTGcJqAiEA9GohDBa830-lr78CPFa097R0yks5ZpLPzFbABD58aRw%3D/lsparams/playback_host%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/APaTxxMwRQIgQXwsShv6vvcrHlOjqGMYLEEZP89L60MfqIN77aEH3rYCIQC6tx3j7HPiQSdPzgyNQK2BLstqdCA_wswJeKpETO7N5w%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/topchannel.png" group-title="|ALB| GENERAL",ALB - TOP CHANNEL UHD
-https://xn--boq7h27c2eq1hjva545cfgdpu8cia236dduflnwumjnz2dga7975b.xn--boq7h27c2eq1hjva545cfgdpu8ct3eumfyqv0wio18cga8613b.online:2083/SS1/tracks-v1a1/mono.m3u8?clearkeys=YXNsbGFuaWRhc2hhbWlyNDdAZ21haWwuY29t&ip=2a03:4b80:c71f:d740:a941:436e:7ee3:30bc&time=26:10:2025%2015:20:44&token=hsdsVYt85biDcgf29aOk
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/klantvhd.png" group-title="|ALB| GENERAL",ALB - TV KLAN 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261956&extension=ts&play_token=c35f86ea34a1sY
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/klantvhd.png" group-title="|ALB| GENERAL",ALB - TV KLAN UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261957&extension=ts&play_token=c603b90c275sXH
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/klanplus.png" group-title="|ALB| GENERAL",ALB - KLAN PLUS UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261960&extension=ts&play_token=86beafb37ctP6G
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/vizionplus.png" group-title="|ALB| GENERAL",ALB - VIZION PLUS 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261979&extension=ts&play_token=12711af5beyWG7
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtsh1.png" group-title="|ALB| GENERAL",ALB - RTSH 1 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261963&extension=ts&play_token=ce66aafa9eQRmu
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtsh1.png" group-title="|ALB| GENERAL",ALB - RTSH 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261964&extension=ts&play_token=34e9e827b8B4os
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtsh2hd.png" group-title="|ALB| GENERAL",ALB - RTSH 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261965&extension=ts&play_token=d414413d50s4v6
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtsh3.png" group-title="|ALB| GENERAL",ALB - RTSH 3
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261966&extension=ts&play_token=c60d8dd82fJ0Qk
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtshplus.png" group-title="|ALB| GENERAL",ALB - RTSH PLUS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261968&extension=ts&play_token=cb689899c520qp
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtshsport.png" group-title="|ALB| GENERAL",ALB - RTSH SPORT 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261969&extension=ts&play_token=293784e1efYEGD
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtshshqip.png" group-title="|ALB| GENERAL",ALB - RTSH SHQIP
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261972&extension=ts&play_token=cadb00146d0a3A
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtshkuvend.png" group-title="|ALB| GENERAL",ALB - RTSH KUVEND
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261974&extension=ts&play_token=2a622d104dEEvH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/TEMA%20TV.png" group-title="|ALB| GENERAL",ALB - TEMA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261994&extension=ts&play_token=09198f4c48wI2o
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/KANAL-D-DRAMA.png" group-title="|ALB| GENERAL",ALB - KANAL D DRAMA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262150&extension=ts&play_token=752f095f540KsE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MCNTV-24.png" group-title="|ALB| GENERAL",ALB - MCN TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=839727&extension=ts&play_token=84d24a3dc9ohdM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MCNTV-24.png" group-title="|ALB| GENERAL",ALB - MCNTV 24
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1038543&extension=ts&play_token=3db50e1fcf0i7P
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/tv-channel-shokder.png" group-title="|ALB| GENERAL",ALB - TV1 CHANNEL SHOKDER
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261984&extension=ts&play_token=204a422d74y5Zu
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/syrivision.png" group-title="|ALB| GENERAL",ALB - SYRI VISION
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261985&extension=ts&play_token=69431cacb1I116
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-PLUS-TV-SHKODER.png" group-title="|ALB| GENERAL",ALB - STAR PLUS SHKODËR UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261989&extension=ts&play_token=baa2af55acXxVY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DIZI-TDC.png" group-title="|ALB| GENERAL",ALB - DIZI TDC HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=878367&extension=ts&play_token=1a343d8452J4us
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ALSAT-TV.png" group-title="|ALB| GENERAL",ALB - ALSAT TV HD CATI
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=767128&extension=ts&play_token=e039b65ff2dKfa
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/alsatm.png" group-title="|ALB| GENERAL",ALB - ALSAT M UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261977&extension=ts&play_token=8e9a725068irV8
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/alsatm.png" group-title="|ALB| GENERAL",ALB - ALSAT M
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261978&extension=ts&play_token=5bcfc3108cJJRB
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/artitv.png" group-title="|ALB| GENERAL",ALB - ARTI TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=664248&extension=ts&play_token=8329861f36kJKv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/TV%20Kopliku.png" group-title="|ALB| GENERAL",ALB - TV KOPLIKU UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261990&extension=ts&play_token=f4fcc553e1Bo7Z
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SYRI-TELEVIZION.png" group-title="|ALB| GENERAL",ALB - SYRI TELEVIZION
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=865096&extension=ts&play_token=09a5fae040xd3o
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LUGINA-SHQIP-FILM.png" group-title="|ALB| GENERAL",ALB - DARK FILMA SHQIP HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1135668&extension=ts&play_token=12eba029e1Hw7G
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LUGINA-SHQIP-FILM.png" group-title="|ALB| GENERAL",ALB - DIASPORA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1135666&extension=ts&play_token=693e2d48a17mUu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LUGINA-SHQIP-FILM.png" group-title="|ALB| GENERAL",ALB - DARK PORTOKALLI HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1135665&extension=ts&play_token=0bae2f021boNTb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| GENERAL",ALB - D FILMA24 D TURK HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183186&extension=ts&play_token=352d7b2e852DtO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CANDID-CAMERA-TV.jpg" group-title="|ALB| GENERAL",ALB - TELE ONE GAGS HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1270168&extension=ts&play_token=c447187504eY3z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| GENERAL",ALB - DARK CKA KA SHPIJA HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=666506&extension=ts&play_token=9f6498dce3WvCl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PITO-.png" group-title="|ALB| GENERAL",ALB - DARK PARLANENTI HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262156&extension=ts&play_token=12830ae6eeD9nB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/OSAMIRE.png" group-title="|ALB| GENERAL",ALB - O SA MIRE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183185&extension=ts&play_token=93ad8282a131Dk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/albania.png" group-title="|ALB| NEWS",##### NEWS #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262160&extension=ts&play_token=d962cba255rXWt
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/euronewsalbania.png" group-title="|ALB| NEWS",ALB - EURONEWS ALBANIA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=668916&extension=ts&play_token=b86fd17a3fOcrF
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/klannews.png" group-title="|ALB| NEWS",ALB - KLAN NEWS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262161&extension=ts&play_token=97bcf2b9b6kGIB
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/topnews.png" group-title="|ALB| NEWS",ALB - TOP NEWS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262162&extension=ts&play_token=317a4bffe1jXUI
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/kanali7.png" group-title="|ALB| NEWS",ALB - KANALI 7
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262163&extension=ts&play_token=753f2098051hkB
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/oranews.png" group-title="|ALB| NEWS",ALB - ORA NEWS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262165&extension=ts&play_token=7a49f03ff1kbdf
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/oranews.png" group-title="|ALB| NEWS",ALB - ORA NEWS 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262164&extension=ts&play_token=611101b1fdeIt3
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/news24.png" group-title="|ALB| NEWS",ALB - NEWS 24 FHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=987468&extension=ts&play_token=1d4d9cadc4OPvk
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/news24.png" group-title="|ALB| NEWS",ALB - NEWS 24
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262166&extension=ts&play_token=8ab66b5342JB7q
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/faxnews.png" group-title="|ALB| NEWS",ALB - FAX NEWS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262167&extension=ts&play_token=2413847ce8DLhA
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/abcnews.png" group-title="|ALB| NEWS",ALB - ABC NEWS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=669510&extension=ts&play_token=6ab71db89akdrO
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/reporttv.png" group-title="|ALB| NEWS",ALB - REPORT TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262168&extension=ts&play_token=672eaed8c0m7lJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/RTSH-24.png" group-title="|ALB| NEWS",ALB - RTSH 24
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=945290&extension=ts&play_token=947aa802c0icps
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/a2cnn.png" group-title="|ALB| NEWS",ALB - A2 CNN
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262169&extension=ts&play_token=d27d8f636alpUV
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/scantv.png" group-title="|ALB| NEWS",ALB - SCAN TV HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=827236&extension=ts&play_token=d20141cbdf5I6D
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PANORAMA.png" group-title="|ALB| NEWS",ALB - PANORAMA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=942262&extension=ts&play_token=e20a98fc4bmEaR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TV-PRIZRENI.png" group-title="|ALB| NEWS",ALB - TV PRIZRENI UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1124707&extension=ts&play_token=a62f4ae63azdnI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TV-NEWS.png" group-title="|ALB| NEWS",ALB - TV NEWS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1124706&extension=ts&play_token=b50dfc29caVr8I
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/albania.png" group-title="|ALB| MOVIES",##### MOVIES & SERIES #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262020&extension=ts&play_token=85185583ecS5ka
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMMAX.png" group-title="|ALB| MOVIES",ALB - FILM MAX UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262021&extension=ts&play_token=dcf87d11370JcC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMMAX.png" group-title="|ALB| MOVIES",ALB - FILM MAX HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262022&extension=ts&play_token=ed1afb3d99OkHZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMGOLD.png" group-title="|ALB| MOVIES",ALB - FILM GOLD UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262025&extension=ts&play_token=a74ae10e29sG7L
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMGOLD.png" group-title="|ALB| MOVIES",ALB - FILM GOLD HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262026&extension=ts&play_token=54902a9bd2RDe7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMAKSION.png" group-title="|ALB| MOVIES",ALB - FILM AKSION
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262027&extension=ts&play_token=dbec832173YvTJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMDRAME.png" group-title="|ALB| MOVIES",ALB - FILM DRAMË
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262029&extension=ts&play_token=508e268244nrvQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMHITS.png" group-title="|ALB| MOVIES",ALB - FILM HITS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262031&extension=ts&play_token=39f55541a6WHOT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/FILM-KOMEDI.png" group-title="|ALB| MOVIES",ALB - FILM KOMEDI
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262032&extension=ts&play_token=afdacc0931mFqf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/THRILLER.png" group-title="|ALB| MOVIES",ALB - FILM THRILLER
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262034&extension=ts&play_token=7dcafc4e3dwxHk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMT.png" group-title="|ALB| MOVIES",ALB - FILM AUTOR
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262028&extension=ts&play_token=1edebd34efP1v0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMT.png" group-title="|ALB| MOVIES",ALB - FILM FAMILY UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262030&extension=ts&play_token=75024c83a1Mr4L
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DIGI-GOLD-1.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=719605&extension=ts&play_token=a460356bc9I7MQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DIGI-GOLD-1.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=719604&extension=ts&play_token=da56382c5dXcnu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DIGI-GOLD-2.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=719603&extension=ts&play_token=19dc5ab325U1sX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DIGI-GOLD-3.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD 3
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=719602&extension=ts&play_token=793a61ab37KtkL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DIGI-GOLD-4.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD 4
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=719601&extension=ts&play_token=ab9c88714fPZ7l
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING SUPER 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262039&extension=ts&play_token=9efca07046mgpD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING ACTION
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262040&extension=ts&play_token=8d6896f932aNmt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING COLLECTION
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1180588&extension=ts&play_token=c0133234fdAV0v
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING COMEDY
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262041&extension=ts&play_token=9851c5df50MU7t
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING FANTASY
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262042&extension=ts&play_token=99bd246306PRrT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING SHQIP
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262043&extension=ts&play_token=be8fae1f20cXkV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING LIFE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262044&extension=ts&play_token=9c851f029dH4ul
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING SMILE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262045&extension=ts&play_token=ab5576956awLbe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING JOLLY 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262046&extension=ts&play_token=e4583aa1a71NyY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING 3+
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262047&extension=ts&play_token=dcb28d46ecqpyW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING CLASSIC HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=719599&extension=ts&play_token=60edce71c4RxYI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING NOVELAS HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=719600&extension=ts&play_token=555d236bb5WnVR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TRING-TURKISH-STORIES.png" group-title="|ALB| MOVIES",ALB - TRING TURKISH STORIES HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1017777&extension=ts&play_token=67a77645be5DGd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMT.png" group-title="|ALB| MOVIES",ALB - FILM T 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262023&extension=ts&play_token=1c6904cdeeqKFi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMT.png" group-title="|ALB| MOVIES",ALB - L STAR FILM SHQIP
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262024&extension=ts&play_token=234358d09925HZ
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 1 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732979&extension=ts&play_token=0fb2418314XKsR
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 2 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732978&extension=ts&play_token=8511adbc91NGET
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 3 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732977&extension=ts&play_token=c96c24b0ab3TY9
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 4 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732976&extension=ts&play_token=8d2c0645d22zNT
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 5 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732975&extension=ts&play_token=0a24d3332epV9l
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 6 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732974&extension=ts&play_token=04ac9e866caUqd
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 7 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732973&extension=ts&play_token=d58d271ec7qmU3
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 8 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732972&extension=ts&play_token=eea909ddb9yg3Z
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 9 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732971&extension=ts&play_token=f6c7a1c9c0XYEy
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ 10 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732970&extension=ts&play_token=468011ad1cK9WU
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ MAX 1 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732969&extension=ts&play_token=b9058d3318tqsa
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ MAX 2 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732968&extension=ts&play_token=6d0e202fcay0OQ
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ MAX 3 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732967&extension=ts&play_token=38592ab47dkK43
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ MAX 4 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732966&extension=ts&play_token=92012bfe2culcr
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ MAX 5 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732965&extension=ts&play_token=28141cfd2cCpsP
-#EXTINF:-1 tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="|ALB| MOVIES",ALB - DISCOVERY+ MAX 6 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=732964&extension=ts&play_token=4ca121cff5Gp1d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DFILMA24DRAME.png" group-title="|ALB| MOVIES",ALB - D FILMA24 DRAME HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262128&extension=ts&play_token=10426ca90bDAhz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 WESTERN HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183094&extension=ts&play_token=1a3264062clFWk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 THRILLER HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183093&extension=ts&play_token=0901a73446Qzfo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 SHQIP HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183092&extension=ts&play_token=e38c771eeespb2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 RUSE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183091&extension=ts&play_token=f768703c0cdtuo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 ROMANCE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183090&extension=ts&play_token=2be43ebb5ctkRe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 NETFLIX HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183089&extension=ts&play_token=2e56795ba4GW4y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 MISTER HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183088&extension=ts&play_token=1141e686abbkOs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 LUFT HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183087&extension=ts&play_token=189e5fbf01bu7s
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 KRIM HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183086&extension=ts&play_token=66b20b672be836
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 KOMEDI HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183085&extension=ts&play_token=8df03b6594QEJt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 HORROR HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183084&extension=ts&play_token=dfc179ccd1y8pD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 HINDI HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183083&extension=ts&play_token=c51a3b3c1dFZyu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 GJERMAN HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183082&extension=ts&play_token=1124dcd506tPw7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 FRANCEZ HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183081&extension=ts&play_token=92f8c45fa325z1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 AVENTUR HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183080&extension=ts&play_token=944cb2520489GV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 FANTAZI HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183079&extension=ts&play_token=5990ddb2dfDCyy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 FANTASHKENCE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183078&extension=ts&play_token=03cd2c0b81HWC7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 FAMILY HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183077&extension=ts&play_token=9e26f580c9RIWD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 AZIATIK HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183076&extension=ts&play_token=0ed1d25bac4s5M
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 ANIMAUR HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183074&extension=ts&play_token=d70b28b1e9zOf5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/D-FILMA24.png" group-title="|ALB| MOVIES",ALB - D FILMA24 ACTION HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183073&extension=ts&play_token=49250d09d2u8BZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK SPECIAL
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1176485&extension=ts&play_token=3261bab914fDrv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK SPECIAL HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115453&extension=ts&play_token=21c243961c72WF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/prime.png" group-title="|ALB| MOVIES",ALB - DARK PRIME 1 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115449&extension=ts&play_token=2d5ef3ac979OOX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/prime.png" group-title="|ALB| MOVIES",ALB - DARK PRIME 2 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115450&extension=ts&play_token=814e6ce8f6Q8AO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/prime.png" group-title="|ALB| MOVIES",ALB - DARK PRIME 3 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115451&extension=ts&play_token=d866a34dcedN68
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/prime.png" group-title="|ALB| MOVIES",ALB - DARK PRIME 4 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115452&extension=ts&play_token=f2d801b103XyhN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/netflix.png" group-title="|ALB| MOVIES",ALB - DARK NETFLIX 1 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115445&extension=ts&play_token=9c4939445br3X0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/netflix.png" group-title="|ALB| MOVIES",ALB - DARK NETFLIX 2 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115446&extension=ts&play_token=0b44bbc7aeb7Wf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/netflix.png" group-title="|ALB| MOVIES",ALB - DARK NETFLIX 3 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115447&extension=ts&play_token=d700d0efd0BdGu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/netflix.png" group-title="|ALB| MOVIES",ALB - DARK NETFLIX 4 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115448&extension=ts&play_token=a331d6414deasR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/tv4komedi.png" group-title="|ALB| MOVIES",ALB - DARK KOMEDI HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115444&extension=ts&play_token=8ed2c74751o385
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HORROR.png" group-title="|ALB| MOVIES",ALB - DARK HORROR HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115443&extension=ts&play_token=2e8ae4c8aesVxL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK GOLD 1 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115439&extension=ts&play_token=c5a78cc9d89nLJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK GOLD 2 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115440&extension=ts&play_token=b75f086ea5S13T
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK GOLD 3 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115441&extension=ts&play_token=cb3ed00449P7XE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK GOLD 4 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115442&extension=ts&play_token=4673fd161bVzFP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK ACTION HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1115438&extension=ts&play_token=aed9fb622eRWCR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK ROMANCE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122085&extension=ts&play_token=0e20f42b72SmEV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK FANTAZI HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122083&extension=ts&play_token=8a4815d9cf9EVw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK THRILLER HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1176991&extension=ts&play_token=ab532b37e1Btdd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK WESTERN HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122084&extension=ts&play_token=723529ac7doM71
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK FAMILY HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122082&extension=ts&play_token=6dcaa826385fGF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK DELUXE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122081&extension=ts&play_token=fe83acd506hzGf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DARK.png" group-title="|ALB| MOVIES",ALB - DARK CLASSIC HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122080&extension=ts&play_token=3dab5c5b59zkxo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PREMIER-1.png" group-title="|ALB| MOVIES",ALB - KS PREMIER 1 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122076&extension=ts&play_token=90b2b6da477yAF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PREMIER-2.png" group-title="|ALB| MOVIES",ALB - KS PREMIER 2 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122077&extension=ts&play_token=0dc99e69145GYW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PREMIER-3.png" group-title="|ALB| MOVIES",ALB - KS PREMIER 3 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122078&extension=ts&play_token=ffaee6aa2c2H1a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PREMIER-4.png" group-title="|ALB| MOVIES",ALB - KS PREMIER 4 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1122079&extension=ts&play_token=7f651bb03dSQtW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/FIRST-COMEDY.png" group-title="|ALB| MOVIES",ALB - TEVE COMEDY HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262129&extension=ts&play_token=72e50577d7qP9T
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EUROFILM.png" group-title="|ALB| MOVIES",ALB - EURO FILM
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262080&extension=ts&play_token=d206b93f16AJPO
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/sky.png" group-title="|ALB| MOVIES",ALB - SKY 7
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262132&extension=ts&play_token=da1c1937d1I9mx
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemaaction.png" group-title="|ALB| MOVIES",ALB - SKY AKSION
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262133&extension=ts&play_token=6dfafcce39jyjq
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycomedy.png" group-title="|ALB| MOVIES",ALB - SKY COMEDY
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262134&extension=ts&play_token=9cfaab719eTL0L
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadrama.png" group-title="|ALB| MOVIES",ALB - SKY DRAME
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262135&extension=ts&play_token=81d3f8cda5GPDu
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skymax.png" group-title="|ALB| MOVIES",ALB - SKY MAX
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262136&extension=ts&play_token=4bebcc99d8fGum
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKYMOVIESACTION.png" group-title="|ALB| MOVIES",ALB - LION TV SHQIP HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262137&extension=ts&play_token=bbca70d7300G15
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/foxchannel.png" group-title="|ALB| MOVIES",ALB - FOX CHANNEL
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262147&extension=ts&play_token=2960c12b09O2bn
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/living.png" group-title="|ALB| MOVIES",ALB - LIVING 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262151&extension=ts&play_token=e7a1898cebGsvg
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/foxlife.png" group-title="|ALB| MOVIES",ALB - FOX LIFE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262148&extension=ts&play_token=53f5894df3cPjG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/albania.png" group-title="|ALB| DOCUMENTARY",##### DOCUMENTARIES #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262175&extension=ts&play_token=94b3ac1848EyYa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ART-DOKU1.jpg" group-title="|ALB| DOCUMENTARY",ALB - ART DOKU 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=882191&extension=ts&play_token=8c5c157e69fZQO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ART-DOKU2.jpg" group-title="|ALB| DOCUMENTARY",ALB - ART DOKU 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=882192&extension=ts&play_token=0fea284fabBVIJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/EXPLORERHISTORI.png" group-title="|ALB| DOCUMENTARY",ALB - EXPLORER HISTORI
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262176&extension=ts&play_token=7acccee6e4jspC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/EXPLORERNATYRA.png" group-title="|ALB| DOCUMENTARY",ALB - EXPLORER NATYRA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262177&extension=ts&play_token=103be5520a0VeT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EXPLORER-SHKENCE.png" group-title="|ALB| DOCUMENTARY",ALB - EXPLORER SHKENCE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262178&extension=ts&play_token=e4b9be0ac69upU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/E-GJURMET-SHQIPTARE.png" group-title="|ALB| DOCUMENTARY",ALB - E GJURMET SHQIPTARE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=680025&extension=ts&play_token=41f5918e592zUR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TRING-PLANET.png" group-title="|ALB| DOCUMENTARY",ALB - TRING PLANET
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262179&extension=ts&play_token=c1509427efmbRL
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/trtworld.png" group-title="|ALB| DOCUMENTARY",ALB - TRING WORLD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262180&extension=ts&play_token=2880b0390ayHOB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TRING-HISTORY.jpeg" group-title="|ALB| DOCUMENTARY",ALB - TRING HISTORY
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262181&extension=ts&play_token=7fd933fce1wvRH
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/historychannel.png" group-title="|ALB| DOCUMENTARY",ALB - HISTORY CHANNEL
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262188&extension=ts&play_token=f7cc9c43a3wtOc
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="|ALB| DOCUMENTARY",ALB - NATIONAL GEOGRAPHIC
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262189&extension=ts&play_token=15ffaecab2A4cO
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="|ALB| DOCUMENTARY",ALB - NATIONAL GEOGRAPHIC WILD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262190&extension=ts&play_token=7b880f9210Wa7V
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/discoverychannel.png" group-title="|ALB| DOCUMENTARY",ALB - DISCOVERY CHANNEL
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262191&extension=ts&play_token=2c4afa1c2eGn9s
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/discoveryturboxtra.png" group-title="|ALB| DOCUMENTARY",ALB - DISCOVERY TURBO EXTRA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262193&extension=ts&play_token=d6fcb2cb1b4La2
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/discoveryscience.png" group-title="|ALB| DOCUMENTARY",ALB - DISCOVERY SCIENCE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262192&extension=ts&play_token=b4661551a95KoU
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/investigationdiscovery.png" group-title="|ALB| DOCUMENTARY",ALB - INVESTIGATION DISCOVERY
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262194&extension=ts&play_token=c5f275597aKx8j
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/expnatyra.png" group-title="|ALB| DOCUMENTARY",ALB - X NATYRA UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262183&extension=ts&play_token=b2d068b5c01C47
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/albania.png" group-title="|ALB| CHILDREN",##### CHILDREN #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262195&extension=ts&play_token=1d89801f5d0L9X
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtshfemije.png" group-title="|ALB| CHILDREN",ALB - RTSH FEMIJE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262207&extension=ts&play_token=f1f481dc83KdLj
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/bangbang.png" group-title="|ALB| CHILDREN",ALB - BANG BANG
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262197&extension=ts&play_token=a308042011owLS
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cufotv.png" group-title="|ALB| CHILDREN",ALB - CUFO
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262202&extension=ts&play_token=631b3aa74bu0m3
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/junior.png" group-title="|ALB| CHILDREN",ALB - JUNIOR
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262203&extension=ts&play_token=401bff2276Rj4p
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TIP.png" group-title="|ALB| CHILDREN",ALB - TIP TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262209&extension=ts&play_token=8fd95aa156IpVv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TRING-KIDS.png" group-title="|ALB| CHILDREN",ALB - TRING KIDS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262204&extension=ts&play_token=acb087c69bbB1y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TRING-TRING.png" group-title="|ALB| CHILDREN",ALB - TRING TRING
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262205&extension=ts&play_token=e4d58c83a4NUUD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOFIA.png" group-title="|ALB| CHILDREN",ALB - SOFIA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262206&extension=ts&play_token=16bda72e3de6it
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/boomerang.png" group-title="|ALB| CHILDREN",ALB - BOOMERANG
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262201&extension=ts&play_token=ea56b4274cV6Mg
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/ducktv.png" group-title="|ALB| CHILDREN",ALB - DUCK TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262208&extension=ts&play_token=b218cd5f25ebPM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ART-PRINCE-KIDS.png" group-title="|ALB| CHILDREN",ALB - ART PRINCE KIDS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262215&extension=ts&play_token=eb38f6a307Us8a
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MR-BEAN.png" group-title="|ALB| CHILDREN",ALB - MR BEAN
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262154&extension=ts&play_token=1b6ffc6a8eo8Cp
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/jimjam.png" group-title="|ALB| CHILDREN",ALB - JIM JAM
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262217&extension=ts&play_token=f2315bbdd6hDl2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PJ-MASKS.png" group-title="|ALB| CHILDREN",ALB - PJ MASKS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262211&extension=ts&play_token=be2fc9dccbQHff
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/KIDS-BOX.png" group-title="|ALB| CHILDREN",ALB - KIDS BOX
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262218&extension=ts&play_token=49b81bd758NHYx
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/babytvhd.png" group-title="|ALB| CHILDREN",ALB - BABY TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262199&extension=ts&play_token=010c1ca0efBBvy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BUBRRECI.png" group-title="|ALB| CHILDREN",ALB - BUBRRECI TV UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262196&extension=ts&play_token=c6e986da6ezZ0O
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/RTV21-JUNIOR.png" group-title="|ALB| CHILDREN",ALB - RTV21 JUNIOR
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262210&extension=ts&play_token=078fdbb851k3ce
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/Tom-and-Jerry.png" group-title="|ALB| CHILDREN",ALB - SHQIP TOM & JERRY
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262159&extension=ts&play_token=182008bc9fdKFt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/albania.png" group-title="|ALB| SPORTS",##### SPORT #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262219&extension=ts&play_token=9fce0a8e83Bl2T
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport1.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 1 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262220&extension=ts&play_token=966185ded69TL7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport1.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262221&extension=ts&play_token=5999b914c4xR5Y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport2.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 2 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262222&extension=ts&play_token=48d2bddf15Rasw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport2.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262223&extension=ts&play_token=acb93a63d90BX9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport3.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 3 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262224&extension=ts&play_token=54435ee33dPZC9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport3.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 3 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262225&extension=ts&play_token=cb45030708Y7YI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport4.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 4 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262226&extension=ts&play_token=fd871e0da16mQF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport4.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 4 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262227&extension=ts&play_token=a5c874806eiAO1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport5.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 5 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262228&extension=ts&play_token=69df693eeb8a6f
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport5.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 5 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262229&extension=ts&play_token=24c9c5894fIjbX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport6.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 6 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262230&extension=ts&play_token=a9f5c7ba2cMRXj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport6.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 6 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262231&extension=ts&play_token=e192c8c0cebaAP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport7.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 7 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262232&extension=ts&play_token=28a4952078IiXC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport7.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT KOSOVA 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=708009&extension=ts&play_token=243b4de906zq7e
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/supersport2.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT KOSOVA 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=708008&extension=ts&play_token=c0bc55e72er3BT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TRINGSPORTNEWS.png" group-title="|ALB| SPORTS",ALB - TRING SPORT NEWS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262233&extension=ts&play_token=591e82ef09TMKo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TRINGSPORTNEWS.png" group-title="|ALB| SPORTS",ALB - TRING SPORT NEWS UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262234&extension=ts&play_token=e45aa1fe13xzz5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TRING-SPORT-1-HD.png" group-title="|ALB| SPORTS",ALB - TRING SPORT 1 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262235&extension=ts&play_token=38a9b6a73dYWIu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TRING-SPORT-1-HD.png" group-title="|ALB| SPORTS",ALB - TRING SPORT 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262236&extension=ts&play_token=2490c279eewqrG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TRINGSPORT2.png" group-title="|ALB| SPORTS",ALB - TRING SPORT 2 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262237&extension=ts&play_token=35a5708bd1CogF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TRINGSPORT2.png" group-title="|ALB| SPORTS",ALB - TRING SPORT 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262238&extension=ts&play_token=fdfe0c5ad8AR4V
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TRING-SPORT-3-HD.png" group-title="|ALB| SPORTS",ALB - TRING SPORT 3 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262239&extension=ts&play_token=0c21f598a5P1sl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TRING-SPORT-3-HD.png" group-title="|ALB| SPORTS",ALB - TRING SPORT 3 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262240&extension=ts&play_token=07575c314d3LS8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TRING-SPORT-4-HD.jpg" group-title="|ALB| SPORTS",ALB - TRING SPORT 4 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262241&extension=ts&play_token=0f842db1d79rUo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TRING-SPORT-4-HD.jpg" group-title="|ALB| SPORTS",ALB - TRING SPORT 4 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262242&extension=ts&play_token=e7a8b8c87aXCX4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/albania.png" group-title="|ALB| SPORTS",##### KO SPORT #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=678749&extension=ts&play_token=a5ef78b1eaJvo6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/K-SPORT-1.png" group-title="|ALB| SPORTS",ALB - K SPORT 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262243&extension=ts&play_token=422606f2ddrNn2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/K-SPORT-2.png" group-title="|ALB| SPORTS",ALB - K SPORT 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262244&extension=ts&play_token=e2d5cbc33eapM0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/K-SPORT-3.png" group-title="|ALB| SPORTS",ALB - K SPORT 3 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262245&extension=ts&play_token=d5c1f9f98a84W6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/K-SPORT-4.png" group-title="|ALB| SPORTS",ALB - K SPORT 4 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262246&extension=ts&play_token=cac09a22cfSlir
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/K-SPORT-5.png" group-title="|ALB| SPORTS",ALB - K SPORT 5 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262247&extension=ts&play_token=286275c0a30inM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ARTSPORT1.png" group-title="|ALB| SPORTS",ALB - ART SPORT 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262248&extension=ts&play_token=e10af04b39gzbg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ARTSPORT2.png" group-title="|ALB| SPORTS",ALB - ART SPORT 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262249&extension=ts&play_token=4e15ccd6688gCc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ARTSPORT3.png" group-title="|ALB| SPORTS",ALB - ART SPORT 3 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262250&extension=ts&play_token=1ed1e40f58Y6q0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ART-SPORT4.png" group-title="|ALB| SPORTS",ALB - ART SPORT 4 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=799589&extension=ts&play_token=a0d9288a06mbkU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ART-SPORT5.png" group-title="|ALB| SPORTS",ALB - ART SPORT 5 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=799588&extension=ts&play_token=e0238cc198fN6k
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ART-SPORT6.png" group-title="|ALB| SPORTS",ALB - ART SPORT 6 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=799587&extension=ts&play_token=802ad19eee09fG
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/fightbox.png" group-title="|ALB| SPORTS",ALB - FIGHT BOX UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262254&extension=ts&play_token=4bd4e3b502jPaR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ALBANIA.png" group-title="|ALB| MUSIC",##### MUSIC #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261995&extension=ts&play_token=a4a34d4718CNk5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/rtshmuzike.png" group-title="|ALB| MUSIC",ALB - RTSH MUZIKE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261999&extension=ts&play_token=bbace80a620yhJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/RTSH-GJIROKASTRA.png" group-title="|ALB| MUSIC",ALB - RTSH GJIROKASTRA HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1220195&extension=ts&play_token=7ff900caa8U7Qd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/RTSH-KORCA.png" group-title="|ALB| MUSIC",ALB - RTSH KORCA HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1220194&extension=ts&play_token=5006798ac86Hpe
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/BLUE-SKY.jpeg" group-title="|ALB| MUSIC",ALB - BLUE SKY TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261996&extension=ts&play_token=7e5f2c61fdNOBH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-ZJARR.jpeg" group-title="|ALB| MUSIC",ALB - TV ZJARR
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262000&extension=ts&play_token=887d34c5e296gx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MY-MUSIC.png" group-title="|ALB| MUSIC",ALB - MY MUSIC UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262002&extension=ts&play_token=a51f2023e69wrs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/folkplus.png" group-title="|ALB| MUSIC",ALB - MUSIC: FOLK PLUS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262005&extension=ts&play_token=006128d5a7cTXY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STV-FOLK.png" group-title="|ALB| MUSIC",ALB - MUSIC: STV FOLK
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262006&extension=ts&play_token=2ca1c55a09B2VX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/supersonictv.png" group-title="|ALB| MUSIC",ALB - MUSIC: SUPERSONIC TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262007&extension=ts&play_token=1d22871c94DLyg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-SHARRI-HD.jpeg" group-title="|ALB| MUSIC",ALB - MUSIC: TV SHARRI UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262008&extension=ts&play_token=2881ce8dc0ndVp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/intv.png" group-title="|ALB| MUSIC",ALB - IN TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262011&extension=ts&play_token=fe2f4ec3fc9INr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Frame.png" group-title="|ALB| MUSIC",ALB - FRAME TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=823452&extension=ts&play_token=d67d6eee4aFwNI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/A-MOL-TV.jpeg" group-title="|ALB| MUSIC",ALB - A MOL TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262013&extension=ts&play_token=9b85d2f7d4F9wG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/click.png" group-title="|ALB| MUSIC",ALB - CLICK UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262018&extension=ts&play_token=8e4ca74669Erpm
-#EXTINF:-1 tvg-logo="https://www.sr.de/sr/logos_alle_wellen_facebook_twitter_youtube118~_v-sr__169__313.jpg" group-title="|ALB| MUSIC",ALB - GLOBE TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=785457&extension=ts&play_token=ded970bd71Ve0Z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ANTENA-VUSHTRRI.png" group-title="|ALB| MUSIC",ALB - HS TALLAVA ROMA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=786539&extension=ts&play_token=b3cdaa8d80dElt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MUSICTV.png" group-title="|ALB| MUSIC",ALB - HIMUSICTV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=811758&extension=ts&play_token=a350c884feUJVw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MUSICCHANNEL.HU.png" group-title="|ALB| MUSIC",ALB - PLUS TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=806073&extension=ts&play_token=44a4a5a6a7KVO2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MUSICCHANNEL.HU.png" group-title="|ALB| MUSIC",ALB - TELEVISION
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=791029&extension=ts&play_token=631d01486dggsE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ON-TV.png" group-title="|ALB| MUSIC",ALB - ON TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=803343&extension=ts&play_token=b7b27d06483orN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DASMA-TV.png" group-title="|ALB| MUSIC",ALB - L.S DASMA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=825091&extension=ts&play_token=c2f5e70cf0pw2V
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DRITA.png" group-title="|ALB| MUSIC",ALB - HS TALLAVA SHQIP
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=803341&extension=ts&play_token=b4a2f11e17s1eb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DIELLI.jpg" group-title="|ALB| MUSIC",ALB - DIELLI TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=803342&extension=ts&play_token=7f7145bc53DSvv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/FLUTURA-TV.png" group-title="|ALB| MUSIC",ALB - FLUTURA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=791017&extension=ts&play_token=70351d41b7KLMA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SHOTA.png" group-title="|ALB| MUSIC",ALB - SHOTA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=803340&extension=ts&play_token=28de59f0aemGZ9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ISTOGU-CHANNEL.png" group-title="|ALB| MUSIC",ALB - ISTOGU CHANNEL
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=680045&extension=ts&play_token=c8cb6529eaUKL9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ALBANIAN-TV-CHICAGO.png" group-title="|ALB| MUSIC",ALB - ALBANIAN TV CHICAGO HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=836603&extension=ts&play_token=201d7e3eddKtO8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MUSICCHANNEL.HU.png" group-title="|ALB| MUSIC",ALB - DARK POPULLORE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=836601&extension=ts&play_token=21980d9e94r2Xn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MUSICCHANNEL.HU.png" group-title="|ALB| MUSIC",ALB - HS TALLAVA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=836600&extension=ts&play_token=1cbab8079dHtfZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TV-LIRIA.png" group-title="|ALB| MUSIC",ALB - HS ASHKALI TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=836599&extension=ts&play_token=d7a7a5ccffo0vk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MUSICCHANNEL.HU.png" group-title="|ALB| MUSIC",ALB - HS TALLAVA KLASIK
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=836597&extension=ts&play_token=e9ffa414cfLB3a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MUSICCHANNEL.HU.png" group-title="|ALB| MUSIC",ALB - DARK INSTRUMENTAL HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=836596&extension=ts&play_token=c408b21d00YYUh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EMRACOM.png" group-title="|ALB| MUSIC",ALB -  FOLKLORIKE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=852368&extension=ts&play_token=6dc1556636sR4Z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ASHKALI-.png" group-title="|ALB| MUSIC",ALB -  RTV VICIANA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=854645&extension=ts&play_token=b640ccfab6i7lp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FOLKLORIT.png" group-title="|ALB| GENERAL",ALB - FOLKLORIT
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1092694&extension=ts&play_token=cbbd7f3d01EUZb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="|ALB| MUSIC",ALB - DARK HITS HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=852334&extension=ts&play_token=558d242a5auzeg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="|ALB| MUSIC",ALB - DARK TALLAVA HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=852333&extension=ts&play_token=adffd1c0c3cdnm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SHQIPONJA.png" group-title="|ALB| MUSIC",ALB -  SHQIPONJA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=871056&extension=ts&play_token=096c3055a2RZw2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/htv.png" group-title="|ALB| MUSIC",ALB - EB POPULLORE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=875282&extension=ts&play_token=4e4b0191ff8DsS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/KLAN-MUSIC.png" group-title="|ALB| MUSIC",ALB -  KLAN MUSIC ᴿᴬᵂ
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1191457&extension=ts&play_token=b4436499d4cILi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RTV-ULPIANA.png" group-title="|ALB| MUSIC",ALB - LION MUSIC HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=856273&extension=ts&play_token=a7214b710aeykJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EB.png" group-title="|ALB| MUSIC",ALB - TETOVA POPULLORE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=897608&extension=ts&play_token=81e578cd21MeEJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EB.png" group-title="|ALB| MUSIC",ALB - EB FESTIVE 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=897607&extension=ts&play_token=a425f5c175xlJd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EB.png" group-title="|ALB| MUSIC",ALB - EB FESTIVE 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=897606&extension=ts&play_token=8ae6757c2egAPO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EB.png" group-title="|ALB| MUSIC",ALB - EB FESTIVE 3
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=897605&extension=ts&play_token=0a22bfd3a066AN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EB.png" group-title="|ALB| MUSIC",ALB - EB FESTIVE 4
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=897609&extension=ts&play_token=98898f2c18MBAX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/POPULLORE.png" group-title="|ALB| MUSIC",ALB - L.S POPULLORE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=997355&extension=ts&play_token=febd099bcc8cLi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WEBSTAR.png" group-title="|ALB| MUSIC",ALB - EB FESTIVE 5
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=997354&extension=ts&play_token=c9dea39eddmFPQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/8OVA.png" group-title="|ALB| MUSIC",ALB -  EB FESTIVE 6
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=997353&extension=ts&play_token=c9768a9e7c3H6q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/8OVA.png" group-title="|ALB| MUSIC",ALB - EB FESTIVE 7
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=997352&extension=ts&play_token=bc950cafbezqpJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FESTINA.png" group-title="|ALB| MUSIC",ALB - FESTINA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=997351&extension=ts&play_token=3fc7e0b854irRa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/8OVA.png" group-title="|ALB| MUSIC",ALB -EB FESTIVE 8
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=997350&extension=ts&play_token=b9a288a4e9R0pG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="|ALB| MUSIC",ALB - DARK FESTIVE 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=974245&extension=ts&play_token=8dbff4dd30gzDX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="|ALB| MUSIC",ALB - DARK FESTIVE 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=974244&extension=ts&play_token=f58a37307cuN1I
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="|ALB| MUSIC",ALB - DARK FESTIVE 3
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=974246&extension=ts&play_token=2811c70072P6nF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="|ALB| MUSIC",ALB -  DARK FESTIVE 4
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=974247&extension=ts&play_token=b29b7ccb8bmKZe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="|ALB| MUSIC",ALB - DARK MUSIK 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1177224&extension=ts&play_token=4212567d66oVTc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="|ALB| MUSIC",ALB - DARK MUSIK 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1177223&extension=ts&play_token=5f056f6c2fI3eS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="|ALB| MUSIC",ALB - DARK BALADA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1177222&extension=ts&play_token=6aa3993f66idSZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TV-RED.png" group-title="|ALB| MUSIC",ALB - TV RED
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1066237&extension=ts&play_token=6d427cf66467z7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Z%c3%8bRI.png" group-title="|ALB| MUSIC",ALB - DARK RAP HIP HOP
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1124709&extension=ts&play_token=33d2ae5e5ew7XU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ONE-P-PATRIOTIKE.png" group-title="|ALB| MUSIC",ALB -  MUSIC
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183184&extension=ts&play_token=5044baea83rtYj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ONE-P-PATRIOTIKE.png" group-title="|ALB| MUSIC",ALB - ONE P HITS HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183183&extension=ts&play_token=e8211f99c7unFU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ONE-P-PATRIOTIKE.png" group-title="|ALB| MUSIC",ALB - ONE P CIFTELI HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183182&extension=ts&play_token=1681403c18F8Ko
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ONE-P-PATRIOTIKE.png" group-title="|ALB| MUSIC",ALB - ONE P PATRIOTIKE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183098&extension=ts&play_token=d1a1eb6b54y20G
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ONE-P-PATRIOTIKE.png" group-title="|ALB| MUSIC",ALB - ONE P MUZIK HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183097&extension=ts&play_token=9480398623eNG8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ONE-P-PATRIOTIKE.png" group-title="|ALB| MUSIC",ALB - ONE P HIPHOP HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1183096&extension=ts&play_token=3c8ed1c8dbm6f9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/albania.png" group-title="|ALB| ISLAMIC",##### ISLAM #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262255&extension=ts&play_token=2287798c37EeaG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/RTV.png" group-title="|ALB| ISLAMIC",ALB - RTV 1 ISLAM
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262259&extension=ts&play_token=739b813651FNud
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ICE-ISLAM.jpg" group-title="|ALB| ISLAMIC",ALB - ICE ISLAM UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262262&extension=ts&play_token=ccd84a4214UjKH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MEDINE-LIVE.jpeg" group-title="|ALB| ISLAMIC",ALB - MEDINE LIVE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262263&extension=ts&play_token=c2f3d9ab0aEPJA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MEKKE-LIVE.png" group-title="|ALB| ISLAMIC",ALB - MEKKE LIVE UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262264&extension=ts&play_token=4b7bbe8324Pb09
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/peacetv.png" group-title="|ALB| ISLAMIC",ALB - PEACE TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262265&extension=ts&play_token=8e0f2258balPBv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/RTV.png" group-title="|ALB| ISLAMIC",ALB - RTV ISLAM ELKALEM
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262019&extension=ts&play_token=406eaf63cby21s
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-ISLAM.png" group-title="|ALB| ISLAMIC",ALB - RTV ISLAM
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262266&extension=ts&play_token=b5c236d20cFiz0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-PENDIMI.jpeg" group-title="|ALB| ISLAMIC",ALB - RTV PENDIMI UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262172&extension=ts&play_token=41b11fb43bYyz8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KOSOVO.png" group-title="|ALB| KOSOVO",##### KO GENERAL #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=678754&extension=ts&play_token=3cb15d02b3szg5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RTK-1-SAT.png" group-title="|ALB| KOSOVO",ALB - RTK 1 SAT UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1137306&extension=ts&play_token=765805988cdpI8
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk1.png" group-title="|ALB| KOSOVO",ALB - RTK 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261934&extension=ts&play_token=a8e9a8b8f9aaEV
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk1.png" group-title="|ALB| KOSOVO",ALB - RTK 1 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261933&extension=ts&play_token=9880ee98b9fKTH
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk1.png" group-title="|ALB| KOSOVO",ALB - RTK 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261935&extension=ts&play_token=a9cbd49963x9lk
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk2.png" group-title="|ALB| KOSOVO",ALB - RTK 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261936&extension=ts&play_token=bb1518e8beH2od
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk2.png" group-title="|ALB| KOSOVO",ALB - RTK 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261937&extension=ts&play_token=582f7bc40399CG
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk3.png" group-title="|ALB| KOSOVO",ALB - RTK 3 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261938&extension=ts&play_token=c93a320ec9WyrL
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk3.png" group-title="|ALB| KOSOVO",ALB - RTK 3 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261939&extension=ts&play_token=53943cfb9dcPWf
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk3.png" group-title="|ALB| KOSOVO",ALB - RTK 3
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261940&extension=ts&play_token=f8b2ccadddtRA9
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk4.png" group-title="|ALB| KOSOVO",ALB - RTK 4 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261941&extension=ts&play_token=7df75e4a1a3GUJ
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtk4.png" group-title="|ALB| KOSOVO",ALB - RTK 4
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261942&extension=ts&play_token=732bb61ff5Bnnf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/klankosova.png" group-title="|ALB| KOSOVO",ALB - KLAN KOSOVA 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261958&extension=ts&play_token=8a53033e88p0HH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/klankosova.png" group-title="|ALB| KOSOVO",ALB - KLAN KOSOVA UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261959&extension=ts&play_token=67533790e9rypl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/dukagjini.png" group-title="|ALB| KOSOVO",ALB - DUKAGJINI FHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261981&extension=ts&play_token=963b599d82Nu5D
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtv21.png" group-title="|ALB| KOSOVO",ALB - RTV 21 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261943&extension=ts&play_token=baee996717Ggb3
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtv21.png" group-title="|ALB| KOSOVO",ALB - RTV 21 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261944&extension=ts&play_token=4171f3ed0e7rvP
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtv21m.png" group-title="|ALB| KOSOVO",ALB - RTV21 MAQEDONIA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261945&extension=ts&play_token=2863ead6f0tENl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/KTV-KOHAVISION-HD.png" group-title="|ALB| KOSOVO",ALB - KTV KOHAVISION 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261946&extension=ts&play_token=efc7fba48bIoos
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/KTV-KOHAVISION-HD.png" group-title="|ALB| KOSOVO",ALB - KTV KOHAVISION UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261947&extension=ts&play_token=4ed50febb6DAz7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-KOHA-HD.jpeg" group-title="|ALB| KOSOVO",ALB - TV KOHA UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261948&extension=ts&play_token=dc55b84c605ohZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV21-MIX-HD.jpeg" group-title="|ALB| KOSOVO",ALB - RTV21 MIX UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261949&extension=ts&play_token=e735094a0fcWuY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV21-PLUS-HD.png" group-title="|ALB| KOSOVO",ALB - RTV21 PLUS UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261950&extension=ts&play_token=7de26a801fxIOu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/FIRST-TV.png" group-title="|ALB| KOSOVO",ALB - FIRST TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261951&extension=ts&play_token=f516262992rNLV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/t7.png" group-title="|ALB| KOSOVO",ALB - T7 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261975&extension=ts&play_token=6a212ad1a3Ffpv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/t7.png" group-title="|ALB| KOSOVO",ALB - T7
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261976&extension=ts&play_token=2e00c90b57xvBD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RROKUM-TV.png" group-title="|ALB| KOSOVO",ALB - KANAL 10 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261987&extension=ts&play_token=4e531086c8CnxX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/atv.png" group-title="|ALB| KOSOVO",ALB - ATV KOSOVO HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=570372&extension=ts&play_token=74360c323dil1B
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/atv.png" group-title="|ALB| KOSOVO",ALB - ATV UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1124710&extension=ts&play_token=c499f61b1dVYjq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/arta.png" group-title="|ALB| KOSOVO",ALB - ARTA NEWS 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262171&extension=ts&play_token=60470df750T5KZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/arta.png" group-title="|ALB| KOSOVO",ALB - ARTA NEWS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262170&extension=ts&play_token=e8d7d09508tDcL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-FONTANA.jpeg" group-title="|ALB| KOSOVO",ALB - RTV FONTANA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=703195&extension=ts&play_token=d47e224c3brbxg
-#EXTINF:-1 tvg-logo="https://www.llapi.info/wp-content/uploads/2022/02/tv-1.jpg" group-title="|ALB| KOSOVO",ALB - TËVË 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=711201&extension=ts&play_token=0e19b7f3124Krs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-JUG.png" group-title="|ALB| KOSOVO",ALB - TV JUG
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261991&extension=ts&play_token=c7e1fa0c2eEism
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/rtvbesa.png" group-title="|ALB| KOSOVO",ALB - BESA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261986&extension=ts&play_token=3837f26fea6w2f
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-MITROVICA.jpg" group-title="|ALB| KOSOVO",ALB - TV MITROVICA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261953&extension=ts&play_token=d2c39170bcvPr1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-ERA.jpeg" group-title="|ALB| KOSOVO",ALB - TV ERA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261952&extension=ts&play_token=87cf7fe5fa4IK0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zicotv.png" group-title="|ALB| KOSOVO",ALB - ZICO TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262015&extension=ts&play_token=13af6b7568YePr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SHENJA-TV.jpg" group-title="|ALB| KOSOVO",ALB - SHENJA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261983&extension=ts&play_token=734b2ef6c5WR9W
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MTV-KOSOVA.jpeg" group-title="|ALB| KOSOVO",ALB - MTV KOSOVA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262001&extension=ts&play_token=8f73162fa7j47A
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SWISS-TV.jpeg" group-title="|ALB| KOSOVO",ALB - SWISS TV UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262014&extension=ts&play_token=7c8d823d18grK4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ALPO.png" group-title="|ALB| KOSOVO",ALB - ALPO TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=798638&extension=ts&play_token=faffc96352mIpF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-ILIRIDA.png" group-title="|ALB| KOSOVO",ALB - RTV ILIRIDA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=640836&extension=ts&play_token=a312a9b11280eO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-ILIRIDA.png" group-title="|ALB| KOSOVO",ALB - RTV ILIRIDA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=645473&extension=ts&play_token=c9c19d351f7eq7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/rtvilirida.png" group-title="|ALB| KOSOVO",ALB -  RTV ILIRIDA :  ILIRIDA FETARE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=829291&extension=ts&play_token=8776a5d2ba6rAJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-ILIRIDA.png" group-title="|ALB| KOSOVO",ALB - RTV ILIRIDA : MEMDI
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=656155&extension=ts&play_token=eef422882dlDbr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-ILIRIDA.png" group-title="|ALB| KOSOVO",ALB - RTV ILIRIDA : HUMOUR
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=656154&extension=ts&play_token=67a291d61fUBge
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-ILIRIDA.png" group-title="|ALB| KOSOVO",ALB - RTV ILIRIDA : FEMIJ
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=656152&extension=ts&play_token=ab1e45b912CKzp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-ILIRIDA.png" group-title="|ALB| KOSOVO",ALB - RTV ILIRIDA : FILM
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=656151&extension=ts&play_token=81f502cd56BI8u
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-ILIRIDA.png" group-title="|ALB| KOSOVO",ALB - RTV ILIRIDA : DOKUMENTAR
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=656150&extension=ts&play_token=f594bb3bd1FDG9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RTV-ILIRIDA.png" group-title="|ALB| KOSOVO",ALB - RTV ILIRIDA : RTV ILIRIDA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=656149&extension=ts&play_token=76cddd0af2YAlt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/klanmacedonia.png" group-title="|ALB| KOSOVO",ALB - KLAN MACEDONIA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261962&extension=ts&play_token=43508ba21aetE3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV2-GOSTIVAR.png" group-title="|ALB| KOSOVO",ALB - TV2 GOSTIVAR
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261970&extension=ts&play_token=2e2b38e9caGHWl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-TETOVA-HD.jpg" group-title="|ALB| KOSOVO",ALB - TROPOJA TV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261971&extension=ts&play_token=df6c15b1e9RoSv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MRT-2.jpeg" group-title="|ALB| KOSOVO",ALB - MRT 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261982&extension=ts&play_token=7ef75b0510Bzpd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ALBKANALE-MUSIC.png" group-title="|ALB| KOSOVO",ALB - ALBKANALE MUSIC
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261992&extension=ts&play_token=3f501ceeb3vBCR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-USKANA.png" group-title="|ALB| KOSOVO",ALB - TV USKANA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261993&extension=ts&play_token=0d1c548916mUsl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-OPOJA-HD.jpg" group-title="|ALB| KOSOVO",ALB - TV OPOJA UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262268&extension=ts&play_token=7df036e3e95D5r
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-GLOBI.jpeg" group-title="|ALB| KOSOVO",ALB - TV GLOBI
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261988&extension=ts&play_token=50c94de092cxiu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KOSOVO.png" group-title="|ALB| KOSOVO",##### KO MUSIC #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=678751&extension=ts&play_token=96feef5a727MKi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOP-ESTRADA-MUSIC.png" group-title="|ALB| KOSOVO",ALB - TOP ESTRADA MUSIC UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261997&extension=ts&play_token=f3077f693eIxGN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-PLISI.png" group-title="|ALB| KOSOVO",ALB - VIVA MUSIC
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=261998&extension=ts&play_token=dad1c2daafclt5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/bbf.png" group-title="|ALB| MUSIC",ALB -  BBF ᴿᴬᵂ
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1191458&extension=ts&play_token=b8b02cdda7nL76
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/BBF-MUSIC.jpeg" group-title="|ALB| KOSOVO",ALB - MUSIC: BBF MUSIC
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262004&extension=ts&play_token=9b38faa4c65T3Q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/rtv21.png" group-title="|ALB| KOSOVO",ALB - RTV21 POPULLORE UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262012&extension=ts&play_token=48e6ffa641mfhp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PITO-.png" group-title="|ALB| KOSOVO",ALB - TV VUSHTRIA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262009&extension=ts&play_token=5b867014c6PkwI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PODUJEVA-TV.png" group-title="|ALB| KOSOVO",ALB - PODUJEVA TV HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=827520&extension=ts&play_token=ee5dc48e3efiCN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-SHAHIRAT.jpg" group-title="|ALB| KOSOVO",ALB - SPIN TV HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262016&extension=ts&play_token=bc2b27334dWX9L
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TURBO-CHANNEL.jpeg" group-title="|ALB| KOSOVO",ALB - TURBO CHANNEL
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262017&extension=ts&play_token=8c703571f41Xz0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI.png" group-title="|ALB| KOSOVO",ALB - CATI DANCE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=610056&extension=ts&play_token=c68a3d9b79iure
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI.png" group-title="|ALB| KOSOVO",ALB - CATI HITS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=642572&extension=ts&play_token=eb2a18125ctIZD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI.png" group-title="|ALB| KOSOVO",ALB - CATI BURIMOR
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=642573&extension=ts&play_token=a1baa71874fzyC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI.png" group-title="|ALB| KOSOVO",ALB - CATI TALLAVA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=642574&extension=ts&play_token=f7af2b5cc3MSUG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI.png" group-title="|ALB| KOSOVO",ALB - CATI POTPURI
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=642576&extension=ts&play_token=c83fb7aa8cr8Ib
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI.png" group-title="|ALB| KOSOVO",ALB - CATI QIFTELI
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=642594&extension=ts&play_token=5147e6f5d6wlWw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI.png" group-title="|ALB| KOSOVO",ALB - CATI HUMOR
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=642595&extension=ts&play_token=1110dc818dDlRf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI%20MOVIE.png" group-title="|ALB| KOSOVO",ALB - CATI MOVIE 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=642596&extension=ts&play_token=c433defdce3DjI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI%20MOVIE.png" group-title="|ALB| KOSOVO",ALB - CATI MOVIE 3
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=642598&extension=ts&play_token=b67425de31qXo9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CATI%20MOVIE.png" group-title="|ALB| KOSOVO",ALB - CATI MOVIE 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=642597&extension=ts&play_token=d9b3be1a08i5oa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EUROAL.png" group-title="|ALB| KOSOVO",ALB - EURO AL
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=832761&extension=ts&play_token=a72dacc3e54IwH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SYRI-BLU-MUSIC-HD.jpeg" group-title="|ALB| KOSOVO",ALB - SYRI BLU MUSIC UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262010&extension=ts&play_token=bce5ab23ceExJr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HS-HORE-INTERNATIONAL.png" group-title="|ALB| MUSIC",ALB - HS HORE INTERNATIONAL HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=859940&extension=ts&play_token=621fcbe438Jc8M
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KOSOVO.png" group-title="|ALB| KOSOVO",##### KO MOVIES & SERIES #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=678753&extension=ts&play_token=657a034b4aQ3eG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/filmboxarthouse.png" group-title="|ALB| KOSOVO",ALB - FILMBOX ARTHOUSE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262035&extension=ts&play_token=6deec35f70MuGy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/filmboxextra.png" group-title="|ALB| KOSOVO",ALB - FILMBOX EXTRA
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262036&extension=ts&play_token=61e6dced47OvME
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/filmboxplus.png" group-title="|ALB| KOSOVO",ALB - FILMBOX PLUS
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262037&extension=ts&play_token=022b1a58dbIWxv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/filmboxpremium.png" group-title="|ALB| KOSOVO",ALB - FILMBOX PREMIUM
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262038&extension=ts&play_token=8bdc4da890O2FV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/kinotv.png" group-title="|ALB| KOSOVO",ALB - KINEMA GOLD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262060&extension=ts&play_token=fcc627c577TUQj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/kinotv.png" group-title="|ALB| KOSOVO",ALB - KINEMA ONE HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262061&extension=ts&play_token=b16d50f17czYdV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/kinotv.png" group-title="|ALB| KOSOVO",ALB -  KINEMA SUPER
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262062&extension=ts&play_token=fbb4f9605adLM1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - Q ACTION UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262063&extension=ts&play_token=26db66982aR3Mc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - RTV ARBERIA 1
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262064&extension=ts&play_token=73e7786ff5eEqz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - RTV ARBERIA 2
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262065&extension=ts&play_token=e6030dc8a7URJf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - RTV ARBERIA 3
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262066&extension=ts&play_token=906e59ef72D8Wr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - RTV ARBERIA 4
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262067&extension=ts&play_token=7143fd1879gQYQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - RTV ARBERIA 5
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262068&extension=ts&play_token=e3011d6710havf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - RTV ARBERIA RETRO
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262069&extension=ts&play_token=d9d22baa64b3Eq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - Q POPULLORE UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262070&extension=ts&play_token=730be2f3b3cLJB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - Q PREMIUM 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262071&extension=ts&play_token=e726ea6795HYnU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - Q PREMIUM 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262072&extension=ts&play_token=b6c400e386mON0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - Q STUPCAT UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262077&extension=ts&play_token=d2b6a4e37axHn9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - Q THRILLER UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262078&extension=ts&play_token=cac3c008eaMJxK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Q-TV.jpg" group-title="|ALB| KOSOVO",ALB - Q WESTERN UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262079&extension=ts&play_token=5435005899nbL9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/EURO-CHANNEL.png" group-title="|ALB| KOSOVO",ALB - EURO FILM 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262081&extension=ts&play_token=af6ea53724b47A
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/EURO-CHANNEL.png" group-title="|ALB| KOSOVO",ALB - HS SHQIP CINEMA 1 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262082&extension=ts&play_token=10692d45ecONeK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/EURO-CHANNEL.png" group-title="|ALB| KOSOVO",ALB - HS SHQIP CINEMA 2 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262083&extension=ts&play_token=6f0c5cae7a2LMk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/EURO-CHANNEL.png" group-title="|ALB| KOSOVO",ALB - HS SHQIP CINEMA 3 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262084&extension=ts&play_token=66b136f8cdzUOf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-PLISI.png" group-title="|ALB| KOSOVO",ALB -  HS SHQIP CINEMA 4 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262086&extension=ts&play_token=b21024a1c5Kbk2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-PLISI.png" group-title="|ALB| KOSOVO",ALB - HS SHQIP CINEMA 5 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262087&extension=ts&play_token=bdbba6ee0fxmg9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-PLISI.png" group-title="|ALB| KOSOVO",ALB - HS SHQIP CINEMA 6 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262088&extension=ts&play_token=ffae1538e43IKy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-PLISI.png" group-title="|ALB| KOSOVO",ALB - HS SHQIP CINEMA 7 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262089&extension=ts&play_token=fecab5d9f5SQrq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-PLISI.png" group-title="|ALB| KOSOVO",ALB - HS SHQIP CINEMA 8 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262090&extension=ts&play_token=788f1f3caaulqN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TV-PLISI.png" group-title="|ALB| KOSOVO",ALB - HS SHQIP CINEMA 9 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262091&extension=ts&play_token=7dec6899baJzve
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/X-TV.png" group-title="|ALB| KOSOVO",ALB - HS SHQIP CINEMA 10 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262096&extension=ts&play_token=1bb81992a6tvvL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/X-TV.png" group-title="|ALB| KOSOVO",ALB - SHQIP TV FANTASY HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262097&extension=ts&play_token=7d4c4656fbVazj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/X-TV.png" group-title="|ALB| KOSOVO",ALB - X COMEDY UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262098&extension=ts&play_token=f7ee046b78clIK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/X-TV.png" group-title="|ALB| KOSOVO",ALB - X DRAMA UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262100&extension=ts&play_token=0fae4f5818veZR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/X-TV.png" group-title="|ALB| KOSOVO",ALB - X FAMILY UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262101&extension=ts&play_token=1506efd02cukCf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/X-TV.png" group-title="|ALB| KOSOVO",ALB - X FILMA 24 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262102&extension=ts&play_token=c5b995c269HUCD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/X-TV.png" group-title="|ALB| KOSOVO",ALB - X HUMOR UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262103&extension=ts&play_token=ad963c5589Izjl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/X-TV.png" group-title="|ALB| KOSOVO",ALB - X MUSIC HITS UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262104&extension=ts&play_token=8203268ec6E1mN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/X-TV.png" group-title="|ALB| KOSOVO",ALB - X THRILLER UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262108&extension=ts&play_token=063ede498eY6eO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/kinotv.png" group-title="|ALB| KOSOVO",ALB - ART KINO 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262110&extension=ts&play_token=a47940adf9M4Ii
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/kinotv.png" group-title="|ALB| KOSOVO",ALB - ART KINO 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262111&extension=ts&play_token=4a43a6625ceKZh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/kinotv.png" group-title="|ALB| KOSOVO",ALB - ART KINO 3 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262112&extension=ts&play_token=763e9b5b84QJrV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/kinotv.png" group-title="|ALB| KOSOVO",ALB - ART KINO PREMIUM 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262113&extension=ts&play_token=69e11ee296K1Ik
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/kinotv.png" group-title="|ALB| KOSOVO",ALB - ART KINO PREMIUM 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262114&extension=ts&play_token=14af8a81b1yu2X
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ART-PRIME.jpeg" group-title="|ALB| KOSOVO",ALB - ART PRIME UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262131&extension=ts&play_token=4e4e2b1140buSh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ONE-TV.jpg" group-title="|ALB| KOSOVO",ALB - TELE ONE 1 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262141&extension=ts&play_token=490b281fe0Qf41
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ONE-TV.jpg" group-title="|ALB| KOSOVO",ALB - TELE ONE 2 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262142&extension=ts&play_token=0cc32598abhEpX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ONE-TV.jpg" group-title="|ALB| KOSOVO",ALB - TELE ONE 3 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262143&extension=ts&play_token=e771f7ee84nATO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ONE-TV.jpg" group-title="|ALB| KOSOVO",ALB - TELE ONE 4 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262144&extension=ts&play_token=a61a3b733epRhI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ONE-TV.jpg" group-title="|ALB| KOSOVO",ALB - TELE ONE 5 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262145&extension=ts&play_token=3acac05cbdFb7E
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ONE-TV.jpg" group-title="|ALB| KOSOVO",ALB - TELE ONE 6 UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262146&extension=ts&play_token=e973c2dbe8d72W
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/tomenjerry.jpg" group-title="|ALB| KOSOVO",ALB - Q TOM & JERRY
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262155&extension=ts&play_token=0ee0f607e0J2Il
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ALSATMHD.png" group-title="|ALB| KOSOVO",ALB - ALSAT M FHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=830786&extension=ts&play_token=af8c9f50a0BoY4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ALSATMHD.png" group-title="|ALB| KOSOVO",ALB - ALSAT HD TOKSORE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=830785&extension=ts&play_token=3abd5bce20hM29
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV KIDS HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=832341&extension=ts&play_token=8eb5f545e1auY9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV HUMOR HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=832340&extension=ts&play_token=9eb6047e15tUMo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV COMEDY HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=832338&extension=ts&play_token=f61826cabcUGFh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV MAX HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=832337&extension=ts&play_token=2d6f1ef5f2lCib
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV HORROR HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=832335&extension=ts&play_token=908139d4bflNut
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV GOLD HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=832336&extension=ts&play_token=a13ff4e507edIP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV TALLAVA HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=829922&extension=ts&play_token=91c349c9b1fopL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV CIFTELI HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=829921&extension=ts&play_token=7d9832d9c6Opvb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV FOLK HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=829920&extension=ts&play_token=8039c9493eDdu3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/metitv.png" group-title="|ALB| KOSOVO",ALB - METITV MUSIC HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=829919&extension=ts&play_token=0f70812ceeXVKq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/B.png" group-title="|ALB| KOSOVO",ALB - B KAFENEJA JON HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=830771&extension=ts&play_token=5b16c99205O0BS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KINEMA.png" group-title="|ALB| KOSOVO",ALB - KINEMA MILENIUM 1 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1027721&extension=ts&play_token=4abcdd72ab1E8C
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KINEMA.png" group-title="|ALB| KOSOVO",ALB - KINEMA MILENIUM 2 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1027722&extension=ts&play_token=5ae7a2540aMdAQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KINEMA.png" group-title="|ALB| KOSOVO",ALB - KINEMA MILENIUM 3 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1027723&extension=ts&play_token=1230b6019c54Ty
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KINEMA.png" group-title="|ALB| KOSOVO",ALB - KINEMA MILENIUM 4 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=1027724&extension=ts&play_token=d8d20b77d3g2BM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ACTV.png" group-title="|ALB| KOSOVO",ALB - ACTV
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=831222&extension=ts&play_token=f9e1d9d2d0MdP2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PITO-.png" group-title="|ALB| KOSOVO",ALB - PITO LOL UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262157&extension=ts&play_token=a24906995f2XAk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/FILM-STINET.png" group-title="|ALB| KOSOVO",ALB -  PRO1 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262033&extension=ts&play_token=c79d5df26a7vdg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KAFENEJA-JONE.jpeg" group-title="|ALB| KOSOVO",ALB - KAFENEJA JONE 24/7 HD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=721938&extension=ts&play_token=6364281cd16g3W
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KOSOVO.png" group-title="|ALB| KOSOVO",##### KO DOCUMENTARIES  #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=678752&extension=ts&play_token=2719cd3cd7mkYH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/history.png" group-title="|ALB| KOSOVO",ALB - X HISTORI UHD
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262182&extension=ts&play_token=98827a6e04pHmh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sky.png" group-title="|ALB| KOSOVO",ALB - SKY PLANET
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262185&extension=ts&play_token=ff6fc1406amTtF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SKY-SHKENCE.jpg" group-title="|ALB| KOSOVO",ALB - SKY SHKENCE
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262186&extension=ts&play_token=a02edfe494LKBL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SKY-HISTORY.jpg" group-title="|ALB| KOSOVO",ALB - SKY HISTORY
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=262187&extension=ts&play_token=fea34e6472Qiso
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KOSOVO.png" group-title="|ALB| KOSOVO",##### KO NEWS #####
-http://satpoltv.pro:80/play/live.php?mac=00:1A:79:BA:A1:43&stream=678750&extension=ts&play_token=169a1c0301SGos
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/rtv21.png" group-title="|ALB| KOSOVO",ALB - RTV21 NEWSBIZ 4K
-http://satpoltv.pro:80/play/live.php?mac=00:1A
+#EXTINF:-1,Top Channel
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2
+#EXTINF:-1,Top Channel HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2472
+#EXTINF:-1,Klan
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/4
+#EXTINF:-1,Klan HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/3
+#EXTINF:-1,Klan Plus HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5
+#EXTINF:-1,Vizion Plus HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2404
+#EXTINF:-1,MCN-TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13460
+#EXTINF:-1,Lezha TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/76
+#EXTINF:-1,ALB UK
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/14312
+#EXTINF:-1,RTSH 1 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/8
+#EXTINF:-1,RTSH 2 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9
+#EXTINF:-1,RTSH Shkodra
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/10
+#EXTINF:-1,RTSH Korca
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5813
+#EXTINF:-1,RTSH Gjirokastra
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5814
+#EXTINF:-1,A TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/15338
+#EXTINF:-1,Tropoja TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9106
+#EXTINF:-1,RTK 1 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/11
+#EXTINF:-1,StarPlus
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/12
+#EXTINF:-1,KTV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13
+#EXTINF:-1,RTV 21
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/14
+#EXTINF:-1,Klan Kosova
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5812
+#EXTINF:-1,Alsat M HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/15
+#EXTINF:-1,TV Teuta
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/16
+#EXTINF:-1,TV Era
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17
+#EXTINF:-1,TV Shenja
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18
+#EXTINF:-1,Kopliku TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/19
+#EXTINF:-1,Shijak TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/20
+#EXTINF:-1,Star Channel
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/21
+#EXTINF:-1,Dukagjini TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/22
+#EXTINF:-1,------------Filma---------
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/23
+#EXTINF:-1,T Prime 1 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1750
+#EXTINF:-1,T Prime 2 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1751
+#EXTINF:-1,T Comedy
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1755
+#EXTINF:-1,T Serial
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1756
+#EXTINF:-1,T Action 
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1752
+#EXTINF:-1,T Drama
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1753
+#EXTINF:-1,T Thriller
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1754
+#EXTINF:-1,CineStar 1
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2263
+#EXTINF:-1,CineStar 2
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5820
+#EXTINF:-1,CineStar 3
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1919
+#EXTINF:-1,CineStar 4
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2399
+#EXTINF:-1,CineStar 5
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/7169
+#EXTINF:-1,CineStar 6
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/7168
+#EXTINF:-1,Sky Aksion HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/35
+#EXTINF:-1,Sky Max
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/37
+#EXTINF:-1,Sky Drame
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/6336
+#EXTINF:-1,Sky Novela
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9113
+#EXTINF:-1,ArtKino 1
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/24
+#EXTINF:-1,ArtKino 2
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/25
+#EXTINF:-1,ArtKino 3
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/26
+#EXTINF:-1,DigitAlb 20
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/27
+#EXTINF:-1,Gold HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/28
+#EXTINF:-1,Film Max HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/29
+#EXTINF:-1,Film Stinet
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/30
+#EXTINF:-1,Film Autor
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/31
+#EXTINF:-1,Film Hits
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/32
+#EXTINF:-1,Film Aksion
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/33
+#EXTINF:-1,Film Thriller
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/34
+#EXTINF:-1,EuroFilm
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/36
+#EXTINF:-1,Film Drame
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/38
+#EXTINF:-1,Film Komedi
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/39
+#EXTINF:-1,T HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/40
+#EXTINF:-1,Dizi series
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/41
+#EXTINF:-1,Sky Shqip
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/61
+#EXTINF:-1,Film Shqip
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/42
+#EXTINF:-1,RTSH Shqip
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/43
+#EXTINF:-1,RTSH Film
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/44
+#EXTINF:-1,Tring Collection HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1054
+#EXTINF:-1,Tring Family HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/45
+#EXTINF:-1,Tring Action
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/46
+#EXTINF:-1,Tring Super HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/47
+#EXTINF:-1,Tring Shqip
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/48
+#EXTINF:-1,Tring Original
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/49
+#EXTINF:-1,Tring Fantasy
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/50
+#EXTINF:-1,Tring Classic
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/981
+#EXTINF:-1,Tring Comedy
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/51
+#EXTINF:-1,Series HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5823
+#EXTINF:-1,Tring Life
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/52
+#EXTINF:-1,3 Plus
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/54
+#EXTINF:-1,KanalD Drama
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/55
+#EXTINF:-1,Tring Novelas
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1902
+#EXTINF:-1,Tring Turkish Series
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/93
+#EXTINF:-1,Atv Europe
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/56
+#EXTINF:-1,Kanal D
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/57
+#EXTINF:-1,Smile
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/58
+#EXTINF:-1,Star Channel
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/59
+#EXTINF:-1,Star Life
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/60
+#EXTINF:-1,Star Movies
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/62
+#EXTINF:-1,------------Lifestyle-----------
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/63
+#EXTINF:-1,Living HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/64
+#EXTINF:-1,Muse
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/65
+#EXTINF:-1,24 Kitchen
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/66
+#EXTINF:-1,-----Dokumentare-----
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/68
+#EXTINF:-1,Art Doku 1
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9107
+#EXTINF:-1,Art Doku 2
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/67
+#EXTINF:-1,T Doc 1
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1761
+#EXTINF:-1,T Doc 2
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1762
+#EXTINF:-1,Nat Geo
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/69
+#EXTINF:-1,Exp Natyra
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/70
+#EXTINF:-1,Exp Shkence
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/71
+#EXTINF:-1,Exp Histori
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/72
+#EXTINF:-1,Tring World
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/73
+#EXTINF:-1,Tring Planet
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/74
+#EXTINF:-1,Tring History
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/75
+#EXTINF:-1,------------Muzike-----------
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/77
+#EXTINF:-1,Çamëria TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9105
+#EXTINF:-1,MTV Kosova
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1749
+#EXTINF:-1,TurboChannel
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9100
+#EXTINF:-1,Klina TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9101
+#EXTINF:-1,Hi Music
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5181
+#EXTINF:-1,My Music
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/78
+#EXTINF:-1,Melody TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/79
+#EXTINF:-1,Folklorit
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/80
+#EXTINF:-1,Folk+
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/83
+#EXTINF:-1,INTV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/84
+#EXTINF:-1,BBF
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/85
+#EXTINF:-1,Click TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/86
+#EXTINF:-1,City TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/87
+#EXTINF:-1,Elrodi TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/88
+#EXTINF:-1,First Channel
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/89
+#EXTINF:-1,Klan Muzik
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/90
+#EXTINF:-1,RTSH Muzik
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/91
+#EXTINF:-1,Balkanika
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/92
+#EXTINF:-1,------------Femije----------
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/94
+#EXTINF:-1,Bubble TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5182
+#EXTINF:-1,Ding Dong
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1757
+#EXTINF:-1,Clover
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1758
+#EXTINF:-1,Junior TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/95
+#EXTINF:-1,Bang Bang
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2433
+#EXTINF:-1,Cufo TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/97
+#EXTINF:-1,Tip TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/98
+#EXTINF:-1,Tring Tring
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/99
+#EXTINF:-1,Tring Kids
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/100
+#EXTINF:-1,RTSH Femije
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/101
+#EXTINF:-1,ISP KALAMAJTE
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/102
+#EXTINF:-1,Baby TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/103
+#EXTINF:-1,------------Lajme----------
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/105
+#EXTINF:-1,Tibo News
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17610
+#EXTINF:-1,CNA TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9647
+#EXTINF:-1,Panorama
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5183
+#EXTINF:-1,Syri TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2468
+#EXTINF:-1,Klan News
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/106
+#EXTINF:-1,Top News
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/107
+#EXTINF:-1,Abc News
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/108
+#EXTINF:-1,Euronews AL
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/109
+#EXTINF:-1,News 24
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/110
+#EXTINF:-1,Report TV
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/111
+#EXTINF:-1,Ora News
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/128
+#EXTINF:-1,A2 Cnn
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/112
+#EXTINF:-1,T7
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/113
+#EXTINF:-1,Kanali 7
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/114
+#EXTINF:-1,Fax News
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/115
+#EXTINF:-1,Scan News
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/116
+#EXTINF:-1,------------Sport----------
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/117
+#EXTINF:-1,Partizani Channel
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1759
+#EXTINF:-1,K Sport 1 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1898
+#EXTINF:-1,K Sport 2 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1899
+#EXTINF:-1,K Sport 3 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1900
+#EXTINF:-1,K Sport 4 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1901
+#EXTINF:-1,SuperSport 1 SD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2278
+#EXTINF:-1,SuperSport 1 LIVE
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/118
+#EXTINF:-1,SuperSport 1 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/119
+#EXTINF:-1,SuperSport 2 SD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2279
+#EXTINF:-1,SuperSport 2 LIVE
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/3243
+#EXTINF:-1,SuperSport 2 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2488
+#EXTINF:-1,SuperSport 3 SD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2280
+#EXTINF:-1,SuperSport 3 LIVE
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/122
+#EXTINF:-1,SuperSport 3 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/123
+#EXTINF:-1,SuperSport 4 SD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2410
+#EXTINF:-1,SuperSport 4 LIVE
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/124
+#EXTINF:-1,SuperSport 4 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/125
+#EXTINF:-1,SuperSport 5 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/126
+#EXTINF:-1,SuperSport 6 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/127
+#EXTINF:-1,SuperSport 7 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13786
+#EXTINF:-1,Tring Sport News HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/131
+#EXTINF:-1,Tring Sport 1
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2272
+#EXTINF:-1,Tring Sport 1 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/132
+#EXTINF:-1,Tring Sport 2
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2281
+#EXTINF:-1,Tring Sport 2 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/133
+#EXTINF:-1,Tring Sport 3 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/134
+#EXTINF:-1,Tring Sport 4 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/135
+#EXTINF:-1,Tring Sport 5 
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1765
+#EXTINF:-1,Tring Sport 6
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5199
+#EXTINF:-1,Tring Sport 7
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9125
+#EXTINF:-1,Rtsh Sport
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/136
+#EXTINF:-1,ArtSport 1
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/137
+#EXTINF:-1,ArtSport 2
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/138
+#EXTINF:-1,ArtSport 3
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/139
+#EXTINF:-1,Artsport 4
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2264
+#EXTINF:-1,ArtSport 5
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2265
+#EXTINF:-1,ArtSport 6
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5184
+#EXTINF:-1,EuroSport 1 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/140
+#EXTINF:-1,EuroSport 2 HD
+http://iptvgoo.ddns.net:25461/Sm8x85EyGXnR23/LN4sDz3ERnXY23/141
+#EXTINF:-1,Në fillim të verës (1975)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1020.mp4
+#EXTINF:-1,Zonja nga qyteti (1976)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1023.mp4
+#EXTINF:-1,Taulanti kerkon nje moter (1984)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1024.mp4
+#EXTINF:-1,Muri i gjalle (1989)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1026.mp4
+#EXTINF:-1,Nje shoqe nga fshati (1980)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1022.mp4
+#EXTINF:-1,Thesari (1981)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1041.mp4
+#EXTINF:-1,Rruga e lirise (1982)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1042.mp4
+#EXTINF:-1,Ne ç'do stine (1980)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1044.mp4
+#EXTINF:-1,Mesonjetorja (1979)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1045.mp4
+#EXTINF:-1,Zemra qe nuk plaken (1977)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1046.mp4
+#EXTINF:-1,Keshilltaret (1979)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1047.mp4
+#EXTINF:-1,Nxenesit e klases sime (1984)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1048.mp4
+#EXTINF:-1,kush eshte vrasesi (1989)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1049.mp4
+#EXTINF:-1,Bote e pa dukshme (1987)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1050.mp4
+#EXTINF:-1,Vellezer dhe shoke (1980)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1051.mp4
+#EXTINF:-1,Gunat përmbi tela (1977)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1052.mp4
+#EXTINF:-1,Prita (1968)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1053.mkv
+#EXTINF:-1,Cirku ne fshat (1977)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1240.mp4
+#EXTINF:-1,Karnavalet (1980)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1241.mp4
+#EXTINF:-1,Djali elastik
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1242.mp4
+#EXTINF:-1,Cifti i lumtur (1975)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1257.mp4
+#EXTINF:-1,Shkembimi
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2403.mp4
+#EXTINF:-1,Hijet që mbetën pas (1985)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13447.mp4
+#EXTINF:-1,Dy luanë drejt Venecias (2020)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/16983.mp4
+#EXTINF:-1,Borxhliu
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17572.mp4
+#EXTINF:-1,Chappie (2015) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18020.mp4
+#EXTINF:-1,In Time (2011) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17619.mp4
+#EXTINF:-1,Joker: Folie à Deux (2024) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17618.mp4
+#EXTINF:-1,Rambo: First Blood Part II (1985) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17601.mp4
+#EXTINF:-1,Rambo III (1988) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17602.mp4
+#EXTINF:-1,Rambo IV (2008) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17603.mp4
+#EXTINF:-1,Rambo: Last Blood (2019) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/896.mkv
+#EXTINF:-1,The Terminator (1984) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17604.mp4
+#EXTINF:-1,X-Men (2000) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17605.mp4
+#EXTINF:-1,Predator (1987) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17606.mp4
+#EXTINF:-1,Boiling Point (1993) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17615.mp4
+#EXTINF:-1,It Ends With Us (2024) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17609.mp4
+#EXTINF:-1,Rocky (1976) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17588.mp4
+#EXTINF:-1,Rocky II (1979) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17587.mp4
+#EXTINF:-1,Rocky III (1982) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17590.mp4
+#EXTINF:-1,Rocky IV (1985) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17589.mp4
+#EXTINF:-1,Enemy at the Gates (2001) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17586.mp4
+#EXTINF:-1,Gladiator II (2024)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17584.mp4
+#EXTINF:-1,Furiosa: A Mad Max Saga (2024)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17016.mp4
+#EXTINF:-1,The Killer's Game (2024) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17574.mp4
+#EXTINF:-1,Kingdom of the Planet of the Apes (2024) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17571.mp4
+#EXTINF:-1,Deadpool & Wolverine (2024)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17567.mp4
+#EXTINF:-1,Society of the Snow (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/15810.mp4
+#EXTINF:-1,The Beekeeper (2024) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/15809.mkv
+#EXTINF:-1,Napoleon (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/15339.mp4
+#EXTINF:-1,Sisu (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/15332.mp4
+#EXTINF:-1,Meg 2: The Trench (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13781.mp4
+#EXTINF:-1,The Channel (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13461.mp4
+#EXTINF:-1,Transformers: Rise of the Beasts (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13459.mp4
+#EXTINF:-1,The Three Musketeers: D'Artagnan (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13456.mp4
+#EXTINF:-1,Kandahar (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13455.mp4
+#EXTINF:-1,The Siege (2023)AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/11042.mp4
+#EXTINF:-1,Extraction 2 (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13454.mp4
+#EXTINF:-1,The Black Demon (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13453.mp4
+#EXTINF:-1,Fast X (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13449.mp4
+#EXTINF:-1,Evil Dead Rise  AL(2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/11812.mp4
+#EXTINF:-1,The Pope's Exorcist AL (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/11815.mp4
+#EXTINF:-1,Cocaine Bear AL (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/11816.mp4
+#EXTINF:-1,The Mother (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/12067.mp4
+#EXTINF:-1,Plane (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9648.mp4
+#EXTINF:-1,The Old Way (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9288.mp4
+#EXTINF:-1,Avatar: The Way of Water (2022)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9287.mp4
+#EXTINF:-1,Black Adam (2022)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9112.mp4
+#EXTINF:-1,Nope (2022) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/8013.mp4
+#EXTINF:-1,Hell Hath No Fury (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2419.mp4
+#EXTINF:-1,The Batman 2022
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2486.mp4
+#EXTINF:-1,Spider-Man: No Way Home 2021
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2487.mp4
+#EXTINF:-1,The Prey: Legend of Karnoctus (2022) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/8014.mp4
+#EXTINF:-1,Top Gun: Maverick (2022) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/8015.mp4
+#EXTINF:-1,Thor: Love and Thunder (2022) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/8017.mp4
+#EXTINF:-1,Black Panther: Wakanda Forever (2022) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9123.mp4
+#EXTINF:-1,Goal! (2005) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1254.mp4
+#EXTINF:-1,Goal! II: Living the Dream (2007) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1255.mp4
+#EXTINF:-1,Fury (2014)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/893.m3u8
+#EXTINF:-1,6 Bullets (2012)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/894.m3u8
+#EXTINF:-1,Boyka: Undisputed IV (2016)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/895.m3u8
+#EXTINF:-1,Midway (2019) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/897.m3u8
+#EXTINF:-1,The Fast and the Furious (2001)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/898.mp4
+#EXTINF:-1,2 Fast 2 Furious (2003)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/899.mp4
+#EXTINF:-1,The Fast and the Furious: Tokyo Drift (2006)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/900.mp4
+#EXTINF:-1,Fast & Furious (2009)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/901.mp4
+#EXTINF:-1,Fast Five (2011)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/902.mp4
+#EXTINF:-1,Fast & Furious 6 (2013)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/903.mp4
+#EXTINF:-1,Furious 7 (2015)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/904.mp4
+#EXTINF:-1,Fast and Furious 8 (2017) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/905.mp4
+#EXTINF:-1,F9 (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1043.mp4
+#EXTINF:-1,Fast & Furious Presents: Hobbs & Shaw (2019)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/906.mp4
+#EXTINF:-1,Terminator Genisys (2015)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1032.mp4
+#EXTINF:-1,Terminator: Dark Fate (2019) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/907.mp4
+#EXTINF:-1,Joker (2019)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/908.mp4
+#EXTINF:-1,Lazarat (2019)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/909.mp4
+#EXTINF:-1,Venom (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/910.m3u8
+#EXTINF:-1,Aquaman (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/911.mp4
+#EXTINF:-1,Baby Driver (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/912.mp4
+#EXTINF:-1,Still/Born (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/913.mp4
+#EXTINF:-1,Mowgli: Legend of the Jungle (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/914.mp4
+#EXTINF:-1,Tomb Raider (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/915.mp4
+#EXTINF:-1,Hotel Artemis (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/916.mp4
+#EXTINF:-1,The Informers (2008)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/917.mp4
+#EXTINF:-1,Sobibor (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/918.mp4
+#EXTINF:-1,The Festival (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/919.mp4
+#EXTINF:-1,Alpha (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/920.mp4
+#EXTINF:-1,Mile 22 (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/921.mp4
+#EXTINF:-1,The Meg (2018) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/922.mp4
+#EXTINF:-1,Silencer (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/923.mp4
+#EXTINF:-1,Tag (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/924.mp4
+#EXTINF:-1,Salt (2010)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/925.mp4
+#EXTINF:-1,Redbad (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/926.mp4
+#EXTINF:-1,Noah (2014)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/927.mp4
+#EXTINF:-1,Gladiator (2000)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/928.mp4
+#EXTINF:-1,300 (2006)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/929.mp4
+#EXTINF:-1,Clash of the Titans (2010)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/930.mp4
+#EXTINF:-1,Troy (2004)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/931.mp4
+#EXTINF:-1,Taxi 5 (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/932.mp4
+#EXTINF:-1,Geostorm (2017) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1027.mp4
+#EXTINF:-1,Kong: Skull Island (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1028.mp4
+#EXTINF:-1,xXx: Return of Xander Cage (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1029.mp4
+#EXTINF:-1,Atomic Blonde (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1030.mp4
+#EXTINF:-1,Logan (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1031.mp4
+#EXTINF:-1,Wrong Turn 3: Left for Dead (2009)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1034.mp4
+#EXTINF:-1,Taken (2008)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1035.mp4
+#EXTINF:-1,Taken 2 (2012)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1036.mp4
+#EXTINF:-1,Taken 3 (2014)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1033.mp4
+#EXTINF:-1,The Transporter (2002)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1037.mp4
+#EXTINF:-1,Transporter 2 (2005)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1038.mp4
+#EXTINF:-1,Transporter 3 (2008)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1039.mp4
+#EXTINF:-1,Ip Man 2 (2010)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1244.mp4
+#EXTINF:-1,Ip Man 3 (2015)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1243.mp4
+#EXTINF:-1,Ip Man 4: The Finale (2019) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1908.mp4
+#EXTINF:-1,A Star Is Born (2018)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1256.mp4
+#EXTINF:-1,Monster Hunter (2020)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1903.mp4
+#EXTINF:-1,Bloodshot (2020)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1907.mp4
+#EXTINF:-1,Wonder Woman 1984 (2020)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1921.mp4
+#EXTINF:-1,Shadow in the Cloud (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1922.mp4
+#EXTINF:-1,The Midnight Sky (2020)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1924.mp4
+#EXTINF:-1,Greenland (2020)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1925.mp4
+#EXTINF:-1,Love and Monsters (2020)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1923.mp4
+#EXTINF:-1,Mad Max: Fury Road (2015)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1932.mp4
+#EXTINF:-1,Venom: Let There Be Carnage (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2269.mp4
+#EXTINF:-1,One Shot (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2273.mp4
+#EXTINF:-1,The Matrix Resurrections (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2417.mp4
+#EXTINF:-1,Old (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2434.mp4
+#EXTINF:-1,Oppenheimer (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13787.mp4
+#EXTINF:-1,Barbie (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/15084.mp4
+#EXTINF:-1,Heart of Stone (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/15085.mp4
+#EXTINF:-1,Mission: Impossible - Dead Reckoning Part One (2023) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/15088.mp4
+#EXTINF:-1,Darkness of Man (2024)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/16984.mp4
+#EXTINF:-1,Godzilla x Kong: The New Empire (2024)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/16985.mp4
+#EXTINF:-1,Fentasy (2024)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17014.mp4
+#EXTINF:-1,Irena's Vow (2024)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17015.mp4
+#EXTINF:-1,Cristiano Ronaldo Footballing Superstar (2013)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17290.mp4
+#EXTINF:-1,Ip Man (2008)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17322.mp4
+#EXTINF:-1,Apocalypto (2006) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17563.mp4
+#EXTINF:-1,Morbius (2022) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17576.mp4
+#EXTINF:-1,Hellboy (2019)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17591.mp4
+#EXTINF:-1,Hellboy II: The Golden Army (2008) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17592.mp4
+#EXTINF:-1,Terminator 2: Judgment Day (1991) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17593.mp4
+#EXTINF:-1,Riddick (2013) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17594.mp4
+#EXTINF:-1,10,000 BC (2008) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17595.mp4
+#EXTINF:-1,The Second Uncanny Issue of X-Men - Making X2 (2003) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17598.mp4
+#EXTINF:-1,Prey (2022) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17599.mp4
+#EXTINF:-1,Furious 7 (2015) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17600.mp4
+#EXTINF:-1,Bloodsport (1988) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17620.mp4
+#EXTINF:-1,Lionheart (1990) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17621.mp4
+#EXTINF:-1,The Wall (2017) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17622.mp4
+#EXTINF:-1,A Working Man (2025) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18024.mp4
+#EXTINF:-1,Kujtesa (2022)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18148.mp4
+#EXTINF:-1,Mufasa: The Lion King (2024) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18018.mp4
+#EXTINF:-1,Moana 2 (2024) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18017.mp4
+#EXTINF:-1,Moana 2 (2024) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17623.mp4
+#EXTINF:-1,Tarzan (1999) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17617.mp4
+#EXTINF:-1,Tarzan II (2005) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17616.mp4
+#EXTINF:-1,Despicable Me 4 (2024) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17608.mp4
+#EXTINF:-1,Son of the Mask (2005)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17579.mp4
+#EXTINF:-1,Brenda Mendjes 2
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17578.mp4
+#EXTINF:-1,Brenda Mendjes  (2015)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17017.mp4
+#EXTINF:-1,Dëshira
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17575.mp4
+#EXTINF:-1,Kung Fu Panda 4 (2024)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17564.mkv
+#EXTINF:-1,Raja dhe dragoi i fundit (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/16980.mp4
+#EXTINF:-1,Djali delfin  (2022)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/16978.mp4
+#EXTINF:-1,Coco (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/16979.mp4
+#EXTINF:-1,Maçoku me Çizma: Dëshira e fundit (2022)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13452.mp4
+#EXTINF:-1,Minionët: Ngritja e Grusë (Minions: The Rise of Gru (2022))
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9909.mp4
+#EXTINF:-1,Home Alone (1990)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9118.mp4
+#EXTINF:-1,Home Alone 2: Lost in New York (1992)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9119.mp4
+#EXTINF:-1,Home Alone 3 (1997)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9120.mp4
+#EXTINF:-1,Home Alone 4 (2002)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9121.mp4
+#EXTINF:-1,100% Wolf (2020)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/9117.mp4
+#EXTINF:-1,The Boss Baby (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/933.mkv
+#EXTINF:-1,Sing (2016)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/934.mkv
+#EXTINF:-1,Moana (2016)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/935.m3u8
+#EXTINF:-1,Kubo and the Two Strings (2016)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/936.mkv
+#EXTINF:-1,Brave (2012)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/937.mkv
+#EXTINF:-1,Frozen II (2019)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/938.mkv
+#EXTINF:-1,Si te zbutesh nje Dragua (2010)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/939.mkv
+#EXTINF:-1,Si të zbutësh një Dragua 2 (2014)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18132.mp4
+#EXTINF:-1,Surf's Up 2: WaveMania (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/940.mkv
+#EXTINF:-1,Despicable Me (2010)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/941.mkv
+#EXTINF:-1,Despicable Me 2 (2013)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/942.mkv
+#EXTINF:-1,Big Hero 6 (2014)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/943.mkv
+#EXTINF:-1,The Lion King (1994)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/944.mkv
+#EXTINF:-1,The Lion King II: Simba's Pride (1998)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/945.mkv
+#EXTINF:-1,Mulan (1998)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/946.mkv
+#EXTINF:-1,Mulan II (2004)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/947.mkv
+#EXTINF:-1,Arratisja e pulave (2000)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/948.mkv
+#EXTINF:-1,Rio (2011)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/949.mkv
+#EXTINF:-1,Rio 2 (2014)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/950.mkv
+#EXTINF:-1,Kung Fu Panda (2008)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/951.mkv
+#EXTINF:-1,Kung Fu Panda 2 (2011)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/952.mkv
+#EXTINF:-1,Kung Fu Panda 3 (2016)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/953.mkv
+#EXTINF:-1,Sezoni i gjuetise  (2006)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/954.mkv
+#EXTINF:-1,Sezoni i gjuetise 2 (2008)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/955.mkv
+#EXTINF:-1,Sezoni i gjuetise 3 (2010)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/956.mkv
+#EXTINF:-1,Sezoni i gjuetise: Scared Silly (2015)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/957.mkv
+#EXTINF:-1,Robinson Crusoe (2016)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/958.mkv
+#EXTINF:-1,Rango (2011)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/959.mkv
+#EXTINF:-1,Epic (2013)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/960.mkv
+#EXTINF:-1,E Bukura dhe Bisha Krishtlindjet e magjepsura (1997)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/961.mkv
+#EXTINF:-1,Rrefenje Peshkaqeni (2004)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/962.mkv
+#EXTINF:-1,Barriera koralore shark bait (2006)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/963.mkv
+#EXTINF:-1,Barriera koralore 2 shark bait (2012)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/964.mkv
+#EXTINF:-1,Toy Story (1995)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/965.mkv
+#EXTINF:-1,Toy Story 2 (1999)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/966.mkv
+#EXTINF:-1,Toy Story 3 (2010)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/967.mkv
+#EXTINF:-1,The Smurfs (2011)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/968.mkv
+#EXTINF:-1,The Smurfs 2 (2013)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/969.mkv
+#EXTINF:-1,Shrek (2001)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/970.mkv
+#EXTINF:-1,Shrek Forever After (2010)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/971.mkv
+#EXTINF:-1,Olaf's Frozen Adventure (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/972.mkv
+#EXTINF:-1,Spirit: Stallion of the Cimarron (2002)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/973.mkv
+#EXTINF:-1,Ice Age (2002)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/974.mkv
+#EXTINF:-1,Ice Age: Dawn of the Dinosaurs (2009)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/975.mkv
+#EXTINF:-1,Ice Age: Continental Drift (2012)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/976.mkv
+#EXTINF:-1,Ice Age: Collision Course (2016)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/977.mkv
+#EXTINF:-1,Bunyan and Babe (2017)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/978.mkv
+#EXTINF:-1,Madagascar (2005)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/979.mkv
+#EXTINF:-1,Madagascar 2: Escape 2 Africa (2008) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18019.mkv
+#EXTINF:-1,Madagascar 3: Europe's Most Wanted (2012)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/980.mkv
+#EXTINF:-1,Zootopia (2016)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1904.mp4
+#EXTINF:-1,Khumba (2013)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1930.mp4
+#EXTINF:-1,Home (2015)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1929.mp4
+#EXTINF:-1,Legends of Oz: Dorothy's Return (2014)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/1931.mp4
+#EXTINF:-1,The Polar Express (2004)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/2401.mp4
+#EXTINF:-1,Cloudy with a Chance of Meatballs 2 (2013)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5180.mp4
+#EXTINF:-1,How the Grinch Stole Christmas (2000)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/5204.mp4
+#EXTINF:-1,Ron's Gone Wrong (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/7147.mp4
+#EXTINF:-1,Abominable (2019) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/8021.mp4
+#EXTINF:-1,Sherlock Gnomes (2018) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/8022.mp4
+#EXTINF:-1,Wish Dragon AL(2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/11426.mp4
+#EXTINF:-1,Dele dhe Ujq 2 (2019)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13444.mp4
+#EXTINF:-1,Dele dhe Ujq 1 (2016)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/13446.mp4
+#EXTINF:-1,Mumjet (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/16981.mp4
+#EXTINF:-1,Hotel Transylvania: Transformania (2021)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/16982.mp4
+#EXTINF:-1,The Croods (2013)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17580.mp4
+#EXTINF:-1,Leo (2023)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17585.mp4
+#EXTINF:-1,Makinat (2006)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18130.mkv
+#EXTINF:-1,Makinat 2 (2011)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18131.mp4
+#EXTINF:-1,Harry Potter and the Goblet of Fire (2005) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18146.mp4
+#EXTINF:-1,Harry Potter and the Philosopher's Stone (2001) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18147.mkv
+#EXTINF:-1,Harry Potter and the Chamber of Secrets (2002)
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18150.mp4
+#EXTINF:-1,Harry Potter and the Prisoner of Azkaban (2004) AL
+http://iptvgoo.ddns.net:25461/movie/Sm8x85EyGXnR23/LN4sDz3ERnXY23/18151.mp4
+#EXTINF:-1,Reacher S01 E01
+http://iptvgoo.ddns.net:25461/series/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17630.mp4
+#EXTINF:-1,Reacher S01 E02
+http://iptvgoo.ddns.net:25461/series/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17631.mp4
+#EXTINF:-1,Reacher S01 E03
+http://iptvgoo.ddns.net:25461/series/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17632.mp4
+#EXTINF:-1,Reacher S01 E04
+http://iptvgoo.ddns.net:25461/series/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17633.mp4
+#EXTINF:-1,Reacher S01 E05
+http://iptvgoo.ddns.net:25461/series/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17634.mp4
+#EXTINF:-1,Reacher S01 E06
+http://iptvgoo.ddns.net:25461/series/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17635.mp4
+#EXTINF:-1,Reacher S01 E07
+http://iptvgoo.ddns.net:25461/series/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17636.mp4
+#EXTINF:-1,Reacher S01 E08
+http://iptvgoo.ddns.net:25461/series/Sm8x85EyGXnR23/LN4sDz3ERnXY23/17637.mp4
