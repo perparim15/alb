@@ -1,376 +1,585 @@
 #EXTM3U
-#EXTINF:-1,AL: BIG BROTHER 1 KOSOVA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129977
-#EXTINF:-1,AL: BIG BROTHER 2 KOSOVA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129978
-#EXTINF:-1,AL: KTV HD 
-https://xn--boq7h27c2eq1hjva545cfgdpu8cia236dduflnwumjnz2dga7975b.xn--boq7h27c2eq1hjva545cfgdpu8ct3eumfyqv0wio18cga8613b.online:2083/SS2/tracks-v1a1/mono.m3u8?clearkeys=YXNsbGFuaWRhc2hhbWlyNDdAZ21haWwuY29t&ip=91.141.53.233&time=14:11:2025%2016:02:59&token=hsdsVYt85biDcgf29aOk
-#EXTINF:-1,AL: T7 HD
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1,AL: ATV HD
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1,AL: A2 CNN
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129023
-#EXTINF:-1,AL: RTK Satelit
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1,AL: ALBUK
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129027
-#EXTINF:-1,AL: RTSH GJIROKASTRA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129028
-#EXTINF:-1,AL: ALSAT
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129029
-#EXTINF:-1,AL: APOLLON TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129030
-#EXTINF:-1,AL: ART SPORT 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129031
-#EXTINF:-1,AL: ART SPORT 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129033
-#EXTINF:-1,AL: ART SPORT 3
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129036
-#EXTINF:-1,AL: ARTA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129037
-#EXTINF:-1,AL: ASHKALI TV 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129039
-#EXTINF:-1,AL: ATV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129040
-#EXTINF:-1,AL: BABY TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129041
-#EXTINF:-1,AL: BANG BANG
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129044
-#EXTINF:-1,AL: BBF MUSIC
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129045
-#EXTINF:-1,AL: BESA TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129046
-#EXTINF:-1,AL: BOOMERANG
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129047
-#EXTINF:-1,AL: C1 CHANNEL
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129049
-#EXTINF:-1,AL: CITY TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129050
-#EXTINF:-1,AL: CUFO
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129052
-#EXTINF:-1,AL: DASMA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129054
-#EXTINF:-1,AL: DISCOVERY CHANNEL
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129056
-#EXTINF:-1,AL: DISNEY JR
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129058
-#EXTINF:-1,AL: DIVA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129060
-#EXTINF:-1,AL: DRITA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129062
-#EXTINF:-1,AL: DUCK TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129063
-#EXTINF:-1,AL: ELRODI
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129067
-#EXTINF:-1,AL: ERA TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129068
-#EXTINF:-1,AL: EURO AL
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129070
-#EXTINF:-1,AL: EURO FILM 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129071
-#EXTINF:-1,AL: EUROSPORT 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129073
-#EXTINF:-1,AL: EUROSPORT 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129075
-#EXTINF:-1,AL: EXPLORER HISTORI
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129077
-#EXTINF:-1,AL: EXPLORER NATYRA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129079
-#EXTINF:-1,AL: EXPLORER SHKENCE
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129081
-#EXTINF:-1,AL: EXTREAM SPORTS CHANNEL
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129083
-#EXTINF:-1,AL: FAMILY
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129084
-#EXTINF:-1,AL: FIGHT BOX
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129086
-#EXTINF:-1,AL: FILM AKSION
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129088
-#EXTINF:-1,AL: FILM AUTOR
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129090
-#EXTINF:-1,AL: FILM BOX ARTHOUSE
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129093
-#EXTINF:-1,AL: FILM BOX PLUS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129094
-#EXTINF:-1,AL: FILM DRAME
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129096
-#EXTINF:-1,AL: FILM DY FHD
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129098
-#EXTINF:-1,AL: FILM GOLD
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129100
-#EXTINF:-1,AL: FILM HITS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129102
-#EXTINF:-1,AL: FILM KOMEDI
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129104
-#EXTINF:-1,AL: FILM THRILLER
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129106
-#EXTINF:-1,AL: FOLK PLUS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129108
-#EXTINF:-1,AL: FOLK+
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129110
-#EXTINF:-1,AL: FOLKLORIT
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129112
-#EXTINF:-1,AL: FOX CRIME
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129114
-#EXTINF:-1,AL: FOX LIFE
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129116
-#EXTINF:-1,AL: FOX MOVIES
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129118
-#EXTINF:-1,AL: ISTOGU CHANNEL
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129120
-#EXTINF:-1,AL: JOLLY
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129121
-#EXTINF:-1,AL: JUNIOR
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129123
-#EXTINF:-1,AL: K SPORT 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129125
-#EXTINF:-1,AL: K SPORT 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129127
-#EXTINF:-1,AL: K SPORT 3
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129129
-#EXTINF:-1,AL: K SPORT 4
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129131
-#EXTINF:-1,AL: KANAL 10
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129133
-#EXTINF:-1,AL: KANAL D DRAMA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129134
-#EXTINF:-1,AL: KANALI 7
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129136
-#EXTINF:-1,AL: KANALI 7 NEWS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129137
-#EXTINF:-1,AL: KIDS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129139
-#EXTINF:-1,AL: KLAN
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129141
-#EXTINF:-1,AL: KLAN KOSOVA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129142
-#EXTINF:-1,AL: KLAN MUSIC
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129143
-#EXTINF:-1,AL: KLAN NEWS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129144
-#EXTINF:-1,AL: KLAN PLUS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129146
-#EXTINF:-1,AL: KOMEDI
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129148
-#EXTINF:-1,AL: metitv EPIC
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129149
-#EXTINF:-1,AL: KS PREMIER 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129151
-#EXTINF:-1,AL: KS PREMIER 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129153
-#EXTINF:-1,AL: KS PREMIER 3
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129155
-#EXTINF:-1,AL: KS PREMIER 4
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129157
-#EXTINF:-1,AL: KTV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129159
-#EXTINF:-1,AL: KUJTESA SPORT 1 [Live During Events Only]
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129160
-#EXTINF:-1,AL: KUJTESA SPORT 2 [Live During Events Only]
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129162
-#EXTINF:-1,AL: KUJTESA SPORT 3 [Live During Events Only]
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129164
-#EXTINF:-1,AL: KUJTESA SPORT 4 [Live During Events Only]
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129166
-#EXTINF:-1,AL: LIRIA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129168
-#EXTINF:-1,AL: LIVING
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129170
-#EXTINF:-1,AL: MALISHEVA TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129171
-#EXTINF:-1,AL: MCN TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129173
-#EXTINF:-1,AL: MTV KOSOVA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129175
-#EXTINF:-1,AL: MUSE TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129177
-#EXTINF:-1,AL: MY MUSIC
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129181
-#EXTINF:-1,AL: NAT GEO
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129182
-#EXTINF:-1,AL: NEWS 24
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129184
-#EXTINF:-1,AL: ON TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129186
-#EXTINF:-1,AL: PEACE TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129188
-#EXTINF:-1,AL: PENDIMI
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129189
-#EXTINF:-1,AL: POLLOGU
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129190
-#EXTINF:-1,AL: PREMIER SPORTS 2 [Live During Events Only]
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129191
-#EXTINF:-1,AL: REPORT TV HD
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129193
-#EXTINF:-1,AL: RTK 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129195
-#EXTINF:-1,AL: RTK 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129196
-#EXTINF:-1,AL: RTK 3
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129197
-#EXTINF:-1,AL: RTK 4
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129198
-#EXTINF:-1,AL: RTSH SAT
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129199
-#EXTINF:-1,AL: RTSH 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129200
-#EXTINF:-1,AL: RTSH 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129201
-#EXTINF:-1,AL: RTSH 24
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129202
-#EXTINF:-1,AL: RTSH 3
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129203
-#EXTINF:-1,AL: RTSH FEMIJE
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129204
-#EXTINF:-1,AL: RTSH FILM
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129205
-#EXTINF:-1,AL: RTSH KORCA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129208
-#EXTINF:-1,AL: RTSH KUVEND
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129209
-#EXTINF:-1,AL: RTSH MUZIKE
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129210
-#EXTINF:-1,AL: RTSH PLUS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129212
-#EXTINF:-1,AL: RTSH SHQIP
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129213
-#EXTINF:-1,AL: RTSH SPORT
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129214
-#EXTINF:-1,AL: RTV 21
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129215
-#EXTINF:-1,AL: RTV 21 JUNIOR
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129216
-#EXTINF:-1,AL: RTV 21 MACEDONIA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129218
-#EXTINF:-1,AL: RTV 21 MIX
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129219
-#EXTINF:-1,AL: RTV 21 PLUS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129220
-#EXTINF:-1,AL: RTV 21 POPULLORE
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129221
-#EXTINF:-1,AL: RTV ARBERIA 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129222
-#EXTINF:-1,AL: RTV ISLAM
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129224
-#EXTINF:-1,AL: ORA NEWS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129225
-#EXTINF:-1,AL: RTV PENDIMI
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129227
-#EXTINF:-1,AL: SHOTA TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129228
-#EXTINF:-1,AL: SKY AKSION
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129229
-#EXTINF:-1,AL: SKY DRAMA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129231
-#EXTINF:-1,AL: SKY KOMEDI
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129233
-#EXTINF:-1,AL: SOFIA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129234
-#EXTINF:-1,AL: SPORT KOSOVA 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129236
-#EXTINF:-1,AL: SPORT KOSOVA 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129238
-#EXTINF:-1,AL: STINET
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129240
-#EXTINF:-1,AL: SUPER SPORT 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129242
-#EXTINF:-1,AL: SUPER SPORT 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129244
-#EXTINF:-1,AL: SUPER SPORT 3
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129246
-#EXTINF:-1,AL: SUPER SPORT 4
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129248
-#EXTINF:-1,AL: SUPER SPORTS 5
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129250
-#EXTINF:-1,AL: SUPER SPORT 6 [Live During Events Only]
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129252
-#EXTINF:-1,AL: SUPER SPORTS NEWS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129254
-#EXTINF:-1,AL: SYRI VISION
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129256
-#EXTINF:-1,AL: T7
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129258
-#EXTINF:-1,AL: TDC
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129260
-#EXTINF:-1,AL: TIP TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129262
-#EXTINF:-1,AL: TIRANA TV
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129264
-#EXTINF:-1,AL: TOP CHANNEL FHD
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129266
-#EXTINF:-1,AL: TRAVEL CHANNEL
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129267
-#EXTINF:-1,AL: TRING 3
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129269
-#EXTINF:-1,AL: Tring 3 Plus
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129271
-#EXTINF:-1,AL: TRING ACTION
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129273
-#EXTINF:-1,AL: TRING CLASSIC
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129275
-#EXTINF:-1,AL: TRING COLLECTION
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129277
-#EXTINF:-1,AL: TRING COMEDY
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129280
-#EXTINF:-1,AL: TRING FANTASY
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129281
-#EXTINF:-1,AL: TRING HISTORY
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129283
-#EXTINF:-1,AL: TRING INTERNATIONAL
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129285
-#EXTINF:-1,AL: TRING KIDS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129287
-#EXTINF:-1,AL: TRING LIFE
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129289
-#EXTINF:-1,AL: TRING MAX
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129291
-#EXTINF:-1,AL: TRING PLANET
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129293
-#EXTINF:-1,AL: TRING SHQIP
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129295
-#EXTINF:-1,AL: TRING SMILE
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129297
-#EXTINF:-1,AL: TRING SPORT 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129299
-#EXTINF:-1,AL: TRING SPORT 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129302
-#EXTINF:-1,AL: TRING SPORT 3
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129303
-#EXTINF:-1,AL: TRING SPORT NEWS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129307
-#EXTINF:-1,AL: TRING SUPER
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129309
-#EXTINF:-1,AL: TRING TRING
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129312
-#EXTINF:-1,AL: TRING WORLD
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129314
-#EXTINF:-1,AL: TURBO CHANNEL
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129315
-#EXTINF:-1,AL: DIELLI
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129317
-#EXTINF:-1,AL: TV DUKAGJINI
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129318
-#EXTINF:-1,AL: TV KOHA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129319
-#EXTINF:-1,AL: TV MITROVICA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129320
-#EXTINF:-1,AL: TV SHENJA
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129321
-#EXTINF:-1,AL: TV TEMA FERIZAJ
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129322
-#EXTINF:-1,AL: VIZION PLUS
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129323
-#EXTINF:-1,AL: X FILMA 24
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129324
-#EXTINF:-1,AL: gold 4
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129325
-#EXTINF:-1,AL: ZICO
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/129326
-#EXTINF:-1,AL: BIG BROTHER 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/132292
-#EXTINF:-1,AL: BIG BROTHER 1
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/132293
-#EXTINF:-1,AL: FERMA VIP 2
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/132372
-#EXTINF:-1,AL: FERMA VIP 1
+#EXTINF:0 tvg-id="RTK.al" group-title="ALL",AL: RTK
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/1
+#EXTINF:0 tvg-id="RTV21.al" group-title="ALL",AL: RTV 21 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/2
+#EXTINF:0 tvg-id="KTV.al" group-title="ALL",AL: KTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/3
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="ALL",AL: Klan Kosova
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/4
+#EXTINF:0 tvg-id="AlsatM.al" group-title="ALL",AL: Alsat M
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/5
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="ALL",AL: Klan TV HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/6
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="ALL",AL: Top Channel HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/7
+#EXTINF:0 tvg-id="T7.al" group-title="ALL",AL: T7 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/8
+#EXTINF:0 tvg-id="DTV.al" group-title="ALL",AL:DTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/464
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kanal 10
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/10
+#EXTINF:0 tvg-id="TopNews.al" group-title="ALL",AL: Top News
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/13
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="ALL",AL: TV Dukagjini
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/11
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ATV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/233
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Tëvë 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/355
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: TV Dielli
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/9
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Arta News HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/12
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Klan News
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/373
+#EXTINF:0 tvg-id="News24.al" group-title="ALL",AL: News 24
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/374
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: EuroNews Albania
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/184
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ReportTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/325
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: TV Mitrovica
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/298
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="ALL",AL: Peace TV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/234
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:RTI Islam
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/316
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Besa Tv
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/438
+#EXTINF:0 tvg-id="3Plus.al" group-title="ALL",AL: 3 Plus
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/14
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="ALL",AL: Vizion Plus
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/50
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: KanalD Drama
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/202
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Klan Plus HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/79
+#EXTINF:0 tvg-id="TringTring.al" group-title="ALL",AL: Tring Tring
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/15
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tring Kids
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/16
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Tring TIP TV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/437
+#EXTINF:0 tvg-id="Sofia.al" group-title="ALL",AL: Sofia
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/17
+#EXTINF:0 tvg-id="BangBang.al" group-title="ALL",AL: Bang Bang
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/18
+#EXTINF:0 tvg-id="CufoTV.al" group-title="ALL",AL: Cufo
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/19
+#EXTINF:0 tvg-id="BabyTV.al" group-title="ALL",AL: Baby TV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/20
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Prince Kids
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/21
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TaoTao
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/461
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Art Kids 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/178
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Pro 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/660
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="ALL",AL: EXP Shkence
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/22
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="ALL",AL: EXP Natyra
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/23
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="ALL",AL: EXP Histori
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/24
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Doku 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/36
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Doku 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/37
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ID Discovery
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/442
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="ALL",AL: Film Aksion
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/25
+#EXTINF:0 tvg-id="FilmHits.al" group-title="ALL",AL: Film Hits
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/26
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="ALL",AL: Film Autor
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/27
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="ALL",AL: Film Thriller
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/28
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="ALL",AL: Film Komedi
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/29
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="ALL",AL: Film Drame
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/30
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Film MAX HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/31
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Film Gold HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/32
+#EXTINF:0 tvg-id="EuroFilm.al" group-title="ALL",AL: EuroFilm
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/207
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Family
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/208
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Kino 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/33
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Kino 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/34
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Kino 3
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/35
+#EXTINF:0 tvg-id="Stinet.al" group-title="ALL",AL: Stinët
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/209
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Prime
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/51
+#EXTINF:0 tvg-id="Episode.al" group-title="ALL",AL: Episode
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/52
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: BeatTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/53
+#EXTINF:0 tvg-id="Gurmania.al" group-title="ALL",AL: Gurmania
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/80
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="ALL",AL: Tring Fantasy
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/38
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="ALL",AL: Tring Shqip
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/368
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tring Action
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/39
+#EXTINF:0 tvg-id="TringSuper.al" group-title="ALL",AL: Tring Super
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/40
+#EXTINF:0 tvg-id="TringComedy.al" group-title="ALL",AL: Tring Komedi
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/347
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tring Classic
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/367
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Tring Collection
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/441
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="ALL",AL: Tring Planet
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/42
+#EXTINF:0 tvg-id="Smile.al" group-title="ALL",AL: Tring Smile
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/43
+#EXTINF:0 tvg-id="TringLife.al" group-title="ALL",AL: Tring Life
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/44
+#EXTINF:0 tvg-id="T-Hist.al" group-title="ALL",AL: Tring History
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/45
+#EXTINF:0 tvg-id="TringWorld.al" group-title="ALL",AL: Tring World
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/46
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tring Series HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/48
+#EXTINF:0 tvg-id="Living.al" group-title="ALL",AL: Living
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/49
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: DigiGold Film 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/370
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: DigiGold Film 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/371
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: DigiGold Film 3
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/372
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Extrem Gold 4
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/376
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: 7HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/185
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Cinema 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/194
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Cinema 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/195
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Premiere 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/174
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Premiere 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/175
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Premiere 3
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/176
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Premiere 4
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/177
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Shqip
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/664
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Novela
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/665
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Drame
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/666
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Fantazi
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/667
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Aksion
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/668
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Kids 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/669
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Kids 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/670
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TEVE Doku 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/671
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TEVE DOKU 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/672
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Sky Planet
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/55
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Galaxy HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/56
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Sky MAX
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/57
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="ALL",AL: Sky Aksion
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/58
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="ALL",AL: Sky Komedi
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/60
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Sky Shkenca
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/61
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Sky Drame
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/62
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Sky Shqip
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/457
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Sky Novela
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/458
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Teve Novela
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/479
+#EXTINF:0 tvg-id="21Popullore.al" group-title="ALL",Al: 21 Popullore
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/318
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ZicoTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/64
+#EXTINF:0 tvg-id="ONTV.al" group-title="ALL",AL: ON TV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/65
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: FirstTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/66
+#EXTINF:0 tvg-id="BBF.al" group-title="ALL",AL: BBF
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/67
+#EXTINF:0 tvg-id="Elrodi.al" group-title="ALL",AL: Elrodi
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/68
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="ALL",AL: Folk +
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/69
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:OpojaTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/436
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:AlbSe
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/440
+#EXTINF:0 tvg-id="ext" group-title="ALL",MTV Kosova
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/71
+#EXTINF:0 tvg-id="Kanali7.al" group-title="ALL",AL: Kanali 7
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/63
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: AmolTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/72
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tv D
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/73
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: TV LLapi
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/390
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ALB Qifteli
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/77
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="ALL",AL:Tëvë Novela
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/275
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: TV Tema
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/74
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:RTSH Muzik
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/301
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTSH 24
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/302
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTSH 3
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/299
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTSH Shqip
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/193
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTK3 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/75
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTK4
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/76
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Gjurmë Shqipetare
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/290
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ALB UK
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/78
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="ALL",AL: Super Sport 1 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/81
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 2 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/82
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 3 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/83
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 4 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/84
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 5 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/326
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 6 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/327
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 7 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/328
+#EXTINF:0 tvg-id="TS1HD.al" group-title="ALL",AL: Tring Sport 1 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/258
+#EXTINF:0 tvg-id="TS2HD.al" group-title="ALL",AL: Tring Sport 2 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/329
+#EXTINF:0 tvg-id="TS3HD.al" group-title="ALL",AL: Tring Sport 3 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/259
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ArtSport 1 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/93
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ArtSport 2 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/94
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Artsport 3 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/95
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Artsport 4 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/322
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Artsport 5 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/323
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ArtSport 6 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/726
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Tring Sport News
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/600
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kujtesa Sport 1 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/90
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kujtesa Sport 2 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/91
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kujtesa Sport 3 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/92
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kujtesa Sport 4 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/97
+#EXTINF:0 tvg-id="DAZN1.de" group-title="ALL",DE: DAZN 1 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/100
+#EXTINF:0 tvg-id="DAZN2.de" group-title="ALL",DE: DAZN 2 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/101
+#EXTINF:0 tvg-id="ext" group-title="ALL",TR:TIVIBU Sport 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/642
+#EXTINF:0 tvg-id="ext" group-title="ALL",TR:TIVIBU Sport 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/643
+#EXTINF:0 tvg-id="ext" group-title="ALL",FR:Bein Sport 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/610
+#EXTINF:0 tvg-id="ext" group-title="ALL",FR:Bein Sport 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/611
+#EXTINF:0 tvg-id="ext" group-title="ALL",FR:Bein Sport 3
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/612
+#EXTINF:0 tvg-id="AljazeeraEng.il" group-title="ALL",AL JAZEERA
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/613
+#EXTINF:0 tvg-id="esp" group-title="ALL",Eurosport 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/98
+#EXTINF:0 tvg-id="esp2" group-title="ALL",Eurosport 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/99
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="ALL",DE: Sky Sport Bundesliga 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/128
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="ALL",DE: Sky Sport Bundesliga 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/129
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="ALL",DE: Sky Sport Bundesliga 3
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/130
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="ALL",DE: Sky Sport Bundesliga 4
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/131
+#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="ALL",DE: Sky Sport Bundesliga 5
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/132
+#EXTINF:0 tvg-id="SkyBundesliga6.de" group-title="ALL",DE: Sky Sport Bundesliga 6
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/133
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Sky Sport Bundesliga 7
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/134
+#EXTINF:0 tvg-id="SkyBundesliga8.de" group-title="ALL",DE: Sky Sport Bundesliga 8
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/135
+#EXTINF:0 tvg-id="SkyBundesliga9.de" group-title="ALL",DE: Sky Sport Bundesliga 9
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/136
+#EXTINF:0 tvg-id="SkyBundesliga10.de" group-title="ALL",DE: Sky Sport Bundesliga 10
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/137
+#EXTINF:0 tvg-id="SkySportAustria.de" group-title="ALL",DE: Sky Sport Austria
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/127
+#EXTINF:0 tvg-id="SkySport1.de" group-title="ALL",DE: Sky Sport 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/121
+#EXTINF:0 tvg-id="SkySport2.de" group-title="ALL",DE: Sky Sport 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/122
+#EXTINF:0 tvg-id="SkySport3.de" group-title="ALL",DE: Sky Sport 3
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/123
+#EXTINF:0 tvg-id="SkySport4.de" group-title="ALL",DE: Sky Sport 4
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/124
+#EXTINF:0 tvg-id="SkySport5.de" group-title="ALL",DE: Sky Sport 5
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/125
+#EXTINF:0 tvg-id="SkySport6.de" group-title="ALL",DE: Sky Sport 6
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/126
+#EXTINF:0 tvg-id="ESPN.nl" group-title="ALL",NL: FOX Sports 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/253
+#EXTINF:0 tvg-id="ext" group-title="ALL",NL: ESPN sports 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/254
+#EXTINF:0 tvg-id="ext" group-title="ALL",NL: ESPN Sports 3
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/255
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Delux Music
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/356
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Toggo
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/445
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="ALL",DE: Super RTL
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/138
+#EXTINF:0 tvg-id="disneychannel.de" group-title="ALL",DE: Disney Channel
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/633
+#EXTINF:0 tvg-id="Nickelodeon.de" group-title="ALL",DE: Nickelodeon
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/590
+#EXTINF:0 tvg-id="DasErste.de" group-title="ALL",DE: ARD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/226
+#EXTINF:0 tvg-id="ZDF.de" group-title="ALL",DE: ZDF
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/227
+#EXTINF:0 tvg-id="Sat1.de" group-title="ALL",DE: Sat.1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/152
+#EXTINF:0 tvg-id="RTL.de" group-title="ALL",DE: RTL
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/144
+#EXTINF:0 tvg-id="RTL2.de" group-title="ALL",DE: RTL II
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/145
+#EXTINF:0 tvg-id="Pro7.de" group-title="ALL",DE: ProSieben
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/148
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Prosiben MAX
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/674
+#EXTINF:0 tvg-id="VOX.ch" group-title="ALL",DE: VOX
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/150
+#EXTINF:0 tvg-id="Kabel.de" group-title="ALL",DE: kabel eins
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/146
+#EXTINF:0 tvg-id="tagesschau24.de" group-title="ALL",DE: Tagesschau 24
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/335
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:N24 Doku HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/637
+#EXTINF:0 tvg-id="DMAX.ch" group-title="ALL",DE: DMAX HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/288
+#EXTINF:0 tvg-id="ntv.de" group-title="ALL",DE: n-tv
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/151
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="ALL",DE: RTL Nitro
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/252
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Kabel 1 Doku
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/330
+#EXTINF:0 tvg-id="history-rus" group-title="ALL",History
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/169
+#EXTINF:0 tvg-id="DiscoveryChannel.de" group-title="ALL",DE: Discovery Channel
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/315
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="ALL",DE: Animal Planet
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/236
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="ALL",DE: Nat Geo Wild
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/170
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="ALL",DE: Nat Geographic HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/171
+#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="ALL",DE: Kabel Eins Classics
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/662
+#EXTINF:0 tvg-id="13thStreet.de" group-title="ALL",DE: 13th Street HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/159
+#EXTINF:0 tvg-id="SkyReplay.de" group-title="ALL",Sky Replay HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/160
+#EXTINF:0 tvg-id="WarnerTVSerie.de" group-title="ALL",Warner Serie
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/167
+#EXTINF:0 tvg-id="SciFi.de" group-title="ALL",DE: Syfy
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/162
+#EXTINF:0 tvg-id="SkyAction.de" group-title="ALL",DE: Sky Action
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/286
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Sky Cinema Classics
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/173
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Sky Cinema Premieren
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/614
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Sky Cinema Best of Hits
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/615
+#EXTINF:0 tvg-id="MotorVision.de" group-title="ALL",DE: Motorvision
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/406
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Ferma VIP 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/644
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Ferma Vip2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/404
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:BigBrother VIP Kosova 1
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/411
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:BigBrother VIP Kosova 2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/412
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TerraHD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/456
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:21 Plus
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/459
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TV Fontana
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/460
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:21 Mix
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/462
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TurboChannel
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/463
+#EXTINF:0 tvg-id="fashion" group-title="ALL",FashionTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/465
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:GameTon
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/466
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Premium
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/469
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Xtream Sport
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/470
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Fox
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/471
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FoxCrime
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/472
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Fox Life
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/473
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:StarTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/474
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Family
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/475
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Stars
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/476
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Extra
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/477
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Arthous
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/478
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Fax News
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/480
+#EXTINF:0 tvg-id="ext" group-title="ALL",MK:MPT2
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/482
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:OpinionTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/483
+#EXTINF:0 tvg-id="ext" group-title="ALL",Ballkanika
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/485
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:MTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/487
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:DW-TV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/467
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:MTV Hits
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/488
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Istogu Channels
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/489
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:VH1 Classic
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/490
+#EXTINF:0 tvg-id="euro" group-title="ALL",Euronews
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/491
+#EXTINF:0 tvg-id="France24.fr" group-title="ALL",FR:France24
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/492
+#EXTINF:0 tvg-id="ext" group-title="ALL",TR:TRT World
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/493
+#EXTINF:0 tvg-id="StarHD.tr" group-title="ALL",TR: Star TV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/183
+#EXTINF:0 tvg-id="ext" group-title="ALL",SR:B92
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/439
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Positive GOLD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/529
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Suite TV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/531
+#EXTINF:0 tvg-id="360TuneBox.cz" group-title="ALL",DE:360 TuneBOX
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/532
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="ALL",TR:TRT Turk
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/591
+#EXTINF:0 tvg-id="ext" group-title="ALL",TR:ShowTurk
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/592
+#EXTINF:0 tvg-id="ext" group-title="ALL",TR:ATV HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/593
+#EXTINF:0 tvg-id="ext" group-title="ALL",TR:Kanal 7 Turk
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/594
+#EXTINF:0 tvg-id="ext" group-title="ALL",TR:TV 8 HD
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/595
+#EXTINF:0 tvg-id="ext" group-title="ALL",TR:Dost TV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/596
+#EXTINF:0 tvg-id="ext" group-title="ALL",TR:Tek Rumeli
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/597
+#EXTINF:0 tvg-id="KralTV.tr" group-title="ALL",TR:Kral TV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/599
+#EXTINF:0 tvg-id="NTV.tr" group-title="ALL",TR:NTV
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/645
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Aksion
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/681
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Comedy
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/682
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Dokumentar
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/683
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Drame
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/684
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Film
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/685
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Hits
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/686
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Kalamanjt
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/687
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Dokumentar
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/689
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Premier
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/690
+#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Thirller
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/691
+#EXTINF:0 tvg-id="Dokusat.de" group-title="ALL",DE: DokuSat
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/704
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Animals
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/706
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Anime
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/707
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Documentaries
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/708
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Explore
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/709
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto History
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/710
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Sky Documentaries
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/715
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: RTL+
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/716
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Deluxe RAP
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/717
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: MTV Latino
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/718
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: NOW 90`s
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/719
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Tv Western
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/720
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Tv True Crime
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/721
+#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Rakuten Tv TOP Mouvies
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/722
+#EXTINF:0 tvg-id="AXN.de" group-title="ALL",DE: AXN
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/727
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="ALL",DE: Sky Select 4
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/728
+#EXTINF:0 tvg-id="SkySelect5.de" group-title="ALL",DE: Sky Select 5
+http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/729
