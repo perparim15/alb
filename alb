@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DYN | Sport 25 FHD DE" tvg-logo="" group-title="Germany",DYN | Sport 25 FHD DE
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/119644
-#EXTINF:-1 tvg-id="Der Aktionar TV DE" tvg-name="Der Aktionär TV DE" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/aktionaer-tv-sender-logo-275883.png" group-title="Germany",Der Aktionär TV DE
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95662
 #EXTINF:-1 tvg-id="" tvg-name="##########   Albania   ##########" tvg-logo="http://tugapt.com/picons/albania.png" group-title="Albania",##########   Albania   ##########
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2521
 #EXTINF:-1 tvg-id="" tvg-name="Ferma 1 VIP AL" tvg-logo="" group-title="Albania",Ferma 1 VIP AL
