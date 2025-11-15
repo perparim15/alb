@@ -1,585 +1,943 @@
 #EXTM3U
-#EXTINF:0 tvg-id="RTK.al" group-title="ALL",AL: RTK
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/1
-#EXTINF:0 tvg-id="RTV21.al" group-title="ALL",AL: RTV 21 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/2
-#EXTINF:0 tvg-id="KTV.al" group-title="ALL",AL: KTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/3
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="ALL",AL: Klan Kosova
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/4
-#EXTINF:0 tvg-id="AlsatM.al" group-title="ALL",AL: Alsat M
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/5
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="ALL",AL: Klan TV HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/6
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="ALL",AL: Top Channel HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/7
-#EXTINF:0 tvg-id="T7.al" group-title="ALL",AL: T7 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/8
-#EXTINF:0 tvg-id="DTV.al" group-title="ALL",AL:DTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/464
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kanal 10
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/10
-#EXTINF:0 tvg-id="TopNews.al" group-title="ALL",AL: Top News
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/13
-#EXTINF:0 tvg-id="TVDukagjini.al" group-title="ALL",AL: TV Dukagjini
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/11
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ATV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/233
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Tëvë 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/355
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: TV Dielli
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/9
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Arta News HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/12
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Klan News
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/373
-#EXTINF:0 tvg-id="News24.al" group-title="ALL",AL: News 24
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/374
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: EuroNews Albania
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/184
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ReportTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/325
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: TV Mitrovica
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/298
-#EXTINF:0 tvg-id="PeaceTV.al" group-title="ALL",AL: Peace TV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/234
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:RTI Islam
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/316
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Besa Tv
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/438
-#EXTINF:0 tvg-id="3Plus.al" group-title="ALL",AL: 3 Plus
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/14
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="ALL",AL: Vizion Plus
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/50
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: KanalD Drama
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/202
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Klan Plus HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/79
-#EXTINF:0 tvg-id="TringTring.al" group-title="ALL",AL: Tring Tring
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/15
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tring Kids
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/16
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Tring TIP TV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/437
-#EXTINF:0 tvg-id="Sofia.al" group-title="ALL",AL: Sofia
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/17
-#EXTINF:0 tvg-id="BangBang.al" group-title="ALL",AL: Bang Bang
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/18
-#EXTINF:0 tvg-id="CufoTV.al" group-title="ALL",AL: Cufo
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/19
-#EXTINF:0 tvg-id="BabyTV.al" group-title="ALL",AL: Baby TV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/20
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Prince Kids
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/21
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TaoTao
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/461
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Art Kids 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/178
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Pro 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/660
-#EXTINF:0 tvg-id="EXPShkence.al" group-title="ALL",AL: EXP Shkence
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/22
-#EXTINF:0 tvg-id="EXPNatyra.al" group-title="ALL",AL: EXP Natyra
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/23
-#EXTINF:0 tvg-id="EXPHistori.al" group-title="ALL",AL: EXP Histori
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/24
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Doku 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/36
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Doku 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/37
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ID Discovery
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/442
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="ALL",AL: Film Aksion
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/25
-#EXTINF:0 tvg-id="FilmHits.al" group-title="ALL",AL: Film Hits
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/26
-#EXTINF:0 tvg-id="FilmAutor.al" group-title="ALL",AL: Film Autor
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/27
-#EXTINF:0 tvg-id="FilmThriller.al" group-title="ALL",AL: Film Thriller
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/28
-#EXTINF:0 tvg-id="FilmKomedi.al" group-title="ALL",AL: Film Komedi
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/29
-#EXTINF:0 tvg-id="FilmDrame.al" group-title="ALL",AL: Film Drame
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/30
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Film MAX HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/31
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Film Gold HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/32
-#EXTINF:0 tvg-id="EuroFilm.al" group-title="ALL",AL: EuroFilm
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/207
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Family
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/208
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Kino 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/33
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Kino 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/34
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ART Kino 3
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/35
-#EXTINF:0 tvg-id="Stinet.al" group-title="ALL",AL: Stinët
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/209
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Prime
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/51
-#EXTINF:0 tvg-id="Episode.al" group-title="ALL",AL: Episode
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/52
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: BeatTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/53
-#EXTINF:0 tvg-id="Gurmania.al" group-title="ALL",AL: Gurmania
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/80
-#EXTINF:0 tvg-id="TringFantazi.al" group-title="ALL",AL: Tring Fantasy
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/38
-#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="ALL",AL: Tring Shqip
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/368
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tring Action
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/39
-#EXTINF:0 tvg-id="TringSuper.al" group-title="ALL",AL: Tring Super
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/40
-#EXTINF:0 tvg-id="TringComedy.al" group-title="ALL",AL: Tring Komedi
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/347
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tring Classic
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/367
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Tring Collection
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/441
-#EXTINF:0 tvg-id="TringPlanet.al" group-title="ALL",AL: Tring Planet
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/42
-#EXTINF:0 tvg-id="Smile.al" group-title="ALL",AL: Tring Smile
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/43
-#EXTINF:0 tvg-id="TringLife.al" group-title="ALL",AL: Tring Life
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/44
-#EXTINF:0 tvg-id="T-Hist.al" group-title="ALL",AL: Tring History
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/45
-#EXTINF:0 tvg-id="TringWorld.al" group-title="ALL",AL: Tring World
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/46
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tring Series HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/48
-#EXTINF:0 tvg-id="Living.al" group-title="ALL",AL: Living
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/49
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: DigiGold Film 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/370
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: DigiGold Film 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/371
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: DigiGold Film 3
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/372
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Extrem Gold 4
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/376
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: 7HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/185
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Cinema 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/194
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Cinema 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/195
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Premiere 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/174
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Premiere 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/175
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Premiere 3
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/176
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Premiere 4
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/177
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Shqip
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/664
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Novela
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/665
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Drame
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/666
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Fantazi
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/667
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Aksion
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/668
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Kids 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/669
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Teve Kids 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/670
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TEVE Doku 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/671
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TEVE DOKU 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/672
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Sky Planet
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/55
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Galaxy HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/56
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Sky MAX
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/57
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="ALL",AL: Sky Aksion
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/58
-#EXTINF:0 tvg-id="FilmKomedi.al" group-title="ALL",AL: Sky Komedi
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/60
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Sky Shkenca
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/61
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Sky Drame
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/62
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Sky Shqip
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/457
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Sky Novela
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/458
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Teve Novela
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/479
-#EXTINF:0 tvg-id="21Popullore.al" group-title="ALL",Al: 21 Popullore
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/318
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ZicoTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/64
-#EXTINF:0 tvg-id="ONTV.al" group-title="ALL",AL: ON TV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/65
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: FirstTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/66
-#EXTINF:0 tvg-id="BBF.al" group-title="ALL",AL: BBF
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/67
-#EXTINF:0 tvg-id="Elrodi.al" group-title="ALL",AL: Elrodi
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/68
-#EXTINF:0 tvg-id="FolkPlus.al" group-title="ALL",AL: Folk +
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/69
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:OpojaTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/436
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:AlbSe
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/440
-#EXTINF:0 tvg-id="ext" group-title="ALL",MTV Kosova
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/71
-#EXTINF:0 tvg-id="Kanali7.al" group-title="ALL",AL: Kanali 7
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/63
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: AmolTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/72
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Tv D
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/73
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: TV LLapi
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/390
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ALB Qifteli
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/77
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="ALL",AL:Tëvë Novela
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/275
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: TV Tema
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/74
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:RTSH Muzik
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/301
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTSH 24
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/302
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTSH 3
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/299
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTSH Shqip
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/193
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTK3 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/75
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: RTK4
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/76
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Gjurmë Shqipetare
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/290
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ALB UK
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/78
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="ALL",AL: Super Sport 1 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/81
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 2 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/82
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 3 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/83
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 4 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/84
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 5 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/326
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 6 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/327
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Super Sport 7 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/328
-#EXTINF:0 tvg-id="TS1HD.al" group-title="ALL",AL: Tring Sport 1 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/258
-#EXTINF:0 tvg-id="TS2HD.al" group-title="ALL",AL: Tring Sport 2 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/329
-#EXTINF:0 tvg-id="TS3HD.al" group-title="ALL",AL: Tring Sport 3 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/259
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ArtSport 1 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/93
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: ArtSport 2 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/94
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Artsport 3 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/95
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Artsport 4 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/322
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Artsport 5 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/323
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ArtSport 6 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/726
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Tring Sport News
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/600
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kujtesa Sport 1 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/90
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kujtesa Sport 2 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/91
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kujtesa Sport 3 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/92
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Kujtesa Sport 4 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/97
-#EXTINF:0 tvg-id="DAZN1.de" group-title="ALL",DE: DAZN 1 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/100
-#EXTINF:0 tvg-id="DAZN2.de" group-title="ALL",DE: DAZN 2 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/101
-#EXTINF:0 tvg-id="ext" group-title="ALL",TR:TIVIBU Sport 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/642
-#EXTINF:0 tvg-id="ext" group-title="ALL",TR:TIVIBU Sport 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/643
-#EXTINF:0 tvg-id="ext" group-title="ALL",FR:Bein Sport 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/610
-#EXTINF:0 tvg-id="ext" group-title="ALL",FR:Bein Sport 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/611
-#EXTINF:0 tvg-id="ext" group-title="ALL",FR:Bein Sport 3
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/612
-#EXTINF:0 tvg-id="AljazeeraEng.il" group-title="ALL",AL JAZEERA
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/613
-#EXTINF:0 tvg-id="esp" group-title="ALL",Eurosport 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/98
-#EXTINF:0 tvg-id="esp2" group-title="ALL",Eurosport 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/99
-#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="ALL",DE: Sky Sport Bundesliga 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/128
-#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="ALL",DE: Sky Sport Bundesliga 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/129
-#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="ALL",DE: Sky Sport Bundesliga 3
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/130
-#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="ALL",DE: Sky Sport Bundesliga 4
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/131
-#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="ALL",DE: Sky Sport Bundesliga 5
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/132
-#EXTINF:0 tvg-id="SkyBundesliga6.de" group-title="ALL",DE: Sky Sport Bundesliga 6
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/133
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Sky Sport Bundesliga 7
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/134
-#EXTINF:0 tvg-id="SkyBundesliga8.de" group-title="ALL",DE: Sky Sport Bundesliga 8
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/135
-#EXTINF:0 tvg-id="SkyBundesliga9.de" group-title="ALL",DE: Sky Sport Bundesliga 9
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/136
-#EXTINF:0 tvg-id="SkyBundesliga10.de" group-title="ALL",DE: Sky Sport Bundesliga 10
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/137
-#EXTINF:0 tvg-id="SkySportAustria.de" group-title="ALL",DE: Sky Sport Austria
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/127
-#EXTINF:0 tvg-id="SkySport1.de" group-title="ALL",DE: Sky Sport 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/121
-#EXTINF:0 tvg-id="SkySport2.de" group-title="ALL",DE: Sky Sport 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/122
-#EXTINF:0 tvg-id="SkySport3.de" group-title="ALL",DE: Sky Sport 3
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/123
-#EXTINF:0 tvg-id="SkySport4.de" group-title="ALL",DE: Sky Sport 4
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/124
-#EXTINF:0 tvg-id="SkySport5.de" group-title="ALL",DE: Sky Sport 5
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/125
-#EXTINF:0 tvg-id="SkySport6.de" group-title="ALL",DE: Sky Sport 6
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/126
-#EXTINF:0 tvg-id="ESPN.nl" group-title="ALL",NL: FOX Sports 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/253
-#EXTINF:0 tvg-id="ext" group-title="ALL",NL: ESPN sports 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/254
-#EXTINF:0 tvg-id="ext" group-title="ALL",NL: ESPN Sports 3
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/255
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Delux Music
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/356
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Toggo
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/445
-#EXTINF:0 tvg-id="SuperRTL.de" group-title="ALL",DE: Super RTL
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/138
-#EXTINF:0 tvg-id="disneychannel.de" group-title="ALL",DE: Disney Channel
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/633
-#EXTINF:0 tvg-id="Nickelodeon.de" group-title="ALL",DE: Nickelodeon
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/590
-#EXTINF:0 tvg-id="DasErste.de" group-title="ALL",DE: ARD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/226
-#EXTINF:0 tvg-id="ZDF.de" group-title="ALL",DE: ZDF
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/227
-#EXTINF:0 tvg-id="Sat1.de" group-title="ALL",DE: Sat.1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/152
-#EXTINF:0 tvg-id="RTL.de" group-title="ALL",DE: RTL
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/144
-#EXTINF:0 tvg-id="RTL2.de" group-title="ALL",DE: RTL II
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/145
-#EXTINF:0 tvg-id="Pro7.de" group-title="ALL",DE: ProSieben
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/148
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Prosiben MAX
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/674
-#EXTINF:0 tvg-id="VOX.ch" group-title="ALL",DE: VOX
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/150
-#EXTINF:0 tvg-id="Kabel.de" group-title="ALL",DE: kabel eins
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/146
-#EXTINF:0 tvg-id="tagesschau24.de" group-title="ALL",DE: Tagesschau 24
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/335
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:N24 Doku HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/637
-#EXTINF:0 tvg-id="DMAX.ch" group-title="ALL",DE: DMAX HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/288
-#EXTINF:0 tvg-id="ntv.de" group-title="ALL",DE: n-tv
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/151
-#EXTINF:0 tvg-id="RTLNitro.de" group-title="ALL",DE: RTL Nitro
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/252
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Kabel 1 Doku
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/330
-#EXTINF:0 tvg-id="history-rus" group-title="ALL",History
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/169
-#EXTINF:0 tvg-id="DiscoveryChannel.de" group-title="ALL",DE: Discovery Channel
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/315
-#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="ALL",DE: Animal Planet
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/236
-#EXTINF:0 tvg-id="NatGeoWild.de" group-title="ALL",DE: Nat Geo Wild
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/170
-#EXTINF:0 tvg-id="NatGeoHD.de" group-title="ALL",DE: Nat Geographic HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/171
-#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="ALL",DE: Kabel Eins Classics
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/662
-#EXTINF:0 tvg-id="13thStreet.de" group-title="ALL",DE: 13th Street HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/159
-#EXTINF:0 tvg-id="SkyReplay.de" group-title="ALL",Sky Replay HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/160
-#EXTINF:0 tvg-id="WarnerTVSerie.de" group-title="ALL",Warner Serie
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/167
-#EXTINF:0 tvg-id="SciFi.de" group-title="ALL",DE: Syfy
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/162
-#EXTINF:0 tvg-id="SkyAction.de" group-title="ALL",DE: Sky Action
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/286
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Sky Cinema Classics
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/173
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Sky Cinema Premieren
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/614
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Sky Cinema Best of Hits
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/615
-#EXTINF:0 tvg-id="MotorVision.de" group-title="ALL",DE: Motorvision
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/406
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Ferma VIP 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/644
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL: Ferma Vip2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/404
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:BigBrother VIP Kosova 1
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/411
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:BigBrother VIP Kosova 2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/412
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TerraHD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/456
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:21 Plus
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/459
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TV Fontana
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/460
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:21 Mix
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/462
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:TurboChannel
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/463
-#EXTINF:0 tvg-id="fashion" group-title="ALL",FashionTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/465
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:GameTon
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/466
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Premium
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/469
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Xtream Sport
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/470
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Fox
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/471
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FoxCrime
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/472
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Fox Life
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/473
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:StarTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/474
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Family
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/475
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Stars
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/476
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Extra
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/477
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:FilmBox Arthous
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/478
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Fax News
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/480
-#EXTINF:0 tvg-id="ext" group-title="ALL",MK:MPT2
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/482
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:OpinionTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/483
-#EXTINF:0 tvg-id="ext" group-title="ALL",Ballkanika
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/485
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:MTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/487
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:DW-TV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/467
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:MTV Hits
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/488
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:Istogu Channels
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/489
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:VH1 Classic
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/490
-#EXTINF:0 tvg-id="euro" group-title="ALL",Euronews
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/491
-#EXTINF:0 tvg-id="France24.fr" group-title="ALL",FR:France24
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/492
-#EXTINF:0 tvg-id="ext" group-title="ALL",TR:TRT World
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/493
-#EXTINF:0 tvg-id="StarHD.tr" group-title="ALL",TR: Star TV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/183
-#EXTINF:0 tvg-id="ext" group-title="ALL",SR:B92
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/439
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Positive GOLD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/529
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE:Suite TV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/531
-#EXTINF:0 tvg-id="360TuneBox.cz" group-title="ALL",DE:360 TuneBOX
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/532
-#EXTINF:0 tvg-id="TRTturk.tr" group-title="ALL",TR:TRT Turk
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/591
-#EXTINF:0 tvg-id="ext" group-title="ALL",TR:ShowTurk
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/592
-#EXTINF:0 tvg-id="ext" group-title="ALL",TR:ATV HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/593
-#EXTINF:0 tvg-id="ext" group-title="ALL",TR:Kanal 7 Turk
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/594
-#EXTINF:0 tvg-id="ext" group-title="ALL",TR:TV 8 HD
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/595
-#EXTINF:0 tvg-id="ext" group-title="ALL",TR:Dost TV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/596
-#EXTINF:0 tvg-id="ext" group-title="ALL",TR:Tek Rumeli
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/597
-#EXTINF:0 tvg-id="KralTV.tr" group-title="ALL",TR:Kral TV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/599
-#EXTINF:0 tvg-id="NTV.tr" group-title="ALL",TR:NTV
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/645
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Aksion
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/681
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Comedy
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/682
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Dokumentar
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/683
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Drame
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/684
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Film
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/685
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Hits
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/686
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Kalamanjt
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/687
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Dokumentar
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/689
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Premier
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/690
-#EXTINF:0 tvg-id="ext" group-title="ALL",AL:ISP Thirller
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/691
-#EXTINF:0 tvg-id="Dokusat.de" group-title="ALL",DE: DokuSat
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/704
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Animals
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/706
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Anime
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/707
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Documentaries
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/708
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Explore
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/709
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto History
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/710
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Sky Documentaries
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/715
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: RTL+
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/716
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Deluxe RAP
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/717
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: MTV Latino
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/718
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: NOW 90`s
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/719
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Tv Western
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/720
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Pluto Tv True Crime
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/721
-#EXTINF:0 tvg-id="ext" group-title="ALL",DE: Rakuten Tv TOP Mouvies
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/722
-#EXTINF:0 tvg-id="AXN.de" group-title="ALL",DE: AXN
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/727
-#EXTINF:0 tvg-id="SkySelect4.de" group-title="ALL",DE: Sky Select 4
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/728
-#EXTINF:0 tvg-id="SkySelect5.de" group-title="ALL",DE: Sky Select 5
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/729
+#EXTINF:-1 tvg-id="" tvg-name="DYN | Sport 25 FHD DE" tvg-logo="" group-title="Germany",DYN | Sport 25 FHD DE
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/119644
+#EXTINF:-1 tvg-id="Der Aktionar TV DE" tvg-name="Der Aktionär TV DE" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/aktionaer-tv-sender-logo-275883.png" group-title="Germany",Der Aktionär TV DE
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95662
+#EXTINF:-1 tvg-id="" tvg-name="##########   Albania   ##########" tvg-logo="http://tugapt.com/picons/albania.png" group-title="Albania",##########   Albania   ##########
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2521
+#EXTINF:-1 tvg-id="" tvg-name="Ferma 1 VIP AL" tvg-logo="" group-title="Albania",Ferma 1 VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118071
+#EXTINF:-1 tvg-id="" tvg-name="Ferma 2 VIP AL" tvg-logo="" group-title="Albania",Ferma 2 VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118072
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 FHD AL" tvg-logo="" group-title="Albania",Big Brother 1 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/117150
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 FHD AL" tvg-logo="" group-title="Albania",Big Brother 2 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/117151
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 HD Kosova AL" tvg-logo="" group-title="Albania",Big Brother 1 HD Kosova AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/116695
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 HD Kosova AL" tvg-logo="" group-title="Albania",Big Brother 2 HD Kosova AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/116696
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel AL" tvg-logo="" group-title="Albania",Top Channel AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/173
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD AL" tvg-logo="" group-title="Albania",Top Channel HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2154
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel FHD VIP AL" tvg-logo="" group-title="Albania",Top Channel FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19486
+#EXTINF:-1 tvg-id="Klan TV AL" tvg-name="Klan TV AL" tvg-logo="" group-title="Albania",Klan TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/171
+#EXTINF:-1 tvg-id="Klan TV HD AL" tvg-name="Klan HD AL" tvg-logo="" group-title="Albania",Klan HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/172
+#EXTINF:-1 tvg-id="" tvg-name="Klan FHD VIP AL" tvg-logo="" group-title="Albania",Klan FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19485
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus AL" tvg-logo="" group-title="Albania",Klan Plus AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/6423
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD AL" tvg-logo="" group-title="Albania",Klan Plus HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/170
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus FHD VIP AL" tvg-logo="" group-title="Albania",Klan Plus FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19484
+#EXTINF:-1 tvg-id="Klan Kosova AL" tvg-name="Klan Kosova AL" tvg-logo="" group-title="Albania",Klan Kosova AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/124
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD AL" tvg-logo="" group-title="Albania",Klan Kosova HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2150
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova FHD VIP AL" tvg-logo="" group-title="Albania",Klan Kosova FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19488
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus AL" tvg-logo="" group-title="Albania",Vizion Plus AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2135
+#EXTINF:-1 tvg-id="" tvg-name="Vizion+ HD AL" tvg-logo="" group-title="Albania",Vizion+ HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/169
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus FHD VIP AL" tvg-logo="" group-title="Albania",Vizion Plus FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19480
+#EXTINF:-1 tvg-id="" tvg-name="Alsat M AL" tvg-logo="data:image/png;base64,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" group-title="Albania",Alsat M AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/155
+#EXTINF:-1 tvg-id="Alsat M AL" tvg-name="Alsat M HD AL" tvg-logo="data:image/png;base64,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" group-title="Albania",Alsat M HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2152
+#EXTINF:-1 tvg-id="" tvg-name="Alsat M FHD VIP AL" tvg-logo="data:image/png;base64,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" group-title="Albania",Alsat M FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19487
+#EXTINF:-1 tvg-id="" tvg-name="TV Globi AL" tvg-logo="" group-title="Albania",TV Globi AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/94749
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 Gostivar FHD AL" tvg-logo="" group-title="Albania",TV 2 Gostivar FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/94750
+#EXTINF:-1 tvg-id="" tvg-name="MRT 1 AL" tvg-logo="" group-title="Albania",MRT 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2147
+#EXTINF:-1 tvg-id="" tvg-name="MRT 2 AL" tvg-logo="" group-title="Albania",MRT 2 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2146
+#EXTINF:-1 tvg-id="" tvg-name="MKTV 2 AL" tvg-logo="" group-title="Albania",MKTV 2 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5504
+#EXTINF:-1 tvg-id="" tvg-name="MRTV 2 FHD VIP AL" tvg-logo="" group-title="Albania",MRTV 2 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19479
+#EXTINF:-1 tvg-id="" tvg-name="Era TV AL" tvg-logo="" group-title="Albania",Era TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2115
+#EXTINF:-1 tvg-id="" tvg-name="Shenja TV AL" tvg-logo="" group-title="Albania",Shenja TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2116
+#EXTINF:-1 tvg-id="" tvg-name="TV Koha AL" tvg-logo="" group-title="Albania",TV Koha AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2114
+#EXTINF:-1 tvg-id="" tvg-name="TDC AL" tvg-logo="" group-title="Albania",TDC AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/80918
+#EXTINF:-1 tvg-id="" tvg-name="TDC FHD AL" tvg-logo="" group-title="Albania",TDC FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/80919
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama HD AL" tvg-logo="" group-title="Albania",Kanal D Drama HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/82730
+#EXTINF:-1 tvg-id="KTV AL" tvg-name="KTV HD AL" tvg-logo="" group-title="Albania",KTV HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2151
+#EXTINF:-1 tvg-id="" tvg-name="KTV FHD AL" tvg-logo="" group-title="Albania",KTV FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5700
+#EXTINF:-1 tvg-id="" tvg-name="KTV FHD VIP AL" tvg-logo="" group-title="Albania",KTV FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19491
+#EXTINF:-1 tvg-id="" tvg-name="1 First Kosova AL" tvg-logo="" group-title="Albania",1 First Kosova AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2118
+#EXTINF:-1 tvg-id="" tvg-name="First Channel AL" tvg-logo="" group-title="Albania",First Channel AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/151
+#EXTINF:-1 tvg-id="" tvg-name="First Chanel FHD VIP AL" tvg-logo="" group-title="Albania",First Chanel FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19476
+#EXTINF:-1 tvg-id="" tvg-name="T HD AL" tvg-logo="" group-title="Albania",T HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2153
+#EXTINF:-1 tvg-id="" tvg-name="T FHD VIP AL" tvg-logo="" group-title="Albania",T FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19463
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel AL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/travel-channel-uk.png" group-title="Albania",Travel Channel AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5545
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel FHD VIP AL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/travel-channel-uk.png" group-title="Albania",Travel Channel FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19462
+#EXTINF:-1 tvg-id="" tvg-name="T7 AL" tvg-logo="" group-title="Albania",T7 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/13185
+#EXTINF:-1 tvg-id="" tvg-name="T7 HD AL" tvg-logo="" group-title="Albania",T7 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/13186
+#EXTINF:-1 tvg-id="" tvg-name="T7 FHD VIP AL" tvg-logo="" group-title="Albania",T7 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19483
+#EXTINF:-1 tvg-id="" tvg-name="T7 Sport HD AL" tvg-logo="" group-title="Albania",T7 Sport HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/22882
+#EXTINF:-1 tvg-id="" tvg-name="TV Dukagjini HD AL" tvg-logo="" group-title="Albania",TV Dukagjini HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/138
+#EXTINF:-1 tvg-id="" tvg-name="TV Dukagjini FHD VIP AL" tvg-logo="" group-title="Albania",TV Dukagjini FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19481
+#EXTINF:-1 tvg-id="RTK AL" tvg-name="RTK 1 AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtk_1.png" group-title="Albania",RTK 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/168
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtk_1.png" group-title="Albania",RTK 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/75257
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD VIP AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtk_1.png" group-title="Albania",RTK 1 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19493
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 (BackUP) AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtk_1.png" group-title="Albania",RTK 1 (BackUP) AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5809
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2 AL" tvg-logo="" group-title="Albania",RTK 2 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/167
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2 (BackUP) AL" tvg-logo="" group-title="Albania",RTK 2 (BackUP) AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5810
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtk_3.png" group-title="Albania",RTK 3 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/166
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 (BackUP) AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtk_3.png" group-title="Albania",RTK 3 (BackUP) AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5811
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4 AL" tvg-logo="" group-title="Albania",RTK 4 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/165
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4 (BackUP) AL" tvg-logo="" group-title="Albania",RTK 4 (BackUP) AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5812
+#EXTINF:-1 tvg-id="RTV 21 AL" tvg-name="RTV21 AL" tvg-logo="" group-title="Albania",RTV21 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/164
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 (BackUP) AL" tvg-logo="" group-title="Albania",RTV21 (BackUP) AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5813
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD VIP AL" tvg-logo="" group-title="Albania",RTV 21 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19490
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Toksor AL" tvg-logo="" group-title="Albania",RTV21 Toksor AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5491
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 MK FHD VIP AL" tvg-logo="" group-title="Albania",RTV 21 MK FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19489
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Maqedonia AL" tvg-logo="" group-title="Albania",RTV21 Maqedonia AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/160
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Mix AL" tvg-logo="" group-title="Albania",RTV21 Mix AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/161
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix FHD VIP AL" tvg-logo="" group-title="Albania",RTV 21 Mix FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19474
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Newsbiz AL" tvg-logo="" group-title="Albania",RTV21 Newsbiz AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2145
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 NewsBiz FHD VIP AL" tvg-logo="" group-title="Albania",RTV 21 NewsBiz FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19470
+#EXTINF:-1 tvg-id="21 Junior AL" tvg-name="RTV21 Junior AL" tvg-logo="http://tugapt.com/picons/rtv21junioral.png" group-title="Albania",RTV21 Junior AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/159
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Plus AL" tvg-logo="" group-title="Albania",RTV21 Plus AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/163
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus FHD VIP AL" tvg-logo="" group-title="Albania",RTV 21 Plus FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19450
+#EXTINF:-1 tvg-id="21 Popullore AL" tvg-name="RTV21 Popullore AL" tvg-logo="" group-title="Albania",RTV21 Popullore AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/162
+#EXTINF:-1 tvg-id="21 Popullore AL" tvg-name="RTV 21 Popullore FHD VIP AL" tvg-logo="" group-title="Albania",RTV 21 Popullore FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19451
+#EXTINF:-1 tvg-id="" tvg-name="RTV Islam AL" tvg-logo="" group-title="Albania",RTV Islam AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5252
+#EXTINF:-1 tvg-id="" tvg-name="RTV Iliria HD AL" tvg-logo="" group-title="Albania",RTV Iliria HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/7121
+#EXTINF:-1 tvg-id="" tvg-name="RTV Pendimi AL" tvg-logo="" group-title="Albania",RTV Pendimi AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/13039
+#EXTINF:-1 tvg-id="" tvg-name="RTV Presheva AL" tvg-logo="" group-title="Albania",RTV Presheva AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3693
+#EXTINF:-1 tvg-id="" tvg-name="RTV MALISHEVA FHD AL" tvg-logo="" group-title="Albania",RTV MALISHEVA FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3692
+#EXTINF:-1 tvg-id="" tvg-name="RTV ILIRIDA HD AL" tvg-logo="" group-title="Albania",RTV ILIRIDA HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/29504
+#EXTINF:-1 tvg-id="RTSH 1 HD AL" tvg-name="RTSH 1 HD AL" tvg-logo="http://tugapt.com/picons/rtsh1.png" group-title="Albania",RTSH 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5582
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 FHD VIP AL" tvg-logo="" group-title="Albania",RTSH 1 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19492
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 2 HD AL" tvg-logo="" group-title="Albania",RTSH 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5581
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 3 HD AL" tvg-logo="" group-title="Albania",RTSH 3 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5580
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Film HD AL" tvg-logo="" group-title="Albania",RTSH Film HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5579
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Gjirokastra HD AL" tvg-logo="" group-title="Albania",RTSH Gjirokastra HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2134
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Korca HD AL" tvg-logo="" group-title="Albania",RTSH Korca HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2136
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Muzike AL" tvg-logo="" group-title="Albania",Rtsh Muzike AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/90923
+#EXTINF:-1 tvg-id="" tvg-name="TVSH HD AL" tvg-logo="" group-title="Albania",TVSH HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/158
+#EXTINF:-1 tvg-id="Film Nje HD AL" tvg-name="GOLD HD AL" tvg-logo="" group-title="Albania",GOLD HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/123
+#EXTINF:-1 tvg-id="" tvg-name="GOLD FHD VIP AL" tvg-logo="" group-title="Albania",GOLD FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19466
+#EXTINF:-1 tvg-id="" tvg-name="FILM 1 HD AL" tvg-logo="" group-title="Albania",FILM 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5496
+#EXTINF:-1 tvg-id="" tvg-name="MetiTV Max HD AL" tvg-logo="" group-title="Albania",MetiTV Max HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5495
+#EXTINF:-1 tvg-id="Film Dy HD AL" tvg-name="MAX HD AL" tvg-logo="" group-title="Albania",MAX HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/176
+#EXTINF:-1 tvg-id="" tvg-name="MAX FHD VIP AL" tvg-logo="" group-title="Albania",MAX FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19465
+#EXTINF:-1 tvg-id="Film Aksion AL" tvg-name="Film Aksion AL" tvg-logo="" group-title="Albania",Film Aksion AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2104
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion FHD AL" tvg-logo="" group-title="Albania",Film Aksion FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/107023
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits AL" tvg-logo="" group-title="Albania",Film Hits AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/150
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits FHD AL" tvg-logo="" group-title="Albania",Film Hits FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/91034
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits Plus 1 AL" tvg-logo="" group-title="Albania",Film Hits Plus 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5578
+#EXTINF:-1 tvg-id="Film Thriller AL" tvg-name="Film Thriller AL" tvg-logo="" group-title="Albania",Film Thriller AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/177
+#EXTINF:-1 tvg-id="Film Drame AL" tvg-name="Film Drame AL" tvg-logo="" group-title="Albania",Film Drame AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/175
+#EXTINF:-1 tvg-id="Film Komedi AL" tvg-name="Film Komedi AL" tvg-logo="" group-title="Albania",Film Komedi AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2103
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor AL" tvg-logo="" group-title="Albania",Film Autor AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/174
+#EXTINF:-1 tvg-id="" tvg-name="Film Stinet AL" tvg-logo="" group-title="Albania",Film Stinet AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2120
+#EXTINF:-1 tvg-id="" tvg-name="Film Junior TV AL" tvg-logo="" group-title="Albania",Film Junior TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5516
+#EXTINF:-1 tvg-id="" tvg-name="Family FHD VIP AL" tvg-logo="" group-title="Albania",Family FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19464
+#EXTINF:-1 tvg-id="Plus HD AL" tvg-name="Plus HD AL" tvg-logo="" group-title="Albania",Plus HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/688
+#EXTINF:-1 tvg-id="Explorer Histori AL" tvg-name="Explorer History AL" tvg-logo="" group-title="Albania",Explorer History AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/120
+#EXTINF:-1 tvg-id="Explorer Shkence AL" tvg-name="Explorer Shkence AL" tvg-logo="" group-title="Albania",Explorer Shkence AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/122
+#EXTINF:-1 tvg-id="Explorer Natyra AL" tvg-name="Explorer Natyra AL" tvg-logo="" group-title="Albania",Explorer Natyra AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/121
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super AL" tvg-logo="" group-title="Albania",Tring Super AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super FHD VIP AL" tvg-logo="" group-title="Albania",Tring Super FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19456
+#EXTINF:-1 tvg-id="" tvg-name="Tring Max Action AL" tvg-logo="" group-title="Albania",Tring Max Action AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2121
+#EXTINF:-1 tvg-id="" tvg-name="Tring Action FHD AL" tvg-logo="" group-title="Albania",Tring Action FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/107024
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tring_3plus.png" group-title="Albania",Tring 3+ AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2122
+#EXTINF:-1 tvg-id="" tvg-name="Tring Classic FHD AL" tvg-logo="" group-title="Albania",Tring Classic FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/101040
+#EXTINF:-1 tvg-id="" tvg-name="Tring Collection FHD AL" tvg-logo="" group-title="Albania",Tring Collection FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/101039
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy AL" tvg-logo="" group-title="Albania",Tring Comedy AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/133
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy AL" tvg-logo="" group-title="Albania",Tring Fantasy AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/131
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life AL" tvg-logo="" group-title="Albania",Tring Life AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2105
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip AL" tvg-logo="" group-title="Albania",Tring Shqip AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/108
+#EXTINF:-1 tvg-id="" tvg-name="Film Shqip AL" tvg-logo="" group-title="Albania",Film Shqip AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5554
+#EXTINF:-1 tvg-id="" tvg-name="Tring Smile AL" tvg-logo="" group-title="Albania",Tring Smile AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/135
+#EXTINF:-1 tvg-id="" tvg-name="Tring World AL" tvg-logo="" group-title="Albania",Tring World AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/136
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet AL" tvg-logo="" group-title="Albania",Tring Planet AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/134
+#EXTINF:-1 tvg-id="" tvg-name="Tring History AL" tvg-logo="" group-title="Albania",Tring History AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/132
+#EXTINF:-1 tvg-id="" tvg-name="TRING KIDS AL" tvg-logo="" group-title="Albania",TRING KIDS AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5492
+#EXTINF:-1 tvg-id="" tvg-name="Tring Tring AL" tvg-logo="" group-title="Albania",Tring Tring AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/110
+#EXTINF:-1 tvg-id="" tvg-name="Tring International FHD AL" tvg-logo="" group-title="Albania",Tring International FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104060
+#EXTINF:-1 tvg-id="" tvg-name="Tring Family FHD AL" tvg-logo="" group-title="Albania",Tring Family FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104059
+#EXTINF:-1 tvg-id="" tvg-name="Living HD AL" tvg-logo="" group-title="Albania",Living HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128
+#EXTINF:-1 tvg-id="" tvg-name="Living FHD VIP AL" tvg-logo="" group-title="Albania",Living FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19454
+#EXTINF:-1 tvg-id="" tvg-name="Jolly FHD VIP AL" tvg-logo="" group-title="Albania",Jolly FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19455
+#EXTINF:-1 tvg-id="" tvg-name="Tring Series FHD AL" tvg-logo="" group-title="Albania",Tring Series FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5242
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 10 FHD VIP AL" tvg-logo="" group-title="Albania",Kanal 10 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19475
+#EXTINF:-1 tvg-id="" tvg-name="Arta News FHD VIP AL" tvg-logo="" group-title="Albania",Arta News FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19471
+#EXTINF:-1 tvg-id="" tvg-name="Arta News AL" tvg-logo="" group-title="Albania",Arta News AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2111
+#EXTINF:-1 tvg-id="" tvg-name="TV Arta AL" tvg-logo="" group-title="Albania",TV Arta AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/113
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD VIP AL" tvg-logo="http://tugapt.com/picons/nationalgeographichdpt.png" group-title="Albania",National Geographic FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19459
+#EXTINF:-1 tvg-id="" tvg-name="News 24 FHD VIP AL" tvg-logo="" group-title="Albania",News 24 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19467
+#EXTINF:-1 tvg-id="" tvg-name="Ora News FHD VIP AL" tvg-logo="" group-title="Albania",Ora News FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19472
+#EXTINF:-1 tvg-id="" tvg-name="ID Xtra FHD VIP AL" tvg-logo="" group-title="Albania",ID Xtra FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19457
+#EXTINF:-1 tvg-id="" tvg-name="Channel One FHD VIP AL" tvg-logo="" group-title="Albania",Channel One FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19473
+#EXTINF:-1 tvg-id="" tvg-name="Discovery FHD VIP AL" tvg-logo="" group-title="Albania",Discovery FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19461
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD VIP AL" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="Albania",Discovery Science FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19460
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD VIP AL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/animal-planet-de.png" group-title="Albania",Animal Planet FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19458
+#EXTINF:-1 tvg-id="" tvg-name="Apollon News FHD VIP AL" tvg-logo="" group-title="Albania",Apollon News FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19469
+#EXTINF:-1 tvg-id="ABC News AL" tvg-name="Abc News FHD VIP AL" tvg-logo="" group-title="Albania",Abc News FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19468
+#EXTINF:-1 tvg-id="" tvg-name="Episode HD VIP AL" tvg-logo="" group-title="Albania",Episode HD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/21104
+#EXTINF:-1 tvg-id="" tvg-name="Art Doku 1 HD VIP AL" tvg-logo="" group-title="Albania",Art Doku 1 HD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/21103
+#EXTINF:-1 tvg-id="" tvg-name="Art Doku 2 HD VIP AL" tvg-logo="" group-title="Albania",Art Doku 2 HD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/21102
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 1 HD VIP AL" tvg-logo="" group-title="Albania",Art Kino 1 HD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/21107
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2 HD VIP AL" tvg-logo="" group-title="Albania",Art Kino 2 HD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/21106
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 HD VIP AL" tvg-logo="" group-title="Albania",Art Kino 3 HD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/21105
+#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV FHD VIP AL" tvg-logo="" group-title="Albania",Zjarr TV FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19453
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV AL" tvg-logo="" group-title="Albania",Elrodi TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2140
+#EXTINF:-1 tvg-id="" tvg-name="Syri Blue FHD AL" tvg-logo="" group-title="Albania",Syri Blue FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5546
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="" group-title="Albania",Dasma TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2138
+#EXTINF:-1 tvg-id="" tvg-name="Super Sonic AL" tvg-logo="" group-title="Albania",Super Sonic AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/114
+#EXTINF:-1 tvg-id="" tvg-name="Folklorit TV AL" tvg-logo="" group-title="Albania",Folklorit TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5519
+#EXTINF:-1 tvg-id="" tvg-name="Folk Plus AL" tvg-logo="" group-title="Albania",Folk Plus AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5520
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel TV AL" tvg-logo="" group-title="Albania",Turbo Channel TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5523
+#EXTINF:-1 tvg-id="" tvg-name="BBF Musik AL" tvg-logo="" group-title="Albania",BBF Musik AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2133
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja AL" tvg-logo="" group-title="Albania",TV Opoja AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2139
+#EXTINF:-1 tvg-id="" tvg-name="ON TV AL" tvg-logo="" group-title="Albania",ON TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5535
+#EXTINF:-1 tvg-id="" tvg-name="Tetova TV AL" tvg-logo="" group-title="Albania",Tetova TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2107
+#EXTINF:-1 tvg-id="" tvg-name="Music AL" tvg-logo="" group-title="Albania",Music AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/115
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova AL" tvg-logo="" group-title="Albania",MTV Kosova AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/116
+#EXTINF:-1 tvg-id="" tvg-name="Click TV AL" tvg-logo="" group-title="Albania",Click TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5517
+#EXTINF:-1 tvg-id="" tvg-name="City TV AL" tvg-logo="" group-title="Albania",City TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5521
+#EXTINF:-1 tvg-id="" tvg-name="Club TV AL" tvg-logo="" group-title="Albania",Club TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5518
+#EXTINF:-1 tvg-id="" tvg-name="Diaspora TV AL" tvg-logo="" group-title="Albania",Diaspora TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5525
+#EXTINF:-1 tvg-id="" tvg-name="MFM Musik AL" tvg-logo="" group-title="Albania",MFM Musik AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5529
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX HD AL" tvg-logo="" group-title="Albania",MUSIC BOX HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5493
+#EXTINF:-1 tvg-id="" tvg-name="STV-Folk AL" tvg-logo="" group-title="Albania",STV-Folk AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/146
+#EXTINF:-1 tvg-id="" tvg-name="TV Folk AL" tvg-logo="" group-title="Albania",TV Folk AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/139
+#EXTINF:-1 tvg-id="" tvg-name="AMOL TV AL" tvg-logo="" group-title="Albania",AMOL TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5539
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus Shkoder FHD VIP AL" tvg-logo="" group-title="Albania",Star Plus Shkoder FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19478
+#EXTINF:-1 tvg-id="Bang Bang AL" tvg-name="Bang Bang AL" tvg-logo="" group-title="Albania",Bang Bang AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2106
+#EXTINF:-1 tvg-id="Cufo TV AL" tvg-name="Cufo TV AL" tvg-logo="" group-title="Albania",Cufo TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2123
+#EXTINF:-1 tvg-id="" tvg-name="Alb Folk AL" tvg-logo="" group-title="Albania",Alb Folk AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/143
+#EXTINF:-1 tvg-id="" tvg-name="Alb Hits/Bulk AL" tvg-logo="" group-title="Albania",Alb Hits/Bulk AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5553
+#EXTINF:-1 tvg-id="" tvg-name="Alb Movie HD AL" tvg-logo="http://tugapt.com/picons/albmoviehdal.png" group-title="Albania",Alb Movie HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5313
+#EXTINF:-1 tvg-id="" tvg-name="Alb Popullore AL" tvg-logo="" group-title="Albania",Alb Popullore AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2097
+#EXTINF:-1 tvg-id="" tvg-name="Alb Western HD AL" tvg-logo="" group-title="Albania",Alb Western HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2126
+#EXTINF:-1 tvg-id="" tvg-name="Channel One HD AL" tvg-logo="" group-title="Albania",Channel One HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/126
+#EXTINF:-1 tvg-id="" tvg-name="Apollon AL" tvg-logo="" group-title="Albania",Apollon AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5315
+#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="" group-title="Albania",Top News AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2144
+#EXTINF:-1 tvg-id="ABC News AL" tvg-name="ABC News AL" tvg-logo="" group-title="Albania",ABC News AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118
+#EXTINF:-1 tvg-id="News 24 AL" tvg-name="News 24 AL" tvg-logo="" group-title="Albania",News 24 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2142
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="" group-title="Albania",News 24 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2141
+#EXTINF:-1 tvg-id="Ora News AL" tvg-name="Ora News HD AL" tvg-logo="" group-title="Albania",Ora News HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/119
+#EXTINF:-1 tvg-id="" tvg-name="S Aksion AL" tvg-logo="" group-title="Albania",S Aksion AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5549
+#EXTINF:-1 tvg-id="" tvg-name="S Drama AL" tvg-logo="" group-title="Albania",S Drama AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5550
+#EXTINF:-1 tvg-id="" tvg-name="S Histori AL" tvg-logo="" group-title="Albania",S Histori AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5547
+#EXTINF:-1 tvg-id="" tvg-name="S Novela AL" tvg-logo="" group-title="Albania",S Novela AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5501
+#EXTINF:-1 tvg-id="" tvg-name="Sky Planet FHD AL" tvg-logo="" group-title="Albania",Sky Planet FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5500
+#EXTINF:-1 tvg-id="" tvg-name="S Shkence AL" tvg-logo="" group-title="Albania",S Shkence AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5548
+#EXTINF:-1 tvg-id="" tvg-name="Kino Action AL" tvg-logo="" group-title="Albania",Kino Action AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5559
+#EXTINF:-1 tvg-id="" tvg-name="X Gold 1 HD AL" tvg-logo="" group-title="Albania",X Gold 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5556
+#EXTINF:-1 tvg-id="" tvg-name="Kino Family HD AL" tvg-logo="" group-title="Albania",Kino Family HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5557
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD AL" tvg-logo="" group-title="Albania",Kino Premiere 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2102
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 2 HD AL" tvg-logo="" group-title="Albania",Kino Premiere 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2101
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 3 HD AL" tvg-logo="" group-title="Albania",Kino Premiere 3 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2100
+#EXTINF:-1 tvg-id="" tvg-name="Kino Sci-Fi HD AL" tvg-logo="" group-title="Albania",Kino Sci-Fi HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5560
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 1 AL" tvg-logo="" group-title="Albania",Digi Gold 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/686
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 2 AL" tvg-logo="" group-title="Albania",Digi Gold 2 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/685
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 3 AL" tvg-logo="" group-title="Albania",Digi Gold 3 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/684
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 4 AL" tvg-logo="" group-title="Albania",Digi Gold 4 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/683
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD AL" tvg-logo="" group-title="Albania",Fox HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5577
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life AL" tvg-logo="" group-title="Albania",Fox Life AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5576
+#EXTINF:-1 tvg-id="" tvg-name="Tema TV AL" tvg-logo="" group-title="Albania",Tema TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5243
+#EXTINF:-1 tvg-id="" tvg-name="Medina TV AL" tvg-logo="" group-title="Albania",Medina TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5245
+#EXTINF:-1 tvg-id="" tvg-name="Mekke TV AL" tvg-logo="" group-title="Albania",Mekke TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5246
+#EXTINF:-1 tvg-id="" tvg-name="Star+ Shkodra AL" tvg-logo="" group-title="Albania",Star+ Shkodra AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3705
+#EXTINF:-1 tvg-id="" tvg-name="JUG TV AL" tvg-logo="" group-title="Albania",JUG TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3707
+#EXTINF:-1 tvg-id="" tvg-name="Tip TV AL" tvg-logo="" group-title="Albania",Tip TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5515
+#EXTINF:-1 tvg-id="Peace TV AL" tvg-name="Peace TV AL" tvg-logo="" group-title="Albania",Peace TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2148
+#EXTINF:-1 tvg-id="" tvg-name="Muse AL" tvg-logo="" group-title="Albania",Muse AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/129
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo AL" tvg-logo="" group-title="Albania",Nat Geo AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5544
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime AL" tvg-logo="" group-title="Albania",Fox Crime AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5575
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV AL" tvg-logo="" group-title="Albania",Baby TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5533
+#EXTINF:-1 tvg-id="" tvg-name="Sofia TV AL" tvg-logo="" group-title="Albania",Sofia TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5514
+#EXTINF:-1 tvg-id="Digi Gold AL" tvg-name="Digi Gold AL" tvg-logo="" group-title="Albania",Digi Gold AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/687
+#EXTINF:-1 tvg-id="" tvg-name="Alb Action HD AL" tvg-logo="" group-title="Albania",Alb Action HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5555
+#EXTINF:-1 tvg-id="" tvg-name="Alb UK HD AL" tvg-logo="" group-title="Albania",Alb UK HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/154
+#EXTINF:-1 tvg-id="" tvg-name="TOP Estrada TV AL" tvg-logo="" group-title="Albania",TOP Estrada TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5528
+#EXTINF:-1 tvg-id="" tvg-name="Alb Humor 1 AL" tvg-logo="" group-title="Albania",Alb Humor 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2129
+#EXTINF:-1 tvg-id="" tvg-name="Alb Humor 2 AL" tvg-logo="" group-title="Albania",Alb Humor 2 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2128
+#EXTINF:-1 tvg-id="" tvg-name="Alb Thriller AL" tvg-logo="" group-title="Albania",Alb Thriller AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2127
+#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica AL" tvg-logo="" group-title="Albania",TV Mitrovica AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2112
+#EXTINF:-1 tvg-id="" tvg-name="In TV AL" tvg-logo="" group-title="Albania",In TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5542
+#EXTINF:-1 tvg-id="" tvg-name="AV TV AL" tvg-logo="" group-title="Albania",AV TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3690
+#EXTINF:-1 tvg-id="" tvg-name="AAB HD AL" tvg-logo="" group-title="Albania",AAB HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5503
+#EXTINF:-1 tvg-id="" tvg-name="Adria AL" tvg-logo="" group-title="Albania",Adria AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/125
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD AL" tvg-logo="" group-title="Albania",Animal Planet HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5543
+#EXTINF:-1 tvg-id="" tvg-name="Antena HD AL" tvg-logo="" group-title="Albania",Antena HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5508
+#EXTINF:-1 tvg-id="" tvg-name="Channel 7 AL" tvg-logo="" group-title="Albania",Channel 7 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3691
+#EXTINF:-1 tvg-id="" tvg-name="Dielli TV AL" tvg-logo="" group-title="Albania",Dielli TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5502
+#EXTINF:-1 tvg-id="" tvg-name="Docu Box HD AL" tvg-logo="" group-title="Albania",Docu Box HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5498
+#EXTINF:-1 tvg-id="" tvg-name="Drita TV (Test) AL" tvg-logo="" group-title="Albania",Drita TV (Test) AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3699
+#EXTINF:-1 tvg-id="" tvg-name="FAST AND FUN BOX HD AL" tvg-logo="" group-title="Albania",FAST AND FUN BOX HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5497
+#EXTINF:-1 tvg-id="" tvg-name="FILM BOX EXTRA HD AL" tvg-logo="" group-title="Albania",FILM BOX EXTRA HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5494
+#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 AL" tvg-logo="" group-title="Albania",Kanali 7 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2143
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 10 FHD AL" tvg-logo="" group-title="Albania",Kanal 10 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/90912
+#EXTINF:-1 tvg-id="" tvg-name="Kitchen AL" tvg-logo="" group-title="Albania",Kitchen AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5506
+#EXTINF:-1 tvg-id="" tvg-name="KSport Islam TV AL" tvg-logo="" group-title="Albania",KSport Islam TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5254
+#EXTINF:-1 tvg-id="My Music AL" tvg-name="My Music AL" tvg-logo="" group-title="Albania",My Music AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/117
+#EXTINF:-1 tvg-id="" tvg-name="Report TV AL" tvg-logo="" group-title="Albania",Report TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5536
+#EXTINF:-1 tvg-id="" tvg-name="Roma TV AL" tvg-logo="" group-title="Albania",Roma TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5531
+#EXTINF:-1 tvg-id="" tvg-name="3 Plus AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tring_3plus.png" group-title="Albania",3 Plus AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2117
+#EXTINF:-1 tvg-id="" tvg-name="Smile TV AL" tvg-logo="" group-title="Albania",Smile TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5540
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry HD AL" tvg-logo="https://logodix.com/logo/330403.png" group-title="Albania",Tom And Jerry HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/10558
+#EXTINF:-1 tvg-id="" tvg-name="TOP Music AL" tvg-logo="" group-title="Albania",TOP Music AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5532
+#EXTINF:-1 tvg-id="" tvg-name="TV 1 Shkoder AL" tvg-logo="" group-title="Albania",TV 1 Shkoder AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/111
+#EXTINF:-1 tvg-id="" tvg-name="TV Apollon AL" tvg-logo="" group-title="Albania",TV Apollon AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/112
+#EXTINF:-1 tvg-id="" tvg-name="TV ASHKALI ILAHI HD AL" tvg-logo="" group-title="Albania",TV ASHKALI ILAHI HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/29994
+#EXTINF:-1 tvg-id="" tvg-name="TV Dibra AL" tvg-logo="" group-title="Albania",TV Dibra AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/148
+#EXTINF:-1 tvg-id="" tvg-name="TV Opinion AL" tvg-logo="" group-title="Albania",TV Opinion AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5522
+#EXTINF:-1 tvg-id="" tvg-name="TV Syri Vision AL" tvg-logo="" group-title="Albania",TV Syri Vision AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3710
+#EXTINF:-1 tvg-id="" tvg-name="TV Tirana AL" tvg-logo="" group-title="Albania",TV Tirana AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/137
+#EXTINF:-1 tvg-id="" tvg-name="TV Mix Islam HD AL" tvg-logo="" group-title="Albania",TV Mix Islam HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/14169
+#EXTINF:-1 tvg-id="" tvg-name="Syri Vision TV AL" tvg-logo="" group-title="Albania",Syri Vision TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5499
+#EXTINF:-1 tvg-id="" tvg-name="X Gold 2 HD AL" tvg-logo="" group-title="Albania",X Gold 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/14021
+#EXTINF:-1 tvg-id="" tvg-name="Zico TV HD AL" tvg-logo="" group-title="Albania",Zico TV HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/149
+#EXTINF:-1 tvg-id="" tvg-name="Shota TV AL" tvg-logo="" group-title="Albania",Shota TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/29503
+#EXTINF:-1 tvg-id="" tvg-name="Euro Film HD AL" tvg-logo="" group-title="Albania",Euro Film HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/29498
+#EXTINF:-1 tvg-id="" tvg-name="Euro Film 1 HD AL" tvg-logo="" group-title="Albania",Euro Film 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/29499
+#EXTINF:-1 tvg-id="" tvg-name="MetiTV Gold HD AL" tvg-logo="" group-title="Albania",MetiTV Gold HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/29500
+#EXTINF:-1 tvg-id="" tvg-name="MetiTV Film HD AL" tvg-logo="" group-title="Albania",MetiTV Film HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/29501
+#EXTINF:-1 tvg-id="" tvg-name="MetiTV Aksion HD AL" tvg-logo="" group-title="Albania",MetiTV Aksion HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/29502
+#EXTINF:-1 tvg-id="" tvg-name="KS Premiere 1 AL" tvg-logo="" group-title="Albania",KS Premiere 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/14032
+#EXTINF:-1 tvg-id="" tvg-name="KS Premiere 2 AL" tvg-logo="" group-title="Albania",KS Premiere 2 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/14031
+#EXTINF:-1 tvg-id="" tvg-name="KS Premiere 3 AL" tvg-logo="" group-title="Albania",KS Premiere 3 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/14030
+#EXTINF:-1 tvg-id="" tvg-name="KS Premiere 4 AL" tvg-logo="" group-title="Albania",KS Premiere 4 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/14029
+#EXTINF:-1 tvg-id="" tvg-name="KS AKSION AL" tvg-logo="" group-title="Albania",KS AKSION AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/14023
+#EXTINF:-1 tvg-id="" tvg-name="KS COMEDY AL" tvg-logo="" group-title="Albania",KS COMEDY AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/14022
+#EXTINF:-1 tvg-id="" tvg-name="Tv 1 Channel Shkoder FHD VIP AL" tvg-logo="" group-title="Albania",Tv 1 Channel Shkoder FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19477
+#EXTINF:-1 tvg-id="" tvg-name="Tv Kopliku FHD VIP AL" tvg-logo="" group-title="Albania",Tv Kopliku FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19452
+#EXTINF:-1 tvg-id="" tvg-name="Motors TV AL" tvg-logo="" group-title="Albania",Motors TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5509
+#EXTINF:-1 tvg-id="EuroSport AL" tvg-name="EuroSport 1 FHD VIP AL" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Albania",EuroSport 1 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19439
+#EXTINF:-1 tvg-id="EuroSport AL" tvg-name="Eurosport 1 HD AL" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Albania",Eurosport 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5511
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 FHD VIP AL" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="Albania",EuroSport 2 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19438
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD AL" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="Albania",Eurosport 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5510
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport FHD VIP AL" tvg-logo="" group-title="Albania",RTSH Sport FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19433
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport AL" tvg-logo="" group-title="Albania",RTSH Sport AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/156
+#EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 1 HD AL" tvg-logo="" group-title="Albania",OVERSPORT 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/102492
+#EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 2 HD AL" tvg-logo="" group-title="Albania",OVERSPORT 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/102493
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 1 AL" tvg-logo="" group-title="Albania",K Sport 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/676
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 2 AL" tvg-logo="" group-title="Albania",K Sport 2 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/675
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 3 AL" tvg-logo="" group-title="Albania",K Sport 3 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/674
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 4 AL" tvg-logo="" group-title="Albania",K Sport 4 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/673
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1 HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport1_hd.png" group-title="Albania",Super Sport 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/680
+#EXTINF:-1 tvg-id="Super Sport 2 AL" tvg-name="Super Sport 2 FHD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport2_hd.png" group-title="Albania",Super Sport 2 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/679
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport3_hd.png" group-title="Albania",Super Sport 3 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/678
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport4_hd.png" group-title="Albania",Super Sport 4 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/677
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5 AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport5_hd.png" group-title="Albania",Super Sport 5 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5513
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 6 AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-6-al.png" group-title="Albania",Super Sport 6 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/5512
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport Kosova 1 AL" tvg-logo="" group-title="Albania",Super Sport Kosova 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/682
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport Kosova 2 AL" tvg-logo="" group-title="Albania",Super Sport Kosova 2 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/681
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 FHD VIP AL" tvg-logo="" group-title="Albania",Tring Sport 1 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19437
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 AL" tvg-logo="" group-title="Albania",Tring Sport 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/672
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 FHD VIP AL" tvg-logo="" group-title="Albania",Tring Sport 2 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19436
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD AL" tvg-logo="" group-title="Albania",Tring Sport 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/671
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 FHD VIP AL" tvg-logo="" group-title="Albania",Tring Sport 3 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19435
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 AL" tvg-logo="" group-title="Albania",Tring Sport 3 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/670
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 FHD VIP AL" tvg-logo="" group-title="Albania",Tring Sport 4 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19434
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 AL" tvg-logo="" group-title="Albania",Tring Sport 4 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/669
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1 FHD VIP AL" tvg-logo="" group-title="Albania",Art Sport 1 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/21101
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3 FHD VIP AL" tvg-logo="" group-title="Albania",Art Sport 3 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/21099
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport Kosova 1 FHD VIP AL" tvg-logo="" group-title="Albania",Super Sport Kosova 1 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19449
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport Kosova 2 FHD VIP AL" tvg-logo="" group-title="Albania",Super Sport Kosova 2 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19448
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport Kosova 3 FHD VIP AL" tvg-logo="" group-title="Albania",Super Sport Kosova 3 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19447
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1 FHD VIP AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport1_hd.png" group-title="Albania",Super Sport 1 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19446
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2 FHD VIP AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport2_hd.png" group-title="Albania",Super Sport 2 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19445
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 FHD VIP AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport3_hd.png" group-title="Albania",Super Sport 3 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19444
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 FHD VIP AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport4_hd.png" group-title="Albania",Super Sport 4 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19443
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5 FHD VIP AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport5_hd.png" group-title="Albania",Super Sport 5 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19442
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 6 FHD VIP AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-6-al.png" group-title="Albania",Super Sport 6 FHD VIP AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/19441
+#EXTINF:-1 tvg-id="" tvg-name="Tele One 1 HD AL" tvg-logo="" group-title="Albania",Tele One 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/75473
+#EXTINF:-1 tvg-id="" tvg-name="Tele One 2 HD AL" tvg-logo="" group-title="Albania",Tele One 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/75474
+#EXTINF:-1 tvg-id="" tvg-name="Tele One 3 HD AL" tvg-logo="" group-title="Albania",Tele One 3 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/75475
+#EXTINF:-1 tvg-id="" tvg-name="Tele One 4 HD AL" tvg-logo="" group-title="Albania",Tele One 4 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/75476
+#EXTINF:-1 tvg-id="" tvg-name="KS Horror HD AL" tvg-logo="" group-title="Albania",KS Horror HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78170
+#EXTINF:-1 tvg-id="" tvg-name="KS THRILLER HD AL" tvg-logo="" group-title="Albania",KS THRILLER HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78174
+#EXTINF:-1 tvg-id="" tvg-name="KS POPULLORE HD AL" tvg-logo="" group-title="Albania",KS POPULLORE HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78176
+#EXTINF:-1 tvg-id="" tvg-name="KS HUMOR HD AL" tvg-logo="" group-title="Albania",KS HUMOR HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78179
+#EXTINF:-1 tvg-id="" tvg-name="KS STUPCAT HD AL" tvg-logo="" group-title="Albania",KS STUPCAT HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78181
+#EXTINF:-1 tvg-id="" tvg-name="KS Kids HD AL" tvg-logo="" group-title="Albania",KS Kids HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78185
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 1 HD AL" tvg-logo="" group-title="Albania",K Sport 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78582
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 4 HD AL" tvg-logo="" group-title="Albania",K Sport 4 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78583
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 2 HD AL" tvg-logo="" group-title="Albania",K Sport 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78584
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 3 HD AL" tvg-logo="" group-title="Albania",K Sport 3 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78585
+#EXTINF:-1 tvg-id="" tvg-name="A2 AL" tvg-logo="" group-title="Albania",A2 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78677
+#EXTINF:-1 tvg-id="" tvg-name="FAX NEWS AL" tvg-logo="" group-title="Albania",FAX NEWS AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78678
+#EXTINF:-1 tvg-id="" tvg-name="Scan Tv AL" tvg-logo="" group-title="Albania",Scan Tv AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78679
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport News AL" tvg-logo="" group-title="Albania",Tring Sport News AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78680
+#EXTINF:-1 tvg-id="" tvg-name="Prince Kids HD AL" tvg-logo="" group-title="Albania",Prince Kids HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/78682
+#EXTINF:-1 tvg-id="EuroNews AL" tvg-name="EuroNews Albania AL" tvg-logo="http://tugapt.com/picons/euronews.png" group-title="Albania",EuroNews Albania AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/82795
+#EXTINF:-1 tvg-id="" tvg-name="RTV Aldi TV AL" tvg-logo="" group-title="Albania",RTV Aldi TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/83521
+#EXTINF:-1 tvg-id="" tvg-name="RTSH FEMIJE AL" tvg-logo="" group-title="Albania",RTSH FEMIJE AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95080
+#EXTINF:-1 tvg-id="" tvg-name="TV Syri AL" tvg-logo="" group-title="Albania",TV Syri AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/89762
+#EXTINF:-1 tvg-id="" tvg-name="Dark Popullore HD AL" tvg-logo="" group-title="Albania",Dark Popullore HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95187
+#EXTINF:-1 tvg-id="" tvg-name="Baby Bus TV FHD AL" tvg-logo="" group-title="Albania",Baby Bus TV FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95179
+#EXTINF:-1 tvg-id="" tvg-name="Tele one 5 HD AL" tvg-logo="" group-title="Albania",Tele one 5 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95178
+#EXTINF:-1 tvg-id="" tvg-name="Tele one 6 HD AL" tvg-logo="" group-title="Albania",Tele one 6 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95177
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Aksion HD AL" tvg-logo="" group-title="Albania",WebStar Aksion HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95175
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Komedi HD AL" tvg-logo="" group-title="Albania",WebStar Komedi HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95174
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Cinema HD AL" tvg-logo="" group-title="Albania",WebStar Cinema HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95173
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Thriller HD AL" tvg-logo="" group-title="Albania",WebStar Thriller HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95172
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Drame HD AL" tvg-logo="" group-title="Albania",WebStar Drame HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95171
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Cinema DE HD AL" tvg-logo="" group-title="Albania",WebStar Cinema DE HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95170
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Muzik HD AL" tvg-logo="" group-title="Albania",WebStar Muzik HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95169
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Popullore HD AL" tvg-logo="" group-title="Albania",WebStar Popullore HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95168
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Qifteli HD AL" tvg-logo="" group-title="Albania",WebStar Qifteli HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95167
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Music HD AL" tvg-logo="" group-title="Albania",WebStar Music HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95166
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Channel HD AL" tvg-logo="" group-title="Albania",WebStar Channel HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95165
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Islam HD AL" tvg-logo="" group-title="Albania",WebStar Islam HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95164
+#EXTINF:-1 tvg-id="" tvg-name="WebStar ChuChu TV AL" tvg-logo="" group-title="Albania",WebStar ChuChu TV AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95163
+#EXTINF:-1 tvg-id="" tvg-name="OnePrime Prime 1 FHD AL" tvg-logo="" group-title="Albania",OnePrime Prime 1 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118140
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 10 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 10 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118139
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 9 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 9 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118138
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 8 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 8 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118137
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 7 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 7 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118136
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 6 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 6 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118135
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 5 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 5 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118134
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 4 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 4 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118133
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 3 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 3 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118132
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 2 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118131
+#EXTINF:-1 tvg-id="" tvg-name="HS Shqip Cinemaá 1 HD AL" tvg-logo="" group-title="Albania",HS Shqip Cinemaá 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118130
+#EXTINF:-1 tvg-id="" tvg-name="Shqip 4 HD AL" tvg-logo="" group-title="Albania",Shqip 4 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118129
+#EXTINF:-1 tvg-id="" tvg-name="Shqip 3 HD AL" tvg-logo="" group-title="Albania",Shqip 3 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118128
+#EXTINF:-1 tvg-id="" tvg-name="Shqip 2 HD AL" tvg-logo="" group-title="Albania",Shqip 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118127
+#EXTINF:-1 tvg-id="" tvg-name="Shqip 1 HD AL" tvg-logo="" group-title="Albania",Shqip 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118126
+#EXTINF:-1 tvg-id="" tvg-name="StatiON Cine FHD AL" tvg-logo="" group-title="Albania",StatiON Cine FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118125
+#EXTINF:-1 tvg-id="" tvg-name="StatiON Prime FHD AL" tvg-logo="" group-title="Albania",StatiON Prime FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118124
+#EXTINF:-1 tvg-id="" tvg-name="StatiON Box FHD AL" tvg-logo="" group-title="Albania",StatiON Box FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118123
+#EXTINF:-1 tvg-id="" tvg-name="StatiON Top FHD AL" tvg-logo="" group-title="Albania",StatiON Top FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118122
+#EXTINF:-1 tvg-id="" tvg-name="StatiON Stars FHD AL" tvg-logo="" group-title="Albania",StatiON Stars FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118121
+#EXTINF:-1 tvg-id="" tvg-name="8ova Action FHD AL" tvg-logo="" group-title="Albania",8ova Action FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118120
+#EXTINF:-1 tvg-id="" tvg-name="8ova Drame FHD AL" tvg-logo="" group-title="Albania",8ova Drame FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118119
+#EXTINF:-1 tvg-id="" tvg-name="8ova Komedi FHD AL" tvg-logo="" group-title="Albania",8ova Komedi FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118118
+#EXTINF:-1 tvg-id="" tvg-name="8ova Thriller FHD AL" tvg-logo="" group-title="Albania",8ova Thriller FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118117
+#EXTINF:-1 tvg-id="" tvg-name="Kinema One HD AL" tvg-logo="" group-title="Albania",Kinema One HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118116
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Aksion HD AL" tvg-logo="" group-title="Albania",Kinema Aksion HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118115
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Max HD AL" tvg-logo="" group-title="Albania",Kinema Max HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118114
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Classics HD AL" tvg-logo="" group-title="Albania",Kinema Classics HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118113
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Drame HD AL" tvg-logo="" group-title="Albania",Kinema Drame HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118112
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Gold HD AL" tvg-logo="" group-title="Albania",Kinema Gold HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118111
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Family HD AL" tvg-logo="" group-title="Albania",Kinema Family HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118110
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Duck HD AL" tvg-logo="" group-title="Albania",Kinema Duck HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118109
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Sci-Fi HD AL" tvg-logo="" group-title="Albania",Kinema Sci-Fi HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118108
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Shqip HD AL" tvg-logo="" group-title="Albania",Kinema Shqip HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118107
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Premier HD AL" tvg-logo="" group-title="Albania",Kinema Premier HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118106
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 1 HD AL" tvg-logo="" group-title="Albania",Kinema Milenium 1 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118105
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 2 HD AL" tvg-logo="" group-title="Albania",Kinema Milenium 2 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118104
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 3 HD AL" tvg-logo="" group-title="Albania",Kinema Milenium 3 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118103
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 4 HD AL" tvg-logo="" group-title="Albania",Kinema Milenium 4 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118102
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Republika HD AL" tvg-logo="" group-title="Albania",Kinema Republika HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118101
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Partizani HD AL" tvg-logo="" group-title="Albania",Kinema Partizani HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118100
+#EXTINF:-1 tvg-id="" tvg-name="Kinema 17 N?ntori HD AL" tvg-logo="" group-title="Albania",Kinema 17 N?ntori HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118099
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Agimi HD AL" tvg-logo="" group-title="Albania",Kinema Agimi HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118098
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Dajti HD AL" tvg-logo="" group-title="Albania",Kinema Dajti HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118097
+#EXTINF:-1 tvg-id="" tvg-name="Tetova Thriller HD AL" tvg-logo="" group-title="Albania",Tetova Thriller HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95159
+#EXTINF:-1 tvg-id="" tvg-name="Tetova Humor HD AL" tvg-logo="" group-title="Albania",Tetova Humor HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95158
+#EXTINF:-1 tvg-id="" tvg-name="Tetova Ilahi HD AL" tvg-logo="" group-title="Albania",Tetova Ilahi HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95156
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Masha Orso AL" tvg-logo="" group-title="Albania",WebStar Masha Orso AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95122
+#EXTINF:-1 tvg-id="" tvg-name="KS EPIC HD AL" tvg-logo="" group-title="Albania",KS EPIC HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95120
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 24/7 FHD AL" tvg-logo="" group-title="Albania",Fast & Furious 24/7 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95119
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Aksion AL" tvg-logo="" group-title="Albania",Netflix Aksion AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95116
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Fantazi AL" tvg-logo="" group-title="Albania",Netflix Fantazi AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95115
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Komedi AL" tvg-logo="" group-title="Albania",Netflix Komedi AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95114
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror AL" tvg-logo="" group-title="Albania",Netflix Horror AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95113
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Aventure AL" tvg-logo="" group-title="Albania",Netflix Aventure AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95112
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Romance AL" tvg-logo="" group-title="Albania",Netflix Romance AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95111
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Femije AL" tvg-logo="" group-title="Albania",Netflix Femije AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95110
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Epik AL" tvg-logo="" group-title="Albania",Netflix Epik AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95109
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Relaks FHD AL" tvg-logo="" group-title="Albania",Netflix Relaks FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95108
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Spider-Man AL" tvg-logo="" group-title="Albania",Netflix Spider-Man AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95107
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Jackie Chan AL" tvg-logo="" group-title="Albania",Netflix Jackie Chan AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95106
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Van Damme AL" tvg-logo="" group-title="Albania",Netflix Van Damme AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95105
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Dwayne Johnson AL" tvg-logo="" group-title="Albania",Netflix Dwayne Johnson AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95104
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Arnold Schwarzenegger AL" tvg-logo="" group-title="Albania",Netflix Arnold Schwarzenegger AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95103
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Sylvester Stallone AL" tvg-logo="" group-title="Albania",Netflix Sylvester Stallone AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95102
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Bud Spencer & Terence Hill AL" tvg-logo="" group-title="Albania",Netflix Bud Spencer & Terence Hill AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95101
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Family AL" tvg-logo="" group-title="Albania",KS Filma24 Family AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95100
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Premiere AL" tvg-logo="" group-title="Albania",KS Filma24 Premiere AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95099
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Oscars AL" tvg-logo="" group-title="Albania",KS Filma24 Oscars AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95098
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Aksion AL" tvg-logo="" group-title="Albania",KS Filma24 Aksion AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95097
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Drame AL" tvg-logo="" group-title="Albania",KS Filma24 Drame AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95096
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Aventure AL" tvg-logo="" group-title="Albania",KS Filma24 Aventure AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95095
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Romance AL" tvg-logo="" group-title="Albania",KS Filma24 Romance AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95094
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Biografi AL" tvg-logo="" group-title="Albania",KS Filma24 Biografi AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95093
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Krim AL" tvg-logo="" group-title="Albania",KS Filma24 Krim AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95092
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Triller AL" tvg-logo="" group-title="Albania",KS Filma24 Triller AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95091
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Mister AL" tvg-logo="" group-title="Albania",KS Filma24 Mister AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95090
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Horror AL" tvg-logo="" group-title="Albania",KS Filma24 Horror AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95089
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 SCI-Fi AL" tvg-logo="" group-title="Albania",KS Filma24 SCI-Fi AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95088
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Western AL" tvg-logo="" group-title="Albania",KS Filma24 Western AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95087
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Animacion AL" tvg-logo="" group-title="Albania",KS Filma24 Animacion AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95086
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Hindi AL" tvg-logo="" group-title="Albania",KS Filma24 Hindi AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95085
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Aziatika AL" tvg-logo="" group-title="Albania",KS Filma24 Aziatika AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95084
+#EXTINF:-1 tvg-id="" tvg-name="Ks Përralla FHD AL" tvg-logo="" group-title="Albania",Ks Përralla FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95081
+#EXTINF:-1 tvg-id="" tvg-name="Masha dhe Ariu HD AL" tvg-logo="" group-title="Albania",Masha dhe Ariu HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95079
+#EXTINF:-1 tvg-id="" tvg-name="X Kids AL" tvg-logo="" group-title="Albania",X Kids AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95078
+#EXTINF:-1 tvg-id="" tvg-name="TV LLAPI AL" tvg-logo="" group-title="Albania",TV LLAPI AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/95052
+#EXTINF:-1 tvg-id="" tvg-name="MetiTV Epic HD AL" tvg-logo="https://www.clipartmax.com/png/full/74-749810_the-animated-series-mr-bean-cartoon-png.png" group-title="Albania",MetiTV Epic HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/96413
+#EXTINF:-1 tvg-id="" tvg-name="Shpk Nazi 24/7 HD AL" tvg-logo="" group-title="Albania",Shpk Nazi 24/7 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/96412
+#EXTINF:-1 tvg-id="" tvg-name="Ashk TV 3 FHD AL" tvg-logo="" group-title="Albania",Ashk TV 3 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104748
+#EXTINF:-1 tvg-id="" tvg-name="Ashk TV 2 FHD AL" tvg-logo="" group-title="Albania",Ashk TV 2 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104747
+#EXTINF:-1 tvg-id="" tvg-name="Saranda TV HD ALB" tvg-logo="" group-title="Albania",Saranda TV HD ALB
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104416
+#EXTINF:-1 tvg-id="" tvg-name="Ulqini TV HD ALB" tvg-logo="" group-title="Albania",Ulqini TV HD ALB
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104415
+#EXTINF:-1 tvg-id="" tvg-name="TV Festina ALB" tvg-logo="" group-title="Albania",TV Festina ALB
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104414
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="" group-title="Albania",Art Sport 6 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104064
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 5 FHD AL" tvg-logo="" group-title="Albania",Art Sport 5 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104063
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 4 FHD AL" tvg-logo="" group-title="Albania",Art Sport 4 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104062
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="" group-title="Albania",Art Sport 2 FHD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104061
+#EXTINF:-1 tvg-id="" tvg-name="OverSport 4 HD AL" tvg-logo="" group-title="Albania",OverSport 4 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104058
+#EXTINF:-1 tvg-id="" tvg-name="OverSport 3 HD AL" tvg-logo="" group-title="Albania",OverSport 3 HD AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104057
+#EXTINF:-1 tvg-id="" tvg-name="TV Teuta AL" tvg-logo="" group-title="Albania",TV Teuta AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103105
+#EXTINF:-1 tvg-id="" tvg-name="MCN TV FHD ALB" tvg-logo="" group-title="Albania",MCN TV FHD ALB
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/115106
+#EXTINF:-1 tvg-id="" tvg-name="MCN 24 TV FHD ALB" tvg-logo="" group-title="Albania",MCN 24 TV FHD ALB
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/117516
+#EXTINF:-1 tvg-id="" tvg-name="Teve 1 AL" tvg-logo="" group-title="Albania",Teve 1 AL
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/114662
+#EXTINF:-1 tvg-id="" tvg-name="AlbMuslim TV ALB" tvg-logo="" group-title="Albania",AlbMuslim TV ALB
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104065
