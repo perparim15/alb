@@ -1,377 +1,1079 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 1 KOSOVA" tvg-logo="https://docdog.top/logo/countries/albania/Big_Brother_VIP_Kosova_1.png" group-title="EU | ALBANIA VIP",AL: BIG BROTHER 1 KOSOVA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 2 KOSOVA" tvg-logo="https://docdog.top/logo/countries/albania/Big_Brother_VIP_Kosova_1.png" group-title="EU | ALBANIA VIP",AL: BIG BROTHER 2 KOSOVA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: 21 POPULLORE" tvg-logo="https://docdog.top/logo/countries/albania/POPULLORE.png" group-title="EU | ALBANIA VIP",AL: 21 POPULLORE
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: 24 KITCHEN" tvg-logo="https://docdog.top/logo/countries/albania/24kitchen.png" group-title="EU | ALBANIA VIP",AL: 24 KITCHEN
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: 7 NEWS" tvg-logo="https://docdog.top/logo/countries/albania/7news.png" group-title="EU | ALBANIA VIP",AL: 7 NEWS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: A2 CNN" tvg-logo="https://docdog.top/logo/countries/albania/a2cnnal.png" group-title="EU | ALBANIA VIP",AL: A2 CNN
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ABC NEWS" tvg-logo="https://docdog.top/logo/countries/albania/abcnews.png" group-title="EU | ALBANIA VIP",AL: ABC NEWS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ALBUK" tvg-logo="https://docdog.top/logo/countries/albania/Albania.png" group-title="EU | ALBANIA VIP",AL: ALBUK
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH GJIROKASTRA" tvg-logo="https://docdog.top/logo/countries/albania/RTSHGJIROKASTRA.png" group-title="EU | ALBANIA VIP",AL: RTSH GJIROKASTRA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ALSAT" tvg-logo="https://docdog.top/logo/countries/albania/alsat.png" group-title="EU | ALBANIA VIP",AL: ALSAT
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: APOLLON TV" tvg-logo="https://docdog.top/logo/countries/albania/apollontv.png" group-title="EU | ALBANIA VIP",AL: APOLLON TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/artsport1.png" group-title="EU | ALBANIA VIP",AL: ART SPORT 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/ARTSPORTF.png" group-title="EU | ALBANIA VIP",AL: ART SPORT 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3" tvg-logo="https://docdog.top/logo/countries/albania/artsport3.png" group-title="EU | ALBANIA VIP",AL: ART SPORT 3
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ARTA" tvg-logo="https://docdog.top/logo/countries/albania/arta.png" group-title="EU | ALBANIA VIP",AL: ARTA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ASHKALI TV 1" tvg-logo="https://docdog.top/logo/countries/albania/ASHKALITV.jpg" group-title="EU | ALBANIA VIP",AL: ASHKALI TV 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ATV" tvg-logo="" group-title="EU | ALBANIA VIP",AL: ATV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: BABY TV" tvg-logo="https://docdog.top/logo/countries/albania/babytv.png" group-title="EU | ALBANIA VIP",AL: BABY TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: BANG BANG" tvg-logo="https://docdog.top/logo/countries/albania/bangbang.png" group-title="EU | ALBANIA VIP",AL: BANG BANG
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: BBF MUSIC" tvg-logo="" group-title="EU | ALBANIA VIP",AL: BBF MUSIC
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: BESA TV" tvg-logo="https://docdog.top/logo/countries/albania/besatv.png" group-title="EU | ALBANIA VIP",AL: BESA TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/albania/boomerang.png" group-title="EU | ALBANIA VIP",AL: BOOMERANG
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: C1 CHANNEL" tvg-logo="https://docdog.top/logo/countries/albania/cchannel.png" group-title="EU | ALBANIA VIP",AL: C1 CHANNEL
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: CITY TV" tvg-logo="https://docdog.top/logo/countries/albania/citytv.png" group-title="EU | ALBANIA VIP",AL: CITY TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: CUFO" tvg-logo="https://docdog.top/logo/countries/albania/cufotv.png" group-title="EU | ALBANIA VIP",AL: CUFO
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: DASMA" tvg-logo="https://docdog.top/logo/countries/albania/dasma.png" group-title="EU | ALBANIA VIP",AL: DASMA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/albania/discoverychannel.png" group-title="EU | ALBANIA VIP",AL: DISCOVERY CHANNEL
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/albania/disneyjr.png" group-title="EU | ALBANIA VIP",AL: DISNEY JR
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: DIVA" tvg-logo="https://docdog.top/logo/countries/albania/diva.png" group-title="EU | ALBANIA VIP",AL: DIVA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: DRITA" tvg-logo="https://docdog.top/logo/countries/albania/DRITA.png" group-title="EU | ALBANIA VIP",AL: DRITA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: DUCK TV" tvg-logo="https://docdog.top/logo/countries/albania/ducktv.png" group-title="EU | ALBANIA VIP",AL: DUCK TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ELRODI" tvg-logo="" group-title="EU | ALBANIA VIP",AL: ELRODI
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ERA TV" tvg-logo="https://docdog.top/logo/countries/albania/eratv.png" group-title="EU | ALBANIA VIP",AL: ERA TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: EURO AL" tvg-logo="https://docdog.top/logo/countries/albania/EUROAL.png" group-title="EU | ALBANIA VIP",AL: EURO AL
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: EURO FILM 1" tvg-logo="https://docdog.top/logo/countries/albania/eurofilm1.png" group-title="EU | ALBANIA VIP",AL: EURO FILM 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/eurosport1.png" group-title="EU | ALBANIA VIP",AL: EUROSPORT 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/eurosport2.png" group-title="EU | ALBANIA VIP",AL: EUROSPORT 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: EXPLORER HISTORI" tvg-logo="https://docdog.top/logo/countries/albania/explorerhistori.png" group-title="EU | ALBANIA VIP",AL: EXPLORER HISTORI
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: EXPLORER NATYRA" tvg-logo="https://docdog.top/logo/countries/albania/explorernatyra.png" group-title="EU | ALBANIA VIP",AL: EXPLORER NATYRA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: EXPLORER SHKENCE" tvg-logo="" group-title="EU | ALBANIA VIP",AL: EXPLORER SHKENCE
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: EXTREAM SPORTS CHANNEL" tvg-logo="" group-title="EU | ALBANIA VIP",AL: EXTREAM SPORTS CHANNEL
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FAMILY" tvg-logo="https://docdog.top/logo/countries/albania/family.png" group-title="EU | ALBANIA VIP",AL: FAMILY
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FIGHT BOX" tvg-logo="https://docdog.top/logo/countries/albania/fightbox.png" group-title="EU | ALBANIA VIP",AL: FIGHT BOX
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM AKSION" tvg-logo="https://docdog.top/logo/countries/albania/filmaksion.png" group-title="EU | ALBANIA VIP",AL: FILM AKSION
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM AUTOR" tvg-logo="https://docdog.top/logo/countries/albania/filmautor.png" group-title="EU | ALBANIA VIP",AL: FILM AUTOR
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM BOX ARTHOUSE" tvg-logo="https://docdog.top/logo/countries/albania/filmboxarthouse.png" group-title="EU | ALBANIA VIP",AL: FILM BOX ARTHOUSE
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM BOX PLUS" tvg-logo="https://docdog.top/logo/countries/albania/filmboxplus.png" group-title="EU | ALBANIA VIP",AL: FILM BOX PLUS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM DRAME" tvg-logo="https://docdog.top/logo/countries/albania/filmdrame.png" group-title="EU | ALBANIA VIP",AL: FILM DRAME
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM DY FHD" tvg-logo="https://docdog.top/logo/countries/albania/filmdy.png" group-title="EU | ALBANIA VIP",AL: FILM DY FHD
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM GOLD" tvg-logo="https://docdog.top/logo/countries/albania/filmgold1.png" group-title="EU | ALBANIA VIP",AL: FILM GOLD
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM HITS" tvg-logo="https://docdog.top/logo/countries/albania/filmhits.png" group-title="EU | ALBANIA VIP",AL: FILM HITS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM KOMEDI" tvg-logo="https://docdog.top/logo/countries/albania/filmkomedi.png" group-title="EU | ALBANIA VIP",AL: FILM KOMEDI
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM THRILLER" tvg-logo="https://docdog.top/logo/countries/albania/filmthriller.png" group-title="EU | ALBANIA VIP",AL: FILM THRILLER
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FOLK PLUS" tvg-logo="https://docdog.top/logo/countries/albania/FOLKPLUS.png" group-title="EU | ALBANIA VIP",AL: FOLK PLUS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FOLK+" tvg-logo="https://docdog.top/logo/countries/albania/folk.png" group-title="EU | ALBANIA VIP",AL: FOLK+
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FOLKLORIT" tvg-logo="https://docdog.top/logo/countries/albania/folklorittval.png" group-title="EU | ALBANIA VIP",AL: FOLKLORIT
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FOX CRIME" tvg-logo="https://docdog.top/logo/countries/albania/foxcrime.png" group-title="EU | ALBANIA VIP",AL: FOX CRIME
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FOX LIFE" tvg-logo="https://docdog.top/logo/countries/albania/foxlife.png" group-title="EU | ALBANIA VIP",AL: FOX LIFE
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FOX MOVIES" tvg-logo="https://docdog.top/logo/countries/albania/foxmovies.png" group-title="EU | ALBANIA VIP",AL: FOX MOVIES
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ISTOGU CHANNEL" tvg-logo="https://docdog.top/logo/countries/albania/Albania.png" group-title="EU | ALBANIA VIP",AL: ISTOGU CHANNEL
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: JOLLY" tvg-logo="https://docdog.top/logo/countries/albania/jolly.png" group-title="EU | ALBANIA VIP",AL: JOLLY
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: JUNIOR" tvg-logo="https://docdog.top/logo/countries/albania/junior.png" group-title="EU | ALBANIA VIP",AL: JUNIOR
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/ksport.png" group-title="EU | ALBANIA VIP",AL: K SPORT 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/ksport.png" group-title="EU | ALBANIA VIP",AL: K SPORT 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 3" tvg-logo="https://docdog.top/logo/countries/albania/ksport.png" group-title="EU | ALBANIA VIP",AL: K SPORT 3
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 4" tvg-logo="https://docdog.top/logo/countries/albania/ksport.png" group-title="EU | ALBANIA VIP",AL: K SPORT 4
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KANAL 10" tvg-logo="https://docdog.top/logo/countries/albania/kanal10.png" group-title="EU | ALBANIA VIP",AL: KANAL 10
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KANAL D DRAMA" tvg-logo="" group-title="EU | ALBANIA VIP",AL: KANAL D DRAMA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KANALI 7" tvg-logo="https://docdog.top/logo/countries/albania/KANALI.png" group-title="EU | ALBANIA VIP",AL: KANALI 7
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KANALI 7 NEWS" tvg-logo="https://docdog.top/logo/countries/albania/KANALINEWS.png" group-title="EU | ALBANIA VIP",AL: KANALI 7 NEWS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KIDS" tvg-logo="https://docdog.top/logo/countries/albania/kids.png" group-title="EU | ALBANIA VIP",AL: KIDS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN" tvg-logo="https://docdog.top/logo/countries/albania/tvklan.png" group-title="EU | ALBANIA VIP",AL: KLAN
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN KOSOVA" tvg-logo="https://docdog.top/logo/countries/albania/klankosova.png" group-title="EU | ALBANIA VIP",AL: KLAN KOSOVA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN MUSIC" tvg-logo="https://docdog.top/logo/countries/albania/KLANMUSIC.png" group-title="EU | ALBANIA VIP",AL: KLAN MUSIC
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN NEWS" tvg-logo="https://docdog.top/logo/countries/albania/KLANNEWS.png" group-title="EU | ALBANIA VIP",AL: KLAN NEWS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN PLUS" tvg-logo="https://docdog.top/logo/countries/albania/klanplus.png" group-title="EU | ALBANIA VIP",AL: KLAN PLUS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KOMEDI" tvg-logo="https://docdog.top/logo/countries/albania/KOMEDI.png" group-title="EU | ALBANIA VIP",AL: KOMEDI
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: metitv EPIC" tvg-logo="" group-title="EU | ALBANIA VIP",AL: metitv EPIC
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS PREMIER 1" tvg-logo="https://docdog.top/logo/countries/albania/KSPREMIER.png" group-title="EU | ALBANIA VIP",AL: KS PREMIER 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS PREMIER 2" tvg-logo="https://docdog.top/logo/countries/albania/KSPREMIER.png" group-title="EU | ALBANIA VIP",AL: KS PREMIER 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS PREMIER 3" tvg-logo="https://docdog.top/logo/countries/albania/KSPREMIER.png" group-title="EU | ALBANIA VIP",AL: KS PREMIER 3
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS PREMIER 4" tvg-logo="https://docdog.top/logo/countries/albania/KSPREMIER.png" group-title="EU | ALBANIA VIP",AL: KS PREMIER 4
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KTV" tvg-logo="https://docdog.top/logo/countries/albania/ktv.png" group-title="EU | ALBANIA VIP",AL: KTV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 1 [Live During Events Only]" tvg-logo="https://docdog.top/logo/countries/albania/kujtesasport1.png" group-title="EU | ALBANIA VIP",AL: KUJTESA SPORT 1 [Live During Events Only]
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 2 [Live During Events Only]" tvg-logo="https://docdog.top/logo/countries/albania/kujtesasport2.png" group-title="EU | ALBANIA VIP",AL: KUJTESA SPORT 2 [Live During Events Only]
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 3 [Live During Events Only]" tvg-logo="https://docdog.top/logo/countries/albania/kujtesasport3.png" group-title="EU | ALBANIA VIP",AL: KUJTESA SPORT 3 [Live During Events Only]
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 4 [Live During Events Only]" tvg-logo="" group-title="EU | ALBANIA VIP",AL: KUJTESA SPORT 4 [Live During Events Only]
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: LIRIA" tvg-logo="https://docdog.top/logo/countries/albania/tvliria.png" group-title="EU | ALBANIA VIP",AL: LIRIA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: LIVING" tvg-logo="https://docdog.top/logo/countries/albania/living.png" group-title="EU | ALBANIA VIP",AL: LIVING
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: MALISHEVA TV" tvg-logo="https://docdog.top/logo/countries/albania/MALISHEVATVF.jpg" group-title="EU | ALBANIA VIP",AL: MALISHEVA TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: MCN TV" tvg-logo="https://docdog.top/logo/countries/albania/MCNTVF.png" group-title="EU | ALBANIA VIP",AL: MCN TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: MTV KOSOVA" tvg-logo="https://docdog.top/logo/countries/albania/mtvkosova.png" group-title="EU | ALBANIA VIP",AL: MTV KOSOVA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: MUSE TV" tvg-logo="https://docdog.top/logo/countries/albania/MUSETV.png" group-title="EU | ALBANIA VIP",AL: MUSE TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: MY MUSIC" tvg-logo="https://docdog.top/logo/countries/albania/mymusic.png" group-title="EU | ALBANIA VIP",AL: MY MUSIC
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: NAT GEO" tvg-logo="https://docdog.top/logo/countries/albania/natgeo.png" group-title="EU | ALBANIA VIP",AL: NAT GEO
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: NEWS 24" tvg-logo="https://docdog.top/logo/countries/albania/news24.png" group-title="EU | ALBANIA VIP",AL: NEWS 24
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ON TV" tvg-logo="https://docdog.top/logo/countries/albania/ontv.png" group-title="EU | ALBANIA VIP",AL: ON TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: PEACE TV" tvg-logo="https://docdog.top/logo/countries/albania/peacetv.png" group-title="EU | ALBANIA VIP",AL: PEACE TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: PENDIMI" tvg-logo="https://docdog.top/logo/countries/albania/rtvpendimi.png" group-title="EU | ALBANIA VIP",AL: PENDIMI
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: POLLOGU" tvg-logo="https://docdog.top/logo/countries/albania/POLLOGU.png" group-title="EU | ALBANIA VIP",AL: POLLOGU
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: PREMIER SPORTS 2 [Live During Events Only]" tvg-logo="https://docdog.top/logo/countries/albania/premiersports2.png" group-title="EU | ALBANIA VIP",AL: PREMIER SPORTS 2 [Live During Events Only]
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: REPORT TV HD" tvg-logo="https://docdog.top/logo/countries/albania/REPORTTV.png" group-title="EU | ALBANIA VIP",AL: REPORT TV HD
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1" tvg-logo="https://docdog.top/Logotv/countries//rtk1.png" group-title="EU | ALBANIA VIP",AL: RTK 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="https://docdog.top/logo/countries/albania/rtk2.png" group-title="EU | ALBANIA VIP",AL: RTK 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="https://docdog.top/logo/countries/albania/rtk3.png" group-title="EU | ALBANIA VIP",AL: RTK 3
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="https://docdog.top/logo/countries/albania/rtk4.png" group-title="EU | ALBANIA VIP",AL: RTK 4
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SAT" tvg-logo="https://docdog.top/logo/countries/albania/rtshsat.png" group-title="EU | ALBANIA VIP",AL: RTSH SAT
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1" tvg-logo="https://docdog.top/logo/countries/albania/rtsh1.png" group-title="EU | ALBANIA VIP",AL: RTSH 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2" tvg-logo="https://docdog.top/logo/countries/albania/rtsh2.png" group-title="EU | ALBANIA VIP",AL: RTSH 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24" tvg-logo="https://docdog.top/logo/countries/albania/rtsh24.png" group-title="EU | ALBANIA VIP",AL: RTSH 24
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="https://docdog.top/logo/countries/albania/rtsh3.png" group-title="EU | ALBANIA VIP",AL: RTSH 3
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH FEMIJE" tvg-logo="https://docdog.top/logo/countries/albania/rtshfemije.png" group-title="EU | ALBANIA VIP",AL: RTSH FEMIJE
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH FILM" tvg-logo="https://docdog.top/logo/countries/albania/rtshfilm.png" group-title="EU | ALBANIA VIP",AL: RTSH FILM
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH KORCA" tvg-logo="https://docdog.top/logo/countries/albania/RTSHKORCA.png" group-title="EU | ALBANIA VIP",AL: RTSH KORCA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH KUVEND" tvg-logo="https://docdog.top/logo/countries/albania/RTSHKUVEND.png" group-title="EU | ALBANIA VIP",AL: RTSH KUVEND
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH MUZIKE" tvg-logo="https://docdog.top/logo/countries/albania/rtshmuzike.png" group-title="EU | ALBANIA VIP",AL: RTSH MUZIKE
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH PLUS" tvg-logo="https://docdog.top/logo/countries/albania/rtshplus.png" group-title="EU | ALBANIA VIP",AL: RTSH PLUS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SHQIP" tvg-logo="https://docdog.top/logo/countries/albania/rtshshqip.png" group-title="EU | ALBANIA VIP",AL: RTSH SHQIP
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SPORT" tvg-logo="https://docdog.top/logo/countries/albania/rtshsport.png" group-title="EU | ALBANIA VIP",AL: RTSH SPORT
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21" tvg-logo="https://docdog.top/Logotv/countries//rtv21.png" group-title="EU | ALBANIA VIP",AL: RTV 21
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 JUNIOR" tvg-logo="https://docdog.top/logo/countries/albania/rtv21junior.png" group-title="EU | ALBANIA VIP",AL: RTV 21 JUNIOR
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 MACEDONIA" tvg-logo="https://docdog.top/logo/countries/albania/artv.png" group-title="EU | ALBANIA VIP",AL: RTV 21 MACEDONIA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 MIX" tvg-logo="https://docdog.top/logo/countries/albania/rtv21mix.png" group-title="EU | ALBANIA VIP",AL: RTV 21 MIX
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 PLUS" tvg-logo="https://docdog.top/logo/countries/albania/rtv21plus.png" group-title="EU | ALBANIA VIP",AL: RTV 21 PLUS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 POPULLORE" tvg-logo="https://docdog.top/logo/countries/albania/rtv21popullore.png" group-title="EU | ALBANIA VIP",AL: RTV 21 POPULLORE
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV ARBERIA 1" tvg-logo="https://docdog.top/logo/countries/albania/RTVARBERIA.png" group-title="EU | ALBANIA VIP",AL: RTV ARBERIA 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV ISLAM" tvg-logo="https://docdog.top/logo/countries/albania/rtvislam.png" group-title="EU | ALBANIA VIP",AL: RTV ISLAM
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ORA NEWS" tvg-logo="https://docdog.top/logo/countries/albania/oranews.png" group-title="EU | ALBANIA VIP",AL: ORA NEWS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV PENDIMI" tvg-logo="https://docdog.top/logo/countries/albania/rtvpendimi.png" group-title="EU | ALBANIA VIP",AL: RTV PENDIMI
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SHOTA TV" tvg-logo="https://docdog.top/logo/countries/albania/Albania.png" group-title="EU | ALBANIA VIP",AL: SHOTA TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SKY AKSION" tvg-logo="https://docdog.top/logo/countries/albania/skyaksion.png" group-title="EU | ALBANIA VIP",AL: SKY AKSION
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SKY DRAMA" tvg-logo="https://docdog.top/logo/countries/albania/skydrama.png" group-title="EU | ALBANIA VIP",AL: SKY DRAMA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SKY KOMEDI" tvg-logo="https://docdog.top/logo/countries/albania/SKYKOMEDI.png" group-title="EU | ALBANIA VIP",AL: SKY KOMEDI
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SOFIA" tvg-logo="https://docdog.top/logo/countries/albania/sofia.png" group-title="EU | ALBANIA VIP",AL: SOFIA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KOSOVA 1" tvg-logo="https://docdog.top/logo/countries/albania/supersportkosova1.png" group-title="EU | ALBANIA VIP",AL: SPORT KOSOVA 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KOSOVA 2" tvg-logo="https://docdog.top/logo/countries/albania/supersportkosova2.png" group-title="EU | ALBANIA VIP",AL: SPORT KOSOVA 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: STINET" tvg-logo="https://docdog.top/logo/countries/albania/stinet.png" group-title="EU | ALBANIA VIP",AL: STINET
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/supersport1.png" group-title="EU | ALBANIA VIP",AL: SUPER SPORT 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/supersport2.png" group-title="EU | ALBANIA VIP",AL: SUPER SPORT 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 3" tvg-logo="https://docdog.top/logo/countries/albania/supersport3.png" group-title="EU | ALBANIA VIP",AL: SUPER SPORT 3
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 4" tvg-logo="https://docdog.top/logo/countries/albania/supersport4.png" group-title="EU | ALBANIA VIP",AL: SUPER SPORT 4
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 5" tvg-logo="https://docdog.top/logo/countries/albania/supersport5.png" group-title="EU | ALBANIA VIP",AL: SUPER SPORTS 5
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 6 [Live During Events Only]" tvg-logo="https://docdog.top/logo/countries/albania/supersport6.png" group-title="EU | ALBANIA VIP",AL: SUPER SPORT 6 [Live During Events Only]
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/albania/supersportnews.png" group-title="EU | ALBANIA VIP",AL: SUPER SPORTS NEWS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SYRI VISION" tvg-logo="https://docdog.top/logo/countries/albania/syrivision.png" group-title="EU | ALBANIA VIP",AL: SYRI VISION
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: T7" tvg-logo="https://docdog.top/logo/countries/albania/t7.png" group-title="EU | ALBANIA VIP",AL: T7
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TDC" tvg-logo="https://docdog.top/logo/countries/albania/tdc.png" group-title="EU | ALBANIA VIP",AL: TDC
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TIP TV" tvg-logo="https://docdog.top/logo/countries/albania/tiptv.png" group-title="EU | ALBANIA VIP",AL: TIP TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TIRANA TV" tvg-logo="https://docdog.top/logo/countries/albania/tiranatv.png" group-title="EU | ALBANIA VIP",AL: TIRANA TV
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TOP CHANNEL FHD" tvg-logo="https://docdog.top/Logotv/countries//topchannel.png" group-title="EU | ALBANIA VIP",AL: TOP CHANNEL FHD
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRAVEL CHANNEL" tvg-logo="https://docdog.top/logo/countries/albania/travelchannel.png" group-title="EU | ALBANIA VIP",AL: TRAVEL CHANNEL
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING 3" tvg-logo="https://docdog.top/logo/countries/albania/tring3.png" group-title="EU | ALBANIA VIP",AL: TRING 3
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3 Plus" tvg-logo="https://docdog.top/logo/countries/albania/TRING+.png" group-title="EU | ALBANIA VIP",AL: Tring 3 Plus
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING ACTION" tvg-logo="https://docdog.top/logo/countries/albania/tringaction.png" group-title="EU | ALBANIA VIP",AL: TRING ACTION
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING CLASSIC" tvg-logo="https://docdog.top/logo/countries/albania/TRINGCLASSIC.jpg" group-title="EU | ALBANIA VIP",AL: TRING CLASSIC
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING COLLECTION" tvg-logo="https://docdog.top/logo/countries/albania/TRINGJOLLYF.jpg" group-title="EU | ALBANIA VIP",AL: TRING COLLECTION
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING COMEDY" tvg-logo="https://docdog.top/logo/countries/albania/tringcomedy.png" group-title="EU | ALBANIA VIP",AL: TRING COMEDY
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING FANTASY" tvg-logo="https://docdog.top/logo/countries/albania/tringfantasy.png" group-title="EU | ALBANIA VIP",AL: TRING FANTASY
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING HISTORY" tvg-logo="https://docdog.top/logo/countries/albania/tringhistory.png" group-title="EU | ALBANIA VIP",AL: TRING HISTORY
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING INTERNATIONAL" tvg-logo="https://docdog.top/logo/countries/albania/tringinternational.png" group-title="EU | ALBANIA VIP",AL: TRING INTERNATIONAL
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING KIDS" tvg-logo="https://docdog.top/logo/countries/albania/tringkids.png" group-title="EU | ALBANIA VIP",AL: TRING KIDS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING LIFE" tvg-logo="https://docdog.top/logo/countries/albania/tringlife.png" group-title="EU | ALBANIA VIP",AL: TRING LIFE
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING MAX" tvg-logo="https://docdog.top/logo/countries/albania/tringmax.png" group-title="EU | ALBANIA VIP",AL: TRING MAX
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING PLANET" tvg-logo="https://docdog.top/logo/countries/albania/tringplanet.png" group-title="EU | ALBANIA VIP",AL: TRING PLANET
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SHQIP" tvg-logo="https://docdog.top/logo/countries/albania/tringshqip.png" group-title="EU | ALBANIA VIP",AL: TRING SHQIP
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SMILE" tvg-logo="https://docdog.top/logo/countries/albania/tringsmile.png" group-title="EU | ALBANIA VIP",AL: TRING SMILE
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/tringsport1.png" group-title="EU | ALBANIA VIP",AL: TRING SPORT 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/tringsport2.png" group-title="EU | ALBANIA VIP",AL: TRING SPORT 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 3" tvg-logo="https://docdog.top/logo/countries/albania/tringsport3.png" group-title="EU | ALBANIA VIP",AL: TRING SPORT 3
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT NEWS" tvg-logo="https://docdog.top/logo/countries/albania/tringsportnews.png" group-title="EU | ALBANIA VIP",AL: TRING SPORT NEWS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SUPER" tvg-logo="https://docdog.top/logo/countries/albania/tringsuper.png" group-title="EU | ALBANIA VIP",AL: TRING SUPER
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING TRING" tvg-logo="https://docdog.top/logo/countries/albania/tringtring.png" group-title="EU | ALBANIA VIP",AL: TRING TRING
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING WORLD" tvg-logo="https://docdog.top/logo/countries/albania/tringworld.png" group-title="EU | ALBANIA VIP",AL: TRING WORLD
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TURBO CHANNEL" tvg-logo="https://docdog.top/logo/countries/albania/TURBO.jpg" group-title="EU | ALBANIA VIP",AL: TURBO CHANNEL
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: DIELLI" tvg-logo="https://docdog.top/logo/countries/albania/DIELLI.png" group-title="EU | ALBANIA VIP",AL: DIELLI
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV DUKAGJINI" tvg-logo="https://docdog.top/logo/countries/albania/tvdukagjini.png" group-title="EU | ALBANIA VIP",AL: TV DUKAGJINI
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV KOHA" tvg-logo="https://docdog.top/logo/countries/albania/tvkoha.png" group-title="EU | ALBANIA VIP",AL: TV KOHA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV MITROVICA" tvg-logo="https://docdog.top/logo/countries/albania/tvmitrovica.png" group-title="EU | ALBANIA VIP",AL: TV MITROVICA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV SHENJA" tvg-logo="https://docdog.top/logo/countries/albania/tvshenja.png" group-title="EU | ALBANIA VIP",AL: TV SHENJA
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV TEMA FERIZAJ" tvg-logo="https://docdog.top/logo/countries/albania/tvtemaferizaj.png" group-title="EU | ALBANIA VIP",AL: TV TEMA FERIZAJ
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIZION PLUS" tvg-logo="https://docdog.top/logo/countries/albania/vizionplus.png" group-title="EU | ALBANIA VIP",AL: VIZION PLUS
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: X FILMA 24" tvg-logo="https://docdog.top/logo/countries/albania/XFILMA.png" group-title="EU | ALBANIA VIP",AL: X FILMA 24
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: gold 4" tvg-logo="" group-title="EU | ALBANIA VIP",AL: gold 4
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ZICO" tvg-logo="https://docdog.top/logo/countries/albania/zicotv.png" group-title="EU | ALBANIA VIP",AL: ZICO
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/129326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 2" tvg-logo="https://docdog.top/logo/countries/albania/Big_Brother_VIP_Kosova_1.png" group-title="EU | ALBANIA VIP",AL: BIG BROTHER 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/132292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 1" tvg-logo="https://docdog.top/logo/countries/albania/Big_Brother_VIP_Kosova_1.png" group-title="EU | ALBANIA VIP",AL: BIG BROTHER 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/132293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FERMA VIP 2" tvg-logo="https://docdog.top/logo/countries/albania/ferma_vip_2.png" group-title="EU | ALBANIA VIP",AL: FERMA VIP 2
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/132372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: FERMA VIP 1" tvg-logo="https://docdog.top/logo/countries/albania/ferma_vip_1.png" group-title="EU | ALBANIA VIP",AL: FERMA VIP 1
-http://vipketseyket.top:8080/live/VIP01164171640213880/9062a5613350/132373.m3u8
+#EXTINF:-1,AL| BIG BROTHER VIP KOSOVO 1
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315929
+#EXTINF:-1,AL| BIG BROTHER VIP KOSOVO 1 [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315930
+#EXTINF:-1,AL| BIG BROTHER VIP KOSOVO 1 [BK1]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315931
+#EXTINF:-1,AL| BIG BROTHER VIP KOSOVO 2
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315932
+#EXTINF:-1,AL| BIG BROTHER VIP KOSOVO 2 [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315933
+#EXTINF:-1,AL| BIG BROTHER VIP KOSOVO 2 [BK1]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315934
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 1
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315935
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 2
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315936
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 1 [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315937
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 2 [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315938
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 1 [BK1]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315939
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 2 [BK1]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315940
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 1 [BK2]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315941
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 2 [BK2]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/315942
+#EXTINF:-1,AL| PRESHEVA RTV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291584
+#EXTINF:-1,AL| TV BESA PRIZREN HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291585
+#EXTINF:-1,AL| TV MITROVICA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291586
+#EXTINF:-1,AL| ISTOGU CHANNEL FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291588
+#EXTINF:-1,AL| KORÇA PLUS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291589
+#EXTINF:-1,AL| TV GLOBI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291590
+#EXTINF:-1,AL| NTV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291593
+#EXTINF:-1,AL| TV GOLD JOHANITER HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291594
+#EXTINF:-1,AL| ALBSE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291595
+#EXTINF:-1,AL| TV TEUTA FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291597
+#EXTINF:-1,AL| FERMA 1 VIP
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291554
+#EXTINF:-1,AL| FERMA 1 VIP [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291555
+#EXTINF:-1,AL| FERMA 2 VIP
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291556
+#EXTINF:-1,AL| FERMA 2 VIP [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291557
+#EXTINF:-1,AL| TëVë 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291558
+#EXTINF:-1,AL| KLAN KOSOVA FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291559
+#EXTINF:-1,AL| KLAN KOSOVA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291560
+#EXTINF:-1,AL| RTV 21 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291561
+#EXTINF:-1,AL| RTV 21 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291562
+#EXTINF:-1,AL| KANAL 10 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291563
+#EXTINF:-1,AL| ATV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291565
+#EXTINF:-1,AL| KTV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291566
+#EXTINF:-1,AL| KTV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291567
+#EXTINF:-1,AL| TOP CHANNEL FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291568
+#EXTINF:-1,AL| TOP CHANNEL HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291569
+#EXTINF:-1,AL| TOP CHANNEL SD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291570
+#EXTINF:-1,AL| TV DUKAGJINI FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291571
+#EXTINF:-1,AL| KLAN FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291572
+#EXTINF:-1,AL| KLAN HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291573
+#EXTINF:-1,AL| ASHK TV 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291574
+#EXTINF:-1,AL| ASHK TV 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291575
+#EXTINF:-1,AL| ASHK TV 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291576
+#EXTINF:-1,AL| SARANDA TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291577
+#EXTINF:-1,AL| T7 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291578
+#EXTINF:-1,AL| T7 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291579
+#EXTINF:-1,AL| RTK 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291580
+#EXTINF:-1,AL| RTK 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291581
+#EXTINF:-1,AL| RTK 3 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291582
+#EXTINF:-1,AL| RTK 4 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291583
+#EXTINF:-1,AL| KLAN PLUS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291515
+#EXTINF:-1,AL| VIZION PLUS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291516
+#EXTINF:-1,AL| VIZION PLUS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291517
+#EXTINF:-1,AL| DASMA TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291518
+#EXTINF:-1,AL| HUMOR 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291519
+#EXTINF:-1,AL| HUMOR 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291520
+#EXTINF:-1,AL| HUMOR 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291521
+#EXTINF:-1,AL| HUMOR 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291522
+#EXTINF:-1,AL| HUMOR 5 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291523
+#EXTINF:-1,AL| PLEQENARËT HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291524
+#EXTINF:-1,AL| ZYHRA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291525
+#EXTINF:-1,AL| QUMILI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291526
+#EXTINF:-1,AL| MINISTRIA E SHYHRETIT HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291527
+#EXTINF:-1,AL| KOMEDI KOSOVARE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291528
+#EXTINF:-1,AL| KOMEDI SHQIPTARE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291529
+#EXTINF:-1,AL| CIMA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291530
+#EXTINF:-1,AL| SHENGEN VISA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291531
+#EXTINF:-1,AL| STUPCAT EGJELI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291532
+#EXTINF:-1,AL| TRING TURKISH STORIES
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291533
+#EXTINF:-1,AL| TRING ORIGINAL HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291534
+#EXTINF:-1,AL| TRING MUSE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291535
+#EXTINF:-1,AL| TRING CLASSIC HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291536
+#EXTINF:-1,AL| TRING COLLECTION HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291537
+#EXTINF:-1,AL| TRING SERIESV
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291538
+#EXTINF:-1,AL| TRING SMILE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291539
+#EXTINF:-1,AL| ALB USA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291540
+#EXTINF:-1,AL| ZICO TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291541
+#EXTINF:-1,AL| SYRI BLU MUSIC HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291542
+#EXTINF:-1,AL| DISCOVERY CHANNEL HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291543
+#EXTINF:-1,AL| Q STUPCAT HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291544
+#EXTINF:-1,AL| FILM MAX HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291545
+#EXTINF:-1,AL| FILM T HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291546
+#EXTINF:-1,AL| FILM DRAMA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291547
+#EXTINF:-1,AL| MAX HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291548
+#EXTINF:-1,AL| CARTOON NETWORK HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291549
+#EXTINF:-1,AL| FOX NEWS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291550
+#EXTINF:-1,AL| TV KOPLIKU HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291551
+#EXTINF:-1,AL| TV PRESHEVA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291552
+#EXTINF:-1,AL| TV2 MK HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291553
+#EXTINF:-1,AL| TOP CHANNEL USA
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291499
+#EXTINF:-1,AL| KLAN AL USA
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291500
+#EXTINF:-1,AL| ALSAT M USA
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291503
+#EXTINF:-1,AL| RTV 21 MAQEDONIA USA
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291504
+#EXTINF:-1,AL| RTK USA
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291505
+#EXTINF:-1,AL| KLAN KOSOVA USA
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291506
+#EXTINF:-1,AL| RTV 21 KS USA
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291508
+#EXTINF:-1,AL| RTSH SAT HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291471
+#EXTINF:-1,AL| RTSH 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291472
+#EXTINF:-1,AL| RTSH 1 HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291473
+#EXTINF:-1,AL| RTSH 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291474
+#EXTINF:-1,AL| RTSH 2 HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291475
+#EXTINF:-1,AL| RTSH 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291476
+#EXTINF:-1,AL| RTSH 3 HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291477
+#EXTINF:-1,AL| RTSH PLUS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291478
+#EXTINF:-1,AL| RTSH PLUS HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291479
+#EXTINF:-1,AL| RTSH 24 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291480
+#EXTINF:-1,AL| RTSH MUZIKE HD ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291481
+#EXTINF:-1,AL| RTSH SHQIP HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291482
+#EXTINF:-1,AL| RTSH SHQIP HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291483
+#EXTINF:-1,AL| RTSH FILM HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291484
+#EXTINF:-1,AL| RTSH FILM HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291485
+#EXTINF:-1,AL| RTSH FEMIJE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291486
+#EXTINF:-1,AL| RTSH SHKODRA FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291487
+#EXTINF:-1,AL| RTSH GJIROKASTRA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291488
+#EXTINF:-1,AL| RTSH GJIROKASTRA HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291489
+#EXTINF:-1,AL| RTSH KORCA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291490
+#EXTINF:-1,AL| RTSH KORCA HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291491
+#EXTINF:-1,AL| RTSH KUVEND HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291492
+#EXTINF:-1,AL| RTSH SPORT HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291493
+#EXTINF:-1,AL| RTSH SPORT HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291494
+#EXTINF:-1,AL| RTSH KUVEND HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291498
+#EXTINF:-1,AL| RTV ISLAM FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291438
+#EXTINF:-1,AL| TV MEKA LIVE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291439
+#EXTINF:-1,AL| PENDIMI RTV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291440
+#EXTINF:-1,AL| TEMA TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291441
+#EXTINF:-1,AL| ZJARR TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291442
+#EXTINF:-1,AL| TV OPOJA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291443
+#EXTINF:-1,AL| PEACE TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291444
+#EXTINF:-1,AL| ERA TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291445
+#EXTINF:-1,AL| TIRANA TV
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291446
+#EXTINF:-1,AL| RTV 21 MAQEDONIA FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291447
+#EXTINF:-1,AL| AMOL TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291448
+#EXTINF:-1,AL| LIVING FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291449
+#EXTINF:-1,AL| STAR PLUS SHKODER HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291451
+#EXTINF:-1,AL|  TV 1 SHKODER HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291452
+#EXTINF:-1,AL| ANTENA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291453
+#EXTINF:-1,AL| TV ROZAFA SHKODER HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291454
+#EXTINF:-1,AL| RTV ALDI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291455
+#EXTINF:-1,AL| ADRIA NET HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291456
+#EXTINF:-1,AL| 24 KITCHEN HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291457
+#EXTINF:-1,AL| PREMIUM CHANNEL HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291458
+#EXTINF:-1,AL| TV OPINIONI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291459
+#EXTINF:-1,AL| RTV 1 ALBANIA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291461
+#EXTINF:-1,AL| TELEVIZIJA 5 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291463
+#EXTINF:-1,AL| TV MEDINA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291464
+#EXTINF:-1,AL| HUTBE ISLAME HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291466
+#EXTINF:-1,AL| HUTBE ISLAME 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291467
+#EXTINF:-1,AL| RTV ELKALEM HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291468
+#EXTINF:-1,AL| TV CHICAGO HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291469
+#EXTINF:-1,AL| ALB UK HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291470
+#EXTINF:-1,AL| ALSAT M FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291425
+#EXTINF:-1,AL| ALSAT HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291426
+#EXTINF:-1,AL| ALSAT FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291427
+#EXTINF:-1,AL| TRING 3 PLUS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291428
+#EXTINF:-1,AL| KANAL D DRAMA FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291429
+#EXTINF:-1,AL| RTM 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291430
+#EXTINF:-1,AL| JOLLY FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291431
+#EXTINF:-1,AL| EPISODE FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291432
+#EXTINF:-1,AL| TV SHENJA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291433
+#EXTINF:-1,AL| KLAN MACEDONIA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291434
+#EXTINF:-1,AL| TV KOHA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291436
+#EXTINF:-1,AL| TV 2 GOSTIVAR FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291437
+#EXTINF:-1,AL| CINEMA 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291194
+#EXTINF:-1,AL| CINEMA 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291195
+#EXTINF:-1,AL| TELE ONE 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291196
+#EXTINF:-1,AL| TELE ONE 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291197
+#EXTINF:-1,AL| TELE ONE 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291198
+#EXTINF:-1,AL| TELE ONE 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291199
+#EXTINF:-1,AL| TELE ONE 5 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291200
+#EXTINF:-1,AL| TELE ONE 6 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291201
+#EXTINF:-1,AL| TELE ONE Aksion
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291202
+#EXTINF:-1,AL| TELE ONE Aventure
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291203
+#EXTINF:-1,AL| TELE ONE Crime
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291204
+#EXTINF:-1,AL| TELE ONE GOLD Collection
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291205
+#EXTINF:-1,AL| TELE ONE fantazi
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291206
+#EXTINF:-1,AL| TELE ONE Thriller
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291207
+#EXTINF:-1,AL| TELE ONE Drama
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291208
+#EXTINF:-1,AL| TELE ONE Epik
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291209
+#EXTINF:-1,AL| TELE ONE Gags
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291210
+#EXTINF:-1,AL| KARATE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291211
+#EXTINF:-1,AL| Globe Tv
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291212
+#EXTINF:-1,AL| TV Pollogu
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291213
+#EXTINF:-1,AL| PRIME TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291214
+#EXTINF:-1,AL| TRING WORLD HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291215
+#EXTINF:-1,AL| TRING SUPER FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291216
+#EXTINF:-1,AL| TRING SHQIP HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291217
+#EXTINF:-1,AL| TRING COMEDY FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291218
+#EXTINF:-1,AL| TRING LIFE FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291219
+#EXTINF:-1,AL| TRING FANTASY HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291220
+#EXTINF:-1,AL| TRING ACTION FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291221
+#EXTINF:-1,AL| TRING INTERNATIONAL FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291222
+#EXTINF:-1,AL| TRING FAMILY FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291223
+#EXTINF:-1,AL| TRING NOVELAS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291224
+#EXTINF:-1,AL| FOX HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291225
+#EXTINF:-1,AL| FOX LIFE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291226
+#EXTINF:-1,AL| FOX CRIME HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291227
+#EXTINF:-1,AL| FOX MOVIE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291228
+#EXTINF:-1,AL| FILM HITS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291231
+#EXTINF:-1,AL| FILM AKSION FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291232
+#EXTINF:-1,AL| FILM THRILLER HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291233
+#EXTINF:-1,AL| FILM KOMEDI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291235
+#EXTINF:-1,AL| FILM AUTOR HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291236
+#EXTINF:-1,AL| DIZI TDC FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291237
+#EXTINF:-1,AL| PLUS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291238
+#EXTINF:-1,AL| FAMILY FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291239
+#EXTINF:-1,AL| T FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291242
+#EXTINF:-1,AL| STINET HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291243
+#EXTINF:-1,AL| ART DOKU 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291244
+#EXTINF:-1,AL| ART DOKU 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291245
+#EXTINF:-1,AL| ART KINO 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291246
+#EXTINF:-1,AL| ART KINO 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291247
+#EXTINF:-1,AL| ART KINO 3 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291248
+#EXTINF:-1,AL| EURO FILM HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291249
+#EXTINF:-1,AL| EURO FILM 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291251
+#EXTINF:-1,AL| EURO FILM 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291252
+#EXTINF:-1,AL| EURO FILM 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291253
+#EXTINF:-1,AL| FILMBOX EXTRA FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291254
+#EXTINF:-1,AL| FILMBOX PREMIUM FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291255
+#EXTINF:-1,AL| FILMBOX ARTHOUSE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291256
+#EXTINF:-1,AL| FIRST TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291258
+#EXTINF:-1,AL| SKY 7 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291260
+#EXTINF:-1,AL| SKY SHQIP HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291261
+#EXTINF:-1,AL| SKY STAR FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291262
+#EXTINF:-1,AL| SKY AKSION FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291263
+#EXTINF:-1,AL| SKY MAX HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291264
+#EXTINF:-1,AL| SKY KOMEDI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291265
+#EXTINF:-1,AL| SKY DRAMA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291266
+#EXTINF:-1,AL| SKY NOVELA FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291267
+#EXTINF:-1,AL| TV FESTINA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291268
+#EXTINF:-1,AL| X PREMIUM 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291269
+#EXTINF:-1,AL| X PREMIUM 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291270
+#EXTINF:-1,AL| PORTOKALLI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291271
+#EXTINF:-1,AL| E MIRË TV FILM 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291272
+#EXTINF:-1,AL| E MIRË TV FILM ACTION HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291273
+#EXTINF:-1,AL| E MIRË TV FILM HITS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291274
+#EXTINF:-1,AL| CINESTAR TV COMEDY HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291275
+#EXTINF:-1,AL| CINESTAR TV 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291276
+#EXTINF:-1,AL| CINESTAR TV 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291277
+#EXTINF:-1,AL| CINESTAR TV ACTION HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291278
+#EXTINF:-1,AL| CINESTAR TV PREMIERE 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291279
+#EXTINF:-1,AL| CINESTAR TV PREMIERE 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291280
+#EXTINF:-1,AL| CINESTAR TV FANTASY HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291281
+#EXTINF:-1,AL| FILM ROMANCE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291282
+#EXTINF:-1,AL| FILM MIX HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291283
+#EXTINF:-1,AL| FILM MIX 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291284
+#EXTINF:-1,AL| FILM GOLD HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291285
+#EXTINF:-1,AL| FILMA HORROR HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291287
+#EXTINF:-1,AL| FILMA PREMIER HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291288
+#EXTINF:-1,AL| RTV ILIRIDA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291289
+#EXTINF:-1,AL| RTV ILIRIDA FILMA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291290
+#EXTINF:-1,AL| RTV ILIRIDA FEMIJE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291291
+#EXTINF:-1,AL| RTV ILIRIDA DADOKUMENTAR HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291292
+#EXTINF:-1,AL| RTV ILIRIDA HUMOR SHQIP HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291293
+#EXTINF:-1,AL| RTV ILIRIDA TV MENDI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291294
+#EXTINF:-1,AL| STARFILM 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291295
+#EXTINF:-1,AL| STARFILM 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291296
+#EXTINF:-1,AL| STARFILM 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291297
+#EXTINF:-1,AL| STARFILM 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291298
+#EXTINF:-1,AL| STARFILM 5 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291299
+#EXTINF:-1,AL| STARFILM 6 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291300
+#EXTINF:-1,AL| STARFILM 7 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291301
+#EXTINF:-1,AL| STARFILM 8 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291302
+#EXTINF:-1,AL| STARFILM 9 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291303
+#EXTINF:-1,AL| STARFILM 10 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291304
+#EXTINF:-1,AL| NETFLIX KOMEDI
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291305
+#EXTINF:-1,AL| NETFLIX ROMANC
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291306
+#EXTINF:-1,AL| NETFLIX HORROR
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291307
+#EXTINF:-1,AL| NETFLIX ARNOD SHWARZENEGGER
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291308
+#EXTINF:-1,AL| NETFLIX SYLVESTER STALLONE
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291309
+#EXTINF:-1,AL| NETFLIX VAN DAMME
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291310
+#EXTINF:-1,AL| NETFLIX DWAYNE JOHNSON
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291311
+#EXTINF:-1,AL| NETFLIX FANTAZI
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291312
+#EXTINF:-1,AL| NETFLIX  EPIK
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291313
+#EXTINF:-1,AL| NETFLIX AVANTUR
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291314
+#EXTINF:-1,AL| NETFLIX AKSION
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291315
+#EXTINF:-1,AL| MAX PREMIER 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291316
+#EXTINF:-1,AL| MAX PREMIER 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291317
+#EXTINF:-1,AL| MAX PREMIER 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291318
+#EXTINF:-1,AL| MAX PREMIER 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291319
+#EXTINF:-1,AL| MAX CINE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291320
+#EXTINF:-1,AL| MAX ELITE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291321
+#EXTINF:-1,AL| MAX ENERGI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291322
+#EXTINF:-1,AL| MAX ONE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291323
+#EXTINF:-1,AL| MAX RED HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291324
+#EXTINF:-1,AL| MAX STAR HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291325
+#EXTINF:-1,AL| FILM24 AKSION 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291326
+#EXTINF:-1,AL| FILM24 AKSION 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291327
+#EXTINF:-1,AL| FILM24 AKSION 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291328
+#EXTINF:-1,AL| FILM24 AZIATIK HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291329
+#EXTINF:-1,AL| FILM24 AVENTURE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291330
+#EXTINF:-1,AL| FILM24 DRAME HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291331
+#EXTINF:-1,AL| FILM24 FANTASHKEENC HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291332
+#EXTINF:-1,AL| WebStar Aksion
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291333
+#EXTINF:-1,AL| WebStar ChuChu TV
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291335
+#EXTINF:-1,AL| WebStar Cinema DE
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291336
+#EXTINF:-1,AL| WebStar Cinema
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291337
+#EXTINF:-1,AL| WebStar Drame
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291338
+#EXTINF:-1,AL| WebStar Komedi
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291339
+#EXTINF:-1,AL| WebStar Masha Orso
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291340
+#EXTINF:-1,AL| WebStar Thriller
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291341
+#EXTINF:-1,AL| WebStar Music CH
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291342
+#EXTINF:-1,AL| WebStar Muzik
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291343
+#EXTINF:-1,AL| WebStar Popullore
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291344
+#EXTINF:-1,AL| WebStar Qifteli
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291345
+#EXTINF:-1,AL| WebStar Islam
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291346
+#EXTINF:-1,AL| ShqipTV Aksion
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291347
+#EXTINF:-1,AL| ShqipTV Fantasy
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291348
+#EXTINF:-1,AL| ShqipTV Komedi
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291349
+#EXTINF:-1,AL| ShqipTV Drama
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291350
+#EXTINF:-1,AL| ShqipTV Romance
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291351
+#EXTINF:-1,AL| ShqipTV Marvel
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291352
+#EXTINF:-1,AL| ShqipTV Family
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291353
+#EXTINF:-1,AL| ShqipTV Thriller 
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291354
+#EXTINF:-1,AL| ShqipTV Hits
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291355
+#EXTINF:-1,AL| ShqipTV Cinema
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291356
+#EXTINF:-1,AL| ShqipTV Film
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291357
+#EXTINF:-1,AL| ShqipTV Hindi
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291358
+#EXTINF:-1,AL| ShqipTV Western
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291359
+#EXTINF:-1,AL| ShqipTV Serial
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291360
+#EXTINF:-1,AL| ShqipTV Tom & Jerry
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291361
+#EXTINF:-1,AL| ShqipTV MiMi
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291362
+#EXTINF:-1,AL| ShqipTV Folk
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291364
+#EXTINF:-1,AL| ShqipTV Humor
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291365
+#EXTINF:-1,AL| ShqipTV Stupcat
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291366
+#EXTINF:-1,AL| OnePlay BabyTV
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291368
+#EXTINF:-1,AL| OnePlay Cocomelon
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291369
+#EXTINF:-1,AL| OnePlay CloudBabies
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291370
+#EXTINF:-1,AL| OnePlay BabyShark
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291371
+#EXTINF:-1,AL| OnePlay Bob The Builder
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291372
+#EXTINF:-1,AL| OnePlay Grizzy
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291373
+#EXTINF:-1,AL| OnePlay Larva
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291374
+#EXTINF:-1,AL| OnePlay Oddbods
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291375
+#EXTINF:-1,AL| OnePlay Spidey
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291376
+#EXTINF:-1,AL| OnePlay Pets
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291377
+#EXTINF:-1,AL| OnePlay SpongeBob
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291378
+#EXTINF:-1,AL| OnePlay Bloopies
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291379
+#EXTINF:-1,AL| OnePlay Tom&Jerry
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291380
+#EXTINF:-1,AL| OnePlay Peppa Pig
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291381
+#EXTINF:-1,AL| OnePlay Mickey Mouse
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291382
+#EXTINF:-1,AL| OnePlay Masha&Bear
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291383
+#EXTINF:-1,AL| OnePlay Pj Masks
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291384
+#EXTINF:-1,AL| OnePlay Paw Patrol
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291385
+#EXTINF:-1,AL| OnePlay Nastya
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291386
+#EXTINF:-1,AL| OnePlay Diana Show
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291387
+#EXTINF:-1,AL| OnePlay Vlad&Niki
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291388
+#EXTINF:-1,AL| OnePlay-Kids Dhelpera
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291389
+#EXTINF:-1,AL| OnePlay-Kids Shqip
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291390
+#EXTINF:-1,AL| OnePlay-Kids Rritu dhe Meso
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291391
+#EXTINF:-1,AL| Kinema Animation
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291392
+#EXTINF:-1,AL| Kinema Super
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291393
+#EXTINF:-1,AL| Kinema Milenium 1
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291394
+#EXTINF:-1,AL| Kinema Milenium 2
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291395
+#EXTINF:-1,AL| Kinema Milenium 3
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291396
+#EXTINF:-1,AL| Kinema Milenium 4
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291397
+#EXTINF:-1,AL| Kinema Hits
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291398
+#EXTINF:-1,AL| Kinema Gold
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291399
+#EXTINF:-1,AL| Kinema Fantasy
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291400
+#EXTINF:-1,AL| Kinema Family
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291401
+#EXTINF:-1,AL| Kinema Comedy
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291402
+#EXTINF:-1,AL| Kinema Classics
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291403
+#EXTINF:-1,AL| Kinema Aksion MAX
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291404
+#EXTINF:-1,AL| Kinema Aksion
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291405
+#EXTINF:-1,AL| DARK PRIME 1
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291406
+#EXTINF:-1,AL| DARK PRIME 2
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291407
+#EXTINF:-1,AL| DARK PRIME 3
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291408
+#EXTINF:-1,AL| DARK PRIME 4
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291409
+#EXTINF:-1,AL| DARK GOLD 1
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291410
+#EXTINF:-1,AL| DARK GOLD 2
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291411
+#EXTINF:-1,AL| DARK GOLD 3
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291412
+#EXTINF:-1,AL| DARK GOLD 4
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291413
+#EXTINF:-1,AL| DARK Netflix 1
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291414
+#EXTINF:-1,AL| DARK Netflix 2
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291415
+#EXTINF:-1,AL| DARK Netflix 3
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291416
+#EXTINF:-1,AL| DARK Netflix 4
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291417
+#EXTINF:-1,AL| DARK Aksion
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291418
+#EXTINF:-1,AL| DARK Western
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291420
+#EXTINF:-1,AL| DARK Classic
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291421
+#EXTINF:-1,AL| DARK Family
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291422
+#EXTINF:-1,AL| DARK Fantazi
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291423
+#EXTINF:-1,AL| DARK Hindi
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291424
+#EXTINF:-1,AL| ANIMAL PLANET HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291179
+#EXTINF:-1,AL| NAT GEO FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291180
+#EXTINF:-1,AL| DOKUMENTAR HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291181
+#EXTINF:-1,AL| DISCOVERY SCIENCE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291182
+#EXTINF:-1,AL| E MIRË TV DOKUMENTAR HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291183
+#EXTINF:-1,AL| EXPLORER NATYRA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291184
+#EXTINF:-1,AL| EXPLORER HISTORI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291185
+#EXTINF:-1,AL| EXPLORER SHKENCE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291186
+#EXTINF:-1,AL| GJURME SHQIPTARE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291187
+#EXTINF:-1,AL| SKY PLANET HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291188
+#EXTINF:-1,AL| SKY GALAXY FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291189
+#EXTINF:-1,AL| SKY GEO FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291190
+#EXTINF:-1,AL| TRAVEL CHANNEL FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291191
+#EXTINF:-1,AL| TRING PLANET FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291192
+#EXTINF:-1,AL| TRING HISTORY HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291193
+#EXTINF:-1,AL| ANTENA SHKODER HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291156
+#EXTINF:-1,AL| ABC NEWS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291157
+#EXTINF:-1,AL| ARTA NEWS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291158
+#EXTINF:-1,AL| A1 REPORT FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291159
+#EXTINF:-1,AL| A2 NEWS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291160
+#EXTINF:-1,AL| EURONEWS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291161
+#EXTINF:-1,AL| FAX NEWS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291162
+#EXTINF:-1,AL| KLAN NEWS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291163
+#EXTINF:-1,AL| KANALI 7 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291164
+#EXTINF:-1,AL| NEWS 24 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291165
+#EXTINF:-1,AL| NEWS TV MK FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291166
+#EXTINF:-1,AL| ORA NEWS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291167
+#EXTINF:-1,AL| ORA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291168
+#EXTINF:-1,AL| ZERI TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291169
+#EXTINF:-1,AL| RTV 21 NEWSBIZ HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291170
+#EXTINF:-1,AL| REPORT FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291171
+#EXTINF:-1,AL| SCAN TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291172
+#EXTINF:-1,AL| SYRI TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291173
+#EXTINF:-1,AL| SYRI NEWS TV
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291174
+#EXTINF:-1,AL| TOP NEWS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291175
+#EXTINF:-1,AL| KANALI 7 NEWS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291176
+#EXTINF:-1,AL| Panorama TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291177
+#EXTINF:-1,AL| PANORAMA NEWS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291178
+#EXTINF:-1,AL| RTV ARBËRIA 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291114
+#EXTINF:-1,AL| MTV HITS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291115
+#EXTINF:-1,AL| MTV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291116
+#EXTINF:-1,AL| TV ZIKO FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291117
+#EXTINF:-1,AL| AA NEWYORK TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291118
+#EXTINF:-1,AL| ACTV MICHIGAN HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291119
+#EXTINF:-1,AL| E MIRË TV MUZIKË HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291120
+#EXTINF:-1,AL| DARK POPULLORE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291121
+#EXTINF:-1,AL| MALISHEVA TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291122
+#EXTINF:-1,AL| RTV MALISHEVA HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291123
+#EXTINF:-1,AL| FOLK + ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291124
+#EXTINF:-1,AL| KLAN MUSIC ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291125
+#EXTINF:-1,AL| ELRODI TV ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291126
+#EXTINF:-1,AL| MELODY TV ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291127
+#EXTINF:-1,AL| CLICK TV ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291128
+#EXTINF:-1,AL| BBF MUSIC ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291129
+#EXTINF:-1,AL| RTV21 POPULLORE FHD ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291130
+#EXTINF:-1,AL| TOP ESTRADA TV ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291131
+#EXTINF:-1,AL| STV FOLK HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291132
+#EXTINF:-1,AL| MTV KOSOVA ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291133
+#EXTINF:-1,AL| LUGINA POPULLORE HD ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291134
+#EXTINF:-1,AL| MY MUSIC ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291135
+#EXTINF:-1,AL| ROMA TV ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291136
+#EXTINF:-1,AL| SUPERSONIC TV HD ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291137
+#EXTINF:-1,AL| MUSE TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291138
+#EXTINF:-1,AL| APOLLON TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291139
+#EXTINF:-1,AL| RTV21 PLUS FHD ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291140
+#EXTINF:-1,AL| RTV21 MIX FHD ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291141
+#EXTINF:-1,AL| TURBO CHANNEL TV HD ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291142
+#EXTINF:-1,AL| RTV FONTANA HD ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291143
+#EXTINF:-1,AL| SYRI VISION TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291144
+#EXTINF:-1,AL| LIRIA TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291145
+#EXTINF:-1,AL| SHQIPONIA TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291146
+#EXTINF:-1,AL| SKY BLUE TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291147
+#EXTINF:-1,AL| ALBSWISS TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291148
+#EXTINF:-1,AL| TV ULQINI HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291149
+#EXTINF:-1,AL| ON TV HD ♫
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291150
+#EXTINF:-1,AL| USKANA TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291151
+#EXTINF:-1,AL| DIELLI TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291152
+#EXTINF:-1,AL| FASHION TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291153
+#EXTINF:-1,AL| SPIN TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291154
+#EXTINF:-1,AL| FRAME TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291155
+#EXTINF:-1,AL| EB TOM AND JERRY HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291092
+#EXTINF:-1,AL| BOOMERANG HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291093
+#EXTINF:-1,AL| MCN TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291094
+#EXTINF:-1,AL| MCN 24 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291095
+#EXTINF:-1,AL| TIP TV FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291096
+#EXTINF:-1,AL| SOFIA FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291097
+#EXTINF:-1,AL| SMILE HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291098
+#EXTINF:-1,AL| ÇUFO HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291099
+#EXTINF:-1,AL| BANG BANG HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291100
+#EXTINF:-1,AL| JUNIOR TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291101
+#EXTINF:-1,AL| RTV 21 JUNIOR HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291102
+#EXTINF:-1,AL| DUCK TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291103
+#EXTINF:-1,AL| NICK JUNIOR FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291104
+#EXTINF:-1,AL| DISNEY JUNIOR HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291105
+#EXTINF:-1,AL| BABY TV HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291106
+#EXTINF:-1,AL| TRING TRING HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291107
+#EXTINF:-1,AL| RTV ARBËRIA 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291108
+#EXTINF:-1,AL| TRING KIDS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291109
+#EXTINF:-1,AL| FILMA VIZATIMOR HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291110
+#EXTINF:-1,AL| FILMA VIZATIMOR 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291111
+#EXTINF:-1,AL| FILMA VIZATIMOR 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291112
+#EXTINF:-1,AL| FILMA VIZATIMOR 5 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291113
+#EXTINF:-1,AL| OVER SPORT NEWS FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291038
+#EXTINF:-1,AL| EUROSPORT 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291039
+#EXTINF:-1,AL| EUROSPORT 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291040
+#EXTINF:-1,AL| OVERSPORT 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291041
+#EXTINF:-1,AL| OVERSPORT 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291042
+#EXTINF:-1,AL| OVERSPORT 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291043
+#EXTINF:-1,AL| OVERSPORT 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291044
+#EXTINF:-1,AL| SUPER SPORT NEWS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291045
+#EXTINF:-1,AL| SUPER SPORT KOSOVA 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291046
+#EXTINF:-1,AL| SUPER SPORT KOSOVA 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291047
+#EXTINF:-1,AL| SUPER SPORT KOSOVA 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291048
+#EXTINF:-1,AL| SUPER SPORT 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291049
+#EXTINF:-1,AL| SUPER SPORT 1 HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291050
+#EXTINF:-1,AL| SUPER SPORT 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291051
+#EXTINF:-1,AL| SUPER SPORT 2 HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291052
+#EXTINF:-1,AL| SUPER SPORT 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291053
+#EXTINF:-1,AL| SUPER SPORT 3 HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291054
+#EXTINF:-1,AL| SUPER SPORT 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291055
+#EXTINF:-1,AL| SUPER SPORT 4 HD [BK]
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291056
+#EXTINF:-1,AL| SUPER SPORT 5 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291057
+#EXTINF:-1,AL| SUPER SPORT 6 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291058
+#EXTINF:-1,AL| SUPER SPORT 7 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291059
+#EXTINF:-1,AL| TRING SPORT NEWS HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291060
+#EXTINF:-1,AL| TRING SPORT 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291061
+#EXTINF:-1,AL| TRING SPORT 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291062
+#EXTINF:-1,AL| TRING SPORT 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291063
+#EXTINF:-1,AL| TRING SPORT 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291064
+#EXTINF:-1,AL| KUJTESA SPORT 1 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291065
+#EXTINF:-1,AL| KUJTESA SPORT 2 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291066
+#EXTINF:-1,AL| KUJTESA SPORT 3 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291067
+#EXTINF:-1,AL| KUJTESA SPORT 4 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291068
+#EXTINF:-1,AL| KUJTESA SPORT 5 HD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291069
+#EXTINF:-1,✦●✦ ALBANIA SPORTS FHD✦●✦
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291070
+#EXTINF:-1,AL| SUPER SPORT 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291071
+#EXTINF:-1,AL| SUPER SPORT 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291072
+#EXTINF:-1,AL| SUPER SPORT 3 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291073
+#EXTINF:-1,AL| SUPER SPORT 4 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291074
+#EXTINF:-1,AL| SUPER SPORT 5 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291075
+#EXTINF:-1,AL| SUPER SPORT 6 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291076
+#EXTINF:-1,AL| TRING SPORT 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291077
+#EXTINF:-1,AL| TRING SPORT 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291078
+#EXTINF:-1,AL| TRING SPORT 3 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291079
+#EXTINF:-1,AL| TRING SPORT 4 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291080
+#EXTINF:-1,AL| ART SPORT 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291081
+#EXTINF:-1,AL| ART SPORT 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291082
+#EXTINF:-1,AL| ART SPORT 3 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291083
+#EXTINF:-1,AL| ART SPORT 4 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291084
+#EXTINF:-1,AL| ART SPORT 5 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291085
+#EXTINF:-1,AL| ART SPORT 6 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291086
+#EXTINF:-1,AL| SPORT 1 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291087
+#EXTINF:-1,AL| SPORT 2 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291088
+#EXTINF:-1,AL| SPORT 3 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291089
+#EXTINF:-1,AL| SPORT 4 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291090
+#EXTINF:-1,AL| SPORT 5 FHD
+http://masa.snap-tr.org:80/64:07:f6:44:f4:38/3OluPaRjhJ/291091
