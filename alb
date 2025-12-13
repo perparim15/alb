@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Klan.Kosova.al" tvg-name="AL: Klan Kosova" tvg-logo="http://84.22.62.251:8822/LOGO/klan-kosova.png" group-title="ALL",AL: Klan Kosova
-http://iptv3.kbc.al:25461/Beharlushtaku/iNSmn2322H/4
+#EXTINF:-1 tvg-id="learngerman.dw.com/"  group-title="ALL",AL: Hallo! | Nicos Weg
+https://hlsvod.dw.com/i/dwtv_video/flv/nicosweg/A1_E0_L1_F1_,sd_sor,sd_avc,.mp4.csmil/master.m3u8
