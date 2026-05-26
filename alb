@@ -1,35 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", RTK
 https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",✶⋆✶ ALBANIA SPORTS [720p] ✶⋆✶
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23144.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT KOSOVA 1 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23106.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT KOSOVA 2 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23107.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 1 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23112.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 1 [720p] [BK]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23111.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 2 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23113.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 2 [720p] [BK]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23110.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 3 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23114.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 3 [720p] [BK]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23109.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 4 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23115.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 5 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23116.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 6 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23117.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 7 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23141.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT NEWS [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23122.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 1 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23118.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA SPORTS",AL| TRING SPORT 2 [720p]
-http://shikoshqip.ottb.xyz:80/live/albalifetv/shikoshqip/23119.ts
+#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", RTV 21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", KTV
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", ATV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", KTV ARTA
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", A2 CNN
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2h7-5bc-xym-0k2/tracks-v2a1/mono.ts.m3u8
