@@ -1,17 +1,1213 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", RTK
-https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/index.m3u8
-#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", RTV 21
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
-#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", KTV
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", T7
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", ATV
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", RTK 3
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", KTV ARTA
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="rtk.com/"  group-title="ALL", A2 CNN
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/2h7-5bc-xym-0k2/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ Albanien ▼★●•" tvg-logo="" group-title="**** Albania Shqipëtare ****",•●★▼ Albanien ▼★●•
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/92291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1 ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/alb/rtk1.png" group-title="**** Albania Shqipëtare ****",AL: RTK 1 ᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/20895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/rtk1hd.png" group-title="**** Albania Shqipëtare ****",AL: RTK 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/rtk1fhd.png" group-title="**** Albania Shqipëtare ****",AL: RTK 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/91072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="http://falcon.ac:5000/images/alb/rtk3fhd.png" group-title="**** Albania Shqipëtare ****",AL: RTK 3
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4 HD" tvg-logo="http://falcon.ac:5000/images/alb/rtk4fhd.png" group-title="**** Albania Shqipëtare ****",AL: RTK 4 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV" tvg-logo="http://falcon.ac:5000/images/alb/ktv.png" group-title="**** Albania Shqipëtare ****",AL: KTV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV FHD" tvg-logo="http://falcon.ac:5000/images/alb/ktvhd.png" group-title="**** Albania Shqipëtare ****",AL: KTV FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/5341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV HD" tvg-logo="http://falcon.ac:5000/images/alb/ktvfhd.png" group-title="**** Albania Shqipëtare ****",AL: KTV HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/91073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 HD" tvg-logo="http://falcon.ac:5000/images/alb/rtv21.png" group-title="**** Albania Shqipëtare ****",AL: RTV 21 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21" tvg-logo="http://falcon.ac:5000/images/alb/rtv21hd.png" group-title="**** Albania Shqipëtare ****",AL: RTV 21
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 HD" tvg-logo="http://falcon.ac:5000/images/alb/rtv21fhd.png" group-title="**** Albania Shqipëtare ****",AL: RTV21 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Klan Kosova FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova HD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Klan Kosova HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: PRO1 TV FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: PRO1 TV FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/189770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: T7 HD" tvg-logo="http://falcon.ac:5000/images/alb/t7hd.png" group-title="**** Albania Shqipëtare ****",AL: T7 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/15558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: T7 FHD" tvg-logo="http://falcon.ac:5000/images/alb/t7fhd.png" group-title="**** Albania Shqipëtare ****",AL: T7 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/3149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dukagjini" tvg-logo="http://falcon.ac:5000/images/alb/tvdukagjini.png" group-title="**** Albania Shqipëtare ****",AL: TV Dukagjini
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dukagjini HD" tvg-logo="http://falcon.ac:5000/images/alb/tvdukagjinihd.png" group-title="**** Albania Shqipëtare ****",AL: TV Dukagjini HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/79049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dukagjini FHD" tvg-logo="http://falcon.ac:5000/images/alb/tvdukagjinifhd.png" group-title="**** Albania Shqipëtare ****",AL: TV Dukagjini FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/91075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal 10 HD" tvg-logo="http://falcon.ac:5000/images/alb/kanal10hd.png" group-title="**** Albania Shqipëtare ****",AL: Kanal 10 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal 10 FHD" tvg-logo="http://falcon.ac:5000/images/alb/kanal10fhd.png" group-title="**** Albania Shqipëtare ****",AL: Kanal 10 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/11077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ATV" tvg-logo="http://falcon.ac:5000/images/alb/atvfhd.png" group-title="**** Albania Shqipëtare ****",AL: ATV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/105125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ATV FHD" tvg-logo="http://falcon.ac:5000/images/alb/atvfhd.png" group-title="**** Albania Shqipëtare ****",AL: ATV FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TeVe1 HD" tvg-logo="http://drks.info:8080/images/40e467ce2fe7252c6d9e361fd7f8757e.png" group-title="**** Albania Shqipëtare ****",AL: TeVe1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/152773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ Gjenerale Shqiptare ▼★●•" tvg-logo="" group-title="**** Albania Shqipëtare ****",•●★▼ Gjenerale Shqiptare ▼★●•
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/62785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan" tvg-logo="http://falcon.ac:5000/images/alb/klantvhd.png" group-title="**** Albania Shqipëtare ****",AL: Klan
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan HD" tvg-logo="http://falcon.ac:5000/images/alb/klantvfhd.png" group-title="**** Albania Shqipëtare ****",AL: Klan HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel" tvg-logo="http://falcon.ac:5000/images/alb/topchanel.png" group-title="**** Albania Shqipëtare ****",AL: Top Channel
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel ⁴ᴷ" tvg-logo="http://falcon.ac:5000/images/alb/topchanelhd.png" group-title="**** Albania Shqipëtare ****",AL: Top Channel ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel FHD" tvg-logo="http://falcon.ac:5000/images/alb/topchanelfhd.png" group-title="**** Albania Shqipëtare ****",AL: Top Channel FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/53840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus" tvg-logo="http://falcon.ac:5000/images/alb/klanplus.png" group-title="**** Albania Shqipëtare ****",AL: Klan Plus
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus HD" tvg-logo="http://falcon.ac:5000/images/alb/klanplushd.png" group-title="**** Albania Shqipëtare ****",AL: Klan Plus HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus FHD" tvg-logo="http://falcon.ac:5000/images/alb/klanplusfhd.png" group-title="**** Albania Shqipëtare ****",AL: Klan Plus FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/53843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus" tvg-logo="http://falcon.ac:5000/images/alb/vizionplus.png" group-title="**** Albania Shqipëtare ****",AL: Vizion Plus
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/13910.m3u8
+#EXTINF:-1 tvg-id="Vizion Plus-AL" tvg-name="AL: Vizion Plus HD" tvg-logo="http://falcon.ac:5000/images/alb/vizionplushd.png" group-title="**** Albania Shqipëtare ****",AL: Vizion Plus HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus ⁴ᴷ" tvg-logo="http://falcon.ac:5000/images/alb/vizionplusfhd.png" group-title="**** Albania Shqipëtare ****",AL: Vizion Plus ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/53841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alsat M HD" tvg-logo="http://falcon.ac:5000/images/alb/alsatm.png" group-title="**** Albania Shqipëtare ****",AL: Alsat M HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/7661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALSAT M" tvg-logo="http://falcon.ac:5000/images/alb/alsatmhd.png" group-title="**** Albania Shqipëtare ****",AL: ALSAT M
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alsat FHD" tvg-logo="http://falcon.ac:5000/images/alb/alsatmfhd.png" group-title="**** Albania Shqipëtare ****",AL: Alsat FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/91074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3+ HD" tvg-logo="http://falcon.ac:5000/images/alb/tring3plus.png" group-title="**** Albania Seriale ****",AL: Tring 3+ HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3+" tvg-logo="http://falcon.ac:5000/images/alb/tring3plushd.png" group-title="**** Albania Seriale ****",AL: Tring 3+
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Series HD" tvg-logo="http://tv.kabllor.net/logo/tring_jolly_hd.png" group-title="**** Albania Seriale ****",AL: Tring Series HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/161557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Collection HD" tvg-logo="" group-title="**** Albania Seriale ****",AL: Tring Collection HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/163453.m3u8
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="AL: Kanal D Drama HD" tvg-logo="http://falcon.ac:5000/images/alb/Kanalddramahd.png" group-title="**** Albania Seriale ****",AL: Kanal D Drama HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/78700.m3u8
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="Kanal D Drama HD AL" tvg-logo="http://falcon.ac:5000/images/alb/Kanalddramafhd.png" group-title="**** Albania Seriale ****",Kanal D Drama HD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Novelas FHD" tvg-logo="http://falcon.ac:5000/images/alb/TringNovelas.png" group-title="**** Albania Seriale ****",AL: Tring Novelas FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146011.m3u8
+#EXTINF:-1 tvg-id="Jolly HD-AL" tvg-name="Jolly" tvg-logo="http://falcon.ac:5000/images/jolly.png" group-title="**** Albania Seriale ****",Jolly
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/896.m3u8
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="AL: Jolly FHD" tvg-logo="http://falcon.ac:5000/images/jolly.png" group-title="**** Albania Seriale ****",AL: Jolly FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Episode HD" tvg-logo="http://falcon.ac:5000/images/alb/episodehd.png" group-title="**** Albania Seriale ****",AL: Episode HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Episode FHD" tvg-logo="http://falcon.ac:5000/images/alb/episodefhd.png" group-title="**** Albania Seriale ****",AL: Episode FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/91079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC FHD" tvg-logo="http://falcon.ac:5000/images/tdc.png" group-title="**** Albania Seriale ****",AL: TDC FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/53846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Shenja  SD/HD" tvg-logo="http://falcon.ac:5000/images/tvshenja.png" group-title="**** Albania Shqipëtare ****",AL: TV Shenja  SD/HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/2074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN Macedonia" tvg-logo="http://falcon.ac:5000/images/alb/klanmacedoniahd.png" group-title="**** Albania Shqipëtare ****",AL: KLAN Macedonia
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Maqedonia FHD" tvg-logo="http://falcon.ac:5000/images/21mk.png" group-title="**** Albania Shqipëtare ****",AL: RTV 21 Maqedonia FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: MPT2 Sat" tvg-logo="http://falcon.ac:5000/images/mktv2.png" group-title="**** Albania Shqipëtare ****",AL: MPT2 Sat
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/12239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Koha" tvg-logo="http://falcon.ac:5000/images/alb/kohatvhd.png" group-title="**** Albania Shqipëtare ****",AL: TV Koha
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: A1 Report HD" tvg-logo="http://falcon.ac:5000/images/a1report.png" group-title="**** Albania Lajme & Dokumentare ****",AL: A1 Report HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: A2 CNN News HD" tvg-logo="http://falcon.ac:5000/images//a2cnn.png" group-title="**** Albania Lajme & Dokumentare ****",AL: A2 CNN News HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/29717.m3u8
+#EXTINF:-1 tvg-id="ABC News" tvg-name="AL: ABC News FHD" tvg-logo="http://falcon.ac:5000/images/abcnews.png" group-title="**** Albania Lajme & Dokumentare ****",AL: ABC News FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/914.m3u8
+#EXTINF:-1 tvg-id="Arta HD" tvg-name="AL: Arta News" tvg-logo="http://falcon.ac:5000/images/artatv.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Arta News
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ABC Story HD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: ABC Story HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/193231.m3u8
+#EXTINF:-1 tvg-id="EuroNews Albania" tvg-name="AL: Euronews Albania HD" tvg-logo="http://falcon.ac:5000/images/euronews.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Euronews Albania HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/894.m3u8
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: Fax News HD" tvg-logo="http://falcon.ac:5000/images/faxnews.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Fax News HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/20203.m3u8
+#EXTINF:-1 tvg-id="Kanali 7" tvg-name="AL: Kanali 7" tvg-logo="http://falcon.ac:5000/images/kanali7.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Kanali 7
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/895.m3u8
+#EXTINF:-1 tvg-id="Klan TV" tvg-name="AL: Klan News HD" tvg-logo="http://falcon.ac:5000/images/alb/klannews.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Klan News HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/53842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: MCN 24 TV" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: MCN 24 TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/188809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: MCN TV" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: MCN TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89310.m3u8
+#EXTINF:-1 tvg-id="News 24" tvg-name="AL: News 24" tvg-logo="http://falcon.ac:5000/images/news24.png" group-title="**** Albania Lajme & Dokumentare ****",AL: News 24
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/6695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ora News" tvg-logo="http://falcon.ac:5000/images/oranews.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Ora News
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1131.m3u8
+#EXTINF:-1 tvg-id="Report TV-AL" tvg-name="AL: Report TV" tvg-logo="http://falcon.ac:5000/images/reporttv.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Report TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/6697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 MIX ᴴᴰ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: RTV21 MIX ᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/20206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri News HD" tvg-logo="http://falcon.ac:5000/images/syrinews.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Syri News HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/78812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top News ( A )" tvg-logo="http://falcon.ac:5000/images/topnews.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Top News ( A )
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SAT" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSH.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH SAT
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSH1HD.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2 HD" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSH2HD.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH 2 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/11837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSH24.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH 24
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25900.m3u8
+#EXTINF:-1 tvg-id="RTSH 3" tvg-name="AL: RTSH 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSH3HD.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH 3 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/11836.m3u8
+#EXTINF:-1 tvg-id="RTSH Agro" tvg-name="AL: RTSH Agro" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSHAgro.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH Agro
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/28674.m3u8
+#EXTINF:-1 tvg-id="RTSH Femije" tvg-name="AL: RTSH Femije" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSHFemije.png" group-title="**** Albania Fëmijët ****",AL: RTSH Femije
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Gjirokastra HD AL" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/rtshgjirokastra.png" group-title="**** Albania Lajme & Dokumentare ****",RTSH Gjirokastra HD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25904.m3u8
+#EXTINF:-1 tvg-id="RTSH Kukesi" tvg-name="AL: RTSH Kukesi" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/rtshkukesi.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH Kukesi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134502.m3u8
+#EXTINF:-1 tvg-id="RTSH Kuvend" tvg-name="AL: RTSH Kuvend" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSHKuvend.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH Kuvend
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Muzike ♫" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSHMuzike.png" group-title="**** Albania Music & Islame ****",AL: RTSH Muzike ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Plus" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSHPlus.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH Plus
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shkodra" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/rtshshkodra.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH Shkodra
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/3148.m3u8
+#EXTINF:-1 tvg-id="RTSH Shkolle" tvg-name="AL: RTSH Shkolle" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSHShkolle.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH Shkolle
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shqip HD" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSHShqip.png" group-title="**** Albania Lajme & Dokumentare ****",AL: RTSH Shqip HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25902.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="AL: Animal Planet FHD" tvg-logo="http://falcon.ac:5000/images/alb/animalplanethd.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Animal Planet FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Science FHD" tvg-logo="http://falcon.ac:5000/images/alb/discoveryscience.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Discovery Science FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Doku Box" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Doku Box
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/151477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: E Histori" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: E Histori
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4632.m3u8
+#EXTINF:-1 tvg-id="EXPLORER Histori" tvg-name="AL: Explorer Histori" tvg-logo="http://falcon.ac:5000/images/exhistori.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Explorer Histori
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/920.m3u8
+#EXTINF:-1 tvg-id="EXPLORER Natyra" tvg-name="AL: Explorer Natyra" tvg-logo="http://falcon.ac:5000/images/exnatyre.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Explorer Natyra
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/919.m3u8
+#EXTINF:-1 tvg-id="EXPLORER Shkence" tvg-name="AL: Explorer Shkence" tvg-logo="http://falcon.ac:5000/images/exshkence.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Explorer Shkence
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gjurme Shqiptare HD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Gjurme Shqiptare HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/143113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Gjurmë Shqiptare" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: EB Gjurmë Shqiptare
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/143112.m3u8
+#EXTINF:-1 tvg-id="ID Xtra HD" tvg-name="ID Xtra FHD VIP AL" tvg-logo="http://falcon.ac:5000/images/alb/idxtrahd.png" group-title="**** Albania Lajme & Dokumentare ****",ID Xtra FHD VIP AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/147569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Planet FHD AL" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",Sky Planet FHD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/12241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S Shkence AL" tvg-logo="http://falcon.ac:5000/images/skyshkenca.png" group-title="**** Albania Lajme & Dokumentare ****",S Shkence AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4633.m3u8
+#EXTINF:-1 tvg-id="Travel Channel-AL" tvg-name="AL: Travel Channel HD" tvg-logo="http://falcon.ac:5000/images/travelchannel.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Travel Channel HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/20891.m3u8
+#EXTINF:-1 tvg-id="Tring History" tvg-name="AL: Tring History" tvg-logo="http://falcon.ac:5000/images/tringhistory.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Tring History
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/881.m3u8
+#EXTINF:-1 tvg-id="Tring Planet" tvg-name="AL: Tring Planet" tvg-logo="http://falcon.ac:5000/images/tringplanet.png" group-title="**** Albania Lajme & Dokumentare ****",AL: Tring Planet
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Doku 1 FHD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Tëvë Doku 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Doku 2 HD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Tëvë Doku 2 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Serial H.O.T FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB Serial H.O.T FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/150006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Gjirafa Serial Rrushe FHD" tvg-logo="http://falcon.ac:5000/images/alb/EBGjirafa.png" group-title="**** Albania Seriale ****",AL: EB Gjirafa Serial Rrushe FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gjirafa Premium 1 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Gjirafa Premium 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/230702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gjirafa Premium 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Gjirafa Premium 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/230703.m3u8
+#EXTINF:-1 tvg-id="fdf6f521-87ef-4006-9f43-f29c68dbbf44" tvg-name="AL: Netflix Series Berlin" tvg-logo="" group-title="**** Creative ****",AL: Netflix Series Berlin
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212346.m3u8
+#EXTINF:-1 tvg-id="d5bf7cf0-691a-4d33-83ce-559a7d9ed144" tvg-name="AL: Netflix Series Fubar" tvg-logo="" group-title="**** Creative ****",AL: Netflix Series Fubar
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212347.m3u8
+#EXTINF:-1 tvg-id="33d4521a-7e3b-4e75-90bd-8bf617eabec9" tvg-name="AL: Netflix Series Lupin" tvg-logo="" group-title="**** Creative ****",AL: Netflix Series Lupin
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212348.m3u8
+#EXTINF:-1 tvg-id="e618ddd0-42ba-4ac4-b334-51560eca8009" tvg-name="AL: Oda e Stupcave" tvg-logo="" group-title="**** Creative ****",AL: Oda e Stupcave
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Fast and Furious FHD" tvg-logo="http://falcon.ac:5000/images/de/fastandfurious.png" group-title="**** Albania Film ****",AL: EB Fast and Furious FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/230707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Marvel 1" tvg-logo="http://falcon.ac:5000/images/de/marvel.png" group-title="**** Albania Film ****",AL: EB Marvel 1
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/230763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Marvel 2" tvg-logo="http://falcon.ac:5000/images/de/marvel.png" group-title="**** Albania Film ****",AL: EB Marvel 2
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/230764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Fc Latta FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB Fc Latta FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/141301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Serial Hetuesia FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Humor.png" group-title="**** Albania Seriale ****",AL: EB Serial Hetuesia FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/149640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Sha je be tu folen FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB Sha je be tu folen FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/153486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kryetari i mire me shok shum FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Kryetari.png" group-title="**** Albania Seriale ****",AL: EB Kryetari i mire me shok shum FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/149641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Qka ka Shpija FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB Qka ka Shpija FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/141953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Schengen Visa FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB Schengen Visa FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB O Sa Mire FHD" tvg-logo="http://falcon.ac:5000/images/created123/osamire.png" group-title="**** Albania Seriale ****",AL: EB O Sa Mire FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Serial Fara e Flliqt FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_FaraeFlliqt.png" group-title="**** Albania Seriale ****",AL: EB Serial Fara e Flliqt FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB SHPK Nazi FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB SHPK Nazi FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/143111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Oda e Stupcave FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB Oda e Stupcave FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Stupcat Egjeli 1 FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB Stupcat Egjeli 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/153395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Stupcat Egjeli 2 FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB Stupcat Egjeli 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/153396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Stupcat Egjeli 3 FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB Stupcat Egjeli 3 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/153397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fiks Fare" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Fiks Fare
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Portokalli" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Portokalli
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/festive1.png" group-title="**** Albania Music & Islame ****",AL: EB Festive 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL:  AlbKanale Music TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL:  AlbKanale Music TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/festive2.png" group-title="**** Albania Music & Islame ****",AL: EB Festive 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Serial IStar FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Serial IStar FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB O Sa Mire Kids FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB O Sa Mire Kids FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB PËRALLA HD" tvg-logo="http://falcon.ac:5000/images/created123/ebkids.png" group-title="**** Albania Fëmijët ****",AL: EB PËRALLA HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Animuar 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 2 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Animuar 2 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Animuar 3 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 4 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Animuar 4 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Vlada&Niki FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Vlada&Niki FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Super Simple Songs FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Super Simple Songs FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Masha and the Bear FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Masha and the Bear FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Diana Show FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Diana Show FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Baby Bus FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Baby Bus FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Cocomelon FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Cocomelon FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Pink Fong FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Pink Fong FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Odd Bods FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Odd Bods FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Tom and Jerry HD" tvg-logo="http://falcon.ac:5000/images/tomandjerry.png" group-title="**** Albania Fëmijët ****",AL: EB Tom and Jerry HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/143115.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="AL: Boomerang" tvg-logo="http://falcon.ac:5000/images/boomerang.png" group-title="**** Albania Fëmijët ****",AL: Boomerang
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/74946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: LARVA Kids" tvg-logo="" group-title="**** Albania Fëmijët ****",AL: LARVA Kids
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/81718.m3u8
+#EXTINF:-1 tvg-id="Tip TV" tvg-name="AL: Tip TV" tvg-logo="http://falcon.ac:5000/images/tiptv.png" group-title="**** Albania Fëmijët ****",AL: Tip TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sofia TV" tvg-logo="http://falcon.ac:5000/images/sofia.png" group-title="**** Albania Fëmijët ****",AL: Sofia TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/888.m3u8
+#EXTINF:-1 tvg-id="Smile" tvg-name="AL: Smile TV" tvg-logo="http://falcon.ac:5000/images/smile.png" group-title="**** Albania Fëmijët ****",AL: Smile TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cufo TV AL" tvg-logo="http://falcon.ac:5000/images/cufo.png" group-title="**** Albania Fëmijët ****",Cufo TV AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Bang Bang" tvg-logo="http://falcon.ac:5000/images/bangbang.png" group-title="**** Albania Fëmijët ****",AL: Bang Bang
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/923.m3u8
+#EXTINF:-1 tvg-id="Junior" tvg-name="AL: Junior TV" tvg-logo="http://falcon.ac:5000/images/juniortv.png" group-title="**** Albania Fëmijët ****",AL: Junior TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/924.m3u8
+#EXTINF:-1 tvg-id="21 Junior" tvg-name="AL: RTV21 Junior FHD" tvg-logo="http://falcon.ac:5000/images/21junior.png" group-title="**** Albania Fëmijët ****",AL: RTV21 Junior FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Nick Toons" tvg-logo="http://falcon.ac:5000/images/nickjr.png" group-title="**** Albania Fëmijët ****",AL: Nick Toons
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/28686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY JUNIOR HD" tvg-logo="http://falcon.ac:5000/images/disneyjunior.png" group-title="**** Albania Fëmijët ****",|FR| DISNEY JUNIOR HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/28690.m3u8
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="AL: BabyTV" tvg-logo="http://falcon.ac:5000/images/babytv.png" group-title="**** Albania Fëmijët ****",AL: BabyTV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/78808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Nostalgji" tvg-logo="" group-title="**** Albania Film ****",AL: Klan Nostalgji
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/229069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Film" tvg-logo="http://falcon.ac:5000/images/alb/rtsh/RTSHFilm.png" group-title="**** Albania Film ****",AL: RTSH Film
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Netflix Series Berlin FHD" tvg-logo="" group-title="**** Albania Film ****",AL: EB Netflix Series Berlin FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/194174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Netflix Series Fubar FHD" tvg-logo="" group-title="**** Albania Film ****",AL: EB Netflix Series Fubar FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/194173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Netflix Series Lupin FHD" tvg-logo="" group-title="**** Albania Film ****",AL: EB Netflix Series Lupin FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/194172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Novela" tvg-logo="https://i.imgur.com/jn5qWIB.png" group-title="**** Albania Film ****",AL: Teve Novela
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Fantasy ᴴᴰ" tvg-logo="https://i.imgur.com/jn5qWIB.png" group-title="**** Albania Film ****",AL: Tëvë Fantasy ᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Drame" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Drame
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Comedy" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Comedy
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Aksion" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë Aksion
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Shqip" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë Shqip
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187506.m3u8
+#EXTINF:-1 tvg-id="Tring Tring" tvg-name="AL: Tring Tring" tvg-logo="http://falcon.ac:5000/images/tringtring.png" group-title="**** Albania Fëmijët ****",AL: Tring Tring
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Kids HD" tvg-logo="http://falcon.ac:5000/images/tringkids.png" group-title="**** Albania Fëmijët ****",AL: Tring Kids HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/28692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kids" tvg-logo="http://tv.kabllor.net/logo/Tring%20Kids.png" group-title="**** Albania Fëmijët ****",AL: Kids
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/11845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Filmi Zgjoi" tvg-logo="" group-title="**** Albania Film ****",AL: EB Premiere Filmi Zgjoi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/230809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/64268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 10 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 10 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/15562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 11 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 11 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/147555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 12 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 12 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/147556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 13 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 13 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/147562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 14 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 14 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/147557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 15 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 15 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/147558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 16 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 16 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/147559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 17 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 17 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/147560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 18 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 18 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/147561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 2 FHD" tvg-logo="http://falcon.ac:5000/images/created123/ebpremiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/91080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 3 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/83301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 4 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/83298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 5 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 5 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/7672.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="AL: EB Premiere Select 6 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 6 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 7 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 7 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 8 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 8 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/7674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 9 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 9 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/13912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB La casa de papel FHD" tvg-logo="http://falcon.ac:5000/images/created123/lacasa.png" group-title="**** Albania Seriale ****",AL: EB La casa de papel FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Prison Break FHD" tvg-logo="http://falcon.ac:5000/images/ger/serien/prison.break.png" group-title="**** Albania Seriale ****",AL: EB Prison Break FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Prison Break 2 FHD" tvg-logo="http://falcon.ac:5000/images/ger/serien/prison.break.png" group-title="**** Albania Seriale ****",AL: EB Prison Break 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/230705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Breaking Bad FHD" tvg-logo="http://falcon.ac:5000/images/ger/serien/breaking.bad.png" group-title="**** Albania Seriale ****",AL: EB Breaking Bad FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Breaking Bad 2 FHD" tvg-logo="http://falcon.ac:5000/images/ger/serien/breaking.bad.png" group-title="**** Albania Seriale ****",AL: EB Breaking Bad 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/230704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Narcos FHD" tvg-logo="http://falcon.ac:5000/images/created123/narcos.png" group-title="**** Albania Seriale ****",AL: EB Narcos FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Collection Rocky FHD" tvg-logo="http://falcon.ac:5000/images/de/rockyhd.png" group-title="**** Albania Film ****",AL: EB Collection Rocky FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/141368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Collection Rambo FHD" tvg-logo="http://falcon.ac:5000/images/created123/rambo.png" group-title="**** Albania Film ****",AL: EB Collection Rambo FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/141367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Action FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Action FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Animuar FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Fëmijët ****",AL: Filma24 Animuar FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aventur FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Aventur FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Biografi FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Biografi FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Drama FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Drama FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Familjar FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Familjar FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Fantasy FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Fantasy FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Histori FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Histori FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Komedi FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Komedi FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Krim FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Krim FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Mister FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Mister FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Netflix 24 FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Netflix 24 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Romance FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Romance FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Thriller FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Thriller FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Adventure FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Adventure FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Aktion FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Aktion FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Comedy FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Comedy FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Drama FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Drama FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Gold 2 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Gold 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Gold FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Gold FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror 24 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Horror 24 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Horror FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Romance FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Romance FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Sci-Fi FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Sci-Fi FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Thriller FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Thriller FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 1 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 2 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 3 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 3 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 4 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 4 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 5 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 5 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 6 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 6 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134269.m3u8
+#EXTINF:-1 tvg-id="Gold HD" tvg-name="AL: Film Gold HD" tvg-logo="http://falcon.ac:5000/images/alb/goldhd.png" group-title="**** Albania Film ****",AL: Film Gold HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Max FHD" tvg-logo="http://falcon.ac:5000/images/alb/MaxHD.png" group-title="**** Albania Film ****",AL: Film Max FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/12246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits Plus 1 AL" tvg-logo="http://falcon.ac:5000/images/filmhits.png" group-title="**** Albania Film ****",Film Hits Plus 1 AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://falcon.ac:5000/images/filmaksion.png" group-title="**** Albania Film ****",AL: Film Aksion HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/filmthriller.png" group-title="**** Albania Film ****",AL: Film Thriller ᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Drame" tvg-logo="http://falcon.ac:5000/images/filmdrama.png" group-title="**** Albania Film ****",AL: Film Drame
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi" tvg-logo="http://falcon.ac:5000/images/filmkomedi.png" group-title="**** Albania Film ****",AL: Film Komedi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: 20 DIGITALB" tvg-logo="http://falcon.ac:5000/images/alb/foxlifehd.png" group-title="**** Albania Film ****",AL: 20 DIGITALB
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Movies ᶠᴴᴰ" tvg-logo="http://falcon.ac:5000/images/alb/foxhd.png" group-title="**** Albania Film ****",AL: Fox Movies ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/899.m3u8
+#EXTINF:-1 tvg-id="Family HD" tvg-name="AL: Family HD" tvg-logo="http://falcon.ac:5000/images/family.png" group-title="**** Albania Film ****",AL: Family HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/11076.m3u8
+#EXTINF:-1 tvg-id="T HD" tvg-name="AL: T HD" tvg-logo="http://falcon.ac:5000/images/thd.png" group-title="**** Albania Film ****",AL: T HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: STINET HD" tvg-logo="http://falcon.ac:5000/images/stinet.png" group-title="**** Albania Film ****",AL: STINET HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film HD" tvg-logo="http://falcon.ac:5000/images/eurofilm.png" group-title="**** Albania Film ****",AL: Euro Film HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC TeleNovela" tvg-logo="" group-title="**** Albania Film ****",AL: TDC TeleNovela
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/101751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Family HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",AL: Tring Family HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/101752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8ova Komedi HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",8ova Komedi HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/101753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Lezha TV" tvg-logo="" group-title="**** Albania Film ****",AL: Lezha TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/101754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2 HD VIP AL" tvg-logo="http://falcon.ac:5000/images/artkino2.png" group-title="**** Albania Film ****",Art Kino 2 HD VIP AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ARTI TV HD" tvg-logo="http://falcon.ac:5000/images/albmovie.png" group-title="**** Albania Film ****",AL: ARTI TV HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Cinema 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/91081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Cinema FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/6698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 1 FHD" tvg-logo="http://drks.info:8080/images/12f16ec843b3933e23d2910a70f01bbd.png" group-title="**** Albania Film ****",AL: Digi Gold 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2 FHD" tvg-logo="http://arkks.info:8080/images/20aa08a9040aa9b4f7889a74b079d7e4.png" group-title="**** Albania Film ****",AL: Digi Gold 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 3 FHD" tvg-logo="http://drks.info:8080/images/a360c2615ad9c2ed8baf756f08b56bb7.png" group-title="**** Albania Film ****",AL: Digi Gold 3 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/discoveryturboxtrahd.png" group-title="**** Albania Film ****",AL: Digi Gold 4 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 1 AL" tvg-logo="http://falcon.ac:5000/images/egold1.png" group-title="**** Albania Film ****",Digi Gold 1 AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/83367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2 HD" tvg-logo="http://falcon.ac:5000/images/egold2.png" group-title="**** Albania Film ****",AL: Digi Gold 2 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/83366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 1 HD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Art Doku 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Art Doku 2 HD VIP AL" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",Art Doku 2 HD VIP AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Extream Sci-Fi HD" tvg-logo="" group-title="**** Albania Film ****",AL: Extream Sci-Fi HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/83372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="http://falcon.ac:5000/images/filmautor.png" group-title="**** Albania Film ****",AL: Film Autor
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/929.m3u8
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="First Chanel FHD VIP AL" tvg-logo="http://falcon.ac:5000/images/first.png" group-title="**** Albania Film ****",First Chanel FHD VIP AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime Al" tvg-logo="http://falcon.ac:5000/images/alb/foxcrimehd.png" group-title="**** Albania Film ****",Fox Crime Al
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion" tvg-logo="http://falcon.ac:5000/images/shqiptvfilm.png" group-title="**** Albania Film ****",AL: Kinema Aksion
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/75361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Family" tvg-logo="http://falcon.ac:5000/images/shqiptvjeta.png" group-title="**** Albania Film ****",AL: Kinema Family
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/75357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Fantasy" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Fantasy
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/75355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Gold" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Gold
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/75354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Max ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/shqiptvhindi.png" group-title="**** Albania Film ****",AL: Kinema Max ᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/75360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Premier ᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Premier ᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/75359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Republika" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Republika
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/74845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Shqip ᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Shqip ᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/74843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Kino 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Film ****",AL: ART Kino 1 ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Aventure AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Aventure AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Bud Spencer & Terence Hill AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Bud Spencer & Terence Hill AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Dwayne Johnson AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Dwayne Johnson AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Epik AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Epik AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Fantazi AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Fantazi AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Horror AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Horror AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Jackie Chan AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Jackie Chan AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Komedi AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Komedi AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Relaks FHD AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Relaks FHD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Romance AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Romance AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Spider-Man AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Spider-Man AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Sylvester Stallone AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Sylvester Stallone AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Van Damme AL" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",Netflix Van Damme AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94491.m3u8
+#EXTINF:-1 tvg-id="Plus HD-AL" tvg-name="Plus HD AL" tvg-logo="" group-title="**** Albania Film ****",Plus HD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion" tvg-logo="http://falcon.ac:5000/images/skyakcion.png" group-title="**** Albania Film ****",AL: Sky Aksion
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Drama" tvg-logo="" group-title="**** Albania Film ****",AL: Sky Drama
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Komedi" tvg-logo="http://falcon.ac:5000/images/skycomedy.png" group-title="**** Albania Film ****",AL: Sky Komedi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max HD" tvg-logo="" group-title="**** Albania Film ****",AL: Sky Max HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY Novela" tvg-logo="http://falcon.ac:5000/images/skynovela.png" group-title="**** Albania Film ****",AL: SKY Novela
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/12240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Cine" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Cine
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/74842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Prime" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Prime
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/72198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Stars" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Stars
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Stars" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Stars
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/79037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Top" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Top
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/20873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone1.png" group-title="**** Albania Film ****",TELE one 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/65242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 2 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone2.png" group-title="**** Albania Film ****",TELE one 2 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/65243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone3.png" group-title="**** Albania Film ****",TELE one 3 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/65244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 4 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone4.png" group-title="**** Albania Film ****",TELE one 4 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/65245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 5 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone5.png" group-title="**** Albania Film ****",TELE one 5 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 6 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone6.png" group-title="**** Albania Film ****",TELE one 6 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Aksion HD" tvg-logo="" group-title="**** Albania Film ****",TELE one Aksion HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Crime HD" tvg-logo="" group-title="**** Albania Film ****",TELE one Crime HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Drama HD" tvg-logo="" group-title="**** Albania Film ****",TELE one Drama HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Epik HD" tvg-logo="" group-title="**** Albania Film ****",TELE one Epik HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one fantazi HD" tvg-logo="http://falcon.ac:5000/images/shqiptvhorror.png" group-title="**** Albania Film ****",AL: TELE one fantazi HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/75358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE one  GOLD Collection HD" tvg-logo="" group-title="**** Albania Film ****",TELE one  GOLD Collection HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89277.m3u8
+#EXTINF:-1 tvg-id="Tring Action" tvg-name="AL: Tring Action FHD" tvg-logo="http://falcon.ac:5000/images/tringaction.png" group-title="**** Albania Film ****",AL: Tring Action FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Classic ᶠᴴᴰ" tvg-logo="http://falcon.ac:5000/images/tringclassic.png" group-title="**** Albania Film ****",AL: Tring Classic ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring Family FHD AL" tvg-logo="http://falcon.ac:5000/images/tringcomedy.png" group-title="**** Albania Film ****",Tring Family FHD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/16061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy  ⁴ᴷ" tvg-logo="http://falcon.ac:5000/images/tringfantasy.png" group-title="**** Albania Film ****",AL: Tring Fantasy  ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/882.m3u8
+#EXTINF:-1 tvg-id="Tring International" tvg-name="AL: Tring Interational HD ( Original )" tvg-logo="http://falcon.ac:5000/images/tringinternational.png" group-title="**** Albania Film ****",AL: Tring Interational HD ( Original )
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Life ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/tringlife.png" group-title="**** Albania Film ****",AL: Tring Life ᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/880.m3u8
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="AL: Tring Shqip" tvg-logo="http://falcon.ac:5000/images/tringshqip.png" group-title="**** Albania Film ****",AL: Tring Shqip
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/877.m3u8
+#EXTINF:-1 tvg-id="Tring Super" tvg-name="AL: Tring Super FHD" tvg-logo="http://falcon.ac:5000/images/tringsuper.png" group-title="**** Albania Film ****",AL: Tring Super FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring World" tvg-logo="http://falcon.ac:5000/images/tringworld.png" group-title="**** Albania Film ****",AL: Tring World
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Tirana AL" tvg-logo="" group-title="**** Albania Music & Islame ****",TV Tirana AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/135733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Korça +" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Korça +
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Podujeva TV HD" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/LlapiTv_logo_6086a3de8b30b_thumb.jpg" group-title="**** Albania Shqipëtare ****",AL: Podujeva TV HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/83368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Istogu Channel HD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Istogu Channel HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/20879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Drita TV" tvg-logo="http://falcon.ac:5000/images/drita.png" group-title="**** Albania Shqipëtare ****",AL: Drita TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/11078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Besa TV HD" tvg-logo="http://falcon.ac:5000/images/besa.png" group-title="**** Albania Shqipëtare ****",AL: Besa TV HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/3124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Mitrovica" tvg-logo="http://logo.protv.cc/picons/logos/TV-MITROVICA.jpg" group-title="**** Albania Shqipëtare ****",AL: TV Mitrovica
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gezuar-2 2024" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Gezuar-2 2024
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/193457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gezuar-3 2024" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Gezuar-3 2024
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/193458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gezuar-4 2024" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Gezuar-4 2024
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/193459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/festive3.png" group-title="**** Albania Music & Islame ****",AL: EB Festive 3 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/festive4.png" group-title="**** Albania Music & Islame ****",AL: EB Festive 4 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 5 FHD" tvg-logo="http://falcon.ac:5000/images/alb/festive5.png" group-title="**** Albania Music & Islame ****",AL: EB Festive 5 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 6 FHD" tvg-logo="http://falcon.ac:5000/images/alb/festive6.png" group-title="**** Albania Music & Islame ****",AL: EB Festive 6 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 7 FHD" tvg-logo="http://falcon.ac:5000/images/alb/festive7.png" group-title="**** Albania Music & Islame ****",AL: EB Festive 7 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 8 FHD" tvg-logo="http://falcon.ac:5000/images/alb/festive8.png" group-title="**** Albania Music & Islame ****",AL: EB Festive 8 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Music ♫" tvg-logo="http://falcon.ac:5000/images/alb/KlanMusic.png" group-title="**** Albania Music & Islame ****",AL: Klan Music ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/104744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: 4music TV ♫" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: 4music TV ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/102927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: NTV Albania" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: NTV Albania
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/161556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8ova Muzik HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Music & Islame ****",8ova Muzik HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/135731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8ova BBF HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Music & Islame ****",8ova BBF HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/135727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Arberia 1 HD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: RTV Arberia 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/9004.m3u8
+#EXTINF:-1 tvg-id="Folk Plus-AL" tvg-name="AL: Folk+ ♫" tvg-logo="http://falcon.ac:5000/images/folkplus.png" group-title="**** Albania Music & Islame ****",AL: Folk+ ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Ora" tvg-logo="http://tv.kabllor.net/logo/Ora%20News.png" group-title="**** Albania Music & Islame ****",AL: RTV Ora
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Click TV ♫" tvg-logo="http://falcon.ac:5000/images/clicktv.png" group-title="**** Albania Music & Islame ****",AL: Click TV ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: BBF MUSIC ♫" tvg-logo="http://falcon.ac:5000/images/bbf.png" group-title="**** Albania Music & Islame ****",AL: BBF MUSIC ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folklorit TV AL" tvg-logo="http://falcon.ac:5000/images/folklorit.png" group-title="**** Albania Music & Islame ****",Folklorit TV AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 Popullore" tvg-logo="http://falcon.ac:5000/images/21popullore.png" group-title="**** Albania Music & Islame ****",AL: RTV21 Popullore
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV" tvg-logo="http://falcon.ac:5000/images/dasmatv.png" group-title="**** Albania Music & Islame ****",AL: Dasma TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zico TV ♫" tvg-logo="http://falcon.ac:5000/images/zico.png" group-title="**** Albania Music & Islame ****",AL: Zico TV ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4594.m3u8
+#EXTINF:-1 tvg-id="MFM-AL" tvg-name="MFM Musik AL" tvg-logo="http://falcon.ac:5000/images/mfm.png" group-title="**** Albania Music & Islame ****",MFM Musik AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TOP Estrada TV ♫" tvg-logo="http://falcon.ac:5000/images/topestrada.png" group-title="**** Albania Music & Islame ****",AL: TOP Estrada TV ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova AL" tvg-logo="http://falcon.ac:5000/images/mtv.png" group-title="**** Albania Music & Islame ****",MTV Kosova AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Popullore" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: RTV 21 Popullore
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/15556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: My Music ♫" tvg-logo="http://falcon.ac:5000/images/mymusic.png" group-title="**** Albania Music & Islame ****",AL: My Music ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/16023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EURO AL ♫" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: EURO AL ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shota TV AL" tvg-logo="" group-title="**** Albania Music & Islame ****",Shota TV AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/78803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ashk 1 FHD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Ashk 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/164492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ashk TV 2 FHD AL" tvg-logo="" group-title="**** Albania Music & Islame ****",Ashk TV 2 FHD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/164493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Roma TV AL" tvg-logo="" group-title="**** Albania Music & Islame ****",Roma TV AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/76158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Club TV" tvg-logo="http://falcon.ac:5000/images/clubtv.png" group-title="**** Albania Music & Islame ****",AL: Club TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/78800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teuta TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Teuta TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Islame Shefqet Krasniqi HD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: EB Islame Shefqet Krasniqi HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Islame Elvic Naci HD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: EB Islame Elvic Naci HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kurani Fisnik Arabisht-Shqip HD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: EB Kurani Fisnik Arabisht-Shqip HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kurani Fisnik Shqip HD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: EB Kurani Fisnik Shqip HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Islame Omeri r.a" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: EB Islame Omeri r.a
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/142220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova ilahi HD" tvg-logo="http://logo.protv.cc/picons/logos/TV-TETOVA-HD.jpg" group-title="**** Albania Music & Islame ****",AL: 8ova ilahi HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Islam HD" tvg-logo="https://i.imgur.com/JSD8D8g.png" group-title="**** Albania Music & Islame ****",AL: WebStar Islam HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË SADULLAH BAJRAMI" tvg-logo="https://i.imgur.com/ndBdaQh.png" group-title="**** Albania Music & Islame ****",AL: HS HOXHË SADULLAH BAJRAMI
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: LionTv Ilahi Gold FHD" tvg-logo="https://i.imgur.com/YApqddJ.png" group-title="**** Albania Music & Islame ****",AL: LionTv Ilahi Gold FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mekka LIVE TV HD" tvg-logo="http://1.bp.blogspot.com/-TgaU3pIsaMI/VcOOaVR6mKI/AAAAAAAAA9E/WcL_rfh4bMQ/s600/2015-08-06_213614.png" group-title="**** Albania Music & Islame ****",AL: Mekka LIVE TV HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Peace TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Peacetv_albanian_logo.png" group-title="**** Albania Music & Islame ****",AL: Peace TV HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Peace TV FHD" tvg-logo="https://i.imgur.com/ndBdaQh.png" group-title="**** Albania Music & Islame ****",AL: Peace TV FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Igman TV Islam HD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Igman TV Islam HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Islam" tvg-logo="http://logo.protv.cc/picons/logos/RTV-ISLAM.png" group-title="**** Albania Music & Islame ****",AL: RTV Islam
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ELSA TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: ELSA TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/20893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Panorama TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Panorama TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/28687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TROPOJA TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: TROPOJA TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/28693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL:  First Channel" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL:  First Channel
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring Family FHD AL" tvg-logo="http://drks.info:8080/images/e811eb83a48bbe8b2e2771412cf57c73.png" group-title="**** Albania Seriale ****",Tring Family FHD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rrokum TV" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Rrokum TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Vizion" tvg-logo="http://drks.info:8080/images/c0051c8f4b0923c2c4bf7037441d0a61.png" group-title="**** Albania Shqipëtare ****",AL: Syri Vizion
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Histori Shqiptare" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Histori Shqiptare
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Vushtrria HD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: TV Vushtrria HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery SHOWCSE HD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Discovery SHOWCSE HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: National Geographic HD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: National Geographic HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Liria SD" tvg-logo="http://drks.info:8080/images/b7811be25df3b5371f706de784114e8c.png" group-title="**** Albania Shqipëtare ****",AL: TV Liria SD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Koha Tetove" tvg-logo="http://drks.info:8080/images/174090be5ce21a8f1c9c2c8c1320a94b.png" group-title="**** Albania Shqipëtare ****",AL: TV Koha Tetove
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Drama HD" tvg-logo="" group-title="**** Albania Seriale ****",AL: Kanal D Drama HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC Seriale Turke" tvg-logo="http://drks.info:8080/images/8c90a3f978c816937fb9da7eb0f43852.png" group-title="**** Albania Seriale ****",AL: TDC Seriale Turke
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Turkish HD" tvg-logo="http://drks.info:8080/images/f5e1d9aed15634b4e41cf342e39283e5.png" group-title="**** Albania Seriale ****",AL: Tring Turkish HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL : DTV Media FHD" tvg-logo="http://drks.info:8080/images/0f07f3d7e96cbbc569a73903ae96895f.png" group-title="**** Albania Shqipëtare ****",AL : DTV Media FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/206629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Ashkali FHD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Dark Ashkali FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/152576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 1 ALBANIA" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: RTV 1 ALBANIA
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Elkalem RTV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Elkalem RTV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/136315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8ova islam HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Music & Islame ****",8ova islam HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/135728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mekke TV AL" tvg-logo="" group-title="**** Albania Music & Islame ****",Mekke TV AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/20894.m3u8
+#EXTINF:-1 tvg-id="Peace TV-AL" tvg-name="Peace TV AL" tvg-logo="http://falcon.ac:5000/images/peacetvshqip.png" group-title="**** Albania Music & Islame ****",Peace TV AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/29712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV Islam AL" tvg-logo="http://falcon.ac:5000/images/rtvislam.png" group-title="**** Albania Music & Islame ****",RTV Islam AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/29723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri ♫" tvg-logo="http://falcon.ac:5000/images/tvsharri.png" group-title="**** Albania Music & Islame ****",AL: TV Sharri ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/840.m3u8
+#EXTINF:-1 tvg-id="ALBUK TV" tvg-name="AL: ALBA UK HD" tvg-logo="http://falcon.ac:5000/images/albuktv.png" group-title="**** Albania Music & Islame ****",AL: ALBA UK HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/841.m3u8
+#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="AL: Tema TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Tema TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSonic TV ♫" tvg-logo="http://falcon.ac:5000/images/supersonic.png" group-title="**** Albania Music & Islame ****",AL: SuperSonic TV ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zjarr TV" tvg-logo="http://falcon.ac:5000/images/zjarr.png" group-title="**** Albania Music & Islame ****",AL: Zjarr TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV OPOJA" tvg-logo="http://falcon.ac:5000/images/opoja.png" group-title="**** Albania Music & Islame ****",AL: TV OPOJA
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: PEACE TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: PEACE TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ERA TV" tvg-logo="http://falcon.ac:5000/images/eratv.png" group-title="**** Albania Music & Islame ****",AL: ERA TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TIRANA TV" tvg-logo="http://falcon.ac:5000/images/tirana.png" group-title="**** Albania Music & Islame ****",AL: TIRANA TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/885.m3u8
+#EXTINF:-1 tvg-id="RTV 21 MK" tvg-name="AL: RTV 21 Maqedonia" tvg-logo="http://falcon.ac:5000/images/21mk.png" group-title="**** Albania Music & Islame ****",AL: RTV 21 Maqedonia
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Muse" tvg-logo="http://falcon.ac:5000/images/muse.png" group-title="**** Albania Music & Islame ****",AL: Tring Muse
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Apollon TV" tvg-logo="http://falcon.ac:5000/images/apollon.png" group-title="**** Albania Music & Islame ****",AL: Apollon TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Amol TV" tvg-logo="http://falcon.ac:5000/images/amol.png" group-title="**** Albania Music & Islame ****",AL: Amol TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Syri TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/940.m3u8
+#EXTINF:-1 tvg-id="RTV 21 PLUS-AL" tvg-name="AL: RTV21 Plus FHD ♫" tvg-logo="http://falcon.ac:5000/images/21plus.png" group-title="**** Albania Music & Islame ****",AL: RTV21 Plus FHD ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Mix AL" tvg-logo="http://falcon.ac:5000/images/21mix.png" group-title="**** Albania Music & Islame ****",RTV21 Mix AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/946.m3u8
+#EXTINF:-1 tvg-id="Fine Living" tvg-name="AL: Living HD" tvg-logo="http://falcon.ac:5000/images/living.png" group-title="**** Albania Music & Islame ****",AL: Living HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alb UK HD AL" tvg-logo="http://falcon.ac:5000/images/albuk.png" group-title="**** Albania Music & Islame ****",Alb UK HD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 SHQIPTARE AL" tvg-logo="" group-title="**** Albania Music & Islame ****",A1 SHQIPTARE AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Channel One HD ♫" tvg-logo="http://falcon.ac:5000/images/channelone.png" group-title="**** Albania Music & Islame ****",AL: Channel One HD ♫
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Turbo Channel TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Syri Blue FHD AL" tvg-logo="" group-title="**** Albania Music & Islame ****",Syri Blue FHD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: RTV Fontana
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Star Plus TV Shkodra" tvg-logo="http://falcon.ac:5000/images/starplus.png" group-title="**** Albania Music & Islame ****",AL: Star Plus TV Shkodra
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL:  TV 1 Shkoder" tvg-logo="" group-title="**** Albania Music & Islame ****",AL:  TV 1 Shkoder
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/7675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena HD AL" tvg-logo="http://falcon.ac:5000/images/antenahd.png" group-title="**** Albania Music & Islame ****",Antena HD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/11080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Albania Tv Chicago" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Albania Tv Chicago
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/11842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/syrivision.png" group-title="**** Albania Music & Islame ****",AL: Syri ᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/12242.m3u8
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="AL: Fashion TV HD" tvg-logo="http://falcon.ac:5000/images/fashiontv.png" group-title="**** Albania Music & Islame ****",AL: Fashion TV HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/12244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV Iliria HD AL" tvg-logo="http://falcon.ac:5000/images/liriatv.png" group-title="**** Albania Music & Islame ****",RTV Iliria HD AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/12251.m3u8
+#EXTINF:-1 tvg-id="Tring Kids" tvg-name="AL: TV Rozafa Shkoder" tvg-logo="http://falcon.ac:5000/images/tringkids.png" group-title="**** Albania Music & Islame ****",AL: TV Rozafa Shkoder
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/12771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Blue TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Sky Blue TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/13911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALb Music Tv HD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: ALb Music Tv HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/13915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rozafa TV" tvg-logo="http://falcon.ac:5000/images/rozafa.png" group-title="**** Albania Music & Islame ****",AL: Rozafa TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/13916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Aldi" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: RTV Aldi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/15312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adria AL" tvg-logo="" group-title="**** Albania Music & Islame ****",Adria AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/15560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: 24 KITCHEN" tvg-logo="http://falcon.ac:5000/images/24kitchen.png" group-title="**** Albania Music & Islame ****",AL: 24 KITCHEN
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/16663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV ILIRIDA" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: RTV ILIRIDA
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/16664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dielli TV" tvg-logo="http://falcon.ac:5000/images/dielli.png" group-title="**** Albania Music & Islame ****",AL: Dielli TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/20870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Ulqini" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: TV Ulqini
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Kopliku" tvg-logo="" group-title="**** Albania Music & Islame ****",TV Kopliku
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/25938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Albania Tv Chicago HD" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Albania Tv Chicago HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/29718.m3u8
+#EXTINF:-1 tvg-id="On-TV" tvg-name="ON TV AL" tvg-logo="http://falcon.ac:5000/images/ontv.png" group-title="**** Albania Music & Islame ****",ON TV AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/78806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: AlbDreams TV" tvg-logo="http://falcon.ac:5000/images/dreamworks.png" group-title="**** Albania Music & Islame ****",AL: AlbDreams TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/78810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Albanian TV Chicago" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: Albanian TV Chicago
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: USKANA TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: USKANA TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/94477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport" tvg-logo="" group-title="**** Albania Sport ****",AL: RTSH Sport
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/4649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1HD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/5351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 2
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 2 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/5352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport2FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 3
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 3 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/5353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport3FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 3 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 4
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 4 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/5354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport4FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 4 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 3 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport5FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 5 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 6 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/5876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 6 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 7 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Super Sport 7 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/75473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 1 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/228125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 1 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/187668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 2 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 2 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/228126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 2 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 2 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 3 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 3 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/228127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 3 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 3 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/38554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 4 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 4 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/228128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 4 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 4 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 5 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 5 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/228129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 5 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 5 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 6 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 6 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/228130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 6 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Art Sport 6 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/146534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport News" tvg-logo="http://falcon.ac:5000/images/tringsportnews.png" group-title="**** Albania Sport ****",AL: Tring Sport News
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/tringsport1.png" group-title="**** Albania Sport ****",AL: Tring Sport 1 FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Tring Sport 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 HD" tvg-logo="http://falcon.ac:5000/images/tringsport2.png" group-title="**** Albania Sport ****",AL: Tring Sport 2 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 HD" tvg-logo="http://falcon.ac:5000/images/tringsport3.png" group-title="**** Albania Sport ****",AL: Tring Sport 3 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 HD" tvg-logo="http://falcon.ac:5000/images/tringsport4.png" group-title="**** Albania Sport ****",AL: Tring Sport 4 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 5 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Tring Sport 5 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/229563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 6 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Tring Sport 6 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/229564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 7 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Tring Sport 7 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/229565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1" tvg-logo="" group-title="**** Albania Sport ****",AL: Kujtesa Sport 1
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/89291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Kujtesa Sport 1 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 2 AL" tvg-logo="" group-title="**** Albania Sport ****",K Sport 2 AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/3001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: Kujtesa Sport 3 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K  Sport 4 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: K  Sport 4 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/91085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: EuroSport 2 HD" tvg-logo="" group-title="**** Albania Sport ****",AL: EuroSport 2 HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/1136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motors TV AL" tvg-logo="http://falcon.ac:5000/images/motortv.png" group-title="**** Albania Sport ****",Motors TV AL
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Aziatika ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Aziatika ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Hindi ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Hindi ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Animacion ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Animacion ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Western ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Western ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 SCI-Fi ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 SCI-Fi ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Horror ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Horror ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Mister ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Mister ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Triller ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Triller ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Krim ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Krim ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Biografi ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Biografi ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Romance ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Romance ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Aventure ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Aventure ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Drame ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Drame ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Aksion ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Aksion ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Oscars ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Oscars ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Filma24 Family ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Filma24 Family ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Epic ⁴ᴷ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Epic ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Premier 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Premier 1 ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Premier 2 ⁴ᴷ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Premier 2 ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Premier 3 ⁴ᴷ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Premier 3 ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Premier 4 ⁴ᴷ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Premier 4 ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: K-Thriller ⁴ᴷ" tvg-logo="" group-title="**** Albania Film ****",AL: K-Thriller ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aksion ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Aksion ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Arnold Schwarzenegger ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Arnold Schwarzenegger ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aventure ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Aventure ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Bud Spencer & Terence Hill ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Bud Spencer & Terence Hill ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Dwayne Johnson ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Dwayne Johnson ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Epik ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Epik ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Fantasy ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Fantasy ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Femijë ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Femijë ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Horror ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Horror ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Jackie Chan ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Jackie Chan ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Komedi ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Komedi ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Relax 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Relax 1 ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Romance ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Romance ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Spider-Man ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Spider-Man ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Sylvester Stallone ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Sylvester Stallone ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Van Damme ᶠᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Netflix Van Damme ᶠᴴᴰ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS: Fast & Furious 24/7 ⁴ᴷ" tvg-logo="" group-title="**** Albania Film ****",AL: KS: Fast & Furious 24/7 ⁴ᴷ
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/214876.m3u8
+#EXTINF:-1 tvg-id="6a22d736-e4b9-41d1-8b61-848d8f8a5d88" tvg-name="AL: EB Animuar 1" tvg-logo="" group-title="**** Creative ****",AL: EB Animuar 1
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212315.m3u8
+#EXTINF:-1 tvg-id="7eca670c-80b5-4d62-bd90-cf64fb141396" tvg-name="AL: EB Animuar 2" tvg-logo="" group-title="**** Creative ****",AL: EB Animuar 2
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212316.m3u8
+#EXTINF:-1 tvg-id="d7ec4fb1-a7a8-40ec-a044-d421deb1a318" tvg-name="AL: EB Animuar 3" tvg-logo="" group-title="**** Creative ****",AL: EB Animuar 3
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212317.m3u8
+#EXTINF:-1 tvg-id="65a987bf-d49b-4ef5-a12a-948711c1d101" tvg-name="AL: EB Animuar 4" tvg-logo="" group-title="**** Creative ****",AL: EB Animuar 4
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212318.m3u8
+#EXTINF:-1 tvg-id="7bc6a3ff-ee51-4197-8677-73d8f2389d43" tvg-name="AL: EB Babybus" tvg-logo="" group-title="**** Creative ****",AL: EB Babybus
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212306.m3u8
+#EXTINF:-1 tvg-id="ed752500-86d4-4b1a-acad-909bc11d1abc" tvg-name="AL: EB Cocomelon" tvg-logo="" group-title="**** Creative ****",AL: EB Cocomelon
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212307.m3u8
+#EXTINF:-1 tvg-id="82b35e37-c21b-4e7e-b56d-bf675f5bd3ce" tvg-name="AL: EB Diana Show" tvg-logo="" group-title="**** Creative ****",AL: EB Diana Show
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212308.m3u8
+#EXTINF:-1 tvg-id="7e343b38-baec-4448-90be-19e311f282f9" tvg-name="AL: EB Elvis Naci" tvg-logo="" group-title="**** Creative ****",AL: EB Elvis Naci
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213162.m3u8
+#EXTINF:-1 tvg-id="b385fb6a-cac0-434c-ac42-5a14d18c1622" tvg-name="AL: EB Falcon Cinema Action" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Action
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212334.m3u8
+#EXTINF:-1 tvg-id="7cd6c7f5-c48d-4757-a056-a2cec7afe874" tvg-name="AL: EB Falcon Cinema Adventure" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Adventure
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212335.m3u8
+#EXTINF:-1 tvg-id="fc0be7be-c90b-4876-8641-1bbd62810599" tvg-name="AL: EB Falcon Cinema Comedy" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Comedy
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212336.m3u8
+#EXTINF:-1 tvg-id="7aeff8c5-7f99-4efb-842d-73af9b7142ec" tvg-name="AL: EB Falcon Cinema Gold 1" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Gold 1
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212338.m3u8
+#EXTINF:-1 tvg-id="52b8b63e-ba41-4d18-b8c4-e94d4c0adb1f" tvg-name="AL: EB Falcon Cinema Gold 2" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Gold 2
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212339.m3u8
+#EXTINF:-1 tvg-id="574d9eca-0505-4bda-9269-8f87c3c40ca1" tvg-name="AL: EB Falcon Cinema Horror 1" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Horror 1
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212340.m3u8
+#EXTINF:-1 tvg-id="70522fd6-22d1-446c-bdee-1dc754052542" tvg-name="AL: EB Falcon Cinema Horror 2" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Horror 2
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212341.m3u8
+#EXTINF:-1 tvg-id="69742bd5-c043-416d-a7b5-31a532e4f8e9" tvg-name="AL: EB Falcon Cinema Romance" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Romance
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212342.m3u8
+#EXTINF:-1 tvg-id="ab6601a2-e314-4efb-ab72-a48a80727f6b" tvg-name="AL: EB Falcon Cinema Sci Fi" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Sci Fi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212343.m3u8
+#EXTINF:-1 tvg-id="5ef2b48c-08e3-49e2-a5cf-f5f99e351076" tvg-name="AL: EB Falcon Cinema Thriller" tvg-logo="" group-title="**** Creative ****",AL: EB Falcon Cinema Thriller
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212344.m3u8
+#EXTINF:-1 tvg-id="ea804cfa-ab18-4e02-8be4-1f0aeb94d03d" tvg-name="AL: EB Fara e Flliqte" tvg-logo="" group-title="**** Creative ****",AL: EB Fara e Flliqte
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212349.m3u8
+#EXTINF:-1 tvg-id="801ab294-ee42-4469-abf2-ea4d1a7cb2df" tvg-name="AL: EB Festive 1" tvg-logo="" group-title="**** Creative ****",AL: EB Festive 1
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213154.m3u8
+#EXTINF:-1 tvg-id="bc6c51d8-c81a-4599-8b79-b08973097131" tvg-name="AL: EB Festive 2" tvg-logo="" group-title="**** Creative ****",AL: EB Festive 2
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213155.m3u8
+#EXTINF:-1 tvg-id="9a7e710a-db73-4424-bc89-2f0471a187f3" tvg-name="AL: EB Festive 3" tvg-logo="" group-title="**** Creative ****",AL: EB Festive 3
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213156.m3u8
+#EXTINF:-1 tvg-id="e8f32f9a-f1c7-449d-ab6d-7367f1ef56da" tvg-name="AL: EB Festive 4" tvg-logo="" group-title="**** Creative ****",AL: EB Festive 4
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213157.m3u8
+#EXTINF:-1 tvg-id="436358c6-f7a3-471c-87ac-dd93270386b9" tvg-name="AL: EB Festive 5" tvg-logo="" group-title="**** Creative ****",AL: EB Festive 5
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213158.m3u8
+#EXTINF:-1 tvg-id="56e92d52-35f1-40ed-b00c-6adacfcfe664" tvg-name="AL: EB Festive 6" tvg-logo="" group-title="**** Creative ****",AL: EB Festive 6
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213159.m3u8
+#EXTINF:-1 tvg-id="49bed963-4977-4319-9fcb-60e564eb3393" tvg-name="AL: EB Festive 7" tvg-logo="" group-title="**** Creative ****",AL: EB Festive 7
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213160.m3u8
+#EXTINF:-1 tvg-id="81180c9d-e712-4504-b6d9-759cd9f98138" tvg-name="AL: EB Festive 8" tvg-logo="" group-title="**** Creative ****",AL: EB Festive 8
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213161.m3u8
+#EXTINF:-1 tvg-id="33d425f5-889c-437b-8727-20bcc4cdebcd" tvg-name="AL: EB Fiks Fare" tvg-logo="" group-title="**** Creative ****",AL: EB Fiks Fare
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212362.m3u8
+#EXTINF:-1 tvg-id="a5ea03f2-c729-4fe9-9b2d-185363b28785" tvg-name="AL: EB Islame Kurani Shqip" tvg-logo="" group-title="**** Creative ****",AL: EB Islame Kurani Shqip
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213165.m3u8
+#EXTINF:-1 tvg-id="bb264c32-1695-4202-a068-4c5d967e5dc6" tvg-name="AL: EB Islame Kurani Shqip Arabisht" tvg-logo="" group-title="**** Creative ****",AL: EB Islame Kurani Shqip Arabisht
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213164.m3u8
+#EXTINF:-1 tvg-id="b352906e-5555-45b2-a51e-f54b5bb0eb13" tvg-name="AL: EB Islame Seriali Omeri" tvg-logo="" group-title="**** Creative ****",AL: EB Islame Seriali Omeri
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213163.m3u8
+#EXTINF:-1 tvg-id="75f82c21-b60b-4e28-bc1a-7f2faf8f8a4d" tvg-name="AL: EB Islame Shefqet Krasniqi" tvg-logo="" group-title="**** Creative ****",AL: EB Islame Shefqet Krasniqi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/213166.m3u8
+#EXTINF:-1 tvg-id="0264eb32-19ac-4ed8-8f83-dd4ef1c77c27" tvg-name="AL: EB Masha And the Bear" tvg-logo="" group-title="**** Creative ****",AL: EB Masha And the Bear
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212309.m3u8
+#EXTINF:-1 tvg-id="748b708a-9400-486d-9f6b-127eaf4b9358" tvg-name="AL: EB oddbbods" tvg-logo="" group-title="**** Creative ****",AL: EB oddbbods
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212310.m3u8
+#EXTINF:-1 tvg-id="ffdffe3d-82db-4879-9e71-f37812bcad74" tvg-name="AL: EB O sa mire" tvg-logo="" group-title="**** Creative ****",AL: EB O sa mire
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212360.m3u8
+#EXTINF:-1 tvg-id="bf16b84d-5024-4508-b27f-023d7cc5ae1c" tvg-name="AL: EB Perralla" tvg-logo="" group-title="**** Creative ****",AL: EB Perralla
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212311.m3u8
+#EXTINF:-1 tvg-id="c8c07e8d-e4d8-42da-a9a6-3191f3a62e79" tvg-name="AL: EB Pinkfong" tvg-logo="" group-title="**** Creative ****",AL: EB Pinkfong
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212312.m3u8
+#EXTINF:-1 tvg-id="230a46c9-cede-4da9-8a80-44be84d0d24c" tvg-name="AL: EB Portokalli" tvg-logo="" group-title="**** Creative ****",AL: EB Portokalli
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212351.m3u8
+#EXTINF:-1 tvg-id="71c8b2d9-43da-413d-bb13-0798de9edfec" tvg-name="AL: EB Qka ka Shpija" tvg-logo="" group-title="**** Creative ****",AL: EB Qka ka Shpija
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212352.m3u8
+#EXTINF:-1 tvg-id="888e0be4-97e3-4d07-91d5-270451ccad24" tvg-name="AL: EB Rrushe" tvg-logo="" group-title="**** Creative ****",AL: EB Rrushe
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212361.m3u8
+#EXTINF:-1 tvg-id="8bcd4cbb-feb6-4116-853b-77511b744df1" tvg-name="AL: EB Schengen Visa" tvg-logo="" group-title="**** Creative ****",AL: EB Schengen Visa
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212353.m3u8
+#EXTINF:-1 tvg-id="8d9d0b26-e5a4-42bc-8837-48429c0fe7c7" tvg-name="AL: EB Seriali Hot" tvg-logo="" group-title="**** Creative ****",AL: EB Seriali Hot
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212359.m3u8
+#EXTINF:-1 tvg-id="b9b0faf6-d687-42ec-87cf-86fdc87bd24b" tvg-name="AL: EB Serial Narcos" tvg-logo="" group-title="**** Creative ****",AL: EB Serial Narcos
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212363.m3u8
+#EXTINF:-1 tvg-id="8512747f-3b71-4e4f-9e99-6ab0bc681759" tvg-name="AL: EB SHPK Nazi" tvg-logo="" group-title="**** Creative ****",AL: EB SHPK Nazi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212354.m3u8
+#EXTINF:-1 tvg-id="8f115bf5-8d62-40c7-b5bb-99253196db88" tvg-name="AL: EB Stupcat Egjeli 1" tvg-logo="" group-title="**** Creative ****",AL: EB Stupcat Egjeli 1
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212356.m3u8
+#EXTINF:-1 tvg-id="095ff60a-eed2-43a6-9684-17794add3398" tvg-name="AL: EB Stupcat Egjeli 2" tvg-logo="" group-title="**** Creative ****",AL: EB Stupcat Egjeli 2
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212357.m3u8
+#EXTINF:-1 tvg-id="a4695abc-369a-457a-97e9-85006bcdc9b3" tvg-name="AL: EB Stupcat Egjeli 3" tvg-logo="" group-title="**** Creative ****",AL: EB Stupcat Egjeli 3
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212358.m3u8
+#EXTINF:-1 tvg-id="99b575aa-2eef-4f48-bb16-2464e895ae9c" tvg-name="Al: EB sumpersimplesongs" tvg-logo="" group-title="**** Creative ****",Al: EB sumpersimplesongs
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212313.m3u8
+#EXTINF:-1 tvg-id="50ee0fbe-f92a-48b7-8c7a-d701699df706" tvg-name="AL: EB Tom and Jerry" tvg-logo="" group-title="**** Creative ****",AL: EB Tom and Jerry
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212355.m3u8
+#EXTINF:-1 tvg-id="bccae6b0-659c-4fe5-9ea2-4dd1aeb48ecb" tvg-name="AL: EB Vlada Niki" tvg-logo="" group-title="**** Creative ****",AL: EB Vlada Niki
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212314.m3u8
+#EXTINF:-1 tvg-id="53f1685e-fb83-4c51-aa29-9a4054b869ca" tvg-name="AL: Falcon Cinema Drama" tvg-logo="" group-title="**** Creative ****",AL: Falcon Cinema Drama
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212337.m3u8
+#EXTINF:-1 tvg-id="5d66f30a-72f3-4a1d-b475-4dba3473076f" tvg-name="AL: Filma24 Aksion" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Aksion
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212320.m3u8
+#EXTINF:-1 tvg-id="1f72dd0d-ce64-4d73-9ea6-9a8da26556c1" tvg-name="AL: Filma24 Animuar" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Animuar
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212321.m3u8
+#EXTINF:-1 tvg-id="85c823c7-ac38-4fc7-bdda-a35e2e33e776" tvg-name="AL: Filma24 Aventure" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Aventure
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212322.m3u8
+#EXTINF:-1 tvg-id="f1de2670-a2b0-4789-90c0-1e58cdd20afa" tvg-name="AL: Filma24 Biografi" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Biografi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212323.m3u8
+#EXTINF:-1 tvg-id="1e42d6ee-bdc4-488d-a33d-0c14228929d8" tvg-name="AL: Filma24 Drame" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Drame
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212324.m3u8
+#EXTINF:-1 tvg-id="66da110a-fd46-4871-a193-82363ed42192" tvg-name="AL: Filma24 Familjar" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Familjar
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212325.m3u8
+#EXTINF:-1 tvg-id="fcf6427e-32b1-4b84-af03-9e1069b0b85a" tvg-name="AL: Filma24 Fantazi" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Fantazi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212326.m3u8
+#EXTINF:-1 tvg-id="0e708ec9-3f77-4b5d-9f44-7272145f27dc" tvg-name="AL: Filma24 Histori" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Histori
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212327.m3u8
+#EXTINF:-1 tvg-id="ba9e8ce2-2248-40a8-b99d-a6b481552fcd" tvg-name="AL: Filma24 Komedi" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Komedi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212328.m3u8
+#EXTINF:-1 tvg-id="63d2d3ff-ef27-4afb-a2f0-4c1a4b1b7f28" tvg-name="AL: Filma24 Krim" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Krim
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212329.m3u8
+#EXTINF:-1 tvg-id="7d5b2b3a-d628-4a86-92ec-e2682f77ffee" tvg-name="AL: Filma24 MIster" tvg-logo="" group-title="**** Creative ****",AL: Filma24 MIster
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212330.m3u8
+#EXTINF:-1 tvg-id="5c9bc1b7-795e-462d-8cf3-534638427391" tvg-name="AL: Filma24 Netflix" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Netflix
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212331.m3u8
+#EXTINF:-1 tvg-id="b997358d-0ff3-4cfd-af40-a4246ef2ba3e" tvg-name="AL: Filma24 Romance" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Romance
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212332.m3u8
+#EXTINF:-1 tvg-id="0fff3616-4135-4bd5-afa5-5f81ed06e0cb" tvg-name="AL: Filma24 Thriller" tvg-logo="" group-title="**** Creative ****",AL: Filma24 Thriller
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/212333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Scan TV" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Scan TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/215039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Pendimi" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: RTV Pendimi
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/226563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: FSHF TV" tvg-logo="" group-title="**** Albania Sport ****",AL: FSHF TV
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/229956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ Germany HD+ ▼★●•" tvg-logo="http://epg.streamstv.me/epg/guide-germany.png" group-title="**** Germany HD+ ****",•●★▼ Germany HD+ ▼★●•
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/62797.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE: Das Erste" tvg-logo="http://falcon.ac:5000/images/ger/daserstehd.png" group-title="**** Germany HD+ ****",DE: Das Erste
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/95104.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE: Das Erste HD" tvg-logo="http://falcon.ac:5000/images/ger/arddaserste.png" group-title="**** Germany HD+ ****",DE: Das Erste HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/134554.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE: Das Erste FHD" tvg-logo="http://falcon.ac:5000/images/ger/daserstehd.png" group-title="**** Germany HD+ ****",DE: Das Erste FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/2024.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-name="DE: ONE HD" tvg-logo="http://falcon.ac:5000/images/ger/one.png" group-title="**** Germany HD+ ****",DE: ONE HD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/11847.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-name="DE: One FHD" tvg-logo="http://falcon.ac:5000/images/ger/onehd.png" group-title="**** Germany HD+ ****",DE: One FHD
+http://euro.ckviptv.de:5000/live/yYz1sq9P/eTXJx1Zz/141225.m3u8
