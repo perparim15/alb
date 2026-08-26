@@ -1,13 +1,18 @@
 #EXTM3U
-TopChannelHD.al,AL: Top Channel HD,http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94011.m3u8
-KlanTVHD.al,AL: Klan TV HD,http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94012.m3u8
-ext,AL: Klan Plus,http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94057.m3u8
-ext,AL: RTK-1,http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94013.m3u8
-KTV.al,AL: KTV,http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94014.m3u8
-ext,AL: PRO1,http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94015.m3u8
-ext,AL: ATV,http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94016.m3u8
-FirstChannel.al,AL: First Channel,http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94017.m3u8
-http://4kx8k.xyz:2095/ydr33446/3ydr1402yy00/207160
+#EXTINF:-1,AL: Top Channel HD
+http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94011.m3u8
+#EXTINF:-1,AL: Klan TV HD
+http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94012.m3u8
+#EXTINF:-1,AL: Klan Plus
+http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94057.m3u8
+#EXTINF:-1,AL: RTK-1
+http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94013.m3u8
+#EXTINF:-1,AL: KTV
+http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94014.m3u8
+#EXTINF:-1,AL: PRO1
+http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94015.m3u8
+#EXTINF:-1,AL: ATV
+http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94016.m3u8
 #EXTINF:-1,AL: RTK 1 FHD
 http://4kx8k.xyz:2095/ydr33446/3ydr1402yy00/206960
 #EXTINF:-1,AL: RTK 1 ᴴᴰ
@@ -186,19 +191,35 @@ http://4kx8k.xyz:2095/ydr33446/3ydr1402yy00/127271
 http://4kx8k.xyz:2095/ydr33446/3ydr1402yy00/3229
 #EXTINF:-1,AL: EUROSPORT 2 ᴴᴰ
 http://4kx8k.xyz:2095/ydr33446/3ydr1402yy00/143663
-avi,Mutiny (2026),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/125477.mp4
-avi,Minions & Monsters (2026),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124952.mp4
-avi,The Death of Robin Hood (2026),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124951.mp4
-avi,Evil Dead Burn (2026),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124950.mp4
-avi,The Devil's Mouth (2026),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124946.mp4
-avi,Spades (2026),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124450.mp4
-avi,The Odyssey (2026) [High Quality Telesync],http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124429.mp4
-avi,Spider-Man: Brand New Day (2026) [High Quality Telesync),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124428.mp4
-avi,The Family Plan (2023),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/113960.mp4
-avi,Idiocracy (2006),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/113775.ts
-avi,Vacation (2015),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/112133.mkv
-avi,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/109201.mkv
-avi,After Ever Happy (2022),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/105115.mp4
-avi,After We Fell (2021),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/105114.mp4
-avi,After We Collided (2020),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/105113.mp4
-avi,After (2019),http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/105112.mp4
+#EXTINF:-1,Mutiny (2026)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/125477.mp4
+#EXTINF:-1,Minions & Monsters (2026)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124952.mp4
+#EXTINF:-1,The Death of Robin Hood (2026)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124951.mp4
+#EXTINF:-1,Evil Dead Burn (2026)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124950.mp4
+#EXTINF:-1,The Devil's Mouth (2026)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124946.mp4
+#EXTINF:-1,Spades (2026)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124450.mp4
+#EXTINF:-1,The Odyssey (2026) [High Quality Telesync]
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124429.mp4
+#EXTINF:-1,Spider-Man: Brand New Day (2026) [High Quality Telesync)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/124428.mp4
+#EXTINF:-1,The Family Plan (2023)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/113960.mp4
+#EXTINF:-1,Idiocracy (2006)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/113775.ts
+#EXTINF:-1,Vacation (2015)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/112133.mkv
+#EXTINF:-1,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/109201.mkv
+#EXTINF:-1,After Ever Happy (2022)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/105115.mp4
+#EXTINF:-1,After We Fell (2021)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/105114.mp4
+#EXTINF:-1,After We Collided (2020)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/105113.mp4
+#EXTINF:-1,After (2019)
+http://guma.live:8080/movie/Meritoni-deoni-dea/islamaj/105112.mp4
