@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,AL: Top Channel HD
-http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94011.m3u8
+https://kosovatv.live/api/hls.php?id=497&source=1
 #EXTINF:-1,AL: Klan TV HD
 http://guma.live:8080/live/Meritoni-deoni-dea/islamaj/94012.m3u8
 #EXTINF:-1,AL: Klan Plus
